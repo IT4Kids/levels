@@ -1,0 +1,33 @@
+name: Levels deploy
+
+on:
+  push:
+    branches:
+      - master
+
+jobs:
+  build-deploy:
+
+    runs-on: ubuntu-latest
+
+    steps:
+    - uses: actions/checkout@v2
+    - name: Upgrade levels
+      run: |
+        python upgrader.py
+    - name: Configure AWS Credentials
+      uses: aws-actions/configure-aws-credentials@v1
+      with:
+        aws-access-key-id: ${{ secrets.AWS_ACCESS_KEY_ID }}
+        aws-secret-access-key: ${{ secrets.AWS_SECRET_ACCESS_KEY }}
+        aws-region: eu-central-1
+
+    - name: Sync files
+      run: |
+        aws s3 sync --follow-symlinks --delete ./summary.json s3://levels.i4k/summary.json
+        aws s3 sync --follow-symlinks --delete ./Solutions s3://levels.i4k/Solutions
+        aws s3 sync --follow-symlinks --delete ./Templates s3://levels.i4k/Templates
+
+    - name: Invalidate Cloudfront
+      run: |
+        aws cloudfront create-invalidation --distribution-id ${{ secrets.AWS_CLOUDFRONT_ID }} --paths "/"
