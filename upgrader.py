@@ -1,3 +1,5 @@
+#!/usr/bin/python
+# -*- coding: utf-8 -*-
 import os
 import json
 
@@ -14,26 +16,26 @@ def upgradeFile(path):
         if (firstKey[:6] == 'CHKSUM'):
             level = level[firstKey]
             if (level['softwaredata']['version'] == latestVersion):
-                print('{:<9s}{:<25s}{:▬<13s}'.format(
+                print('{:<9s}{:<25s}{:0<13s}'.format(
                     'Level:', name, ''))
                 return
         else:
             if 'softwaredata' in level:
                 if (int(level['softwaredata']['version'].replace('.', '')) < 51):
                     print('{:<9s}{:<25s}{:<13s}'.format(
-                        'Level: ', name, '► old version'))
+                        'Level: ', name, '- old version'))
                     errors += 1
                     return
             else:
                 print('{:<9s}{:<25s}{:<13s}'.format(
-                    'Level: ', name, '► no version'))
+                    'Level: ', name, '- no version'))
                 errors += 1
                 return
         newLevel = upgradeLevel(level['softwaredata']['version'], level)
         f.seek(0)
         f.truncate()
         f.write(newLevel)
-    print('{:<9s}{:<25s}{:▓<13s}'.format(
+    print('{:<9s}{:<25s}{:1<13s}'.format(
         'Level:', name, ''))
 
 
