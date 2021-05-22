@@ -67,7 +67,8 @@
             }
 
             // load summary json
-            httpGet("https://raw.githubusercontent.com/IT4Kids/levels/master/summary.json", function(d) {
+            // httpGet("https://raw.githubusercontent.com/IT4Kids/levels/master/summary.json", function(d) {
+            httpGet("https://s3.eu-central-1.amazonaws.com/userlevels.i4k/summary.json", function(d) {
                document.getElementById("i-current_summary").value = d;
                 initializeSortable()
             });
@@ -98,25 +99,33 @@
                 }
                 var json = JSON.parse(value);
                 items.innerHTML = "";
-                for(var i = 0; i < json.length; i++) {
-                    var l = json[i];
-                    newLevelItemWithValues(l.title, l.rating, l.description, l.filename, l.solution_exists, l.template_exists);
+                for (var i = 0; i < json["de"].length; i++) {
+                    let tempInnerHTML = "";
+                    for(const lang of Object.keys(json)) {
+                        var l = json[lang][i];
+                        tempInnerHTML += createInnerHtml(lang, l.title, l.rating, l.description, l.filename, l.solution_exists, l.template_exists);
+                    }
+                    newLevelItemWithValues(tempInnerHTML);
                 }
             }
 
-            function newLevelItemWithValues(title, rating, description, filename, checked, checked2, prepend) {
-                var li = document.createElement("li");
-                li.id = "item-" + uniq++;
-                li.innerHTML =  "<row>" +
+            function createInnerHtml(lang, title, rating, description, filename, checked, checked2){
+                return "<row>" +
                     "<column><span class='handle'><svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\"><path d=\"M10 9h4V6h3l-5-5-5 5h3v3zm-1 1H6V7l-5 5 5 5v-3h3v-4zm14 2l-5-5v3h-3v4h3v3l5-5zm-9 3h-4v3H7l5 5 5-5h-3v-3z\"/><path d=\"M0 0h24v24H0z\" fill=\"none\"/></svg></span></column>" +
+                    "<column class='lang'><label>" + lang + "</label></column>" +
                     "<column><label>Title:</label> <input type='text' name='title' value='" + title + "'></column>" +
                     "<column><label>Rating:</label> <input type='number' name='rating' min='0' max='3' value='" + rating + "'></column>" +
                     "<column><label>Filename:</label> <input type='text' name='filename' value='" + filename + "'></column>" +
                     "<column><label>Solution:</label> <input type='checkbox' name='solution_exists'" + ((checked) ? " checked" : "") + "></column>" +
                     "<column><label>Template:</label> <input type='checkbox' name='template_exists'" + ((checked2) ? " checked" : "") + "></column>" +
-                    "<column><button class='delete' onclick='askToDelete(\"" + li.id + "\")'>Delete</button></column>" +
                     "</row>" +
                     "<label>Description:</label> <textarea name='description'>" + description + "</textarea>";
+            }
+
+            function newLevelItemWithValues(innerHTML, prepend) {
+                var li = document.createElement("li");
+                li.id = "item-" + uniq++;
+                li.innerHTML =  innerHTML + "<column><button class='delete' onclick='askToDelete(\"" + li.id + "\")'>Delete</button></column>";
                 var inputs = li.querySelectorAll("input, textarea");
                 for(var i = 0; i < inputs.length; i++) {
                     inputs[i].onkeyup = function() {
