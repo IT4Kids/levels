@@ -110,7 +110,7 @@
             }
 
             function createInnerHtml(lang, title, rating, description, filename, checked, checked2){
-                return "<row>" +
+                return "<div class=" + lang + ">" + "<row>" +
                     "<column><span class='handle'><svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\"><path d=\"M10 9h4V6h3l-5-5-5 5h3v3zm-1 1H6V7l-5 5 5 5v-3h3v-4zm14 2l-5-5v3h-3v4h3v3l5-5zm-9 3h-4v3H7l5 5 5-5h-3v-3z\"/><path d=\"M0 0h24v24H0z\" fill=\"none\"/></svg></span></column>" +
                     "<column class='lang'><label>" + lang + "</label></column>" +
                     "<column><label>Title:</label> <input type='text' name='title' value='" + title + "'></column>" +
@@ -119,7 +119,7 @@
                     "<column><label>Solution:</label> <input type='checkbox' name='solution_exists'" + ((checked) ? " checked" : "") + "></column>" +
                     "<column><label>Template:</label> <input type='checkbox' name='template_exists'" + ((checked2) ? " checked" : "") + "></column>" +
                     "</row>" +
-                    "<label>Description:</label> <textarea name='description'>" + description + "</textarea>";
+                    "<label>Description:</label> <textarea name='description'>" + description + "</textarea></div>";
             }
 
             function newLevelItemWithValues(innerHTML, prepend) {
@@ -146,16 +146,19 @@
 
             function generateJsonFromList() {
                 var items = document.getElementById("items").children,
-                    json = [];
+                    json = {"de": [], "en": [], "fr": [], "nl": []};
                 for(var i = 0; i < items.length; i++) {
-                    json.push({
-                        title: items[i].querySelector("[name='title']").value,
-                        rating: parseInt(items[i].querySelector("[name='rating']").value),
-                        description: items[i].querySelector("[name='description']").value,
-                        filename: items[i].querySelector("[name='filename']").value,
-                        solution_exists: (items[i].querySelector("[name='solution_exists']").checked),
-                        template_exists: (items[i].querySelector("[name='template_exists']").checked),
-                    })
+                    const divs = items[i].querySelectorAll("div");
+                    for(let j = 0; j < divs.length; j++){
+                        json[divs[j].className].push({
+                            title: divs[j].querySelector("[name='title']").value,
+                            rating: parseInt(divs[j].querySelector("[name='rating']").value),
+                            description: divs[j].querySelector("[name='description']").value,
+                            filename: divs[j].querySelector("[name='filename']").value,
+                            solution_exists: (divs[j].querySelector("[name='solution_exists']").checked),
+                            template_exists: (divs[j].querySelector("[name='template_exists']").checked),
+                        })
+                    }
                 }
                 document.getElementById("i-new_summary").value = JSON.stringify(json);
             }
