@@ -3,7 +3,7 @@
 import os
 import json
 
-latestVersion = '1.0.1'
+latestVersion = '1.3.0'
 errors = 0
 
 
@@ -80,6 +80,13 @@ def upgradeLevel(version, level):
                 'orientation': ws['sprite']['orientation'],
                 'visible': ws['sprite']['visible']
             }
+    if (version == '1.0.1'):
+        version = '1.3.0'
+        for ws in level['projectdata']['workspaces']:
+            ws['sprite']['mobileOnly'] = False
+            ws['sprite']['isInput'] = False
+            ws['sprite']['layer'] = 1
+            ws['sprite']['startConfiguration']['layer'] = -1
     level['softwaredata']['version'] = version
     data = json.dumps(level, separators=(',', ':'), ensure_ascii=False)
     hash = generateHash(data)
