@@ -73,7 +73,6 @@
 
             // load summary json
             // httpGet("https://raw.githubusercontent.com/IT4Kids/levels/master/summary.json", function(d) {
-            // httpGet("https://s3.eu-central-1.amazonaws.com/userlevels.i4k/summary.json", function(d) {
             httpGet("https://s3.eu-central-1.amazonaws.com/test.lea.i4k/summary3.json", function(d) {
                document.getElementById("i-current_summary").value = d;
                 initializeSortable()
@@ -206,7 +205,14 @@
             }
 
             function newLevelItem() {
-                newLevelItemWithValues("", "", "", "", "", true, true);
+                let emptyLangs = { 'title': {}, 'description': {}};
+                for(let lang of supportedLanguages){
+                    emptyLangs['title'][lang] = '';
+                    emptyLangs['description'][lang] = '';
+                }
+                console.log(emptyLangs);
+                let innerHTML = createInnerHtml(emptyLangs['title'], "", emptyLangs['description'], "", true);
+                newLevelItemWithValues(innerHTML, true);
             }
 
             function generateJsonFromList() {
