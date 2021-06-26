@@ -31,9 +31,10 @@
             <section id="step-1">
                 <h3>Bearbeite die Liste</h3>
                 <p>
-                    Du kannst nun, die Elemente an dem linken Symbol in der Liste neu sortieren, ein neues über den
+                    Du kannst nun die Elemente an dem linken Symbol in der Liste neu sortieren, ein neues über den
                     Button hinzufügen und Elemente entfernen.
                 </p>
+                <div id="dropdown"></div>
                 <button id="new-level" onclick="newLevelItem()">Level hinzufügen</button>
                 <ul id="items"></ul>
             </section>
@@ -52,6 +53,10 @@
         </main>
 
         <script>
+
+            let supportedLanguages = ['de', 'en', 'nl']
+            let currentLang = new Array(supportedLanguages.length).fill(false);
+            currentLang[0] = true;
             var items = document.getElementById("items"),
                 uniq = 0;
 
@@ -68,13 +73,15 @@
 
             // load summary json
             // httpGet("https://raw.githubusercontent.com/IT4Kids/levels/master/summary.json", function(d) {
-            httpGet("https://s3.eu-central-1.amazonaws.com/userlevels.i4k/summary.json", function(d) {
+            // httpGet("https://s3.eu-central-1.amazonaws.com/userlevels.i4k/summary.json", function(d) {
+            httpGet("https://s3.eu-central-1.amazonaws.com/test.lea.i4k/summary3.json", function(d) {
                document.getElementById("i-current_summary").value = d;
                 initializeSortable()
             });
 
             function initializeSortable() {
                 generateListFromJson();
+                generateDropdown();
                 generateJsonFromList();
             }
 
@@ -91,6 +98,38 @@
                 })
             }
 
+            function generateDropdown() {
+                let dropdown = document.createElement('select');
+                for (let lang in supportedLanguages){
+                    let option = document.createElement('option');
+                    option.text = supportedLanguages[lang];
+                    dropdown.add(option);
+                }
+                dropdown.addEventListener('change', function (event) {
+                    console.log(event.target.value);
+                    toggleShow(supportedLanguages.indexOf(event.target.value));
+                })
+                document.getElementById('dropdown').append(dropdown);
+
+            }
+
+            function toggleShow(index){
+                console.log('in toggle show!' + index)
+                if (currentLang[index] === true){
+                    return;
+                }
+                let indexOfCurrentLang = currentLang.indexOf(true);
+                for (let el of document.querySelectorAll('.' + supportedLanguages[indexOfCurrentLang])){
+                    el.style.display = 'none';
+                }
+                currentLang[indexOfCurrentLang] = false;
+
+                currentLang[index] = true;
+                for (let el of document.querySelectorAll('.' + supportedLanguages[index])){
+                    el.style.display = 'block';
+                }
+            }
+
             function generateListFromJson() {
                 var value = document.getElementById("i-current_summary").value;
                 if(value === "") {
@@ -99,27 +138,53 @@
                 }
                 var json = JSON.parse(value);
                 items.innerHTML = "";
-                for (var i = 0; i < json["de"].length; i++) {
-                    let tempInnerHTML = "";
-                    for(const lang of Object.keys(json)) {
-                        var l = json[lang][i];
-                        tempInnerHTML += createInnerHtml(lang, l.title, l.rating, l.description, l.filename, l.solution_exists, l.template_exists);
-                    }
+                for (var i = 0; i < json.length; i++) {
+                    let l = json[i];
+                    let tempInnerHTML = createInnerHtml(l.title, l.rating, l.description, l.filename, l.solution_exists, l.template_exists);
                     newLevelItemWithValues(tempInnerHTML);
+                }
+                for (let el of document.querySelectorAll('.' + supportedLanguages[0])){
+                    el.style.display = 'block';
                 }
             }
 
-            function createInnerHtml(lang, title, rating, description, filename, checked, checked2){
-                return "<div class=" + lang + ">" + "<row>" +
-                    "<column><span class='handle'><svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\"><path d=\"M10 9h4V6h3l-5-5-5 5h3v3zm-1 1H6V7l-5 5 5 5v-3h3v-4zm14 2l-5-5v3h-3v4h3v3l5-5zm-9 3h-4v3H7l5 5 5-5h-3v-3z\"/><path d=\"M0 0h24v24H0z\" fill=\"none\"/></svg></span></column>" +
-                    "<column class='lang'><label>" + lang + "</label></column>" +
-                    "<column><label>Title:</label> <input type='text' name='title' value='" + title + "'></column>" +
+            function createInnerHtml(title, rating, description, filename, checked, checked2){
+                let innerHTML = "<row><column><span class='handle'><svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\"><path d=\"M10 9h4V6h3l-5-5-5 5h3v3zm-1 1H6V7l-5 5 5 5v-3h3v-4zm14 2l-5-5v3h-3v4h3v3l5-5zm-9 3h-4v3H7l5 5 5-5h-3v-3z\"/><path d=\"M0 0h24v24H0z\" fill=\"none\"/></svg></span></column>";
+                for(lang of supportedLanguages){
+                    if(lang === supportedLanguages[0]){
+                        innerHTML += "<column  class='" + lang + "' style='display: block'><label>" + lang + "</label></column>";
+                    }
+                    else{
+                        innerHTML += "<column  class='" + lang + "' style='display: none'><label>" + lang + "</label></column>";
+                    }
+                }
+                innerHTML += "<column><label>Title:</label>";
+                for(lang of supportedLanguages){
+                    if(lang === supportedLanguages[0]){
+                        innerHTML += "<input type='text' name='title' style='display: block' value='" + title[lang] + "' class='" + lang + "'>";
+                    }
+                    else{
+                        innerHTML += "<input type='text' name='title' style='display: none' value='" + title[lang] + "' class='" + lang + "'>";
+                    }
+                }
+                innerHTML += "</column>" +
                     "<column><label>Rating:</label> <input type='number' name='rating' min='0' max='3' value='" + rating + "'></column>" +
                     "<column><label>Filename:</label> <input type='text' name='filename' value='" + filename + "'></column>" +
                     "<column><label>Solution:</label> <input type='checkbox' name='solution_exists'" + ((checked) ? " checked" : "") + "></column>" +
                     "<column><label>Template:</label> <input type='checkbox' name='template_exists'" + ((checked2) ? " checked" : "") + "></column>" +
                     "</row>" +
-                    "<label>Description:</label> <textarea name='description'>" + description + "</textarea></div>";
+                    "<label>Description:</label>";
+                for(let lang of supportedLanguages){
+                    if(lang === supportedLanguages[0]) {
+                        innerHTML += "<textarea name='description' class='" + lang + "' style='display: block'>" + description[lang] + "</textarea>";
+                    }
+                    else {
+                        innerHTML += "<textarea name='description' class='" + lang + "' style='display: none'>" + description[lang] + "</textarea>";
+                    }
+
+                }
+                innerHTML += "</row>";
+                return innerHTML;
             }
 
             function newLevelItemWithValues(innerHTML, prepend) {
@@ -145,21 +210,24 @@
             }
 
             function generateJsonFromList() {
-                var items = document.getElementById("items").children,
-                    json = {"de": [], "en": [], "fr": [], "nl": []};
+                var items = document.getElementById("items").children;
+                    // json = Object.assign({}, ...supportedLanguages.map((x) => ({[x]: []}))); // make dict from array
+                let json = [];
                 for(var i = 0; i < items.length; i++) {
-                    const divs = items[i].querySelectorAll("div");
-                    for(let j = 0; j < divs.length; j++){
-                        json[divs[j].className].push({
-                            title: divs[j].querySelector("[name='title']").value,
-                            rating: parseInt(divs[j].querySelector("[name='rating']").value),
-                            description: divs[j].querySelector("[name='description']").value,
-                            filename: divs[j].querySelector("[name='filename']").value,
-                            solution_exists: (divs[j].querySelector("[name='solution_exists']").checked),
-                            template_exists: (divs[j].querySelector("[name='template_exists']").checked),
-                        })
+                    json.push({
+                        title: {},
+                        rating: parseInt(items[i].querySelector("[name='rating']").value),
+                        description: {},
+                        filename: items[i].querySelector("[name='filename']").value,
+                        solution_exists: (items[i].querySelector("[name='solution_exists']").checked),
+                        template_exists: (items[i].querySelector("[name='template_exists']").checked)
+                    });
+                    for(let l of supportedLanguages){
+                        json[i].title[l] = items[i].querySelector("." + l + "[name='title']").value;
+                        json[i].description[l] = items[i].querySelector("." + l + "[name='description']").value;
                     }
                 }
+                console.log(JSON.stringify(json));
                 document.getElementById("i-new_summary").value = JSON.stringify(json);
             }
 
