@@ -105,7 +105,6 @@
                     dropdown.add(option);
                 }
                 dropdown.addEventListener('change', function (event) {
-                    console.log(event.target.value);
                     toggleShow(supportedLanguages.indexOf(event.target.value));
                 })
                 document.getElementById('dropdown').append(dropdown);
@@ -113,7 +112,6 @@
             }
 
             function toggleShow(index){
-                console.log('in toggle show!' + index)
                 if (currentLang[index] === true){
                     return;
                 }
@@ -210,7 +208,6 @@
                     emptyLangs['title'][lang] = '';
                     emptyLangs['description'][lang] = '';
                 }
-                console.log(emptyLangs);
                 let innerHTML = createInnerHtml(emptyLangs['title'], "", emptyLangs['description'], "", true);
                 newLevelItemWithValues(innerHTML, true);
             }
@@ -233,7 +230,6 @@
                         json[i].description[l] = items[i].querySelector("." + l + "[name='description']").value;
                     }
                 }
-                console.log(JSON.stringify(json));
                 document.getElementById("i-new_summary").value = JSON.stringify(json);
             }
 
