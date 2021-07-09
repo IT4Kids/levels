@@ -72,8 +72,7 @@
             }
 
             // load summary json
-            // httpGet("https://raw.githubusercontent.com/IT4Kids/levels/master/summary.json", function(d) {
-            httpGet("https://s3.eu-central-1.amazonaws.com/test.lea.i4k/summary3.json", function(d) {
+            httpGet("https://raw.githubusercontent.com/IT4Kids/levels/master/summary.json", function(d) {
                document.getElementById("i-current_summary").value = d;
                 initializeSortable()
             });
