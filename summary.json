@@ -1,1 +1,398 @@
-[{"title":"Bauernhof","rating":1,"description":"Führe die Kuh zurück in ihren gemütlichen Stall.","filename":"Bauernhof.cubi","solution_exists":true,"template_exists":true},{"title":"Auf und los","rating":1,"description":"Die Maus beginnt ihre Reise. Hilf ihr zum Schlüssel zu kommen.","filename":"Auf_Und_Los.cubi","solution_exists":false,"template_exists":true},{"title":"Um die Ecke","rating":1,"description":"Die Maus möchte um die Ecke zum Schlüssel. Hilf ihr!","filename":"Um_Die_Ecke.cubi","solution_exists":false,"template_exists":true},{"title":"Maus zum Käse","rating":1,"description":"Programmiere die Maus so, dass sie über die Brücke zum Käse läuft und dabei nicht ins Wasser fällt.","filename":"Maus_Zum_Kaese.cubi","solution_exists":true,"template_exists":true},{"title":"Labyrinth","rating":1,"description":"Programmiere die Maus so, dass sie durch das Labyrinth den Weg zuerst zum Schlüssel und dann zum Tor findet.","filename":"Labyrinth.cubi","solution_exists":true,"template_exists":true},{"title":"Codedetektiv 1","rating":1,"description":"Finde die zwei Fehler aus dem Projekt Labyrinth und lerne dabei etwas über die Fehlersuche.","filename":"Codedetektiv_1.cubi","solution_exists":false,"template_exists":true},{"title":"Weltraumreise","rating":1,"description":"Teleportiere dich zu weit entfernten Planeten.","filename":"Weltraumreise.cubi","solution_exists":true,"template_exists":true},{"title":"Reaktionstest","rating":1,"description":"Kreiere einen eigenen Reaktionstest - Drücke so schnell es geht die a-Taste sobald der Hintergrund sich ändert!","filename":"Reaktionstest.cubi","solution_exists":true,"template_exists":true},{"title":"Farben","rating":1,"description":"Bewege die Biene auf der bunten Blumenwiese und lass sie dir sagen, welche Farbe sie gerade fühlt.","filename":"Farben.cubi","solution_exists":true,"template_exists":true},{"title":"Zeichnen","rating":1,"description":"Bewege die Biene auf der Blumenwiese hin und her. Bei jeder Farbe wird sie eine andere Figur zeichnen.","filename":"Zeichnen.cubi","solution_exists":true,"template_exists":true},{"title":"Aquarium","rating":2,"description":"Erstelle ein buntes Aquarium, in dem verschiedene Fische schwimmen. Steuere dich durch das Aquarium. Aber Achtung, dass du nicht gefährlichen Meeresbewohnern begegnest!","filename":"Aquarium.cubi","solution_exists":true,"template_exists":true},{"title":"Codedetektiv 2","rating":2,"description":"Bist du ein echter Codedetektiv und findest alle Fehler, die sich im Projekt Aquarium versteckt haben?","filename":"Codedetektiv_2.cubi","solution_exists":false,"template_exists":true},{"title":"Wettrennen","rating":2,"description":"Zwei Figuren laufen gesteuert durch schnelle Tastendrücke um die Wette. Sehr gut zum Einstieg in die Spieleentwicklung.","filename":"Wettrennen.cubi","solution_exists":true,"template_exists":true},{"title":"Buchstaben","rating":2,"description":"Programmiere jeden Buchstaben eines Worts (z.B. \"Scratch\") so, dass dieser aus einer gewählten Ecke zu seiner richtigen Position im Wort gleitet.","filename":"Buchstaben.cubi","solution_exists":true,"template_exists":true},{"title":"Bananenzauber","rating":2,"description":"Der Zauberer zaubert bei Anklicken Bananen herbei. Dieses Projekt bietet eine Möglichkeit Zufall und Botschaften (in diesem Fall als \"Zauber\") anschaulich zu machen.","filename":"Bananenzauber.cubi","solution_exists":true,"template_exists":true},{"title":"Autorennen","rating":3,"description":"Programmiere ein Auto und lass es über die Rennstrecke flitzen.","filename":"Autorennen.cubi","solution_exists":true,"template_exists":true},{"title":"Codedetektiv 3","rating":3,"description":"Finde die beiden Fehler aus dem Projekt Autorennen und werde zum Fehlersuch-Experten.","filename":"Codedetektiv_3.cubi","solution_exists":false,"template_exists":true},{"title":"Helikopter","rating":3,"description":"Weiche mit dem Helikopter einem Ansturm von Flugzeugen aus. Der Helikopter kann mit den Pfeiltasten in alle Richtungen auf dem ganzen Spielfeld bewegt werden.","filename":"Helikopter.cubi","solution_exists":true,"template_exists":true},{"title":"Trampolin","rating":3,"description":"Lasse den Pinguin auf dem Trampolin immer höher und höher in den Himmel springen. Kannst du ihm sogar einen Looping beibringen?","filename":"Trampolin.cubi","solution_exists":true,"template_exists":true},{"title":"Quizmaster","rating":3,"description":"Bist du ein Quizmaster? Stelle deine Fähigkeiten bei diesem Spiel unter Beweis und lasse deine Mitschüler die richtige Antwort herausfinden!","filename":"Quizmaster.cubi","solution_exists":true,"template_exists":true},{"title":"Abschlusstest","rating":3,"description":"Du hast Pflanzendienst, Tafeldienst und Ordnungsdienst. Gieße die Pflanzen im Klassenzimmer, wisch die Tafel und beseitige das Chaos im Klassenzimmer, damit du schnell nach Hause gehen kannst.","filename":"Abschlusstest.cubi","solution_exists":true,"template_exists":true},{"title":"Standard","rating":0,"description":"Ein leeres Projekt zum Starten.","filename":"Standard.cubi","solution_exists":false,"template_exists":true}]
+[
+  {
+    "rating": 1,
+    "filename": "Bauernhof.cubi",
+    "solution_exists": true,
+    "template_exists": true,
+    "title": {
+      "de": "Bauernhof",
+      "en": "Bauernhof",
+      "nl": "Bauernhof",
+      "fr": "Bauernhof"
+    },
+    "description": {
+      "de": "F\u00fchre die Kuh zur\u00fcck in ihren gem\u00fctlichen Stall.",
+      "en": "F\u00fchre die Kuh zur\u00fcck in ihren gem\u00fctlichen Stall.",
+      "nl": "F\u00fchre die Kuh zur\u00fcck in ihren gem\u00fctlichen Stall.",
+      "fr": "F\u00fchre die Kuh zur\u00fcck in ihren gem\u00fctlichen Stall."
+    }
+  },
+  {
+    "rating": 1,
+    "filename": "Auf_Und_Los.cubi",
+    "solution_exists": false,
+    "template_exists": true,
+    "title": {
+      "de": "Auf und los",
+      "en": "Auf und los",
+      "nl": "Auf und los",
+      "fr": "Auf und los"
+    },
+    "description": {
+      "de": "Die Maus beginnt ihre Reise. Hilf ihr zum Schl\u00fcssel zu kommen.",
+      "en": "Die Maus beginnt ihre Reise. Hilf ihr zum Schl\u00fcssel zu kommen.",
+      "nl": "Die Maus beginnt ihre Reise. Hilf ihr zum Schl\u00fcssel zu kommen.",
+      "fr": "Die Maus beginnt ihre Reise. Hilf ihr zum Schl\u00fcssel zu kommen."
+    }
+  },
+  {
+    "rating": 1,
+    "filename": "Um_Die_Ecke.cubi",
+    "solution_exists": false,
+    "template_exists": true,
+    "title": {
+      "de": "Um die Ecke",
+      "en": "Um die Ecke",
+      "nl": "Um die Ecke",
+      "fr": "Um die Ecke"
+    },
+    "description": {
+      "de": "Die Maus m\u00f6chte um die Ecke zum Schl\u00fcssel. Hilf ihr!",
+      "en": "Die Maus m\u00f6chte um die Ecke zum Schl\u00fcssel. Hilf ihr!",
+      "nl": "Die Maus m\u00f6chte um die Ecke zum Schl\u00fcssel. Hilf ihr!",
+      "fr": "Die Maus m\u00f6chte um die Ecke zum Schl\u00fcssel. Hilf ihr!"
+    }
+  },
+  {
+    "rating": 1,
+    "filename": "Maus_Zum_Kaese.cubi",
+    "solution_exists": true,
+    "template_exists": true,
+    "title": {
+      "de": "Maus zum K\u00e4se",
+      "en": "Maus zum K\u00e4se",
+      "nl": "Maus zum K\u00e4se",
+      "fr": "Maus zum K\u00e4se"
+    },
+    "description": {
+      "de": "Programmiere die Maus so, dass sie \u00fcber die Br\u00fccke zum K\u00e4se l\u00e4uft und dabei nicht ins Wasser f\u00e4llt.",
+      "en": "Programmiere die Maus so, dass sie \u00fcber die Br\u00fccke zum K\u00e4se l\u00e4uft und dabei nicht ins Wasser f\u00e4llt.",
+      "nl": "Programmiere die Maus so, dass sie \u00fcber die Br\u00fccke zum K\u00e4se l\u00e4uft und dabei nicht ins Wasser f\u00e4llt.",
+      "fr": "Programmiere die Maus so, dass sie \u00fcber die Br\u00fccke zum K\u00e4se l\u00e4uft und dabei nicht ins Wasser f\u00e4llt."
+    }
+  },
+  {
+    "rating": 1,
+    "filename": "Labyrinth.cubi",
+    "solution_exists": true,
+    "template_exists": true,
+    "title": {
+      "de": "Labyrinth",
+      "en": "Labyrinth",
+      "nl": "Labyrinth",
+      "fr": "Labyrinth"
+    },
+    "description": {
+      "de": "Programmiere die Maus so, dass sie durch das Labyrinth den Weg zuerst zum Schl\u00fcssel und dann zum Tor findet.",
+      "en": "Programmiere die Maus so, dass sie durch das Labyrinth den Weg zuerst zum Schl\u00fcssel und dann zum Tor findet.",
+      "nl": "Programmiere die Maus so, dass sie durch das Labyrinth den Weg zuerst zum Schl\u00fcssel und dann zum Tor findet.",
+      "fr": "Programmiere die Maus so, dass sie durch das Labyrinth den Weg zuerst zum Schl\u00fcssel und dann zum Tor findet."
+    }
+  },
+  {
+    "rating": 1,
+    "filename": "Codedetektiv_1.cubi",
+    "solution_exists": false,
+    "template_exists": true,
+    "title": {
+      "de": "Codedetektiv 1",
+      "en": "Codedetektiv 1",
+      "nl": "Codedetektiv 1",
+      "fr": "Codedetektiv 1"
+    },
+    "description": {
+      "de": "Finde die zwei Fehler aus dem Projekt Labyrinth und lerne dabei etwas \u00fcber die Fehlersuche.",
+      "en": "Finde die zwei Fehler aus dem Projekt Labyrinth und lerne dabei etwas \u00fcber die Fehlersuche.",
+      "nl": "Finde die zwei Fehler aus dem Projekt Labyrinth und lerne dabei etwas \u00fcber die Fehlersuche.",
+      "fr": "Finde die zwei Fehler aus dem Projekt Labyrinth und lerne dabei etwas \u00fcber die Fehlersuche."
+    }
+  },
+  {
+    "rating": 1,
+    "filename": "Weltraumreise.cubi",
+    "solution_exists": true,
+    "template_exists": true,
+    "title": {
+      "de": "Weltraumreise",
+      "en": "Weltraumreise",
+      "nl": "Weltraumreise",
+      "fr": "Weltraumreise"
+    },
+    "description": {
+      "de": "Teleportiere dich zu weit entfernten Planeten.",
+      "en": "Teleportiere dich zu weit entfernten Planeten.",
+      "nl": "Teleportiere dich zu weit entfernten Planeten.",
+      "fr": "Teleportiere dich zu weit entfernten Planeten."
+    }
+  },
+  {
+    "rating": 1,
+    "filename": "Reaktionstest.cubi",
+    "solution_exists": true,
+    "template_exists": true,
+    "title": {
+      "de": "Reaktionstest",
+      "en": "Reaktionstest",
+      "nl": "Reaktionstest",
+      "fr": "Reaktionstest"
+    },
+    "description": {
+      "de": "Kreiere einen eigenen Reaktionstest - Dr\u00fccke so schnell es geht die a-Taste sobald der Hintergrund sich \u00e4ndert!",
+      "en": "Kreiere einen eigenen Reaktionstest - Dr\u00fccke so schnell es geht die a-Taste sobald der Hintergrund sich \u00e4ndert!",
+      "nl": "Kreiere einen eigenen Reaktionstest - Dr\u00fccke so schnell es geht die a-Taste sobald der Hintergrund sich \u00e4ndert!",
+      "fr": "Kreiere einen eigenen Reaktionstest - Dr\u00fccke so schnell es geht die a-Taste sobald der Hintergrund sich \u00e4ndert!"
+    }
+  },
+  {
+    "rating": 1,
+    "filename": "Farben.cubi",
+    "solution_exists": true,
+    "template_exists": true,
+    "title": {
+      "de": "Farben",
+      "en": "Farben",
+      "nl": "Farben",
+      "fr": "Farben"
+    },
+    "description": {
+      "de": "Bewege die Biene auf der bunten Blumenwiese und lass sie dir sagen, welche Farbe sie gerade f\u00fchlt.",
+      "en": "Bewege die Biene auf der bunten Blumenwiese und lass sie dir sagen, welche Farbe sie gerade f\u00fchlt.",
+      "nl": "Bewege die Biene auf der bunten Blumenwiese und lass sie dir sagen, welche Farbe sie gerade f\u00fchlt.",
+      "fr": "Bewege die Biene auf der bunten Blumenwiese und lass sie dir sagen, welche Farbe sie gerade f\u00fchlt."
+    }
+  },
+  {
+    "rating": 1,
+    "filename": "Zeichnen.cubi",
+    "solution_exists": true,
+    "template_exists": true,
+    "title": {
+      "de": "Zeichnen",
+      "en": "Zeichnen",
+      "nl": "Zeichnen",
+      "fr": "Zeichnen"
+    },
+    "description": {
+      "de": "Bewege die Biene auf der Blumenwiese hin und her. Bei jeder Farbe wird sie eine andere Figur zeichnen.",
+      "en": "Bewege die Biene auf der Blumenwiese hin und her. Bei jeder Farbe wird sie eine andere Figur zeichnen.",
+      "nl": "Bewege die Biene auf der Blumenwiese hin und her. Bei jeder Farbe wird sie eine andere Figur zeichnen.",
+      "fr": "Bewege die Biene auf der Blumenwiese hin und her. Bei jeder Farbe wird sie eine andere Figur zeichnen."
+    }
+  },
+  {
+    "rating": 2,
+    "filename": "Aquarium.cubi",
+    "solution_exists": true,
+    "template_exists": true,
+    "title": {
+      "de": "Aquarium",
+      "en": "Aquarium",
+      "nl": "Aquarium",
+      "fr": "Aquarium"
+    },
+    "description": {
+      "de": "Erstelle ein buntes Aquarium, in dem verschiedene Fische schwimmen. Steuere dich durch das Aquarium. Aber Achtung, dass du nicht gef\u00e4hrlichen Meeresbewohnern begegnest!",
+      "en": "Erstelle ein buntes Aquarium, in dem verschiedene Fische schwimmen. Steuere dich durch das Aquarium. Aber Achtung, dass du nicht gef\u00e4hrlichen Meeresbewohnern begegnest!",
+      "nl": "Erstelle ein buntes Aquarium, in dem verschiedene Fische schwimmen. Steuere dich durch das Aquarium. Aber Achtung, dass du nicht gef\u00e4hrlichen Meeresbewohnern begegnest!",
+      "fr": "Erstelle ein buntes Aquarium, in dem verschiedene Fische schwimmen. Steuere dich durch das Aquarium. Aber Achtung, dass du nicht gef\u00e4hrlichen Meeresbewohnern begegnest!"
+    }
+  },
+  {
+    "rating": 2,
+    "filename": "Codedetektiv_2.cubi",
+    "solution_exists": false,
+    "template_exists": true,
+    "title": {
+      "de": "Codedetektiv 2",
+      "en": "Codedetektiv 2",
+      "nl": "Codedetektiv 2",
+      "fr": "Codedetektiv 2"
+    },
+    "description": {
+      "de": "Bist du ein echter Codedetektiv und findest alle Fehler, die sich im Projekt Aquarium versteckt haben?",
+      "en": "Bist du ein echter Codedetektiv und findest alle Fehler, die sich im Projekt Aquarium versteckt haben?",
+      "nl": "Bist du ein echter Codedetektiv und findest alle Fehler, die sich im Projekt Aquarium versteckt haben?",
+      "fr": "Bist du ein echter Codedetektiv und findest alle Fehler, die sich im Projekt Aquarium versteckt haben?"
+    }
+  },
+  {
+    "rating": 2,
+    "filename": "Wettrennen.cubi",
+    "solution_exists": true,
+    "template_exists": true,
+    "title": {
+      "de": "Wettrennen",
+      "en": "Wettrennen",
+      "nl": "Wettrennen",
+      "fr": "Wettrennen"
+    },
+    "description": {
+      "de": "Zwei Figuren laufen gesteuert durch schnelle Tastendr\u00fccke um die Wette. Sehr gut zum Einstieg in die Spieleentwicklung.",
+      "en": "Zwei Figuren laufen gesteuert durch schnelle Tastendr\u00fccke um die Wette. Sehr gut zum Einstieg in die Spieleentwicklung.",
+      "nl": "Zwei Figuren laufen gesteuert durch schnelle Tastendr\u00fccke um die Wette. Sehr gut zum Einstieg in die Spieleentwicklung.",
+      "fr": "Zwei Figuren laufen gesteuert durch schnelle Tastendr\u00fccke um die Wette. Sehr gut zum Einstieg in die Spieleentwicklung."
+    }
+  },
+  {
+    "rating": 2,
+    "filename": "Buchstaben.cubi",
+    "solution_exists": true,
+    "template_exists": true,
+    "title": {
+      "de": "Buchstaben",
+      "en": "Buchstaben",
+      "nl": "Buchstaben",
+      "fr": "Buchstaben"
+    },
+    "description": {
+      "de": "Programmiere jeden Buchstaben eines Worts (z.B. \"Scratch\") so, dass dieser aus einer gew\u00e4hlten Ecke zu seiner richtigen Position im Wort gleitet.",
+      "en": "Programmiere jeden Buchstaben eines Worts (z.B. \"Scratch\") so, dass dieser aus einer gew\u00e4hlten Ecke zu seiner richtigen Position im Wort gleitet.",
+      "nl": "Programmiere jeden Buchstaben eines Worts (z.B. \"Scratch\") so, dass dieser aus einer gew\u00e4hlten Ecke zu seiner richtigen Position im Wort gleitet.",
+      "fr": "Programmiere jeden Buchstaben eines Worts (z.B. \"Scratch\") so, dass dieser aus einer gew\u00e4hlten Ecke zu seiner richtigen Position im Wort gleitet."
+    }
+  },
+  {
+    "rating": 2,
+    "filename": "Bananenzauber.cubi",
+    "solution_exists": true,
+    "template_exists": true,
+    "title": {
+      "de": "Bananenzauber",
+      "en": "Bananenzauber",
+      "nl": "Bananenzauber",
+      "fr": "Bananenzauber"
+    },
+    "description": {
+      "de": "Der Zauberer zaubert bei Anklicken Bananen herbei. Dieses Projekt bietet eine M\u00f6glichkeit Zufall und Botschaften (in diesem Fall als \"Zauber\") anschaulich zu machen.",
+      "en": "Der Zauberer zaubert bei Anklicken Bananen herbei. Dieses Projekt bietet eine M\u00f6glichkeit Zufall und Botschaften (in diesem Fall als \"Zauber\") anschaulich zu machen.",
+      "nl": "Der Zauberer zaubert bei Anklicken Bananen herbei. Dieses Projekt bietet eine M\u00f6glichkeit Zufall und Botschaften (in diesem Fall als \"Zauber\") anschaulich zu machen.",
+      "fr": "Der Zauberer zaubert bei Anklicken Bananen herbei. Dieses Projekt bietet eine M\u00f6glichkeit Zufall und Botschaften (in diesem Fall als \"Zauber\") anschaulich zu machen."
+    }
+  },
+  {
+    "rating": 3,
+    "filename": "Autorennen.cubi",
+    "solution_exists": true,
+    "template_exists": true,
+    "title": {
+      "de": "Autorennen",
+      "en": "Autorennen",
+      "nl": "Autorennen",
+      "fr": "Autorennen"
+    },
+    "description": {
+      "de": "Programmiere ein Auto und lass es \u00fcber die Rennstrecke flitzen.",
+      "en": "Programmiere ein Auto und lass es \u00fcber die Rennstrecke flitzen.",
+      "nl": "Programmiere ein Auto und lass es \u00fcber die Rennstrecke flitzen.",
+      "fr": "Programmiere ein Auto und lass es \u00fcber die Rennstrecke flitzen."
+    }
+  },
+  {
+    "rating": 3,
+    "filename": "Codedetektiv_3.cubi",
+    "solution_exists": false,
+    "template_exists": true,
+    "title": {
+      "de": "Codedetektiv 3",
+      "en": "Codedetektiv 3",
+      "nl": "Codedetektiv 3",
+      "fr": "Codedetektiv 3"
+    },
+    "description": {
+      "de": "Finde die beiden Fehler aus dem Projekt Autorennen und werde zum Fehlersuch-Experten.",
+      "en": "Finde die beiden Fehler aus dem Projekt Autorennen und werde zum Fehlersuch-Experten.",
+      "nl": "Finde die beiden Fehler aus dem Projekt Autorennen und werde zum Fehlersuch-Experten.",
+      "fr": "Finde die beiden Fehler aus dem Projekt Autorennen und werde zum Fehlersuch-Experten."
+    }
+  },
+  {
+    "rating": 3,
+    "filename": "Helikopter.cubi",
+    "solution_exists": true,
+    "template_exists": true,
+    "title": {
+      "de": "Helikopter",
+      "en": "Helikopter",
+      "nl": "Helikopter",
+      "fr": "Helikopter"
+    },
+    "description": {
+      "de": "Weiche mit dem Helikopter einem Ansturm von Flugzeugen aus. Der Helikopter kann mit den Pfeiltasten in alle Richtungen auf dem ganzen Spielfeld bewegt werden.",
+      "en": "Weiche mit dem Helikopter einem Ansturm von Flugzeugen aus. Der Helikopter kann mit den Pfeiltasten in alle Richtungen auf dem ganzen Spielfeld bewegt werden.",
+      "nl": "Weiche mit dem Helikopter einem Ansturm von Flugzeugen aus. Der Helikopter kann mit den Pfeiltasten in alle Richtungen auf dem ganzen Spielfeld bewegt werden.",
+      "fr": "Weiche mit dem Helikopter einem Ansturm von Flugzeugen aus. Der Helikopter kann mit den Pfeiltasten in alle Richtungen auf dem ganzen Spielfeld bewegt werden."
+    }
+  },
+  {
+    "rating": 3,
+    "filename": "Trampolin.cubi",
+    "solution_exists": true,
+    "template_exists": true,
+    "title": {
+      "de": "Trampolin",
+      "en": "Trampolin",
+      "nl": "Trampolin",
+      "fr": "Trampolin"
+    },
+    "description": {
+      "de": "Lasse den Pinguin auf dem Trampolin immer h\u00f6her und h\u00f6her in den Himmel springen. Kannst du ihm sogar einen Looping beibringen?",
+      "en": "Lasse den Pinguin auf dem Trampolin immer h\u00f6her und h\u00f6her in den Himmel springen. Kannst du ihm sogar einen Looping beibringen?",
+      "nl": "Lasse den Pinguin auf dem Trampolin immer h\u00f6her und h\u00f6her in den Himmel springen. Kannst du ihm sogar einen Looping beibringen?",
+      "fr": "Lasse den Pinguin auf dem Trampolin immer h\u00f6her und h\u00f6her in den Himmel springen. Kannst du ihm sogar einen Looping beibringen?"
+    }
+  },
+  {
+    "rating": 3,
+    "filename": "Quizmaster.cubi",
+    "solution_exists": true,
+    "template_exists": true,
+    "title": {
+      "de": "Quizmaster",
+      "en": "Quizmaster",
+      "nl": "Quizmaster",
+      "fr": "Quizmaster"
+    },
+    "description": {
+      "de": "Bist du ein Quizmaster? Stelle deine F\u00e4higkeiten bei diesem Spiel unter Beweis und lasse deine Mitsch\u00fcler die richtige Antwort herausfinden!",
+      "en": "Bist du ein Quizmaster? Stelle deine F\u00e4higkeiten bei diesem Spiel unter Beweis und lasse deine Mitsch\u00fcler die richtige Antwort herausfinden!",
+      "nl": "Bist du ein Quizmaster? Stelle deine F\u00e4higkeiten bei diesem Spiel unter Beweis und lasse deine Mitsch\u00fcler die richtige Antwort herausfinden!",
+      "fr": "Bist du ein Quizmaster? Stelle deine F\u00e4higkeiten bei diesem Spiel unter Beweis und lasse deine Mitsch\u00fcler die richtige Antwort herausfinden!"
+    }
+  },
+  {
+    "rating": 3,
+    "filename": "Abschlusstest.cubi",
+    "solution_exists": true,
+    "template_exists": true,
+    "title": {
+      "de": "Abschlusstest",
+      "en": "Abschlusstest",
+      "nl": "Abschlusstest",
+      "fr": "Abschlusstest"
+    },
+    "description": {
+      "de": "Du hast Pflanzendienst, Tafeldienst und Ordnungsdienst. Gie\u00dfe die Pflanzen im Klassenzimmer, wisch die Tafel und beseitige das Chaos im Klassenzimmer, damit du schnell nach Hause gehen kannst.",
+      "en": "Du hast Pflanzendienst, Tafeldienst und Ordnungsdienst. Gie\u00dfe die Pflanzen im Klassenzimmer, wisch die Tafel und beseitige das Chaos im Klassenzimmer, damit du schnell nach Hause gehen kannst.",
+      "nl": "Du hast Pflanzendienst, Tafeldienst und Ordnungsdienst. Gie\u00dfe die Pflanzen im Klassenzimmer, wisch die Tafel und beseitige das Chaos im Klassenzimmer, damit du schnell nach Hause gehen kannst.",
+      "fr": "Du hast Pflanzendienst, Tafeldienst und Ordnungsdienst. Gie\u00dfe die Pflanzen im Klassenzimmer, wisch die Tafel und beseitige das Chaos im Klassenzimmer, damit du schnell nach Hause gehen kannst."
+    }
+  },
+  {
+    "rating": 0,
+    "filename": "Standard.cubi",
+    "solution_exists": false,
+    "template_exists": true,
+    "title": {
+      "de": "Standard",
+      "en": "Standard",
+      "nl": "Standard",
+      "fr": "Standard"
+    },
+    "description": {
+      "de": "Ein leeres Projekt zum Starten.",
+      "en": "Ein leeres Projekt zum Starten.",
+      "nl": "Ein leeres Projekt zum Starten.",
+      "fr": "Ein leeres Projekt zum Starten."
+    }
+  }
+]
