@@ -19,6 +19,42 @@
   },
   {
     "rating": 1,
+    "filename": "Auf_Und_Los.cubi",
+    "solution_exists": false,
+    "template_exists": true,
+    "title": {
+      "de": "Auf und los",
+      "en": "Auf und los",
+      "nl": "Auf und los",
+      "fr": "Auf und los"
+    },
+    "description": {
+      "de": "Die Maus beginnt ihre Reise. Hilf ihr zum Schl\u00fcssel zu kommen.",
+      "en": "Die Maus beginnt ihre Reise. Hilf ihr zum Schl\u00fcssel zu kommen.",
+      "nl": "Die Maus beginnt ihre Reise. Hilf ihr zum Schl\u00fcssel zu kommen.",
+      "fr": "Die Maus beginnt ihre Reise. Hilf ihr zum Schl\u00fcssel zu kommen."
+    }
+  },
+  {
+    "rating": 1,
+    "filename": "Um_Die_Ecke.cubi",
+    "solution_exists": false,
+    "template_exists": true,
+    "title": {
+      "de": "Um die Ecke",
+      "en": "Um die Ecke",
+      "nl": "Um die Ecke",
+      "fr": "Um die Ecke"
+    },
+    "description": {
+      "de": "Die Maus m\u00f6chte um die Ecke zum Schl\u00fcssel. Hilf ihr!",
+      "en": "Die Maus m\u00f6chte um die Ecke zum Schl\u00fcssel. Hilf ihr!",
+      "nl": "Die Maus m\u00f6chte um die Ecke zum Schl\u00fcssel. Hilf ihr!",
+      "fr": "Die Maus m\u00f6chte um die Ecke zum Schl\u00fcssel. Hilf ihr!"
+    }
+  },
+  {
+    "rating": 1,
     "filename": "Maus_Zum_Kaese.cubi",
     "solution_exists": true,
     "template_exists": true,
