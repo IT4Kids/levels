@@ -58,7 +58,8 @@
             let currentLang = new Array(supportedLanguages.length).fill(false);
             currentLang[0] = true;
             var items = document.getElementById("items"),
-                uniq = 0;
+                uniq = 0,
+                uniq_key = 0;
 
             function httpGet(url, callback) {
                 var xmlHttp = new XMLHttpRequest();
@@ -127,27 +128,57 @@
             }
 
             function deleteTextRow(i){
-                document.getElementById('text_row-' + i).remove();
+                document.getElementById('texts_row-' + i).remove();
                 generateJsonFromList();
             }
 
             function createTextKey(i){
-                let innerHTML = "";
-                innerHTML += "<row id='text_row-" + i + "'>";
-                innerHTML += "<column><label>Key:</label> <input type='text' name='text_key' onkeyup='generateJsonFromList()' value=''></column>";
-                for(lang of supportedLanguages){
+                let row = document.createElement("row");
+                row.id = 'texts_row-' + uniq_key;
+                row.name = 'texts_row';
+
+                let column = document.createElement("column");
+                let label = document.createElement("label");
+                label.textContent = "Key:";
+                let input = document.createElement("input");
+                input.type = "text";
+                input.name = "text_key";
+                input.addEventListener('keyup', generateJsonFromList);
+                input.value = '';
+                column.appendChild(label);
+                column.appendChild(input);
+
+                for(let lang of supportedLanguages){
                     if(lang === supportedLanguages[0]){
-                        innerHTML += "<textarea name='text_value' onkeyup='generateJsonFromList()' class='" + lang + "' style='display: block'></textarea>";
+                        let ta = document.createElement('textarea');
+                        ta.name = 'text_value';
+                        ta.addEventListener('keyup', generateJsonFromList);
+                        ta.classList.add(lang);
+                        ta.style = "display: block"
+                        column.appendChild(ta);
                     }
                     else{
-                        innerHTML += "<textarea name='text_value' class='" + lang + "' style='display: none'></textarea>";
+                        let ta = document.createElement('textarea');
+                        ta.name = 'text_value';
+                        ta.addEventListener('keyup', generateJsonFromList);
+                        ta.classList.add(lang);
+                        ta.style = "display: none";
+                        column.appendChild(ta);
                     }
                 }
-                innerHTML += "<button onclick='deleteTextRow(" + i + ")'> - </button>"
-                innerHTML += "</row>";
 
-                document.getElementById('text_translations-' + i).innerHTML += innerHTML;
+                let button = document.createElement("button");
+                button.textContent = '-'
+                button.name = 'button-' + uniq_key;
+                let temp = uniq_key;
+                button.addEventListener('click', function(){deleteTextRow(temp)});
+                column.appendChild(button);
+                row.appendChild(column);
+
+                document.getElementById('text_translations-' + i).appendChild(row);
                 generateJsonFromList();
+
+                uniq_key += 1;
             }
 
             function generateListFromJson() {
@@ -208,23 +239,7 @@
 
                 innerHTML += "<button onclick='createTextKey(" + uniq +")'>Add new text key</button>";
 
-                innerHTML += "<div id='text_translations-" + uniq +"'>";
-                // TODO iterate over texts
-                /*
-                for key in texts:
-                innerHTML += "<row id='text_row-" + i + "'>";
-                innerHTML += "<column><label>Key:</label> <input type='text' name='text_key' value=''></column>";
-                for(lang of supportedLanguages){
-                    if(lang === supportedLanguages[0]){
-                        innerHTML += "<textarea name='text_value' class='" + lang + "' style='display: block'></textarea>";
-                    }
-                    else{
-                        innerHTML += "<textarea name='text_value' class='" + lang + "' style='display: none'></textarea>";
-                    }
-                }
-                innerHTML += "<button onclick='deleteTextRow(" + i + ")'> - </button>"
-                innerHTML += "</row>";
-                 */
+                innerHTML += "<div id='text_translations-" + uniq +"' name='texts'>";
                 innerHTML +="</div>"
 
                 return innerHTML;
@@ -261,7 +276,6 @@
 
             function generateJsonFromList() {
                 var items = document.getElementById("items").children;
-                    // json = Object.assign({}, ...supportedLanguages.map((x) => ({[x]: []}))); // make dict from array
                 let json = [];
                 for(var i = 0; i < items.length; i++) {
                     json.push({
@@ -273,14 +287,26 @@
                         template_exists: (items[i].querySelector("[name='template_exists']").checked),
                         texts: {}
                     });
-                    for(let l of supportedLanguages){
+                    for(let l of supportedLanguages) {
                         json[i].title[l] = items[i].querySelector("." + l + "[name='title']").value;
                         json[i].description[l] = items[i].querySelector("." + l + "[name='description']").value;
-                        console.log(items[i]);
-                        Object.entries(items[i]).forEach(([key, translation]) => {
-                            console.log(key + ': ' + translation);
-                        });
                     }
+
+                    // get translations: keys and respective values
+                    let rows = items[i].querySelectorAll("[name='texts'] > row");
+                    if (rows === []) continue;
+
+                    let translations = {};
+                    Object.values(rows).forEach((row) => {
+                        let langValues = Object.assign({}, ...supportedLanguages.map((x) => ({[x]: []})));
+                        let key = row.querySelector("[name='text_key']").value;
+                        let values = row.querySelectorAll("[name='text_value']");
+                        Object.values(values).forEach(value => {
+                            langValues[value.className] = value.value;
+                        })
+                        translations[key] = langValues;
+                    })
+                    json[i]['texts'] = translations;
                 }
                 document.getElementById("i-new_summary").value = JSON.stringify(json);
             }
@@ -303,9 +329,6 @@
                 }
             }
 
-            /*
-            b.querySelectorAll('[id=text_row-20]')[0].querySelectorAll('[name=text_value]').forEach(e => console.log(e))
-             */
         </script>
     </body>
 
