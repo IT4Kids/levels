@@ -342,6 +342,24 @@
     }
   },
   {
+    "rating": 1,
+    "filename": "Labyrinth Teil 2.cubi",
+    "solution_exists": false,
+    "template_exists": true,
+    "title": {
+      "de": "Labyrinth Teil 2",
+      "en": "Labyrinth Teil 2",
+      "nl": "Labyrinth Teil 2",
+      "fr": "Labyrinth Teil 2"
+    },
+    "description": {
+      "de": "F\u00fchre die Maus aus dem Labyrinth.",
+      "en": "F\u00fchre die Maus aus dem Labyrinth.",
+      "nl": "F\u00fchre die Maus aus dem Labyrinth.",
+      "fr": "F\u00fchre die Maus aus dem Labyrinth."
+    }
+  },
+  {
     "rating": 0,
     "filename": "Standard.cubi",
     "solution_exists": false,
