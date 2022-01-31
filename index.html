@@ -148,8 +148,9 @@
                 column.appendChild(label);
                 column.appendChild(input);
 
+                let indexOfCurrentLang = currentLang.indexOf(true);
                 for(let lang of supportedLanguages){
-                    if(lang === supportedLanguages[0]){
+                    if(lang === supportedLanguages[indexOfCurrentLang]){
                         let ta = document.createElement('textarea');
                         ta.name = 'text_value';
                         ta.addEventListener('keyup', generateJsonFromList);
