@@ -335,28 +335,10 @@
       "fr": "Abschlusstest"
     },
     "description": {
-      "de": "Du hast Pflanzendienst, Tafeldienst und Ordnungsdienst. Gie\u00dfe die Pflanzen im Klassenzimmer, wisch die Tafel und beseitige das Chaos im Klassenzimmer, damit du schnell nach Hause gehen kannst.",
-      "en": "Du hast Pflanzendienst, Tafeldienst und Ordnungsdienst. Gie\u00dfe die Pflanzen im Klassenzimmer, wisch die Tafel und beseitige das Chaos im Klassenzimmer, damit du schnell nach Hause gehen kannst.",
-      "nl": "Du hast Pflanzendienst, Tafeldienst und Ordnungsdienst. Gie\u00dfe die Pflanzen im Klassenzimmer, wisch die Tafel und beseitige das Chaos im Klassenzimmer, damit du schnell nach Hause gehen kannst.",
-      "fr": "Du hast Pflanzendienst, Tafeldienst und Ordnungsdienst. Gie\u00dfe die Pflanzen im Klassenzimmer, wisch die Tafel und beseitige das Chaos im Klassenzimmer, damit du schnell nach Hause gehen kannst."
-    }
-  },
-  {
-    "rating": 1,
-    "filename": "Labyrinth_Teil_2.cubi",
-    "solution_exists": false,
-    "template_exists": true,
-    "title": {
-      "de": "Labyrinth Teil 2",
-      "en": "Labyrinth Teil 2",
-      "nl": "Labyrinth Teil 2",
-      "fr": "Labyrinth Teil 2"
-    },
-    "description": {
-      "de": "F\u00fchre die Maus aus dem Labyrinth.",
-      "en": "F\u00fchre die Maus aus dem Labyrinth.",
-      "nl": "F\u00fchre die Maus aus dem Labyrinth.",
-      "fr": "F\u00fchre die Maus aus dem Labyrinth."
+      "de": "Du hast Tafeldienst, Pflanzendienst und Ordnungsdienst. Wisch die Tafel, gie\u00dfe die Pflanzen im Klassenzimmer und beseitige das Chaos im Klassenzimmer, damit du schnell nach Hause gehen kannst.",
+      "en": "Du hast Tafeldienst, Pflanzendienst und Ordnungsdienst. Wisch die Tafel, gie\u00dfe die Pflanzen im Klassenzimmer und beseitige das Chaos im Klassenzimmer, damit du schnell nach Hause gehen kannst.",
+      "nl": "Du hast Tafeldienst, Pflanzendienst und Ordnungsdienst. Wisch die Tafel, gie\u00dfe die Pflanzen im Klassenzimmer und beseitige das Chaos im Klassenzimmer, damit du schnell nach Hause gehen kannst.",
+      "fr": "Du hast Tafeldienst, Pflanzendienst und Ordnungsdienst. Wisch die Tafel, gie\u00dfe die Pflanzen im Klassenzimmer und beseitige das Chaos im Klassenzimmer, damit du schnell nach Hause gehen kannst."
     }
   },
   {
