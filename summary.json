@@ -19,24 +19,6 @@
   },
   {
     "rating": 1,
-    "filename": "Maus_Zum_Kaese.cubi",
-    "solution_exists": true,
-    "template_exists": true,
-    "title": {
-      "de": "Maus zum K\u00e4se",
-      "en": "Maus zum K\u00e4se",
-      "nl": "Maus zum K\u00e4se",
-      "fr": "Maus zum K\u00e4se"
-    },
-    "description": {
-      "de": "Programmiere die Maus so, dass sie \u00fcber die Br\u00fccke zum K\u00e4se l\u00e4uft und dabei nicht ins Wasser f\u00e4llt.",
-      "en": "Programmiere die Maus so, dass sie \u00fcber die Br\u00fccke zum K\u00e4se l\u00e4uft und dabei nicht ins Wasser f\u00e4llt.",
-      "nl": "Programmiere die Maus so, dass sie \u00fcber die Br\u00fccke zum K\u00e4se l\u00e4uft und dabei nicht ins Wasser f\u00e4llt.",
-      "fr": "Programmiere die Maus so, dass sie \u00fcber die Br\u00fccke zum K\u00e4se l\u00e4uft und dabei nicht ins Wasser f\u00e4llt."
-    }
-  },
-  {
-    "rating": 1,
     "filename": "Labyrinth.cubi",
     "solution_exists": true,
     "template_exists": true,
@@ -73,20 +55,20 @@
   },
   {
     "rating": 1,
-    "filename": "Weltraumreise.cubi",
+    "filename": "Sternlabyrinth.cubi",
     "solution_exists": true,
     "template_exists": true,
     "title": {
-      "de": "Weltraumreise",
-      "en": "Weltraumreise",
-      "nl": "Weltraumreise",
-      "fr": "Weltraumreise"
+      "de": "Sternlabyrinth",
+      "en": "Sternlabyrinth",
+      "nl": "Sternlabyrinth",
+      "fr": "Sternlabyrinth"
     },
     "description": {
-      "de": "Teleportiere dich zu weit entfernten Planeten.",
-      "en": "Teleportiere dich zu weit entfernten Planeten.",
-      "nl": "Teleportiere dich zu weit entfernten Planeten.",
-      "fr": "Teleportiere dich zu weit entfernten Planeten."
+      "de": "Sammel das Herz, den Stern die Münze und den Schlüssel in der richtigen Reihenfolge ein.",
+      "en": "Sammel das Herz, den Stern die Münze und den Schlüssel in der richtigen Reihenfolge ein.",
+      "nl": "Sammel das Herz, den Stern die Münze und den Schlüssel in der richtigen Reihenfolge ein.",
+      "fr": "Sammel das Herz, den Stern die Münze und den Schlüssel in der richtigen Reihenfolge ein."
     }
   },
   {
@@ -109,6 +91,60 @@
   },
   {
     "rating": 1,
+    "filename": "Weltraumreise.cubi",
+    "solution_exists": true,
+    "template_exists": true,
+    "title": {
+      "de": "Weltraumreise",
+      "en": "Weltraumreise",
+      "nl": "Weltraumreise",
+      "fr": "Weltraumreise"
+    },
+    "description": {
+      "de": "Teleportiere dich zu weit entfernten Planeten.",
+      "en": "Teleportiere dich zu weit entfernten Planeten.",
+      "nl": "Teleportiere dich zu weit entfernten Planeten.",
+      "fr": "Teleportiere dich zu weit entfernten Planeten."
+    }
+  },
+  {
+    "rating": 1,
+    "filename": "Kaktus.cubi",
+    "solution_exists": true,
+    "template_exists": true,
+    "title": {
+      "de": "Kaktus",
+      "en": "Kaktus",
+      "nl": "Kaktus",
+      "fr": "Kaktus"
+    },
+    "description": {
+      "de": "String mit dem Drachen über viele Kakteen.",
+      "en": "String mit dem Drachen über viele Kakteen.",
+      "nl": "String mit dem Drachen über viele Kakteen.",
+      "fr": "String mit dem Drachen über viele Kakteen."
+    }
+  },
+  {
+    "rating": 1,
+    "filename": "Flugstunde.cubi",
+    "solution_exists": true,
+    "template_exists": true,
+    "title": {
+      "de": "Flugstunde",
+      "en": "Flugstunde",
+      "nl": "Flugstunde",
+      "fr": "Flugstunde"
+    },
+    "description": {
+      "de": "Bewege die Biene auf der Blumenwiese hin und her. Bei jeder Farbe wird sie eine andere Figur zeichnen.",
+      "en": "Bewege die Biene auf der Blumenwiese hin und her. Bei jeder Farbe wird sie eine andere Figur zeichnen.",
+      "nl": "Bewege die Biene auf der Blumenwiese hin und her. Bei jeder Farbe wird sie eine andere Figur zeichnen.",
+      "fr": "Bewege die Biene auf der Blumenwiese hin und her. Bei jeder Farbe wird sie eine andere Figur zeichnen."
+    }
+  },
+  {
+    "rating": 1,
     "filename": "Farben.cubi",
     "solution_exists": true,
     "template_exists": true,
@@ -126,21 +162,309 @@
     }
   },
   {
-    "rating": 1,
-    "filename": "Zeichnen.cubi",
+    "rating": 2,
+    "filename": "Bananenzauber.cubi",
     "solution_exists": true,
     "template_exists": true,
     "title": {
-      "de": "Zeichnen",
-      "en": "Zeichnen",
-      "nl": "Zeichnen",
-      "fr": "Zeichnen"
+      "de": "Bananenzauber",
+      "en": "Bananenzauber",
+      "nl": "Bananenzauber",
+      "fr": "Bananenzauber"
     },
     "description": {
-      "de": "Bewege die Biene auf der Blumenwiese hin und her. Bei jeder Farbe wird sie eine andere Figur zeichnen.",
-      "en": "Bewege die Biene auf der Blumenwiese hin und her. Bei jeder Farbe wird sie eine andere Figur zeichnen.",
-      "nl": "Bewege die Biene auf der Blumenwiese hin und her. Bei jeder Farbe wird sie eine andere Figur zeichnen.",
-      "fr": "Bewege die Biene auf der Blumenwiese hin und her. Bei jeder Farbe wird sie eine andere Figur zeichnen."
+      "de": "Der Zauberer zaubert Bananen herbei, die sich zuf\u00e4llig über den Bildschirm verteilen. Lerne, mit Zufallszahlen umzugehen und Nachrichten zu verschicken.",
+      "en": "Der Zauberer zaubert Bananen herbei, die sich zuf\u00e4llig über den Bildschirm verteilen. Lerne, mit Zufallszahlen umzugehen und Nachrichten zu verschicken.",
+      "nl": "Der Zauberer zaubert Bananen herbei, die sich zuf\u00e4llig über den Bildschirm verteilen. Lerne, mit Zufallszahlen umzugehen und Nachrichten zu verschicken.",
+      "fr": "Der Zauberer zaubert Bananen herbei, die sich zuf\u00e4llig über den Bildschirm verteilen. Lerne, mit Zufallszahlen umzugehen und Nachrichten zu verschicken."
+    }
+  },
+  {
+    "rating": 2,
+    "filename": "Hase_und_Igel.cubi",
+    "solution_exists": true,
+    "template_exists": true,
+    "title": {
+      "de": "Hase und Igel",
+      "en": "Hase und Igel",
+      "nl": "Hase und Igel",
+      "fr": "Hase und Igel"
+    },
+    "description": {
+      "de": "Hase und Igel laufen um die Wette. Aber der Igel hat ein paar Tricks im \u00c4rmel...",
+      "en": "Hase und Igel laufen um die Wette. Aber der Igel hat ein paar Tricks im \u00c4rmel...",
+      "nl": "Hase und Igel laufen um die Wette. Aber der Igel hat ein paar Tricks im \u00c4rmel...",
+      "fr": "Hase und Igel laufen um die Wette. Aber der Igel hat ein paar Tricks im \u00c4rmel..."
+    }
+  },
+  {
+    "rating": 2,
+    "filename": "Geschenkewerkstatt.cubi",
+    "solution_exists": true,
+    "template_exists": true,
+    "title": {
+      "de": "Geschenkewerkstatt",
+      "en": "Geschenkewerkstatt",
+      "nl": "Geschenkewerkstatt",
+      "fr": "Geschenkewerkstatt"
+    },
+    "description": {
+      "de": "Hilf dem Elfen in der Geschenkewerkstatt die richtigen Geschenke auszuw\u00e4hlen.",
+      "en": "Hilf dem Elfen in der Geschenkewerkstatt die richtigen Geschenke auszuw\u00e4hlen.",
+      "nl": "Hilf dem Elfen in der Geschenkewerkstatt die richtigen Geschenke auszuw\u00e4hlen.",
+      "fr": "Hilf dem Elfen in der Geschenkewerkstatt die richtigen Geschenke auszuw\u00e4hlen."
+    }
+  },
+  {
+    "rating": 2,
+    "filename": "Katze_jagt_dich.cubi",
+    "solution_exists": true,
+    "template_exists": true,
+    "title": {
+      "de": "Katze jagt dich",
+      "en": "Katze jagt dich",
+      "nl": "Katze jagt dich",
+      "fr": "Katze jagt dich"
+    },
+    "description": {
+      "de": "Hilf der Maus der Katze zu entkommen. Aber pass auf, die Katze hat schon ihren Freunden bescheid gesagt...",
+      "en": "Hilf der Maus der Katze zu entkommen. Aber pass auf, die Katze hat schon ihren Freunden bescheid gesagt...",
+      "nl": "Hilf der Maus der Katze zu entkommen. Aber pass auf, die Katze hat schon ihren Freunden bescheid gesagt...",
+      "fr": "Hilf der Maus der Katze zu entkommen. Aber pass auf, die Katze hat schon ihren Freunden bescheid gesagt..."
+    }
+  },
+  {
+    "rating": 2,
+    "filename": "Professor_Tanzalarm.cubi",
+    "solution_exists": true,
+    "template_exists": true,
+    "title": {
+      "de": "Professor Tanzalarm",
+      "en": "Professor Tanzalarm",
+      "nl": "Professor Tanzalarm",
+      "fr": "Professor Tanzalarm"
+    },
+    "description": {
+      "de": "Die Disco startet und Professor Tanzalarm eröffnet die Tanzfl\u00e4che. Kannst du ihm helfen ein neuen Rekord aufzustellen?",
+      "en": "Die Disco startet und Professor Tanzalarm eröffnet die Tanzfl\u00e4che. Kannst du ihm helfen ein neuen Rekord aufzustellen?",
+      "nl": "Die Disco startet und Professor Tanzalarm eröffnet die Tanzfl\u00e4che. Kannst du ihm helfen ein neuen Rekord aufzustellen?",
+      "fr": "Die Disco startet und Professor Tanzalarm eröffnet die Tanzfl\u00e4che. Kannst du ihm helfen ein neuen Rekord aufzustellen?"
+    }
+  },
+  {
+    "rating": 2,
+    "filename": "Buchstaben.cubi",
+    "solution_exists": true,
+    "template_exists": true,
+    "title": {
+      "de": "Buchstaben",
+      "en": "Buchstaben",
+      "nl": "Buchstaben",
+      "fr": "Buchstaben"
+    },
+    "description": {
+      "de": "Programmiere jeden Buchstaben des Worts \"IT4Kids\" so, dass eine tolle Animation entsteht.",
+      "en": "Programmiere jeden Buchstaben des Worts \"IT4Kids\" so, dass eine tolle Animation entsteht.",
+      "nl": "Programmiere jeden Buchstaben des Worts \"IT4Kids\" so, dass eine tolle Animation entsteht.",
+      "fr": "Programmiere jeden Buchstaben des Worts \"IT4Kids\" so, dass eine tolle Animation entsteht."
+    }
+  },
+  {
+    "rating": 2,
+    "filename": "Tanzen.cubi",
+    "solution_exists": true,
+    "template_exists": true,
+    "title": {
+      "de": "Tanzen",
+      "en": "Tanzen",
+      "nl": "Tanzen",
+      "fr": "Tanzen"
+    },
+    "description": {
+      "de": "Die Ballerina will hoch durch die Luft fliegen! Hilf ihr bei dem Tanzschritt.",
+      "en": "Die Ballerina will hoch durch die Luft fliegen! Hilf ihr bei dem Tanzschritt.",
+      "nl": "Die Ballerina will hoch durch die Luft fliegen! Hilf ihr bei dem Tanzschritt.",
+      "fr": "Die Ballerina will hoch durch die Luft fliegen! Hilf ihr bei dem Tanzschritt."
+    }
+  },
+  {
+    "rating": 2,
+    "filename": "Jonglieren.cubi",
+    "solution_exists": true,
+    "template_exists": true,
+    "title": {
+      "de": "Jonglieren",
+      "en": "Jonglieren",
+      "nl": "Jonglieren",
+      "fr": "Jonglieren"
+    },
+    "description": {
+      "de": "Jongliere die beiden B\u00e4lle bis sie die Decke erreichen.",
+      "en": "Jongliere die beiden B\u00e4lle bis sie die Decke erreichen.",
+      "nl": "Jongliere die beiden B\u00e4lle bis sie die Decke erreichen.",
+      "fr": "Jongliere die beiden B\u00e4lle bis sie die Decke erreichen."
+    }
+  },
+  {
+    "rating": 2,
+    "filename": "Obstsalat.cubi",
+    "solution_exists": true,
+    "template_exists": true,
+    "title": {
+      "de": "Obstsalat",
+      "en": "Obstsalat",
+      "nl": "Obstsalat",
+      "fr": "Obstsalat"
+    },
+    "description": {
+      "de": "Die Fr\u00FCchte fliegen am Obststand durch die Luft. Fang sie alle wieder ein.",
+      "en": "Die Fr\u00FCchte fliegen am Obststand durch die Luft. Fang sie alle wieder ein.",
+      "nl": "Die Fr\u00FCchte fliegen am Obststand durch die Luft. Fang sie alle wieder ein.",
+      "fr": "Die Fr\u00FCchte fliegen am Obststand durch die Luft. Fang sie alle wieder ein."
+    }
+  },
+  {
+    "rating": 2,
+    "filename": "Was_soll_ich_anziehen-Wetter_Edition.cubi",
+    "solution_exists": true,
+    "template_exists": true,
+    "title": {
+      "de": "Was soll ich anziehen - Wetter Edition",
+      "en": "Was soll ich anziehen - Wetter Edition",
+      "nl": "Was soll ich anziehen - Wetter Edition",
+      "fr": "Was soll ich anziehen - Wetter Edition"
+    },
+    "description": {
+      "de": "Das Wetter spielt verr\u00FCckt! Hilf Cubi die richtige Kleidung zu finden.",
+      "en": "Das Wetter spielt verr\u00FCckt! Hilf Cubi die richtige Kleidung zu finden.",
+      "nl": "Das Wetter spielt verr\u00FCckt! Hilf Cubi die richtige Kleidung zu finden.",
+      "fr": "Das Wetter spielt verr\u00FCckt! Hilf Cubi die richtige Kleidung zu finden."
+    }
+  },
+  {
+    "rating": 3,
+    "filename": "Pacman.cubi",
+    "solution_exists": true,
+    "template_exists": true,
+    "title": {
+      "de": "Pacman",
+      "en": "Pacman",
+      "nl": "Pacman",
+      "fr": "Pacman"
+    },
+    "description": {
+      "de": "Pacman ist hungrig. Hilf ihm alle \u00C4pfel einzusammeln, aber pass vor den W\u00FCnden auf.",
+      "en": "Pacman ist hungrig. Hilf ihm alle \u00C4pfel einzusammeln, aber pass vor den W\u00FCnden auf.",
+      "nl": "Pacman ist hungrig. Hilf ihm alle \u00C4pfel einzusammeln, aber pass vor den W\u00FCnden auf.",
+      "fr": "Pacman ist hungrig. Hilf ihm alle \u00C4pfel einzusammeln, aber pass vor den W\u00FCnden auf."
+    }
+  },
+  {
+    "rating": 3,
+    "filename": "Rotes_Auto.cubi",
+    "solution_exists": true,
+    "template_exists": true,
+    "title": {
+      "de": "Rotes_Auto",
+      "en": "Rotes_Auto",
+      "nl": "Rotes_Auto",
+      "fr": "Rotes_Auto"
+    },
+    "description": {
+      "de": "Das rote Auto muss schnell aus dem zugeparkten Parkplatz entkommen! Kannst du ihm helfen?",
+      "en": "Das rote Auto muss schnell aus dem zugeparkten Parkplatz entkommen! Kannst du ihm helfen?",
+      "nl": "Das rote Auto muss schnell aus dem zugeparkten Parkplatz entkommen! Kannst du ihm helfen?",
+      "fr": "Das rote Auto muss schnell aus dem zugeparkten Parkplatz entkommen! Kannst du ihm helfen?"
+    }
+  },
+  {
+    "rating": 3,
+    "filename": "Abschlusstest.cubi",
+    "solution_exists": true,
+    "template_exists": true,
+    "title": {
+      "de": "Abschlusstest",
+      "en": "Abschlusstest",
+      "nl": "Abschlusstest",
+      "fr": "Abschlusstest"
+    },
+    "description": {
+      "de": "Du hast Tafeldienst, Pflanzendienst und Ordnungsdienst. Wisch die Tafel, gie\u00dfe die Pflanzen im Klassenzimmer und beseitige das Chaos im Klassenzimmer, damit du schnell nach Hause gehen kannst.",
+      "en": "Du hast Tafeldienst, Pflanzendienst und Ordnungsdienst. Wisch die Tafel, gie\u00dfe die Pflanzen im Klassenzimmer und beseitige das Chaos im Klassenzimmer, damit du schnell nach Hause gehen kannst.",
+      "nl": "Du hast Tafeldienst, Pflanzendienst und Ordnungsdienst. Wisch die Tafel, gie\u00dfe die Pflanzen im Klassenzimmer und beseitige das Chaos im Klassenzimmer, damit du schnell nach Hause gehen kannst.",
+      "fr": "Du hast Tafeldienst, Pflanzendienst und Ordnungsdienst. Wisch die Tafel, gie\u00dfe die Pflanzen im Klassenzimmer und beseitige das Chaos im Klassenzimmer, damit du schnell nach Hause gehen kannst."
+    }
+  },
+  {
+    "rating": 1,
+    "filename": "Maus_Zum_Kaese.cubi",
+    "solution_exists": true,
+    "template_exists": true,
+    "title": {
+      "de": "Maus zum K\u00e4se",
+      "en": "Maus zum K\u00e4se",
+      "nl": "Maus zum K\u00e4se",
+      "fr": "Maus zum K\u00e4se"
+    },
+    "description": {
+      "de": "Programmiere die Maus so, dass sie \u00fcber die Br\u00fccke zum K\u00e4se l\u00e4uft und dabei nicht ins Wasser f\u00e4llt.",
+      "en": "Programmiere die Maus so, dass sie \u00fcber die Br\u00fccke zum K\u00e4se l\u00e4uft und dabei nicht ins Wasser f\u00e4llt.",
+      "nl": "Programmiere die Maus so, dass sie \u00fcber die Br\u00fccke zum K\u00e4se l\u00e4uft und dabei nicht ins Wasser f\u00e4llt.",
+      "fr": "Programmiere die Maus so, dass sie \u00fcber die Br\u00fccke zum K\u00e4se l\u00e4uft und dabei nicht ins Wasser f\u00e4llt."
+    }
+  },
+  {
+    "rating": 1,
+    "filename": "Ballon_platzen.cubi",
+    "solution_exists": true,
+    "template_exists": true,
+    "title": {
+      "de": "Ballon platzen",
+      "en": "Ballon platzen",
+      "nl": "Ballon platzen",
+      "fr": "Ballon platzen"
+    },
+    "description": {
+      "de": "Wie schnell kannst du den Ballon zum Platzen bringen?",
+      "en": "Wie schnell kannst du den Ballon zum Platzen bringen?",
+      "nl": "Wie schnell kannst du den Ballon zum Platzen bringen?",
+      "fr": "Wie schnell kannst du den Ballon zum Platzen bringen?"
+    }
+  },
+  {
+    "rating": 1,
+    "filename": "Imposter.cubi",
+    "solution_exists": true,
+    "template_exists": true,
+    "title": {
+      "de": "Imposter",
+      "en": "Imposter",
+      "nl": "Imposter",
+      "fr": "Imposter"
+    },
+    "description": {
+      "de": "Unter den Schmetterlingen befindet sich ein Imposter! Kannst du ihn finden?",
+      "en": "Unter den Schmetterlingen befindet sich ein Imposter! Kannst du ihn finden?",
+      "nl": "Unter den Schmetterlingen befindet sich ein Imposter! Kannst du ihn finden?",
+      "fr": "Unter den Schmetterlingen befindet sich ein Imposter! Kannst du ihn finden?"
+    }
+  },
+  {
+    "rating": 2,
+    "filename": "Wettrennen.cubi",
+    "solution_exists": true,
+    "template_exists": true,
+    "title": {
+      "de": "Wettrennen",
+      "en": "Wettrennen",
+      "nl": "Wettrennen",
+      "fr": "Wettrennen"
+    },
+    "description": {
+      "de": "Zwei Figuren laufen gesteuert durch schnelle Tastendr\u00fccke um die Wette. Sehr gut zum Einstieg in die Spieleentwicklung.",
+      "en": "Zwei Figuren laufen gesteuert durch schnelle Tastendr\u00fccke um die Wette. Sehr gut zum Einstieg in die Spieleentwicklung.",
+      "nl": "Zwei Figuren laufen gesteuert durch schnelle Tastendr\u00fccke um die Wette. Sehr gut zum Einstieg in die Spieleentwicklung.",
+      "fr": "Zwei Figuren laufen gesteuert durch schnelle Tastendr\u00fccke um die Wette. Sehr gut zum Einstieg in die Spieleentwicklung."
     }
   },
   {
@@ -177,60 +501,6 @@
       "en": "Bist du ein echter Codedetektiv und findest alle Fehler, die sich im Projekt Aquarium versteckt haben?",
       "nl": "Bist du ein echter Codedetektiv und findest alle Fehler, die sich im Projekt Aquarium versteckt haben?",
       "fr": "Bist du ein echter Codedetektiv und findest alle Fehler, die sich im Projekt Aquarium versteckt haben?"
-    }
-  },
-  {
-    "rating": 2,
-    "filename": "Wettrennen.cubi",
-    "solution_exists": true,
-    "template_exists": true,
-    "title": {
-      "de": "Wettrennen",
-      "en": "Wettrennen",
-      "nl": "Wettrennen",
-      "fr": "Wettrennen"
-    },
-    "description": {
-      "de": "Zwei Figuren laufen gesteuert durch schnelle Tastendr\u00fccke um die Wette. Sehr gut zum Einstieg in die Spieleentwicklung.",
-      "en": "Zwei Figuren laufen gesteuert durch schnelle Tastendr\u00fccke um die Wette. Sehr gut zum Einstieg in die Spieleentwicklung.",
-      "nl": "Zwei Figuren laufen gesteuert durch schnelle Tastendr\u00fccke um die Wette. Sehr gut zum Einstieg in die Spieleentwicklung.",
-      "fr": "Zwei Figuren laufen gesteuert durch schnelle Tastendr\u00fccke um die Wette. Sehr gut zum Einstieg in die Spieleentwicklung."
-    }
-  },
-  {
-    "rating": 2,
-    "filename": "Buchstaben.cubi",
-    "solution_exists": true,
-    "template_exists": true,
-    "title": {
-      "de": "Buchstaben",
-      "en": "Buchstaben",
-      "nl": "Buchstaben",
-      "fr": "Buchstaben"
-    },
-    "description": {
-      "de": "Programmiere jeden Buchstaben eines Worts (z.B. \"IT4Kids\") so, dass dieser aus einer gew\u00e4hlten Ecke zu seiner richtigen Position im Wort gleitet.",
-      "en": "Programmiere jeden Buchstaben eines Worts (z.B. \"IT4Kids\") so, dass dieser aus einer gew\u00e4hlten Ecke zu seiner richtigen Position im Wort gleitet.",
-      "nl": "Programmiere jeden Buchstaben eines Worts (z.B. \"IT4Kids\") so, dass dieser aus einer gew\u00e4hlten Ecke zu seiner richtigen Position im Wort gleitet.",
-      "fr": "Programmiere jeden Buchstaben eines Worts (z.B. \"IT4Kids\") so, dass dieser aus einer gew\u00e4hlten Ecke zu seiner richtigen Position im Wort gleitet."
-    }
-  },
-  {
-    "rating": 2,
-    "filename": "Bananenzauber.cubi",
-    "solution_exists": true,
-    "template_exists": true,
-    "title": {
-      "de": "Bananenzauber",
-      "en": "Bananenzauber",
-      "nl": "Bananenzauber",
-      "fr": "Bananenzauber"
-    },
-    "description": {
-      "de": "Der Zauberer zaubert Bananen herbei, die sich zuf\u00e4llig über den Bildschirm verteilen. Lerne, mit Zufallszahlen umzugehen und Nachrichten zu verschicken.",
-      "en": "Der Zauberer zaubert Bananen herbei, die sich zuf\u00e4llig über den Bildschirm verteilen. Lerne, mit Zufallszahlen umzugehen und Nachrichten zu verschicken.",
-      "nl": "Der Zauberer zaubert Bananen herbei, die sich zuf\u00e4llig über den Bildschirm verteilen. Lerne, mit Zufallszahlen umzugehen und Nachrichten zu verschicken.",
-      "fr": "Der Zauberer zaubert Bananen herbei, die sich zuf\u00e4llig über den Bildschirm verteilen. Lerne, mit Zufallszahlen umzugehen und Nachrichten zu verschicken."
     }
   },
   {
@@ -321,24 +591,6 @@
       "en": "Bist du ein Quizmaster? Stelle deine F\u00e4higkeiten bei diesem Spiel unter Beweis und lasse andere die richtige Antwort herausfinden!",
       "nl": "Bist du ein Quizmaster? Stelle deine F\u00e4higkeiten bei diesem Spiel unter Beweis und lasse andere die richtige Antwort herausfinden!",
       "fr": "Bist du ein Quizmaster? Stelle deine F\u00e4higkeiten bei diesem Spiel unter Beweis und lasse andere die richtige Antwort herausfinden!"
-    }
-  },
-  {
-    "rating": 3,
-    "filename": "Abschlusstest.cubi",
-    "solution_exists": true,
-    "template_exists": true,
-    "title": {
-      "de": "Abschlusstest",
-      "en": "Abschlusstest",
-      "nl": "Abschlusstest",
-      "fr": "Abschlusstest"
-    },
-    "description": {
-      "de": "Du hast Tafeldienst, Pflanzendienst und Ordnungsdienst. Wisch die Tafel, gie\u00dfe die Pflanzen im Klassenzimmer und beseitige das Chaos im Klassenzimmer, damit du schnell nach Hause gehen kannst.",
-      "en": "Du hast Tafeldienst, Pflanzendienst und Ordnungsdienst. Wisch die Tafel, gie\u00dfe die Pflanzen im Klassenzimmer und beseitige das Chaos im Klassenzimmer, damit du schnell nach Hause gehen kannst.",
-      "nl": "Du hast Tafeldienst, Pflanzendienst und Ordnungsdienst. Wisch die Tafel, gie\u00dfe die Pflanzen im Klassenzimmer und beseitige das Chaos im Klassenzimmer, damit du schnell nach Hause gehen kannst.",
-      "fr": "Du hast Tafeldienst, Pflanzendienst und Ordnungsdienst. Wisch die Tafel, gie\u00dfe die Pflanzen im Klassenzimmer und beseitige das Chaos im Klassenzimmer, damit du schnell nach Hause gehen kannst."
     }
   },
   {
