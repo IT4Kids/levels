@@ -29,10 +29,10 @@
       "fr": "Labyrinth"
     },
     "description": {
-      "de": "Programmiere die Maus so, dass sie durch das Labyrinth den Weg zuerst zum Schl\u00fcssel und dann zum Tor findet.",
-      "en": "Programmiere die Maus so, dass sie durch das Labyrinth den Weg zuerst zum Schl\u00fcssel und dann zum Tor findet.",
-      "nl": "Programmiere die Maus so, dass sie durch das Labyrinth den Weg zuerst zum Schl\u00fcssel und dann zum Tor findet.",
-      "fr": "Programmiere die Maus so, dass sie durch das Labyrinth den Weg zuerst zum Schl\u00fcssel und dann zum Tor findet."
+      "de": "F\u00fchre die Maus durch das Labyrinth: Erst zum Schl\u00fcssel, dann zum Tor.",
+      "en": "F\u00fchre die Maus durch das Labyrinth: Erst zum Schl\u00fcssel, dann zum Tor.",
+      "nl": "F\u00fchre die Maus durch das Labyrinth: Erst zum Schl\u00fcssel, dann zum Tor.",
+      "fr": "F\u00fchre die Maus durch das Labyrinth: Erst zum Schl\u00fcssel, dann zum Tor."
     }
   },
   {
@@ -47,10 +47,10 @@
       "fr": "Codedetektiv 1"
     },
     "description": {
-      "de": "Finde die zwei Fehler aus dem Projekt Labyrinth und lerne dabei etwas \u00fcber die Fehlersuche.",
-      "en": "Finde die zwei Fehler aus dem Projekt Labyrinth und lerne dabei etwas \u00fcber die Fehlersuche.",
-      "nl": "Finde die zwei Fehler aus dem Projekt Labyrinth und lerne dabei etwas \u00fcber die Fehlersuche.",
-      "fr": "Finde die zwei Fehler aus dem Projekt Labyrinth und lerne dabei etwas \u00fcber die Fehlersuche."
+      "de": "Finde die drei Fehler aus dem Level Labyrinth und lerne dabei etwas \u00fcber die Fehlersuche.",
+      "en": "Finde die drei Fehler aus dem Level Labyrinth und lerne dabei etwas \u00fcber die Fehlersuche.",
+      "nl": "Finde die drei Fehler aus dem Level Labyrinth und lerne dabei etwas \u00fcber die Fehlersuche.",
+      "fr": "Finde die drei Fehler aus dem Level Labyrinth und lerne dabei etwas \u00fcber die Fehlersuche."
     }
   },
   {
@@ -65,10 +65,10 @@
       "fr": "Sternlabyrinth"
     },
     "description": {
-      "de": "Sammel das Herz, den Stern die Münze und den Schlüssel in der richtigen Reihenfolge ein.",
-      "en": "Sammel das Herz, den Stern die Münze und den Schlüssel in der richtigen Reihenfolge ein.",
-      "nl": "Sammel das Herz, den Stern die Münze und den Schlüssel in der richtigen Reihenfolge ein.",
-      "fr": "Sammel das Herz, den Stern die Münze und den Schlüssel in der richtigen Reihenfolge ein."
+      "de": "Sammle das Herz, den Stern, die M\u00fcnze und den Schl\u00fcssel in der richtigen Reihenfolge ein.",
+      "en": "Sammle das Herz, den Stern, die M\u00fcnze und den Schl\u00fcssel in der richtigen Reihenfolge ein.",
+      "nl": "Sammle das Herz, den Stern, die M\u00fcnze und den Schl\u00fcssel in der richtigen Reihenfolge ein.",
+      "fr": "Sammle das Herz, den Stern, die M\u00fcnze und den Schl\u00fcssel in der richtigen Reihenfolge ein."
     }
   },
   {
@@ -83,10 +83,10 @@
       "fr": "Reaktionstest"
     },
     "description": {
-      "de": "Kreiere einen eigenen Reaktionstest - Dr\u00fccke so schnell es geht die a-Taste sobald der Hintergrund sich \u00e4ndert!",
-      "en": "Kreiere einen eigenen Reaktionstest - Dr\u00fccke so schnell es geht die a-Taste sobald der Hintergrund sich \u00e4ndert!",
-      "nl": "Kreiere einen eigenen Reaktionstest - Dr\u00fccke so schnell es geht die a-Taste sobald der Hintergrund sich \u00e4ndert!",
-      "fr": "Kreiere einen eigenen Reaktionstest - Dr\u00fccke so schnell es geht die a-Taste sobald der Hintergrund sich \u00e4ndert!"
+      "de": "Dr\u00fccke so schnell es geht die Taste sobald der Hintergrund sich \u00e4ndert!",
+      "en": "Dr\u00fccke so schnell es geht die Taste sobald der Hintergrund sich \u00e4ndert!",
+      "nl": "Dr\u00fccke so schnell es geht die Taste sobald der Hintergrund sich \u00e4ndert!",
+      "fr": "Dr\u00fccke so schnell es geht die Taste sobald der Hintergrund sich \u00e4ndert!"
     }
   },
   {
@@ -119,10 +119,10 @@
       "fr": "Kaktus"
     },
     "description": {
-      "de": "Spring mit dem Drachen \u00FCber viele Kakteen.",
-      "en": "Spring mit dem Drachen \u00FCber viele Kakteen.",
-      "nl": "Spring mit dem Drachen \u00FCber viele Kakteen.",
-      "fr": "Spring mit dem Drachen \u00FCber viele Kakteen."
+      "de": "Springe mit dem Drachen \u00FCber so viele Kakteen wie m\u00f6glich.",
+      "en": "Springe mit dem Drachen \u00FCber so viele Kakteen wie m\u00f6glich.",
+      "nl": "Springe mit dem Drachen \u00FCber so viele Kakteen wie m\u00f6glich.",
+      "fr": "Springe mit dem Drachen \u00FCber so viele Kakteen wie m\u00f6glich."
     }
   },
   {
@@ -137,10 +137,10 @@
       "fr": "Flugstunde"
     },
     "description": {
-      "de": "Bewege die Biene auf der Blumenwiese hin und her. Bei jeder Farbe wird sie eine andere Figur zeichnen.",
-      "en": "Bewege die Biene auf der Blumenwiese hin und her. Bei jeder Farbe wird sie eine andere Figur zeichnen.",
-      "nl": "Bewege die Biene auf der Blumenwiese hin und her. Bei jeder Farbe wird sie eine andere Figur zeichnen.",
-      "fr": "Bewege die Biene auf der Blumenwiese hin und her. Bei jeder Farbe wird sie eine andere Figur zeichnen."
+      "de": "Bewege die Biene auf der Blumenwiese hin und her. Bei jeder Farbe wird sie eine anderes Kunstst\u00FCck vollbringen.",
+      "en": "Bewege die Biene auf der Blumenwiese hin und her. Bei jeder Farbe wird sie eine anderes Kunstst\u00FCck vollbringen.",
+      "nl": "Bewege die Biene auf der Blumenwiese hin und her. Bei jeder Farbe wird sie eine anderes Kunstst\u00FCck vollbringen.",
+      "fr": "Bewege die Biene auf der Blumenwiese hin und her. Bei jeder Farbe wird sie eine anderes Kunstst\u00FCck vollbringen."
     }
   },
   {
@@ -173,10 +173,10 @@
       "fr": "Bananenzauber"
     },
     "description": {
-      "de": "Der Zauberer zaubert Bananen herbei, die sich zuf\u00e4llig über den Bildschirm verteilen. Lerne, mit Zufallszahlen umzugehen und Nachrichten zu verschicken.",
-      "en": "Der Zauberer zaubert Bananen herbei, die sich zuf\u00e4llig über den Bildschirm verteilen. Lerne, mit Zufallszahlen umzugehen und Nachrichten zu verschicken.",
-      "nl": "Der Zauberer zaubert Bananen herbei, die sich zuf\u00e4llig über den Bildschirm verteilen. Lerne, mit Zufallszahlen umzugehen und Nachrichten zu verschicken.",
-      "fr": "Der Zauberer zaubert Bananen herbei, die sich zuf\u00e4llig über den Bildschirm verteilen. Lerne, mit Zufallszahlen umzugehen und Nachrichten zu verschicken."
+      "de": "Der Zauberer zaubert Bananen herbei, die sich zuf\u00e4llig \u00fcber den Bildschirm verteilen. Lerne, mit Zufallszahlen umzugehen und Nachrichten zu verschicken.",
+      "en": "Der Zauberer zaubert Bananen herbei, die sich zuf\u00e4llig \u00fcber den Bildschirm verteilen. Lerne, mit Zufallszahlen umzugehen und Nachrichten zu verschicken.",
+      "nl": "Der Zauberer zaubert Bananen herbei, die sich zuf\u00e4llig \u00fcber den Bildschirm verteilen. Lerne, mit Zufallszahlen umzugehen und Nachrichten zu verschicken.",
+      "fr": "Der Zauberer zaubert Bananen herbei, die sich zuf\u00e4llig \u00fcber den Bildschirm verteilen. Lerne, mit Zufallszahlen umzugehen und Nachrichten zu verschicken."
     }
   },
   {
@@ -191,10 +191,10 @@
       "fr": "Hase und Igel"
     },
     "description": {
-      "de": "Hase und Igel laufen um die Wette. Aber der Igel hat ein paar Tricks im \u00c4rmel...",
-      "en": "Hase und Igel laufen um die Wette. Aber der Igel hat ein paar Tricks im \u00c4rmel...",
-      "nl": "Hase und Igel laufen um die Wette. Aber der Igel hat ein paar Tricks im \u00c4rmel...",
-      "fr": "Hase und Igel laufen um die Wette. Aber der Igel hat ein paar Tricks im \u00c4rmel..."
+      "de": "Hase und Igel laufen um die Wette. Aber der Igel hat ein paar Tricks auf Lager...",
+      "en": "Hase und Igel laufen um die Wette. Aber der Igel hat ein paar Tricks auf Lager...",
+      "nl": "Hase und Igel laufen um die Wette. Aber der Igel hat ein paar Tricks auf Lager...",
+      "fr": "Hase und Igel laufen um die Wette. Aber der Igel hat ein paar Tricks auf Lager..."
     }
   },
   {
@@ -227,10 +227,10 @@
       "fr": "Katze jagt dich"
     },
     "description": {
-      "de": "Hilf der Maus der Katze zu entkommen. Aber pass auf, die Katze hat schon ihren Freunden bescheid gesagt...",
-      "en": "Hilf der Maus der Katze zu entkommen. Aber pass auf, die Katze hat schon ihren Freunden bescheid gesagt...",
-      "nl": "Hilf der Maus der Katze zu entkommen. Aber pass auf, die Katze hat schon ihren Freunden bescheid gesagt...",
-      "fr": "Hilf der Maus der Katze zu entkommen. Aber pass auf, die Katze hat schon ihren Freunden bescheid gesagt..."
+      "de": "Hilf der Maus der Katze zu entkommen. Aber pass auf, die Katze hat schon ihren Freunden Bescheid gesagt...",
+      "en": "Hilf der Maus der Katze zu entkommen. Aber pass auf, die Katze hat schon ihren Freunden Bescheid gesagt...",
+      "nl": "Hilf der Maus der Katze zu entkommen. Aber pass auf, die Katze hat schon ihren Freunden Bescheid gesagt...",
+      "fr": "Hilf der Maus der Katze zu entkommen. Aber pass auf, die Katze hat schon ihren Freunden Bescheid gesagt..."
     }
   },
   {
@@ -245,10 +245,10 @@
       "fr": "Professor Tanzalarm"
     },
     "description": {
-      "de": "Die Disco startet und Professor Tanzalarm eröffnet die Tanzfl\u00e4che. Kannst du ihm helfen ein neuen Rekord aufzustellen?",
-      "en": "Die Disco startet und Professor Tanzalarm eröffnet die Tanzfl\u00e4che. Kannst du ihm helfen ein neuen Rekord aufzustellen?",
-      "nl": "Die Disco startet und Professor Tanzalarm eröffnet die Tanzfl\u00e4che. Kannst du ihm helfen ein neuen Rekord aufzustellen?",
-      "fr": "Die Disco startet und Professor Tanzalarm eröffnet die Tanzfl\u00e4che. Kannst du ihm helfen ein neuen Rekord aufzustellen?"
+      "de": "Die Disco startet und Professor Tanzalarm er\u00f6ffnet die Tanzfl\u00e4che. Kannst du ihm helfen, einen neuen Rekord aufzustellen?",
+      "en": "Die Disco startet und Professor Tanzalarm er\u00f6ffnet die Tanzfl\u00e4che. Kannst du ihm helfen, einen neuen Rekord aufzustellen?",
+      "nl": "Die Disco startet und Professor Tanzalarm er\u00f6ffnet die Tanzfl\u00e4che. Kannst du ihm helfen, einen neuen Rekord aufzustellen?",
+      "fr": "Die Disco startet und Professor Tanzalarm er\u00f6ffnet die Tanzfl\u00e4che. Kannst du ihm helfen, einen neuen Rekord aufzustellen?"
     }
   },
   {
@@ -281,10 +281,10 @@
       "fr": "Tanzen"
     },
     "description": {
-      "de": "Die Ballerina will hoch durch die Luft fliegen! Hilf ihr bei dem Tanzschritt.",
-      "en": "Die Ballerina will hoch durch die Luft fliegen! Hilf ihr bei dem Tanzschritt.",
-      "nl": "Die Ballerina will hoch durch die Luft fliegen! Hilf ihr bei dem Tanzschritt.",
-      "fr": "Die Ballerina will hoch durch die Luft fliegen! Hilf ihr bei dem Tanzschritt."
+      "de": "Die Ballerina m\u00f6chte durch die Luft gewirbelt werden! Hilf ihr bei den Tanzschritten.",
+      "en": "Die Ballerina m\u00f6chte durch die Luft gewirbelt werden! Hilf ihr bei den Tanzschritten.",
+      "nl": "Die Ballerina m\u00f6chte durch die Luft gewirbelt werden! Hilf ihr bei den Tanzschritten.",
+      "fr": "Die Ballerina m\u00f6chte durch die Luft gewirbelt werden! Hilf ihr bei den Tanzschritten."
     }
   },
   {
@@ -299,10 +299,10 @@
       "fr": "Jonglieren"
     },
     "description": {
-      "de": "Jongliere die beiden B\u00e4lle bis sie die Decke erreichen.",
-      "en": "Jongliere die beiden B\u00e4lle bis sie die Decke erreichen.",
-      "nl": "Jongliere die beiden B\u00e4lle bis sie die Decke erreichen.",
-      "fr": "Jongliere die beiden B\u00e4lle bis sie die Decke erreichen."
+      "de": "Jongliere die beiden B\u00e4lle, bis sie die Decke erreichen.",
+      "en": "Jongliere die beiden B\u00e4lle, bis sie die Decke erreichen.",
+      "nl": "Jongliere die beiden B\u00e4lle, bis sie die Decke erreichen.",
+      "fr": "Jongliere die beiden B\u00e4lle, bis sie die Decke erreichen."
     }
   },
   {
@@ -325,14 +325,14 @@
   },
   {
     "rating": 2,
-    "filename": "Was_soll_ich_anziehen-Wetter_Edition.cubi",
+    "filename": "Wettervorhersage.cubi",
     "solution_exists": true,
     "template_exists": true,
     "title": {
-      "de": "Was soll ich anziehen - Wetter Edition",
-      "en": "Was soll ich anziehen - Wetter Edition",
-      "nl": "Was soll ich anziehen - Wetter Edition",
-      "fr": "Was soll ich anziehen - Wetter Edition"
+      "de": "Wettervorhersage",
+      "en": "Wettervorhersage",
+      "nl": "Wettervorhersage",
+      "fr": "Wettervorhersage"
     },
     "description": {
       "de": "Das Wetter spielt verr\u00FCckt! Hilf Cubi die richtige Kleidung zu finden.",
@@ -353,10 +353,10 @@
       "fr": "Pacman"
     },
     "description": {
-      "de": "Pacman ist hungrig. Hilf ihm alle \u00C4pfel einzusammeln, aber pass vor den W\u00FCnden auf.",
-      "en": "Pacman ist hungrig. Hilf ihm alle \u00C4pfel einzusammeln, aber pass vor den W\u00FCnden auf.",
-      "nl": "Pacman ist hungrig. Hilf ihm alle \u00C4pfel einzusammeln, aber pass vor den W\u00FCnden auf.",
-      "fr": "Pacman ist hungrig. Hilf ihm alle \u00C4pfel einzusammeln, aber pass vor den W\u00FCnden auf."
+      "de": "Pacman ist hungrig. Hilf ihm alle \u00C4pfel einzusammeln, aber pass vor den W\u00e4nden auf.",
+      "en": "Pacman ist hungrig. Hilf ihm alle \u00C4pfel einzusammeln, aber pass vor den W\u00e4nden auf.",
+      "nl": "Pacman ist hungrig. Hilf ihm alle \u00C4pfel einzusammeln, aber pass vor den W\u00e4nden auf.",
+      "fr": "Pacman ist hungrig. Hilf ihm alle \u00C4pfel einzusammeln, aber pass vor den W\u00e4nden auf."
     }
   },
   {
@@ -371,10 +371,10 @@
       "fr": "Rotes Auto"
     },
     "description": {
-      "de": "Das rote Auto muss schnell aus dem zugeparkten Parkplatz entkommen! Kannst du ihm helfen?",
-      "en": "Das rote Auto muss schnell aus dem zugeparkten Parkplatz entkommen! Kannst du ihm helfen?",
-      "nl": "Das rote Auto muss schnell aus dem zugeparkten Parkplatz entkommen! Kannst du ihm helfen?",
-      "fr": "Das rote Auto muss schnell aus dem zugeparkten Parkplatz entkommen! Kannst du ihm helfen?"
+      "de": "Das rote Auto muss schnell aus dem zugeparkten Parkplatz entkommen! Kannst du helfen?",
+      "en": "Das rote Auto muss schnell aus dem zugeparkten Parkplatz entkommen! Kannst du helfen?",
+      "nl": "Das rote Auto muss schnell aus dem zugeparkten Parkplatz entkommen! Kannst du helfen?",
+      "fr": "Das rote Auto muss schnell aus dem zugeparkten Parkplatz entkommen! Kannst du helfen?"
     }
   },
   {
@@ -389,10 +389,10 @@
       "fr": "Abschlusstest"
     },
     "description": {
-      "de": "Du hast Tafeldienst, Pflanzendienst und Ordnungsdienst. Wisch die Tafel, gie\u00dfe die Pflanzen im Klassenzimmer und beseitige das Chaos im Klassenzimmer, damit du schnell nach Hause gehen kannst.",
-      "en": "Du hast Tafeldienst, Pflanzendienst und Ordnungsdienst. Wisch die Tafel, gie\u00dfe die Pflanzen im Klassenzimmer und beseitige das Chaos im Klassenzimmer, damit du schnell nach Hause gehen kannst.",
-      "nl": "Du hast Tafeldienst, Pflanzendienst und Ordnungsdienst. Wisch die Tafel, gie\u00dfe die Pflanzen im Klassenzimmer und beseitige das Chaos im Klassenzimmer, damit du schnell nach Hause gehen kannst.",
-      "fr": "Du hast Tafeldienst, Pflanzendienst und Ordnungsdienst. Wisch die Tafel, gie\u00dfe die Pflanzen im Klassenzimmer und beseitige das Chaos im Klassenzimmer, damit du schnell nach Hause gehen kannst."
+      "de": "Du hast Tafeldienst, Pflanzendienst und Ordnungsdienst. Wische die Tafel, gie\u00dfe die Pflanzen im Klassenzimmer und beseitige das Chaos im Klassenzimmer, damit du schnell nach Hause gehen kannst.",
+      "en": "Du hast Tafeldienst, Pflanzendienst und Ordnungsdienst. Wische die Tafel, gie\u00dfe die Pflanzen im Klassenzimmer und beseitige das Chaos im Klassenzimmer, damit du schnell nach Hause gehen kannst.",
+      "nl": "Du hast Tafeldienst, Pflanzendienst und Ordnungsdienst. Wische die Tafel, gie\u00dfe die Pflanzen im Klassenzimmer und beseitige das Chaos im Klassenzimmer, damit du schnell nach Hause gehen kannst.",
+      "fr": "Du hast Tafeldienst, Pflanzendienst und Ordnungsdienst. Wische die Tafel, gie\u00dfe die Pflanzen im Klassenzimmer und beseitige das Chaos im Klassenzimmer, damit du schnell nach Hause gehen kannst."
     }
   },
   {
@@ -443,10 +443,10 @@
       "fr": "Imposter"
     },
     "description": {
-      "de": "Unter den Schmetterlingen befindet sich ein Imposter! Kannst du ihn finden?",
-      "en": "Unter den Schmetterlingen befindet sich ein Imposter! Kannst du ihn finden?",
-      "nl": "Unter den Schmetterlingen befindet sich ein Imposter! Kannst du ihn finden?",
-      "fr": "Unter den Schmetterlingen befindet sich ein Imposter! Kannst du ihn finden?"
+      "de": "Unter den Bienen befindet sich ein Imposter! Kannst du ihn finden?",
+      "en": "Unter den Bienen befindet sich ein Imposter! Kannst du ihn finden?",
+      "nl": "Unter den Bienen befindet sich ein Imposter! Kannst du ihn finden?",
+      "fr": "Unter den Bienen befindet sich ein Imposter! Kannst du ihn finden?"
     }
   },
   {
@@ -479,10 +479,10 @@
       "fr": "Aquarium"
     },
     "description": {
-      "de": "Erstelle ein buntes Aquarium, in dem verschiedene Fische schwimmen. Steuere dich durch das Aquarium. Aber Achtung, dass du nicht gef\u00e4hrlichen Meeresbewohnern begegnest!",
-      "en": "Erstelle ein buntes Aquarium, in dem verschiedene Fische schwimmen. Steuere dich durch das Aquarium. Aber Achtung, dass du nicht gef\u00e4hrlichen Meeresbewohnern begegnest!",
-      "nl": "Erstelle ein buntes Aquarium, in dem verschiedene Fische schwimmen. Steuere dich durch das Aquarium. Aber Achtung, dass du nicht gef\u00e4hrlichen Meeresbewohnern begegnest!",
-      "fr": "Erstelle ein buntes Aquarium, in dem verschiedene Fische schwimmen. Steuere dich durch das Aquarium. Aber Achtung, dass du nicht gef\u00e4hrlichen Meeresbewohnern begegnest!"
+      "de": "Erstelle ein buntes Aquarium, in dem verschiedene Fische schwimmen. Aber achte darauf, dass du nicht mit den gef\u00e4hrlichen Meeresbewohnern zusammenst\u00f6ßt!",
+      "en": "Erstelle ein buntes Aquarium, in dem verschiedene Fische schwimmen. Aber achte darauf, dass du nicht mit den gef\u00e4hrlichen Meeresbewohnern zusammenst\u00f6ßt!",
+      "nl": "Erstelle ein buntes Aquarium, in dem verschiedene Fische schwimmen. Aber achte darauf, dass du nicht mit den gef\u00e4hrlichen Meeresbewohnern zusammenst\u00f6ßt!",
+      "fr": "Erstelle ein buntes Aquarium, in dem verschiedene Fische schwimmen. Aber achte darauf, dass du nicht mit den gef\u00e4hrlichen Meeresbewohnern zusammenst\u00f6ßt!"
     }
   },
   {
@@ -497,10 +497,10 @@
       "fr": "Codedetektiv 2"
     },
     "description": {
-      "de": "Bist du ein echter Codedetektiv und findest alle Fehler, die sich im Projekt Aquarium versteckt haben?",
-      "en": "Bist du ein echter Codedetektiv und findest alle Fehler, die sich im Projekt Aquarium versteckt haben?",
-      "nl": "Bist du ein echter Codedetektiv und findest alle Fehler, die sich im Projekt Aquarium versteckt haben?",
-      "fr": "Bist du ein echter Codedetektiv und findest alle Fehler, die sich im Projekt Aquarium versteckt haben?"
+      "de": "Bist du ein echter Codedetektiv und findest alle Fehler, die sich im Level \"Aquarium\" versteckt haben?",
+      "en": "Bist du ein echter Codedetektiv und findest alle Fehler, die sich im Level \"Aquarium\" versteckt haben?",
+      "nl": "Bist du ein echter Codedetektiv und findest alle Fehler, die sich im Level \"Aquarium\" versteckt haben?",
+      "fr": "Bist du ein echter Codedetektiv und findest alle Fehler, die sich im Level \"Aquarium\" versteckt haben?"
     }
   },
   {
@@ -515,10 +515,10 @@
       "fr": "Autorennen"
     },
     "description": {
-      "de": "Programmiere ein Auto und lass es \u00fcber die Rennstrecke flitzen.",
-      "en": "Programmiere ein Auto und lass es \u00fcber die Rennstrecke flitzen.",
-      "nl": "Programmiere ein Auto und lass es \u00fcber die Rennstrecke flitzen.",
-      "fr": "Programmiere ein Auto und lass es \u00fcber die Rennstrecke flitzen."
+      "de": "Dein Fahrzeug f\u00e4hrt auf einer Rennstrecke um die Wette. Steuere das Auto so schnell es geht ins Ziel, um eine Bestzeit aufzustellen.",
+      "en": "Dein Fahrzeug f\u00e4hrt auf einer Rennstrecke um die Wette. Steuere das Auto so schnell es geht ins Ziel, um eine Bestzeit aufzustellen.",
+      "nl": "Dein Fahrzeug f\u00e4hrt auf einer Rennstrecke um die Wette. Steuere das Auto so schnell es geht ins Ziel, um eine Bestzeit aufzustellen.",
+      "fr": "Dein Fahrzeug f\u00e4hrt auf einer Rennstrecke um die Wette. Steuere das Auto so schnell es geht ins Ziel, um eine Bestzeit aufzustellen."
     }
   },
   {
@@ -533,10 +533,10 @@
       "fr": "Codedetektiv 3"
     },
     "description": {
-      "de": "Finde die beiden Fehler aus dem Level Autorennen und werde zum Fehlersuch-Experten.",
-      "en": "Finde die beiden Fehler aus dem Level Autorennen und werde zum Fehlersuch-Experten.",
-      "nl": "Finde die beiden Fehler aus dem Level Autorennen und werde zum Fehlersuch-Experten.",
-      "fr": "Finde die beiden Fehler aus dem Level Autorennen und werde zum Fehlersuch-Experten."
+      "de": "Finde die Fehler aus dem Level Autorennen und werde zum Fehlersuch-Experten.",
+      "en": "Finde die Fehler aus dem Level Autorennen und werde zum Fehlersuch-Experten.",
+      "nl": "Finde die Fehler aus dem Level Autorennen und werde zum Fehlersuch-Experten.",
+      "fr": "Finde die Fehler aus dem Level Autorennen und werde zum Fehlersuch-Experten."
     }
   },
   {
@@ -551,10 +551,10 @@
       "fr": "Helikopter"
     },
     "description": {
-      "de": "Weiche mit dem Helikopter einem Ansturm von Flugzeugen aus. Der Helikopter kann mit den Pfeiltasten in alle Richtungen auf dem ganzen Spielfeld bewegt werden.",
-      "en": "Weiche mit dem Helikopter einem Ansturm von Flugzeugen aus. Der Helikopter kann mit den Pfeiltasten in alle Richtungen auf dem ganzen Spielfeld bewegt werden.",
-      "nl": "Weiche mit dem Helikopter einem Ansturm von Flugzeugen aus. Der Helikopter kann mit den Pfeiltasten in alle Richtungen auf dem ganzen Spielfeld bewegt werden.",
-      "fr": "Weiche mit dem Helikopter einem Ansturm von Flugzeugen aus. Der Helikopter kann mit den Pfeiltasten in alle Richtungen auf dem ganzen Spielfeld bewegt werden."
+      "de": "Weiche mit dem Helikopter einem Ansturm von Flugzeugen aus, w\u00e4hrend du versuchst den rechten Rand zu erreichen. Der Helikopter kann mit den Pfeiltasten in alle Richtungen auf dem ganzen Spielfeld bewegt werden.",
+      "en": "Weiche mit dem Helikopter einem Ansturm von Flugzeugen aus, w\u00e4hrend du versuchst den rechten Rand zu erreichen. Der Helikopter kann mit den Pfeiltasten in alle Richtungen auf dem ganzen Spielfeld bewegt werden.",
+      "nl": "Weiche mit dem Helikopter einem Ansturm von Flugzeugen aus, w\u00e4hrend du versuchst den rechten Rand zu erreichen. Der Helikopter kann mit den Pfeiltasten in alle Richtungen auf dem ganzen Spielfeld bewegt werden.",
+      "fr": "Weiche mit dem Helikopter einem Ansturm von Flugzeugen aus, w\u00e4hrend du versuchst den rechten Rand zu erreichen. Der Helikopter kann mit den Pfeiltasten in alle Richtungen auf dem ganzen Spielfeld bewegt werden."
     }
   },
   {
@@ -569,10 +569,10 @@
       "fr": "Trampolin"
     },
     "description": {
-      "de": "Lasse den Pinguin auf dem Trampolin immer h\u00f6her und h\u00f6her in den Himmel springen. Kannst du ihm sogar einen Looping beibringen?",
-      "en": "Lasse den Pinguin auf dem Trampolin immer h\u00f6her und h\u00f6her in den Himmel springen. Kannst du ihm sogar einen Looping beibringen?",
-      "nl": "Lasse den Pinguin auf dem Trampolin immer h\u00f6her und h\u00f6her in den Himmel springen. Kannst du ihm sogar einen Looping beibringen?",
-      "fr": "Lasse den Pinguin auf dem Trampolin immer h\u00f6her und h\u00f6her in den Himmel springen. Kannst du ihm sogar einen Looping beibringen?"
+      "de": "Lasse den Pinguin auf dem Trampolin immer h\u00f6her und h\u00f6her in den Himmel springen. Kannst du ihm sogar einen Salto beibringen?",
+      "en": "Lasse den Pinguin auf dem Trampolin immer h\u00f6her und h\u00f6her in den Himmel springen. Kannst du ihm sogar einen Salto beibringen?",
+      "nl": "Lasse den Pinguin auf dem Trampolin immer h\u00f6her und h\u00f6her in den Himmel springen. Kannst du ihm sogar einen Salto beibringen?",
+      "fr": "Lasse den Pinguin auf dem Trampolin immer h\u00f6her und h\u00f6her in den Himmel springen. Kannst du ihm sogar einen Salto beibringen?"
     }
   },
   {
