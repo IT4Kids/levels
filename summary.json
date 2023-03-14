@@ -55,24 +55,6 @@
   },
   {
     "rating": 1,
-    "filename": "Maulwurf.cubi",
-    "solution_exists": true,
-    "template_exists": true,
-    "title": {
-      "de": "Maulwurf",
-      "en": "Maulwurf",
-      "nl": "Maulwurf",
-      "fr": "Maulwurf"
-    },
-    "description": {
-      "de": "Die zwei Maulw\u00fcrfe sind auf dem Weg durch ihre Tunnel zu den Regenw\u00fcrmern.",
-      "en": "Die zwei Maulw\u00fcrfe sind auf dem Weg durch ihre Tunnel zu den Regenw\u00fcrmern.",
-      "nl": "Die zwei Maulw\u00fcrfe sind auf dem Weg durch ihre Tunnel zu den Regenw\u00fcrmern.",
-      "fr": "Die zwei Maulw\u00fcrfe sind auf dem Weg durch ihre Tunnel zu den Regenw\u00fcrmern."
-    }
-  },
-  {
-    "rating": 1,
     "filename": "Codedetektiv_1.cubi",
     "solution_exists": false,
     "template_exists": true,
@@ -87,6 +69,24 @@
       "en": "Finde die drei Fehler aus dem Level Labyrinth und lerne dabei etwas \u00fcber die Fehlersuche.",
       "nl": "Finde die drei Fehler aus dem Level Labyrinth und lerne dabei etwas \u00fcber die Fehlersuche.",
       "fr": "Finde die drei Fehler aus dem Level Labyrinth und lerne dabei etwas \u00fcber die Fehlersuche."
+    }
+  },
+  {
+    "rating": 1,
+    "filename": "Maulwurf.cubi",
+    "solution_exists": true,
+    "template_exists": true,
+    "title": {
+      "de": "Maulwurf",
+      "en": "Maulwurf",
+      "nl": "Maulwurf",
+      "fr": "Maulwurf"
+    },
+    "description": {
+      "de": "Die zwei Maulw\u00fcrfe sind auf dem Weg durch ihre Tunnel zu den Regenw\u00fcrmern.",
+      "en": "Die zwei Maulw\u00fcrfe sind auf dem Weg durch ihre Tunnel zu den Regenw\u00fcrmern.",
+      "nl": "Die zwei Maulw\u00fcrfe sind auf dem Weg durch ihre Tunnel zu den Regenw\u00fcrmern.",
+      "fr": "Die zwei Maulw\u00fcrfe sind auf dem Weg durch ihre Tunnel zu den Regenw\u00fcrmern."
     }
   },
   {
@@ -231,24 +231,6 @@
       "en": "Bewege die Biene auf der bunten Blumenwiese und lass sie dir sagen, welche Farbe sie gerade f\u00fchlt.",
       "nl": "Bewege die Biene auf der bunten Blumenwiese und lass sie dir sagen, welche Farbe sie gerade f\u00fchlt.",
       "fr": "Bewege die Biene auf der bunten Blumenwiese und lass sie dir sagen, welche Farbe sie gerade f\u00fchlt."
-    }
-  },
-  {
-    "rating": 1,
-    "filename": "Trampolin.cubi",
-    "solution_exists": true,
-    "template_exists": true,
-    "title": {
-      "de": "Trampolin",
-      "en": "Trampolin",
-      "nl": "Trampolin",
-      "fr": "Trampolin"
-    },
-    "description": {
-      "de": "Lasse den Pinguin auf dem Trampolin immer h\u00f6her und h\u00f6her in den Himmel springen. Kannst du ihm sogar einen Salto beibringen?",
-      "en": "Lasse den Pinguin auf dem Trampolin immer h\u00f6her und h\u00f6her in den Himmel springen. Kannst du ihm sogar einen Salto beibringen?",
-      "nl": "Lasse den Pinguin auf dem Trampolin immer h\u00f6her und h\u00f6her in den Himmel springen. Kannst du ihm sogar einen Salto beibringen?",
-      "fr": "Lasse den Pinguin auf dem Trampolin immer h\u00f6her und h\u00f6her in den Himmel springen. Kannst du ihm sogar einen Salto beibringen?"
     }
   },
   {
@@ -789,24 +771,6 @@
       "en": "Das Wetter spielt verr\u00FCckt! Hilf Cubi die richtige Kleidung zu finden.",
       "nl": "Das Wetter spielt verr\u00FCckt! Hilf Cubi die richtige Kleidung zu finden.",
       "fr": "Das Wetter spielt verr\u00FCckt! Hilf Cubi die richtige Kleidung zu finden."
-    }
-  },
-  {
-    "rating": 3,
-    "filename": "Tic_Tac_Toe.cubi",
-    "solution_exists": true,
-    "template_exists": true,
-    "title": {
-      "de": "Tic Tac Toe",
-      "en": "Tic Tac Toe",
-      "nl": "Tic Tac Toe",
-      "fr": "Tic Tac Toe"
-    },
-    "description": {
-      "de": "Fordere deinen Gegner in einer Runde Tic Tac Toe heraus. Wer bekommt als erstes drei seiner Spielsteine in eine Reihe gesetzt?",
-      "en": "Fordere deinen Gegner in einer Runde Tic Tac Toe heraus. Wer bekommt als erstes drei seiner Spielsteine in eine Reihe gesetzt?",
-      "nl": "Fordere deinen Gegner in einer Runde Tic Tac Toe heraus. Wer bekommt als erstes drei seiner Spielsteine in eine Reihe gesetzt?",
-      "fr": "Fordere deinen Gegner in einer Runde Tic Tac Toe heraus. Wer bekommt als erstes drei seiner Spielsteine in eine Reihe gesetzt?"
     }
   },
   {
