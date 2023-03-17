@@ -239,10 +239,10 @@
     "solution_exists": true,
     "template_exists": true,
     "title": {
-      "de": "Katze fängt Maus",
-      "en": "Katze fängt Maus",
-      "nl": "Katze fängt Maus",
-      "fr": "Katze fängt Maus"
+      "de": "Katze fängt Maus (nur mit Tastatur spielbar)",
+      "en": "Katze fängt Maus (nur mit Tastatur spielbar)",
+      "nl": "Katze fängt Maus (nur mit Tastatur spielbar)",
+      "fr": "Katze fängt Maus (nur mit Tastatur spielbar)"
     },
     "description": {
       "de": "Fang die Maus! Errate, wo sie als n\u00e4chstes hingehen wird und lauere dort auf die Maus.",
