@@ -28,7 +28,6 @@ jobs:
     - name: Sync files
       run: |
         aws s3 cp ./summary.json s3://levels.i4k/summary.json
-        aws s3 cp ./dev_summary.link s3://levels.i4k/dev_summary.link
         aws s3 sync --follow-symlinks --delete ./Solutions s3://levels.i4k/Solutions
         aws s3 sync --follow-symlinks --delete ./Templates s3://levels.i4k/Templates
 
