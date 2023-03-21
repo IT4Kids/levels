@@ -16,13 +16,17 @@ def main():
                 "de": d["title"],
                 "en": d["title"],
                 "nl": d["title"],
-                "fr": d["title"]
+                "fr": d["title"],
+                "es": d["title"],
+                "ua": d["title"],
             },
             "description": {
                 "de": d["description"],
                 "en": d["description"],
                 "nl": d["description"],
-                "fr": d["description"]
+                "fr": d["description"],
+                "es": d["description"],
+                "ua": d["description"],
             }
         }
         new.append(temp)
