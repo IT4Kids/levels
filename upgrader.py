@@ -3,7 +3,7 @@
 import os
 import json
 
-latestVersion = '1.3.0'
+latestVersion = '2.7.3'
 errors = 0
 
 
@@ -87,6 +87,20 @@ def upgradeLevel(version, level):
             ws['sprite']['isInput'] = False
             ws['sprite']['layer'] = 1
             ws['sprite']['startConfiguration']['layer'] = -1
+    if (version == '1.3.0'):
+        version = '2.7.2'
+        level['projectdata']['tutorial'] = {
+            'currentPageIndex': 0,
+            'pages': [],
+            'tutorialActive': False
+        }
+        for ws in level['projectdata']['workspaces']:
+            ws['sprite']['allowCostumeEdit'] = True
+    if (version == '2.7.2'):
+        version = '2.7.3'
+        level['projectdata']['settings']['allowNewSprite'] = True
+        for ws in level['projectdata']['workspaces']:
+            ws['sprite']['deletable'] = False
     level['softwaredata']['version'] = version
     data = json.dumps(level, separators=(',', ':'), ensure_ascii=False)
     hash = generateHash(data)
