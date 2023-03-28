@@ -4,6 +4,7 @@
     "filename": "Bauernhof.cubi",
     "solution_exists": true,
     "template_exists": true,
+    "tutorial_exists": false,
     "title": {
       "de": "Bauernhof",
       "en": "Bauernhof",
@@ -26,6 +27,7 @@
     "filename": "Maus_zum_Kaese.cubi",
     "solution_exists": true,
     "template_exists": true,
+    "tutorial_exists": false,
     "title": {
       "de": "Maus zum K\u00e4se",
       "en": "Maus zum K\u00e4se",
@@ -48,6 +50,7 @@
     "filename": "Labyrinth.cubi",
     "solution_exists": true,
     "template_exists": true,
+    "tutorial_exists": false,
     "title": {
       "de": "Labyrinth",
       "en": "Labyrinth",
@@ -70,6 +73,7 @@
     "filename": "Codedetektiv_1.cubi",
     "solution_exists": false,
     "template_exists": true,
+    "tutorial_exists": false,
     "title": {
       "de": "Codedetektiv 1",
       "en": "Codedetektiv 1",
@@ -92,6 +96,7 @@
     "filename": "Maulwurf.cubi",
     "solution_exists": true,
     "template_exists": true,
+    "tutorial_exists": false,
     "title": {
       "de": "Maulwurf",
       "en": "Maulwurf",
@@ -114,6 +119,7 @@
     "filename": "Sternlabyrinth.cubi",
     "solution_exists": true,
     "template_exists": true,
+    "tutorial_exists": false,
     "title": {
       "de": "Sternlabyrinth",
       "en": "Sternlabyrinth",
@@ -136,6 +142,7 @@
     "filename": "Karneval.cubi",
     "solution_exists": true,
     "template_exists": true,
+    "tutorial_exists": false,
     "title": {
       "de": "Karneval",
       "en": "Karneval",
@@ -158,6 +165,7 @@
     "filename": "Reaktionstest.cubi",
     "solution_exists": true,
     "template_exists": true,
+    "tutorial_exists": false,
     "title": {
       "de": "Reaktionstest",
       "en": "Reaktionstest",
@@ -180,6 +188,7 @@
     "filename": "Klassendienst.cubi",
     "solution_exists": true,
     "template_exists": true,
+    "tutorial_exists": false,
     "title": {
       "de": "Klassendienst",
       "en": "Klassendienst",
@@ -202,6 +211,7 @@
     "filename": "Hase_und_Igel.cubi",
     "solution_exists": true,
     "template_exists": true,
+    "tutorial_exists": false,
     "title": {
       "de": "Hase und Igel",
       "en": "Hase und Igel",
@@ -224,6 +234,7 @@
     "filename": "Ballon_platzen.cubi",
     "solution_exists": true,
     "template_exists": true,
+    "tutorial_exists": false,
     "title": {
       "de": "Ballon platzen",
       "en": "Ballon platzen",
@@ -246,6 +257,7 @@
     "filename": "Flugstunde.cubi",
     "solution_exists": true,
     "template_exists": true,
+    "tutorial_exists": false,
     "title": {
       "de": "Flugstunde",
       "en": "Flugstunde",
@@ -268,6 +280,7 @@
     "filename": "Farben.cubi",
     "solution_exists": true,
     "template_exists": true,
+    "tutorial_exists": false,
     "title": {
       "de": "Farben",
       "en": "Farben",
@@ -290,6 +303,7 @@
     "filename": "Katze_faengt_Maus.cubi",
     "solution_exists": true,
     "template_exists": true,
+    "tutorial_exists": false,
     "title": {
       "de": "Katze f\u00e4ngt Maus (nur mit Tastatur spielbar)",
       "en": "Katze f\u00e4ngt Maus (nur mit Tastatur spielbar)",
@@ -312,6 +326,7 @@
     "filename": "Was_soll_ich_anziehen.cubi",
     "solution_exists": true,
     "template_exists": true,
+    "tutorial_exists": false,
     "title": {
       "de": "Was soll ich anziehen?",
       "en": "Was soll ich anziehen?",
@@ -334,6 +349,7 @@
     "filename": "Buchstaben.cubi",
     "solution_exists": true,
     "template_exists": true,
+    "tutorial_exists": false,
     "title": {
       "de": "Buchstaben",
       "en": "Buchstaben",
@@ -356,6 +372,7 @@
     "filename": "Kaktus.cubi",
     "solution_exists": true,
     "template_exists": true,
+    "tutorial_exists": false,
     "title": {
       "de": "Kaktus",
       "en": "Kaktus",
@@ -378,6 +395,7 @@
     "filename": "Aquarium.cubi",
     "solution_exists": true,
     "template_exists": true,
+    "tutorial_exists": false,
     "title": {
       "de": "Aquarium",
       "en": "Aquarium",
@@ -400,6 +418,7 @@
     "filename": "Codedetektiv_2.cubi",
     "solution_exists": false,
     "template_exists": true,
+    "tutorial_exists": false,
     "title": {
       "de": "Codedetektiv 2",
       "en": "Codedetektiv 2",
@@ -422,6 +441,7 @@
     "filename": "Wettrennen.cubi",
     "solution_exists": true,
     "template_exists": true,
+    "tutorial_exists": false,
     "title": {
       "de": "Wettrennen",
       "en": "Wettrennen",
@@ -444,6 +464,7 @@
     "filename": "Tanzen.cubi",
     "solution_exists": true,
     "template_exists": true,
+    "tutorial_exists": false,
     "title": {
       "de": "Tanzen",
       "en": "Tanzen",
@@ -466,6 +487,7 @@
     "filename": "Imposter.cubi",
     "solution_exists": true,
     "template_exists": true,
+    "tutorial_exists": false,
     "title": {
       "de": "Imposter",
       "en": "Imposter",
@@ -488,6 +510,7 @@
     "filename": "Geschenkewerkstatt.cubi",
     "solution_exists": true,
     "template_exists": true,
+    "tutorial_exists": false,
     "title": {
       "de": "Geschenkewerkstatt",
       "en": "Geschenkewerkstatt",
@@ -510,6 +533,7 @@
     "filename": "Bananenzauber.cubi",
     "solution_exists": true,
     "template_exists": true,
+    "tutorial_exists": false,
     "title": {
       "de": "Bananenzauber",
       "en": "Bananenzauber",
@@ -532,6 +556,7 @@
     "filename": "Helikopter.cubi",
     "solution_exists": true,
     "template_exists": true,
+    "tutorial_exists": false,
     "title": {
       "de": "Helikopter",
       "en": "Helikopter",
@@ -554,6 +579,7 @@
     "filename": "Drache_rettet_Ritter.cubi",
     "solution_exists": true,
     "template_exists": true,
+    "tutorial_exists": false,
     "title": {
       "de": "Drache rettet Ritter",
       "en": "Drache rettet Ritter",
@@ -576,6 +602,7 @@
     "filename": "Weltraumreise.cubi",
     "solution_exists": true,
     "template_exists": true,
+    "tutorial_exists": false,
     "title": {
       "de": "Weltraumreise",
       "en": "Weltraumreise",
@@ -598,6 +625,7 @@
     "filename": "Professor_Tanzalarm.cubi",
     "solution_exists": true,
     "template_exists": true,
+    "tutorial_exists": false,
     "title": {
       "de": "Professor Tanzalarm",
       "en": "Professor Tanzalarm",
@@ -620,6 +648,7 @@
     "filename": "Rechenolympiade.cubi",
     "solution_exists": true,
     "template_exists": true,
+    "tutorial_exists": false,
     "title": {
       "de": "Rechenolympiade",
       "en": "Rechenolympiade",
@@ -642,6 +671,7 @@
     "filename": "Obstsalat.cubi",
     "solution_exists": true,
     "template_exists": true,
+    "tutorial_exists": false,
     "title": {
       "de": "Obstsalat",
       "en": "Obstsalat",
@@ -664,6 +694,7 @@
     "filename": "Jonglieren.cubi",
     "solution_exists": true,
     "template_exists": true,
+    "tutorial_exists": false,
     "title": {
       "de": "Jonglieren",
       "en": "Jonglieren",
@@ -686,6 +717,7 @@
     "filename": "Spaceball.cubi",
     "solution_exists": true,
     "template_exists": true,
+    "tutorial_exists": false,
     "title": {
       "de": "Spaceball",
       "en": "Spaceball",
@@ -708,6 +740,7 @@
     "filename": "Pacman.cubi",
     "solution_exists": true,
     "template_exists": true,
+    "tutorial_exists": false,
     "title": {
       "de": "Pacman",
       "en": "Pacman",
@@ -730,6 +763,7 @@
     "filename": "Katze_jagt_dich.cubi",
     "solution_exists": true,
     "template_exists": true,
+    "tutorial_exists": false,
     "title": {
       "de": "Katze jagt dich",
       "en": "Katze jagt dich",
@@ -752,6 +786,7 @@
     "filename": "Autorennen.cubi",
     "solution_exists": true,
     "template_exists": true,
+    "tutorial_exists": false,
     "title": {
       "de": "Autorennen",
       "en": "Autorennen",
@@ -774,6 +809,7 @@
     "filename": "Codedetektiv_3.cubi",
     "solution_exists": false,
     "template_exists": true,
+    "tutorial_exists": false,
     "title": {
       "de": "Codedetektiv 3",
       "en": "Codedetektiv 3",
@@ -796,6 +832,7 @@
     "filename": "Finde_das_Tier.cubi",
     "solution_exists": true,
     "template_exists": true,
+    "tutorial_exists": false,
     "title": {
       "de": "Finde das Tier",
       "en": "Finde das Tier",
@@ -818,6 +855,7 @@
     "filename": "TamaCubi.cubi",
     "solution_exists": true,
     "template_exists": true,
+    "tutorial_exists": false,
     "title": {
       "de": "TamaCubi",
       "en": "TamaCubi",
@@ -840,6 +878,7 @@
     "filename": "Zitterlabyrinth.cubi",
     "solution_exists": true,
     "template_exists": true,
+    "tutorial_exists": false,
     "title": {
       "de": "Zitterlabyrinth",
       "en": "Zitterlabyrinth",
@@ -862,6 +901,7 @@
     "filename": "CubiCart.cubi",
     "solution_exists": true,
     "template_exists": true,
+    "tutorial_exists": false,
     "title": {
       "de": "CubiCart",
       "en": "CubiCart",
@@ -884,6 +924,7 @@
     "filename": "Quizmaster.cubi",
     "solution_exists": true,
     "template_exists": true,
+    "tutorial_exists": false,
     "title": {
       "de": "Quizmaster",
       "en": "Quizmaster",
@@ -906,6 +947,7 @@
     "filename": "Rotes_Auto.cubi",
     "solution_exists": true,
     "template_exists": true,
+    "tutorial_exists": false,
     "title": {
       "de": "Rotes Auto",
       "en": "Rotes Auto",
@@ -928,6 +970,7 @@
     "filename": "Wettervorhersage.cubi",
     "solution_exists": true,
     "template_exists": true,
+    "tutorial_exists": false,
     "title": {
       "de": "Wettervorhersage",
       "en": "Wettervorhersage",
@@ -950,6 +993,7 @@
     "filename": "Standard.cubi",
     "solution_exists": false,
     "template_exists": true,
+    "tutorial_exists": false,
     "title": {
       "de": "Standard",
       "en": "Standard",
