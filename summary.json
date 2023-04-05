@@ -305,12 +305,12 @@
     "template_exists": true,
     "tutorial_exists": false,
     "title": {
-      "de": "Katze f\u00e4ngt Maus (nur mit Tastatur spielbar)",
-      "en": "Katze f\u00e4ngt Maus (nur mit Tastatur spielbar)",
-      "nl": "Katze f\u00e4ngt Maus (nur mit Tastatur spielbar)",
-      "fr": "Katze f\u00e4ngt Maus (nur mit Tastatur spielbar)",
-      "es": "Katze f\u00e4ngt Maus (nur mit Tastatur spielbar)",
-      "ua": "Katze f\u00e4ngt Maus (nur mit Tastatur spielbar)"
+      "de": "Katze f\u00e4ngt Maus",
+      "en": "Katze f\u00e4ngt Maus",
+      "nl": "Katze f\u00e4ngt Maus",
+      "fr": "Katze f\u00e4ngt Maus",
+      "es": "Katze f\u00e4ngt Maus",
+      "ua": "Katze f\u00e4ngt Maus"
     },
     "description": {
       "de": "Fang die Maus! Errate, wo sie als n\u00e4chstes hingehen wird und lauere dort auf die Maus.",
