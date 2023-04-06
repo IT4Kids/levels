@@ -30,6 +30,7 @@ jobs:
         aws s3 cp ./summary.json s3://levels.i4k/summary.json
         aws s3 sync --follow-symlinks --delete ./Solutions s3://levels.i4k/Solutions
         aws s3 sync --follow-symlinks --delete ./Templates s3://levels.i4k/Templates
+        aws s3 sync --follow-symlinks --delete ./Tutorials s3://levels.i4k/Tutorials
 
     - name: Invalidate Cloudfront
       run: |
