@@ -4,22 +4,22 @@
     "filename": "Bauernhof.cubi",
     "solution_exists": true,
     "template_exists": true,
-    "tutorial_exists": false,
+    "tutorial_exists": true,
     "title": {
       "de": "Bauernhof",
-      "en": "Bauernhof",
+      "en": "Farm",
       "nl": "Bauernhof",
       "fr": "Bauernhof",
       "es": "Bauernhof",
       "ua": "Bauernhof"
     },
     "description": {
-      "de": "F\u00fchre die Kuh zur\u00fcck in ihren gem\u00fctlichen Stall.",
-      "en": "F\u00fchre die Kuh zur\u00fcck in ihren gem\u00fctlichen Stall.",
-      "nl": "F\u00fchre die Kuh zur\u00fcck in ihren gem\u00fctlichen Stall.",
-      "fr": "F\u00fchre die Kuh zur\u00fcck in ihren gem\u00fctlichen Stall.",
-      "es": "F\u00fchre die Kuh zur\u00fcck in ihren gem\u00fctlichen Stall.",
-      "ua": "F\u00fchre die Kuh zur\u00fcck in ihren gem\u00fctlichen Stall."
+      "de": "Zeige der Kuh den Weg zurück in ihren Stall.",
+      "en": "Show the cow the way to her barn.",
+      "nl": "Zeige der Kuh den Weg zurück in ihren Stall.",
+      "fr": "Zeige der Kuh den Weg zurück in ihren Stall.",
+      "es": "Zeige der Kuh den Weg zurück in ihren Stall.",
+      "ua": "Zeige der Kuh den Weg zurück in ihren Stall."
     }
   },
   {
@@ -30,15 +30,15 @@
     "tutorial_exists": false,
     "title": {
       "de": "Maus zum K\u00e4se",
-      "en": "Maus zum K\u00e4se",
+      "en": "Mouse to the cheese",
       "nl": "Maus zum K\u00e4se",
       "fr": "Maus zum K\u00e4se",
       "es": "Maus zum K\u00e4se",
       "ua": "Maus zum K\u00e4se"
     },
     "description": {
-      "de": "Programmiere die Maus so, dass sie \u00fcber die Br\u00fccke zum K\u00e4se l\u00e4uft und dabei nicht ins Wasser f\u00e4llt.",
-      "en": "Programmiere die Maus so, dass sie \u00fcber die Br\u00fccke zum K\u00e4se l\u00e4uft und dabei nicht ins Wasser f\u00e4llt.",
+      "de": "Die Maus soll den leckeren K\u00e4se erreichen. Hilf ihr den Weg \u00fcber die Br\u00fccke zu finden, ohne herunterzufallen.",
+      "en": "The mouse should reach the delicious cheese. Help her find the way across the bridge without falling down.",
       "nl": "Programmiere die Maus so, dass sie \u00fcber die Br\u00fccke zum K\u00e4se l\u00e4uft und dabei nicht ins Wasser f\u00e4llt.",
       "fr": "Programmiere die Maus so, dass sie \u00fcber die Br\u00fccke zum K\u00e4se l\u00e4uft und dabei nicht ins Wasser f\u00e4llt.",
       "es": "Programmiere die Maus so, dass sie \u00fcber die Br\u00fccke zum K\u00e4se l\u00e4uft und dabei nicht ins Wasser f\u00e4llt.",
@@ -60,8 +60,8 @@
       "ua": "Labyrinth"
     },
     "description": {
-      "de": "F\u00fchre die Maus durch das Labyrinth: Erst zum Schl\u00fcssel, dann zum Tor.",
-      "en": "F\u00fchre die Maus durch das Labyrinth: Erst zum Schl\u00fcssel, dann zum Tor.",
+      "de": "Zeige der Maus den Weg durch das Labyrinth. Um das Tor zu  ̈\u00f6ffnen, braucht sie vorher den Schl\u00fcssel.",
+      "en": "Guide the mouse through the labyrinth. To open the gate, she needs the key first.",
       "nl": "F\u00fchre die Maus durch das Labyrinth: Erst zum Schl\u00fcssel, dann zum Tor.",
       "fr": "F\u00fchre die Maus durch das Labyrinth: Erst zum Schl\u00fcssel, dann zum Tor.",
       "es": "F\u00fchre die Maus durch das Labyrinth: Erst zum Schl\u00fcssel, dann zum Tor.",
