@@ -4,7 +4,7 @@
     "filename": "Bauernhof.cubi",
     "solution_exists": true,
     "template_exists": true,
-    "tutorial_exists": false,
+    "tutorial_exists": true,
     "title": {
       "de": "Bauernhof",
       "en": "Farm",
@@ -27,7 +27,7 @@
     "filename": "Maus_zum_Kaese.cubi",
     "solution_exists": true,
     "template_exists": true,
-    "tutorial_exists": false,
+    "tutorial_exists": true,
     "title": {
       "de": "Maus zum K\u00e4se",
       "en": "Mouse to the cheese",
@@ -50,7 +50,7 @@
     "filename": "Labyrinth.cubi",
     "solution_exists": true,
     "template_exists": true,
-    "tutorial_exists": false,
+    "tutorial_exists": true,
     "title": {
       "de": "Labyrinth",
       "en": "Labyrinth",
@@ -119,7 +119,7 @@
     "filename": "Sternlabyrinth.cubi",
     "solution_exists": true,
     "template_exists": true,
-    "tutorial_exists": false,
+    "tutorial_exists": true,
     "title": {
       "de": "Sternlabyrinth",
       "en": "Sternlabyrinth",
