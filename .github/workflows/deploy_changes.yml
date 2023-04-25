@@ -3,7 +3,7 @@ name: Levels deploy
 on:
   push:
     branches:
-      - master
+      - iw
 
 jobs:
   build-deploy:
@@ -27,11 +27,11 @@ jobs:
 
     - name: Sync files
       run: |
-        aws s3 cp ./summary.json s3://levels.i4k/summary.json
-        aws s3 sync --follow-symlinks --delete ./Solutions s3://levels.i4k/Solutions
-        aws s3 sync --follow-symlinks --delete ./Templates s3://levels.i4k/Templates
-        aws s3 sync --follow-symlinks --delete ./Tutorials s3://levels.i4k/Tutorials
+        aws s3 cp ./summary.json s3://iw.levels.i4k/summary.json
+        aws s3 sync --follow-symlinks --delete ./Solutions s3://iw.levels.i4k/Solutions
+        aws s3 sync --follow-symlinks --delete ./Temlates s3://iw.levels.i4k/Templates
+        aws s3 sync --follow-symlinks --delete ./Audio s3://iw.levels.i4k/Audio
 
     - name: Invalidate Cloudfront
       run: |
-        aws cloudfront create-invalidation --distribution-id ${{ secrets.AWS_CLOUDFRONT_ID }} --paths "/*"
+        aws cloudfront create-invalidation --distribution-id ${{ secrets.AWS_IW_CLOUDFRONT_ID }} --paths "/*"
