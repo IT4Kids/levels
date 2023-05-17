@@ -7,7 +7,7 @@
     "tutorial_exists": true,
     "title": {
       "de": "Begrüßung",
-      "en": "Begrüßung",
+      "en": "Welcoming",
       "nl": "Begrüßung",
       "fr": "Begrüßung",
       "es": "Begrüßung",
@@ -15,7 +15,7 @@
     },
     "description": {
       "de": "In diesem Tutorial wirst du Schritt f\u00fcr Schritt durch Cubi gef\u00fchrt.",
-      "en": "In diesem Tutorial wirst du Schritt f\u00fcr Schritt durch Cubi gef\u00fchrt.",
+      "en": "In this tutorial, you will be guided step-by-step through Cubi.",
       "nl": "In diesem Tutorial wirst du Schritt f\u00fcr Schritt durch Cubi gef\u00fchrt.",
       "fr": "In diesem Tutorial wirst du Schritt f\u00fcr Schritt durch Cubi gef\u00fchrt.",
       "es": "In diesem Tutorial wirst du Schritt f\u00fcr Schritt durch Cubi gef\u00fchrt.",
@@ -99,7 +99,7 @@
     "tutorial_exists": false,
     "title": {
       "de": "Codedetektiv 1",
-      "en": "Codedetektiv 1",
+      "en": "Codedetectiv 1",
       "nl": "Codedetektiv 1",
       "fr": "Codedetektiv 1",
       "es": "Codedetektiv 1",
@@ -107,7 +107,7 @@
     },
     "description": {
       "de": "Finde die drei Fehler aus dem Level Labyrinth und lerne dabei etwas \u00fcber die Fehlersuche.",
-      "en": "Finde die drei Fehler aus dem Level Labyrinth und lerne dabei etwas \u00fcber die Fehlersuche.",
+      "en": "Find the three mistakes from the level Labyrinth and learn about debugging.",
       "nl": "Finde die drei Fehler aus dem Level Labyrinth und lerne dabei etwas \u00fcber die Fehlersuche.",
       "fr": "Finde die drei Fehler aus dem Level Labyrinth und lerne dabei etwas \u00fcber die Fehlersuche.",
       "es": "Finde die drei Fehler aus dem Level Labyrinth und lerne dabei etwas \u00fcber die Fehlersuche.",
@@ -122,7 +122,7 @@
     "tutorial_exists": false,
     "title": {
       "de": "Maulwurf",
-      "en": "Maulwurf",
+      "en": "Mole",
       "nl": "Maulwurf",
       "fr": "Maulwurf",
       "es": "Maulwurf",
@@ -130,7 +130,7 @@
     },
     "description": {
       "de": "Die zwei Maulw\u00fcrfe sind auf dem Weg durch ihre Tunnel zu den Regenw\u00fcrmern.",
-      "en": "Die zwei Maulw\u00fcrfe sind auf dem Weg durch ihre Tunnel zu den Regenw\u00fcrmern.",
+      "en": "The two moles are on their way through their tunnels to the earthworms.",
       "nl": "Die zwei Maulw\u00fcrfe sind auf dem Weg durch ihre Tunnel zu den Regenw\u00fcrmern.",
       "fr": "Die zwei Maulw\u00fcrfe sind auf dem Weg durch ihre Tunnel zu den Regenw\u00fcrmern.",
       "es": "Die zwei Maulw\u00fcrfe sind auf dem Weg durch ihre Tunnel zu den Regenw\u00fcrmern.",
@@ -145,7 +145,7 @@
     "tutorial_exists": true,
     "title": {
       "de": "Sternlabyrinth",
-      "en": "Sternlabyrinth",
+      "en": "Starlabyrinth",
       "nl": "Sternlabyrinth",
       "fr": "Sternlabyrinth",
       "es": "Sternlabyrinth",
@@ -153,7 +153,7 @@
     },
     "description": {
       "de": "Sammle das Herz, den Stern, die M\u00fcnze und den Schl\u00fcssel in der richtigen Reihenfolge ein.",
-      "en": "Sammle das Herz, den Stern, die M\u00fcnze und den Schl\u00fcssel in der richtigen Reihenfolge ein.",
+      "en": "Collect the heart, the star, the coin, and the key in the correct order.",
       "nl": "Sammle das Herz, den Stern, die M\u00fcnze und den Schl\u00fcssel in der richtigen Reihenfolge ein.",
       "fr": "Sammle das Herz, den Stern, die M\u00fcnze und den Schl\u00fcssel in der richtigen Reihenfolge ein.",
       "es": "Sammle das Herz, den Stern, die M\u00fcnze und den Schl\u00fcssel in der richtigen Reihenfolge ein.",
@@ -168,7 +168,7 @@
     "tutorial_exists": false,
     "title": {
       "de": "Karneval",
-      "en": "Karneval",
+      "en": "Carnival",
       "nl": "Karneval",
       "fr": "Karneval",
       "es": "Karneval",
@@ -176,7 +176,7 @@
     },
     "description": {
       "de": "Cubi m\u00f6chte sich verkleiden, aber er ist noch nicht sicher, was er anziehen muss. Probiere alle Kost\u00fcme mit ihm durch, indem du ihn dr\u00fcckst.",
-      "en": "Cubi m\u00f6chte sich verkleiden, aber er ist noch nicht sicher, was er anziehen muss. Probiere alle Kost\u00fcme mit ihm durch, indem du ihn dr\u00fcckst.",
+      "en": "Cubi wants to dress up, but he's not sure what to wear. Try on all the costumes with him by tapping on him.",
       "nl": "Cubi m\u00f6chte sich verkleiden, aber er ist noch nicht sicher, was er anziehen muss. Probiere alle Kost\u00fcme mit ihm durch, indem du ihn dr\u00fcckst.",
       "fr": "Cubi m\u00f6chte sich verkleiden, aber er ist noch nicht sicher, was er anziehen muss. Probiere alle Kost\u00fcme mit ihm durch, indem du ihn dr\u00fcckst.",
       "es": "Cubi m\u00f6chte sich verkleiden, aber er ist noch nicht sicher, was er anziehen muss. Probiere alle Kost\u00fcme mit ihm durch, indem du ihn dr\u00fcckst.",
@@ -191,7 +191,7 @@
     "tutorial_exists": false,
     "title": {
       "de": "Reaktionstest",
-      "en": "Reaktionstest",
+      "en": "Reaction Test",
       "nl": "Reaktionstest",
       "fr": "Reaktionstest",
       "es": "Reaktionstest",
@@ -199,7 +199,7 @@
     },
     "description": {
       "de": "Dr\u00fccke so schnell es geht die Taste sobald der Hintergrund sich \u00e4ndert!",
-      "en": "Dr\u00fccke so schnell es geht die Taste sobald der Hintergrund sich \u00e4ndert!",
+      "en": "Press the button as quickly as possible when the background changes!",
       "nl": "Dr\u00fccke so schnell es geht die Taste sobald der Hintergrund sich \u00e4ndert!",
       "fr": "Dr\u00fccke so schnell es geht die Taste sobald der Hintergrund sich \u00e4ndert!",
       "es": "Dr\u00fccke so schnell es geht die Taste sobald der Hintergrund sich \u00e4ndert!",
@@ -214,15 +214,15 @@
     "tutorial_exists": false,
     "title": {
       "de": "Klassendienst",
-      "en": "Klassendienst",
+      "en": "Classroom Duties",
       "nl": "Klassendienst",
       "fr": "Klassendienst",
       "es": "Klassendienst",
       "ua": "Klassendienst"
     },
     "description": {
-      "de": "Du hast Tafeldienst und Pflanzendienst. Wische die Tafel und gie\u00dfe die Pflanzen im Klassenzimmer, damit du schnell nach Hause gehen kannst.",
-      "en": "Du hast Tafeldienst und Pflanzendienst. Wische die Tafel und gie\u00dfe die Pflanzen im Klassenzimmer, damit du schnell nach Hause gehen kannst.",
+      "de": "Du hast Tafeldienst und Pflanzendienst. Wische die Tafel und gie\u00dfe die Pflanze im Klassenzimmer, damit du schnell nach Hause gehen kannst.",
+      "en": "You have chalkboard and plant duty. Wish the board and water the plant in the class room so that you can go home quickly.",
       "nl": "Du hast Tafeldienst und Pflanzendienst. Wische die Tafel und gie\u00dfe die Pflanzen im Klassenzimmer, damit du schnell nach Hause gehen kannst.",
       "fr": "Du hast Tafeldienst und Pflanzendienst. Wische die Tafel und gie\u00dfe die Pflanzen im Klassenzimmer, damit du schnell nach Hause gehen kannst.",
       "es": "Du hast Tafeldienst und Pflanzendienst. Wische die Tafel und gie\u00dfe die Pflanzen im Klassenzimmer, damit du schnell nach Hause gehen kannst.",
@@ -237,7 +237,7 @@
     "tutorial_exists": false,
     "title": {
       "de": "Hase und Igel",
-      "en": "Hase und Igel",
+      "en": "Hare and Hedgehog",
       "nl": "Hase und Igel",
       "fr": "Hase und Igel",
       "es": "Hase und Igel",
@@ -245,7 +245,7 @@
     },
     "description": {
       "de": "Hase und Igel laufen um die Wette. Aber der Igel hat ein paar Tricks auf Lager...",
-      "en": "Hase und Igel laufen um die Wette. Aber der Igel hat ein paar Tricks auf Lager...",
+      "en": "Hare and Hedgehog are racing each other. But the hedgehog has a few tricks up its sleeve...",
       "nl": "Hase und Igel laufen um die Wette. Aber der Igel hat ein paar Tricks auf Lager...",
       "fr": "Hase und Igel laufen um die Wette. Aber der Igel hat ein paar Tricks auf Lager...",
       "es": "Hase und Igel laufen um die Wette. Aber der Igel hat ein paar Tricks auf Lager...",
