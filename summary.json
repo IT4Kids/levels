@@ -926,12 +926,12 @@
     "template_exists": true,
     "tutorial_exists": false,
     "title": {
-      "de": "CubiCart",
-      "en": "CubiCart",
-      "nl": "CubiCart",
-      "fr": "CubiCart",
-      "es": "CubiCart",
-      "ua": "CubiCart"
+      "de": "CubiCart - Nicht spielbar auf Tablet",
+      "en": "CubiCart - Not available for tablet",
+      "nl": "CubiCart - Nicht spielbar auf Tablet",
+      "fr": "CubiCart - Nicht spielbar auf Tablet",
+      "es": "CubiCart - Nicht spielbar auf Tablet",
+      "ua": "CubiCart - Nicht spielbar auf Tablet"
     },
     "description": {
       "de": "Beim Spiel CubiCart geht es um alles! Wer von euch f\u00e4hrt die drei Runden am schnellsten und bringt den Sieg nach Hause?",
