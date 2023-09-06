@@ -142,5 +142,23 @@
     "filename": "Türen.cubi",
     "solution_exists": true,
     "template_exists": true
+  },
+  {
+    "title": {
+      "de": "Tauschhandel (Level IX)",
+      "en": "Tauschhandel (Level IX)",
+      "nl": "Tauschhandel (Level IX)",
+      "fr": "Tauschhandel (Level IX)"
+    },
+    "rating": 0,
+    "description": {
+      "de": "Bestimme den Wert des Gegenstandes. Je größer der Gegenstand ist, desto mehr ist er wert.",
+      "en": "Bestimme den Wert des Gegenstandes. Je größer der Gegenstand ist, desto mehr ist er wert.",
+      "nl": "Bestimme den Wert des Gegenstandes. Je größer der Gegenstand ist, desto mehr ist er wert.",
+      "fr": "Bestimme den Wert des Gegenstandes. Je größer der Gegenstand ist, desto mehr ist er wert."
+    },
+    "filename": "Tauschhandel.cubi",
+    "solution_exists": true,
+    "template_exists": true
   }
 ]
