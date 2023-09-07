@@ -160,5 +160,23 @@
     "filename": "Tauschhandel.cubi",
     "solution_exists": true,
     "template_exists": true
+  },
+  {
+    "title": {
+      "de": "Geldkreislauf (Level X)",
+      "en": "Geldkreislauf (Level X)",
+      "nl": "Geldkreislauf (Level X)",
+      "fr": "Geldkreislauf (Level X)"
+    },
+    "rating": 0,
+    "description": {
+      "de": "Kaufe den anderen Menschen deiner Stadt ihre Ware ab. Was möchtest du verkaufen?",
+      "en": "Kaufe den anderen Menschen deiner Stadt ihre Ware ab. Was möchtest du verkaufen?",
+      "nl": "Kaufe den anderen Menschen deiner Stadt ihre Ware ab. Was möchtest du verkaufen?",
+      "fr": "Kaufe den anderen Menschen deiner Stadt ihre Ware ab. Was möchtest du verkaufen?"
+    },
+    "filename": "Geldkreislauf.cubi",
+    "solution_exists": true,
+    "template_exists": true
   }
 ]
