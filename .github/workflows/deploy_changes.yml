@@ -3,7 +3,7 @@ name: Levels deploy
 on:
   push:
     branches:
-      - master
+      - schlau
 
 jobs:
   build-deploy:
@@ -27,10 +27,10 @@ jobs:
 
     - name: Sync files
       run: |
-        aws s3 cp ./summary.json s3://levels.i4k/summary.json
-        aws s3 sync --follow-symlinks --delete ./Solutions s3://levels.i4k/Solutions
-        aws s3 sync --follow-symlinks --delete ./Templates s3://levels.i4k/Templates
-        aws s3 sync --follow-symlinks --delete ./Tutorials s3://levels.i4k/Tutorials
+        aws s3 cp ./summary.json s3://schlau.levels.i4k/summary.json
+        aws s3 sync --follow-symlinks --delete ./Solutions s3://schlau.levels.i4k/Solutions
+        aws s3 sync --follow-symlinks --delete ./Templates s3://schlau.levels.i4k/Templates
+        aws s3 sync --follow-symlinks --delete ./Tutorials s3://schlau.levels.i4k/Tutorials
 
     - name: Invalidate Cloudfront
       run: |
