@@ -163,6 +163,23 @@
   },
   {
     "title": {
+      "de": "Tauschhandel (Knobelaufgabe)",
+      "en": "Tauschhandel (Knobelaufgabe)",
+      "nl": "Tauschhandel (Knobelaufgabe)",
+      "fr": "Tauschhandel (Knobelaufgabe)"
+    },
+    "rating": 0,
+    "description": {
+      "de": "Wer von euch kann seinen Gegenstand am schnellsten ganz groß machen?",
+      "en": "Wer von euch kann seinen Gegenstand am schnellsten ganz groß machen?",
+      "nl": "Wer von euch kann seinen Gegenstand am schnellsten ganz groß machen?",
+      "fr": "Wer von euch kann seinen Gegenstand am schnellsten ganz groß machen?"
+    },
+    "filename": "Tauschhandel.cubi",
+    "solution_exists": true,
+    "template_exists": true
+  },  {
+    "title": {
       "de": "Geldkreislauf (Level X)",
       "en": "Geldkreislauf (Level X)",
       "nl": "Geldkreislauf (Level X)",
