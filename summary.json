@@ -24,7 +24,7 @@
       "nl": "Berufe raten (Level II)",
       "fr": "Berufe raten (Level II)"
     },
-    "rating": 0,
+    "rating": 1,
     "description": {
       "de": "Programmiere die Bewegung von Tobi Tiger. Schaffst du es, alle Berufe schnell genug zu erraten?",
       "en": "Programmiere die Bewegung von Tobi Tiger. Schaffst du es, alle Berufe schnell genug zu erraten?",
@@ -42,7 +42,7 @@
       "nl": "Plätzchen backen (Level III)",
       "fr": "Plätzchen backen (Level III)"
     },
-    "rating": 0,
+    "rating": 1,
     "description": {
       "de": "Führe Tobi Tiger durch die Küche und sammel die Zutaten in der richtigen Reihenfolge ein.",
       "en": "Führe Tobi Tiger durch die Küche und sammel die Zutaten in der richtigen Reihenfolge ein.",
@@ -60,7 +60,7 @@
       "nl": "Plätzchen backen (Knobelaufgabe)",
       "fr": "Plätzchen backen (Knobelaufgabe)"
     },
-    "rating": 0,
+    "rating": 1,
     "description": {
       "de": "Führe Tobi Tiger durch die Küche und sammel die Zutaten in der richtigen Reihenfolge ein.",
       "en": "Führe Tobi Tiger durch die Küche und sammel die Zutaten in der richtigen Reihenfolge ein.",
@@ -78,7 +78,7 @@
       "nl": "Geschenk (Level IV)",
       "fr": "Geschenk (Level IV)"
     },
-    "rating": 0,
+    "rating": 2,
     "description": {
       "de": "Programmiere den Dialog von Tobi Tiger und Cubi. Wird sich Cubi über sein Geschenk freuen?",
       "en": "",
@@ -96,7 +96,7 @@
       "nl": "Geschenk (Alternative)",
       "fr": "Geschenk (Alternative)"
     },
-    "rating": 0,
+    "rating": 2,
     "description": {
       "de": "Programmiere den Dialog von Tobi Tiger und Cubi. Wird sich Cubi über sein Geschenk freuen?",
       "en": "Programmiere den Dialog von Tobi Tiger und Cubi. Wird sich Cubi über sein Geschenk freuen?",
@@ -114,7 +114,7 @@
       "nl": "Steuern einsammeln (Level V)",
       "fr": "Steuern einsammeln (Level V)"
     },
-    "rating": 0,
+    "rating": 2,
     "description": {
       "de": "Sammle bei den Mitgliedern der digitalen Gemeinde die Steuern ein. Übergebe sie anschließend dem Bürgermeister.",
       "en": "Sammle bei den Mitgliedern der digitalen Gemeinde die Steuern ein. Übergebe sie anschließend dem Bürgermeister.",
@@ -132,7 +132,7 @@
       "nl": "Türen (Level VI)",
       "fr": "Türen (Level VI)"
     },
-    "rating": 0,
+    "rating": 2,
     "description": {
       "de": "Hilf Tobi Tiger, das richtige Amt für sein Anliegen zu finden. Verlauf dich nicht!",
       "en": "Hilf Tobi Tiger, das richtige Amt für sein Anliegen zu finden. Verlauf dich nicht!",
@@ -145,39 +145,39 @@
   },
   {
     "title": {
-      "de": "Tauschhandel (Level IX)",
-      "en": "Tauschhandel (Level IX)",
-      "nl": "Tauschhandel (Level IX)",
-      "fr": "Tauschhandel (Level IX)"
+      "de": "Preisschlager (Level IX)",
+      "en": "Preisschlager (Level IX)",
+      "nl": "Preisschlager (Level IX)",
+      "fr": "Preisschlager (Level IX)"
     },
-    "rating": 0,
+    "rating": 3,
     "description": {
       "de": "Bestimme den Wert des Gegenstandes. Je größer der Gegenstand ist, desto mehr ist er wert.",
       "en": "Bestimme den Wert des Gegenstandes. Je größer der Gegenstand ist, desto mehr ist er wert.",
       "nl": "Bestimme den Wert des Gegenstandes. Je größer der Gegenstand ist, desto mehr ist er wert.",
       "fr": "Bestimme den Wert des Gegenstandes. Je größer der Gegenstand ist, desto mehr ist er wert."
     },
-    "filename": "Tauschhandel.cubi",
+    "filename": "Preisschlager.cubi",
     "solution_exists": true,
     "template_exists": true
   },
   {
     "title": {
-      "de": "Tauschhandel (Knobelaufgabe)",
-      "en": "Tauschhandel (Knobelaufgabe)",
-      "nl": "Tauschhandel (Knobelaufgabe)",
-      "fr": "Tauschhandel (Knobelaufgabe)"
+      "de": "Preisschlager (Knobelaufgabe)",
+      "en": "Preisschlager (Knobelaufgabe)",
+      "nl": "Preisschlager (Knobelaufgabe)",
+      "fr": "Preisschlager (Knobelaufgabe)"
     },
-    "rating": 0,
+    "rating": 3,
     "description": {
       "de": "Wer von euch kann seinen Gegenstand am schnellsten ganz groß machen?",
       "en": "Wer von euch kann seinen Gegenstand am schnellsten ganz groß machen?",
       "nl": "Wer von euch kann seinen Gegenstand am schnellsten ganz groß machen?",
       "fr": "Wer von euch kann seinen Gegenstand am schnellsten ganz groß machen?"
     },
-    "filename": "Tauschhandel.cubi",
+    "filename": "Preisschlager_Wettkampf.cubi",
     "solution_exists": true,
-    "template_exists": true
+    "template_exists": false
   },  {
     "title": {
       "de": "Geldkreislauf (Level X)",
@@ -185,7 +185,7 @@
       "nl": "Geldkreislauf (Level X)",
       "fr": "Geldkreislauf (Level X)"
     },
-    "rating": 0,
+    "rating": 2,
     "description": {
       "de": "Kaufe den anderen Menschen deiner Stadt ihre Ware ab. Was möchtest du verkaufen?",
       "en": "Kaufe den anderen Menschen deiner Stadt ihre Ware ab. Was möchtest du verkaufen?",
