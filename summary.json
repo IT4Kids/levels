@@ -645,6 +645,29 @@
   },
   {
     "rating": 2,
+    "filename": "KI_Training.cubi",
+    "solution_exists": true,
+    "template_exists": true,
+    "tutorial_exists": false,
+    "title": {
+      "de": "KI Training",
+      "en": "AI Training",
+      "nl": "KI Training",
+      "fr": "KI Training",
+      "es": "KI Training",
+      "ua": "KI Training"
+    },
+    "description": {
+      "de": "Programmiere eine lernende Künstliche Intelligenz.",
+      "en": "Programmiere eine lernende Künstliche Intelligenz.",
+      "nl": "Programmiere eine lernende Künstliche Intelligenz.",
+      "fr": "Programmiere eine lernende Künstliche Intelligenz.",
+      "es": "Programmiere eine lernende Künstliche Intelligenz.",
+      "ua": "Programmiere eine lernende Künstliche Intelligenz."
+    }
+  },
+  {
+    "rating": 2,
     "filename": "Professor_Tanzalarm.cubi",
     "solution_exists": true,
     "template_exists": true,
