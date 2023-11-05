@@ -96,7 +96,7 @@
     "filename": "Codedetektiv_1.cubi",
     "solution_exists": false,
     "template_exists": true,
-    "tutorial_exists": false,
+    "tutorial_exists": true,
     "title": {
       "de": "Codedetektiv 1",
       "en": "Codedetectiv 1",
@@ -119,7 +119,7 @@
     "filename": "Maulwurf.cubi",
     "solution_exists": true,
     "template_exists": true,
-    "tutorial_exists": false,
+    "tutorial_exists": true,
     "title": {
       "de": "Maulwurf",
       "en": "Mole",
@@ -165,7 +165,7 @@
     "filename": "Karneval.cubi",
     "solution_exists": true,
     "template_exists": true,
-    "tutorial_exists": false,
+    "tutorial_exists": true,
     "title": {
       "de": "Karneval",
       "en": "Carnival",
@@ -188,7 +188,7 @@
     "filename": "Reaktionstest.cubi",
     "solution_exists": true,
     "template_exists": true,
-    "tutorial_exists": false,
+    "tutorial_exists": true,
     "title": {
       "de": "Reaktionstest",
       "en": "Reaction Test",
@@ -211,7 +211,7 @@
     "filename": "Klassendienst.cubi",
     "solution_exists": true,
     "template_exists": true,
-    "tutorial_exists": false,
+    "tutorial_exists": true,
     "title": {
       "de": "Klassendienst",
       "en": "Classroom Duties",
@@ -234,7 +234,7 @@
     "filename": "Hase_und_Igel.cubi",
     "solution_exists": true,
     "template_exists": true,
-    "tutorial_exists": false,
+    "tutorial_exists": true,
     "title": {
       "de": "Hase und Igel",
       "en": "Hare and Hedgehog",
@@ -257,10 +257,10 @@
     "filename": "Ballon_platzen.cubi",
     "solution_exists": true,
     "template_exists": true,
-    "tutorial_exists": false,
+    "tutorial_exists": true,
     "title": {
       "de": "Ballon platzen",
-      "en": "Ballon platzen",
+      "en": "Balloon popping",
       "nl": "Ballon platzen",
       "fr": "Ballon platzen",
       "es": "Ballon platzen",
@@ -268,7 +268,7 @@
     },
     "description": {
       "de": "Wie schnell kannst du den Ballon zum Platzen bringen?",
-      "en": "Wie schnell kannst du den Ballon zum Platzen bringen?",
+      "en": "How fast can you burst the balloon?",
       "nl": "Wie schnell kannst du den Ballon zum Platzen bringen?",
       "fr": "Wie schnell kannst du den Ballon zum Platzen bringen?",
       "es": "Wie schnell kannst du den Ballon zum Platzen bringen?",
@@ -280,10 +280,10 @@
     "filename": "Flugstunde.cubi",
     "solution_exists": true,
     "template_exists": true,
-    "tutorial_exists": false,
+    "tutorial_exists": true,
     "title": {
       "de": "Flugstunde",
-      "en": "Flugstunde",
+      "en": "Flying Lesson",
       "nl": "Flugstunde",
       "fr": "Flugstunde",
       "es": "Flugstunde",
@@ -291,7 +291,7 @@
     },
     "description": {
       "de": "Bewege die Biene auf der Blumenwiese hin und her. Bei jeder Farbe wird sie eine anderes Kunstst\u00fcck vollbringen.",
-      "en": "Bewege die Biene auf der Blumenwiese hin und her. Bei jeder Farbe wird sie eine anderes Kunstst\u00fcck vollbringen.",
+      "en": "Move the bee around the flower meadow. She performs a different stunt on each flower.",
       "nl": "Bewege die Biene auf der Blumenwiese hin und her. Bei jeder Farbe wird sie eine anderes Kunstst\u00fcck vollbringen.",
       "fr": "Bewege die Biene auf der Blumenwiese hin und her. Bei jeder Farbe wird sie eine anderes Kunstst\u00fcck vollbringen.",
       "es": "Bewege die Biene auf der Blumenwiese hin und her. Bei jeder Farbe wird sie eine anderes Kunstst\u00fcck vollbringen.",
@@ -303,10 +303,10 @@
     "filename": "Farben.cubi",
     "solution_exists": true,
     "template_exists": true,
-    "tutorial_exists": false,
+    "tutorial_exists": true,
     "title": {
       "de": "Farben",
-      "en": "Farben",
+      "en": "Colors",
       "nl": "Farben",
       "fr": "Farben",
       "es": "Farben",
@@ -314,7 +314,7 @@
     },
     "description": {
       "de": "Bewege die Biene auf der bunten Blumenwiese und lass sie dir sagen, welche Farbe sie gerade f\u00fchlt.",
-      "en": "Bewege die Biene auf der bunten Blumenwiese und lass sie dir sagen, welche Farbe sie gerade f\u00fchlt.",
+      "en": "Move the bee around the colorful flower meadow and let it tell you what color it feels.",
       "nl": "Bewege die Biene auf der bunten Blumenwiese und lass sie dir sagen, welche Farbe sie gerade f\u00fchlt.",
       "fr": "Bewege die Biene auf der bunten Blumenwiese und lass sie dir sagen, welche Farbe sie gerade f\u00fchlt.",
       "es": "Bewege die Biene auf der bunten Blumenwiese und lass sie dir sagen, welche Farbe sie gerade f\u00fchlt.",
@@ -326,7 +326,7 @@
     "filename": "Katze_faengt_Maus.cubi",
     "solution_exists": true,
     "template_exists": true,
-    "tutorial_exists": false,
+    "tutorial_exists": true,
     "title": {
       "de": "Katze f\u00e4ngt Maus",
       "en": "Katze f\u00e4ngt Maus",
@@ -641,6 +641,29 @@
       "fr": "Teleportiere dich zu weit entfernten Planeten.",
       "es": "Teleportiere dich zu weit entfernten Planeten.",
       "ua": "Teleportiere dich zu weit entfernten Planeten."
+    }
+  },
+  {
+    "rating": 2,
+    "filename": "KI_Training.cubi",
+    "solution_exists": true,
+    "template_exists": true,
+    "tutorial_exists": false,
+    "title": {
+      "de": "KI Training",
+      "en": "AI Training",
+      "nl": "KI Training",
+      "fr": "KI Training",
+      "es": "KI Training",
+      "ua": "KI Training"
+    },
+    "description": {
+      "de": "Programmiere eine lernende Künstliche Intelligenz.",
+      "en": "Programmiere eine lernende Künstliche Intelligenz.",
+      "nl": "Programmiere eine lernende Künstliche Intelligenz.",
+      "fr": "Programmiere eine lernende Künstliche Intelligenz.",
+      "es": "Programmiere eine lernende Künstliche Intelligenz.",
+      "ua": "Programmiere eine lernende Künstliche Intelligenz."
     }
   },
   {
