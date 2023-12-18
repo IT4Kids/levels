@@ -31,7 +31,7 @@ jobs:
         aws s3 sync --follow-symlinks --delete ./Solutions s3://levels.i4k/Solutions
         aws s3 sync --follow-symlinks --delete ./Templates s3://levels.i4k/Templates
         aws s3 sync --follow-symlinks --delete ./Tutorials s3://levels.i4k/Tutorials
-        aws s3 sync --follow-symlinks --delete ./Tutorials s3://levels.i4k/Modules
+        aws s3 sync --follow-symlinks --delete ./Modules s3://levels.i4k/Modules
 
     - name: Invalidate Cloudfront
       run: |
