@@ -138,7 +138,7 @@
                 items.innerHTML = "";
                 for (var i = 0; i < json.length; i++) {
                     let l = json[i];
-                    let tempInnerHTML = createInnerHtml(l.title, l.rating, l.description, l.filename, l.solution_exists, l.template_exists, l.tutorial_exists);
+                    let tempInnerHTML = createInnerHtml(l.title, l.rating, l.description, l.filename, l.solution_exists, l.template_exists, l.tutorial_exists, l.isModule);
                     newLevelItemWithValues(tempInnerHTML);
                 }
                 for (let el of document.querySelectorAll('.' + supportedLanguages[0])){
@@ -146,7 +146,7 @@
                 }
             }
 
-            function createInnerHtml(title, rating, description, filename, checked, checked2, checked3){
+            function createInnerHtml(title, rating, description, filename, checked, checked2, checked3, checked4){
                 let innerHTML = "<row><column><span class='handle'><svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\"><path d=\"M10 9h4V6h3l-5-5-5 5h3v3zm-1 1H6V7l-5 5 5 5v-3h3v-4zm14 2l-5-5v3h-3v4h3v3l5-5zm-9 3h-4v3H7l5 5 5-5h-3v-3z\"/><path d=\"M0 0h24v24H0z\" fill=\"none\"/></svg></span></column>";
                 for(lang of supportedLanguages){
                     if(lang === supportedLanguages[0]){
@@ -171,6 +171,7 @@
                     "<column><label>Solution:</label> <input type='checkbox' name='solution_exists'" + ((checked) ? " checked" : "") + "></column>" +
                     "<column><label>Template:</label> <input type='checkbox' name='template_exists'" + ((checked2) ? " checked" : "") + "></column>" +
                     "<column><label>Tutorial:</label> <input type='checkbox' name='tutorial_exists'" + ((checked3) ? " checked" : "") + "></column>" +
+                    "<column><label>Module:</label> <input type='checkbox' name='isModule'" + ((checked4) ? " checked" : "") + "></column>" +
                     "</row>" +
                     "<label>Description:</label>";
                 for(let lang of supportedLanguages){
@@ -226,7 +227,8 @@
                         filename: items[i].querySelector("[name='filename']").value,
                         solution_exists: (items[i].querySelector("[name='solution_exists']").checked),
                         template_exists: (items[i].querySelector("[name='template_exists']").checked),
-                        tutorial_exists: (items[i].querySelector("[name='tutorial_exists']").checked)
+                        tutorial_exists: (items[i].querySelector("[name='tutorial_exists']").checked),
+                        isModule: (items[i].querySelector("[name='isModule']").checked)
                     });
                     for(let l of supportedLanguages){
                         json[i].title[l] = items[i].querySelector("." + l + "[name='title']").value;
