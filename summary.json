@@ -1,6 +1,54 @@
 [
   {
     "title": {
+      "de": "Iruse und die Erdbeere",
+      "en": "",
+      "nl": "",
+      "fr": "",
+      "es": "",
+      "ua": ""
+    },
+    "rating": 3,
+    "description": {
+      "de": "3. Level von Modul 3",
+      "en": "",
+      "nl": "",
+      "fr": "",
+      "es": "",
+      "ua": ""
+    },
+    "filename": "Iruse_und_die_Erdbeere",
+    "solution_exists": false,
+    "template_exists": false,
+    "tutorial_exists": false,
+    "isModule": true
+  },
+  {
+    "title": {
+      "de": "Esuri und die Birne",
+      "en": "",
+      "nl": "",
+      "fr": "",
+      "es": "",
+      "ua": ""
+    },
+    "rating": 2,
+    "description": {
+      "de": "2. Level von Modul 2",
+      "en": "",
+      "nl": "",
+      "fr": "",
+      "es": "",
+      "ua": ""
+    },
+    "filename": "Esuri_und_die_Birne.cubi",
+    "solution_exists": false,
+    "template_exists": false,
+    "tutorial_exists": false,
+    "isModule": true
+  },
+  {
+    "title": {
       "de": "Esuri und der Apfel",
       "en": "",
       "nl": "",
