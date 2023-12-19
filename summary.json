@@ -1,6 +1,30 @@
 [
   {
     "title": {
+      "de": "Esuri und der Apfel",
+      "en": "",
+      "nl": "",
+      "fr": "",
+      "es": "",
+      "ua": ""
+    },
+    "rating": 1,
+    "description": {
+      "de": "1. Level von Modul 1",
+      "en": "",
+      "nl": "",
+      "fr": "",
+      "es": "",
+      "ua": ""
+    },
+    "filename": "Esuri_und_der_Apfel.cubi",
+    "solution_exists": false,
+    "template_exists": false,
+    "tutorial_exists": false,
+    "isModule": true
+  },
+  {
+    "title": {
       "de": "Begrüßung",
       "en": "Welcoming",
       "nl": "Begrüßung",
@@ -20,7 +44,8 @@
     "filename": "Begrüßung.cubi",
     "solution_exists": false,
     "template_exists": false,
-    "tutorial_exists": true
+    "tutorial_exists": true,
+    "isModule": false
   },
   {
     "title": {
@@ -43,7 +68,8 @@
     "filename": "Bauernhof.cubi",
     "solution_exists": true,
     "template_exists": true,
-    "tutorial_exists": true
+    "tutorial_exists": true,
+    "isModule": false
   },
   {
     "title": {
@@ -66,7 +92,8 @@
     "filename": "Maus_zum_Kaese.cubi",
     "solution_exists": true,
     "template_exists": true,
-    "tutorial_exists": true
+    "tutorial_exists": true,
+    "isModule": false
   },
   {
     "title": {
@@ -89,7 +116,8 @@
     "filename": "Labyrinth.cubi",
     "solution_exists": true,
     "template_exists": true,
-    "tutorial_exists": true
+    "tutorial_exists": true,
+    "isModule": false
   },
   {
     "title": {
@@ -112,7 +140,8 @@
     "filename": "Codedetektiv_1.cubi",
     "solution_exists": false,
     "template_exists": true,
-    "tutorial_exists": true
+    "tutorial_exists": true,
+    "isModule": false
   },
   {
     "title": {
@@ -135,7 +164,8 @@
     "filename": "Maulwurf.cubi",
     "solution_exists": true,
     "template_exists": true,
-    "tutorial_exists": true
+    "tutorial_exists": true,
+    "isModule": false
   },
   {
     "title": {
@@ -158,7 +188,8 @@
     "filename": "Sternlabyrinth.cubi",
     "solution_exists": true,
     "template_exists": true,
-    "tutorial_exists": true
+    "tutorial_exists": true,
+    "isModule": false
   },
   {
     "title": {
@@ -181,7 +212,8 @@
     "filename": "Karneval.cubi",
     "solution_exists": true,
     "template_exists": true,
-    "tutorial_exists": true
+    "tutorial_exists": true,
+    "isModule": false
   },
   {
     "title": {
@@ -204,7 +236,8 @@
     "filename": "Reaktionstest.cubi",
     "solution_exists": true,
     "template_exists": true,
-    "tutorial_exists": true
+    "tutorial_exists": true,
+    "isModule": false
   },
   {
     "title": {
@@ -227,7 +260,8 @@
     "filename": "Klassendienst.cubi",
     "solution_exists": true,
     "template_exists": true,
-    "tutorial_exists": true
+    "tutorial_exists": true,
+    "isModule": false
   },
   {
     "title": {
@@ -250,7 +284,8 @@
     "filename": "Hase_und_Igel.cubi",
     "solution_exists": true,
     "template_exists": true,
-    "tutorial_exists": true
+    "tutorial_exists": true,
+    "isModule": false
   },
   {
     "title": {
@@ -273,7 +308,8 @@
     "filename": "Ballon_platzen.cubi",
     "solution_exists": true,
     "template_exists": true,
-    "tutorial_exists": true
+    "tutorial_exists": true,
+    "isModule": false
   },
   {
     "title": {
@@ -296,7 +332,8 @@
     "filename": "Flugstunde.cubi",
     "solution_exists": true,
     "template_exists": true,
-    "tutorial_exists": true
+    "tutorial_exists": true,
+    "isModule": false
   },
   {
     "title": {
@@ -319,7 +356,8 @@
     "filename": "Farben.cubi",
     "solution_exists": true,
     "template_exists": true,
-    "tutorial_exists": true
+    "tutorial_exists": true,
+    "isModule": false
   },
   {
     "title": {
@@ -342,7 +380,8 @@
     "filename": "Katze_faengt_Maus.cubi",
     "solution_exists": true,
     "template_exists": true,
-    "tutorial_exists": true
+    "tutorial_exists": true,
+    "isModule": false
   },
   {
     "title": {
@@ -365,7 +404,8 @@
     "filename": "Was_soll_ich_anziehen.cubi",
     "solution_exists": true,
     "template_exists": true,
-    "tutorial_exists": false
+    "tutorial_exists": false,
+    "isModule": false
   },
   {
     "title": {
@@ -388,7 +428,8 @@
     "filename": "Buchstaben.cubi",
     "solution_exists": true,
     "template_exists": true,
-    "tutorial_exists": false
+    "tutorial_exists": false,
+    "isModule": false
   },
   {
     "title": {
@@ -411,7 +452,8 @@
     "filename": "Kaktus.cubi",
     "solution_exists": true,
     "template_exists": true,
-    "tutorial_exists": false
+    "tutorial_exists": false,
+    "isModule": false
   },
   {
     "title": {
@@ -434,7 +476,8 @@
     "filename": "Aquarium.cubi",
     "solution_exists": true,
     "template_exists": true,
-    "tutorial_exists": false
+    "tutorial_exists": false,
+    "isModule": false
   },
   {
     "title": {
@@ -457,7 +500,8 @@
     "filename": "Codedetektiv_2.cubi",
     "solution_exists": false,
     "template_exists": true,
-    "tutorial_exists": false
+    "tutorial_exists": false,
+    "isModule": false
   },
   {
     "title": {
@@ -480,7 +524,8 @@
     "filename": "Wettrennen.cubi",
     "solution_exists": true,
     "template_exists": true,
-    "tutorial_exists": false
+    "tutorial_exists": false,
+    "isModule": false
   },
   {
     "title": {
@@ -503,7 +548,8 @@
     "filename": "Tanzen.cubi",
     "solution_exists": true,
     "template_exists": true,
-    "tutorial_exists": false
+    "tutorial_exists": false,
+    "isModule": false
   },
   {
     "title": {
@@ -526,7 +572,8 @@
     "filename": "Imposter.cubi",
     "solution_exists": true,
     "template_exists": true,
-    "tutorial_exists": false
+    "tutorial_exists": false,
+    "isModule": false
   },
   {
     "title": {
@@ -549,7 +596,8 @@
     "filename": "Geschenkewerkstatt.cubi",
     "solution_exists": true,
     "template_exists": true,
-    "tutorial_exists": false
+    "tutorial_exists": false,
+    "isModule": false
   },
   {
     "title": {
@@ -572,7 +620,8 @@
     "filename": "Bananenzauber.cubi",
     "solution_exists": true,
     "template_exists": true,
-    "tutorial_exists": false
+    "tutorial_exists": false,
+    "isModule": false
   },
   {
     "title": {
@@ -595,7 +644,8 @@
     "filename": "Helikopter.cubi",
     "solution_exists": true,
     "template_exists": true,
-    "tutorial_exists": false
+    "tutorial_exists": false,
+    "isModule": false
   },
   {
     "title": {
@@ -618,7 +668,8 @@
     "filename": "Drache_rettet_Ritter.cubi",
     "solution_exists": true,
     "template_exists": true,
-    "tutorial_exists": false
+    "tutorial_exists": false,
+    "isModule": false
   },
   {
     "title": {
@@ -641,7 +692,8 @@
     "filename": "Weltraumreise.cubi",
     "solution_exists": true,
     "template_exists": true,
-    "tutorial_exists": false
+    "tutorial_exists": false,
+    "isModule": false
   },
   {
     "title": {
@@ -664,7 +716,8 @@
     "filename": "KI_Training.cubi",
     "solution_exists": true,
     "template_exists": true,
-    "tutorial_exists": false
+    "tutorial_exists": false,
+    "isModule": false
   },
   {
     "title": {
@@ -687,7 +740,8 @@
     "filename": "Professor_Tanzalarm.cubi",
     "solution_exists": true,
     "template_exists": true,
-    "tutorial_exists": false
+    "tutorial_exists": false,
+    "isModule": false
   },
   {
     "title": {
@@ -710,7 +764,8 @@
     "filename": "Rechenolympiade.cubi",
     "solution_exists": true,
     "template_exists": true,
-    "tutorial_exists": false
+    "tutorial_exists": false,
+    "isModule": false
   },
   {
     "title": {
@@ -733,7 +788,8 @@
     "filename": "Obstsalat.cubi",
     "solution_exists": true,
     "template_exists": true,
-    "tutorial_exists": false
+    "tutorial_exists": false,
+    "isModule": false
   },
   {
     "title": {
@@ -756,7 +812,8 @@
     "filename": "Jonglieren.cubi",
     "solution_exists": true,
     "template_exists": true,
-    "tutorial_exists": false
+    "tutorial_exists": false,
+    "isModule": false
   },
   {
     "title": {
@@ -779,7 +836,8 @@
     "filename": "Spaceball.cubi",
     "solution_exists": true,
     "template_exists": true,
-    "tutorial_exists": false
+    "tutorial_exists": false,
+    "isModule": false
   },
   {
     "title": {
@@ -802,7 +860,8 @@
     "filename": "Pacman.cubi",
     "solution_exists": true,
     "template_exists": true,
-    "tutorial_exists": false
+    "tutorial_exists": false,
+    "isModule": false
   },
   {
     "title": {
@@ -825,7 +884,8 @@
     "filename": "Katze_jagt_dich.cubi",
     "solution_exists": true,
     "template_exists": true,
-    "tutorial_exists": false
+    "tutorial_exists": false,
+    "isModule": false
   },
   {
     "title": {
@@ -848,7 +908,8 @@
     "filename": "Autorennen.cubi",
     "solution_exists": true,
     "template_exists": true,
-    "tutorial_exists": false
+    "tutorial_exists": false,
+    "isModule": false
   },
   {
     "title": {
@@ -871,7 +932,8 @@
     "filename": "Codedetektiv_3.cubi",
     "solution_exists": false,
     "template_exists": true,
-    "tutorial_exists": false
+    "tutorial_exists": false,
+    "isModule": false
   },
   {
     "title": {
@@ -894,7 +956,8 @@
     "filename": "Finde_das_Tier.cubi",
     "solution_exists": true,
     "template_exists": true,
-    "tutorial_exists": false
+    "tutorial_exists": false,
+    "isModule": false
   },
   {
     "title": {
@@ -917,7 +980,8 @@
     "filename": "TamaCubi.cubi",
     "solution_exists": true,
     "template_exists": true,
-    "tutorial_exists": false
+    "tutorial_exists": false,
+    "isModule": false
   },
   {
     "title": {
@@ -940,7 +1004,8 @@
     "filename": "Zitterlabyrinth.cubi",
     "solution_exists": true,
     "template_exists": true,
-    "tutorial_exists": false
+    "tutorial_exists": false,
+    "isModule": false
   },
   {
     "title": {
@@ -963,7 +1028,8 @@
     "filename": "CubiCart.cubi",
     "solution_exists": true,
     "template_exists": true,
-    "tutorial_exists": false
+    "tutorial_exists": false,
+    "isModule": false
   },
   {
     "title": {
@@ -986,7 +1052,8 @@
     "filename": "Quizmaster.cubi",
     "solution_exists": true,
     "template_exists": true,
-    "tutorial_exists": false
+    "tutorial_exists": false,
+    "isModule": false
   },
   {
     "title": {
@@ -1009,7 +1076,8 @@
     "filename": "Rotes_Auto.cubi",
     "solution_exists": true,
     "template_exists": true,
-    "tutorial_exists": false
+    "tutorial_exists": false,
+    "isModule": false
   },
   {
     "title": {
@@ -1032,7 +1100,8 @@
     "filename": "Wettervorhersage.cubi",
     "solution_exists": true,
     "template_exists": true,
-    "tutorial_exists": false
+    "tutorial_exists": false,
+    "isModule": false
   },
   {
     "title": {
@@ -1055,6 +1124,7 @@
     "filename": "Standard.cubi",
     "solution_exists": false,
     "template_exists": true,
-    "tutorial_exists": false
+    "tutorial_exists": false,
+    "isModule": false
   }
 ]
