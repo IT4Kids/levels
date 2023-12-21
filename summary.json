@@ -2,16 +2,16 @@
   {
     "title": {
       "de": "Esuri und der Apfel",
-      "en": "",
-      "nl": "",
+      "en": "Esuri and the Apple",
+      "nl": "Esuri en de Appel",
       "fr": "",
       "es": "",
       "ua": ""
     },
     "rating": 1,
     "description": {
-      "de": "1. Level von Modul 1",
-      "en": "",
+      "de": "Basislevel",
+      "en": "Basic Level",
       "nl": "",
       "fr": "",
       "es": "",
@@ -26,16 +26,16 @@
   {
     "title": {
       "de": "Esuri und die Birne",
-      "en": "",
-      "nl": "",
+      "en": "Esuri and the Pear",
+      "nl": "Esuri en de Peer",
       "fr": "",
       "es": "",
       "ua": ""
     },
     "rating": 2,
     "description": {
-      "de": "2. Level von Modul 1",
-      "en": "",
+      "de": "Vertiefungslevel",
+      "en": "Advanced Level",
       "nl": "",
       "fr": "",
       "es": "",
@@ -50,16 +50,16 @@
   {
     "title": {
       "de": "Iruse und die Erdbeere",
-      "en": "",
-      "nl": "",
+      "en": "Iruse and the Strawberry",
+      "nl": "Iruse en de Aardbei",
       "fr": "",
       "es": "",
       "ua": ""
     },
     "rating": 3,
     "description": {
-      "de": "3. Level von Modul 1",
-      "en": "",
+      "de": "Code-Detektiv",
+      "en": "Code-Detective",
       "nl": "",
       "fr": "",
       "es": "",
