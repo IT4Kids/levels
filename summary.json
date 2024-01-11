@@ -73,6 +73,30 @@
   },
   {
     "title": {
+      "de": "Synchronsprechen",
+      "en": "",
+      "nl": "",
+      "fr": "",
+      "es": "",
+      "ua": ""
+    },
+    "rating": 3,
+    "description": {
+      "de": "Zusatz-Lektion",
+      "en": "",
+      "nl": "",
+      "fr": "",
+      "es": "",
+      "ua": ""
+    },
+    "filename": "Synchronsprechen.cubi",
+    "solution_exists": true,
+    "template_exists": false,
+    "tutorial_exists": false,
+    "isModule": true
+  },
+  {
+    "title": {
       "de": "Begrüßung",
       "en": "Welcoming",
       "nl": "Begrüßung",
