@@ -18,7 +18,7 @@
       "ua": ""
     },
     "filename": "Esuri_und_der_Apfel.cubi",
-    "solution_exists": false,
+    "solution_exists": true,
     "template_exists": false,
     "tutorial_exists": false,
     "isModule": true
@@ -42,7 +42,7 @@
       "ua": ""
     },
     "filename": "Esuri_und_die_Birne.cubi",
-    "solution_exists": false,
+    "solution_exists": true,
     "template_exists": false,
     "tutorial_exists": false,
     "isModule": true
@@ -66,7 +66,7 @@
       "ua": ""
     },
     "filename": "Iruse_und_die_Erdbeere",
-    "solution_exists": false,
+    "solution_exists": true,
     "template_exists": false,
     "tutorial_exists": false,
     "isModule": true
@@ -90,7 +90,7 @@
       "ua": ""
     },
     "filename": "Synchronsprechen.cubi",
-    "solution_exists": false,
+    "solution_exists": true,
     "template_exists": false,
     "tutorial_exists": false,
     "isModule": true
