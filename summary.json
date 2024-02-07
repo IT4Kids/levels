@@ -193,6 +193,30 @@
   },
   {
     "title": {
+      "de": "Märchenbuch zu Bewegung",
+      "en": "Fairy tale book for movement",
+      "nl": "",
+      "fr": "",
+      "es": "",
+      "ua": ""
+    },
+    "rating": 1,
+    "description": {
+      "de": "Erstelle dein eigenes Level.",
+      "en": "Creat your own project.",
+      "nl": "Erstelle dein eigenes Level.",
+      "fr": "Erstelle dein eigenes Level.",
+      "es": "Erstelle dein eigenes Level.",
+      "ua": "Erstelle dein eigenes Level."
+    },
+    "filename": "Maerchenbuch_Bewegung.cubi",
+    "solution_exists": false,
+    "template_exists": true,
+    "tutorial_exists": false,
+    "isModule": false
+  },
+  {
+    "title": {
       "de": "Codedetektiv 1",
       "en": "Codedetectiv 1",
       "nl": "Codedetektiv 1",
@@ -213,6 +237,30 @@
     "solution_exists": false,
     "template_exists": true,
     "tutorial_exists": true,
+    "isModule": false
+  },
+  {
+    "title": {
+      "de": "Weltraum",
+      "en": "Space",
+      "nl": "Ruimte",
+      "fr": "L'Espace",
+      "es": "Espacio",
+      "ua": "Простір"
+    },
+    "rating": 1,
+    "description": {
+      "de": "Steuere den Astronauten mit den Pfeiltasten durch das Weltall. Achte auf die Planeten!",
+      "en": "Use the arrow keys to steer the astronaut through space. Watch out for the planets!",
+      "nl": "Finde die drei Fehler aus dem Level Labyrinth und lerne dabei etwas über die Fehlersuche.",
+      "fr": "Finde die drei Fehler aus dem Level Labyrinth und lerne dabei etwas über die Fehlersuche.",
+      "es": "Finde die drei Fehler aus dem Level Labyrinth und lerne dabei etwas über die Fehlersuche.",
+      "ua": "Finde die drei Fehler aus dem Level Labyrinth und lerne dabei etwas über die Fehlersuche."
+    },
+    "filename": "Weltraum.cubi",
+    "solution_exists": true,
+    "template_exists": true,
+    "tutorial_exists": false,
     "isModule": false
   },
   {
@@ -261,6 +309,30 @@
     "solution_exists": true,
     "template_exists": true,
     "tutorial_exists": true,
+    "isModule": false
+  },
+  {
+    "title": {
+      "de": "Märchenbuch zu Schleifen",
+      "en": "Fairy tale book for loops",
+      "nl": "",
+      "fr": "",
+      "es": "",
+      "ua": ""
+    },
+    "rating": 1,
+    "description": {
+      "de": "Erstelle dein eigenes Level.",
+      "en": "Creat your own project.",
+      "nl": "Erstelle dein eigenes Level.",
+      "fr": "Erstelle dein eigenes Level.",
+      "es": "Erstelle dein eigenes Level.",
+      "ua": "Erstelle dein eigenes Level."
+    },
+    "filename": "Maerchenbuch_Schleifen.cubi",
+    "solution_exists": false,
+    "template_exists": true,
+    "tutorial_exists": false,
     "isModule": false
   },
   {
@@ -337,6 +409,30 @@
   },
   {
     "title": {
+      "de": "Märchenbuch zu Nachrichten",
+      "en": "Fairy tale book for messages",
+      "nl": "",
+      "fr": "",
+      "es": "",
+      "ua": ""
+    },
+    "rating": 1,
+    "description": {
+      "de": "Erstelle dein eigenes Level.",
+      "en": "Creat your own project.",
+      "nl": "Erstelle dein eigenes Level.",
+      "fr": "Erstelle dein eigenes Level.",
+      "es": "Erstelle dein eigenes Level.",
+      "ua": "Erstelle dein eigenes Level."
+    },
+    "filename": "Maerchenbuch_Nachrichten.cubi",
+    "solution_exists": false,
+    "template_exists": true,
+    "tutorial_exists": false,
+    "isModule": false
+  },
+  {
+    "title": {
       "de": "Hase und Igel",
       "en": "Hare and Hedgehog",
       "nl": "Hase und Igel",
@@ -385,6 +481,54 @@
   },
   {
     "title": {
+      "de": "Märchenbuch zu Bedingungen",
+      "en": "Fairy tale book for conditions",
+      "nl": "",
+      "fr": "",
+      "es": "",
+      "ua": ""
+    },
+    "rating": 1,
+    "description": {
+      "de": "Erstelle dein eigenes Level.",
+      "en": "Creat your own project.",
+      "nl": "Erstelle dein eigenes Level.",
+      "fr": "Erstelle dein eigenes Level.",
+      "es": "Erstelle dein eigenes Level.",
+      "ua": "Erstelle dein eigenes Level."
+    },
+    "filename": "Maerchenbuch_Bedingungen.cubi",
+    "solution_exists": false,
+    "template_exists": true,
+    "tutorial_exists": false,
+    "isModule": false
+  },
+  {
+    "title": {
+      "de": "Farben",
+      "en": "Colors",
+      "nl": "Farben",
+      "fr": "Farben",
+      "es": "Colores",
+      "ua": "Farben"
+    },
+    "rating": 1,
+    "description": {
+      "de": "Bewege die Biene auf der bunten Blumenwiese und lass sie dir sagen, welche Farbe sie gerade fühlt.",
+      "en": "Move the bee around the colorful flower meadow and let it tell you what color it feels.",
+      "nl": "Bewege die Biene auf der bunten Blumenwiese und lass sie dir sagen, welche Farbe sie gerade fühlt.",
+      "fr": "Bewege die Biene auf der bunten Blumenwiese und lass sie dir sagen, welche Farbe sie gerade fühlt.",
+      "es": "Bewege die Biene auf der bunten Blumenwiese und lass sie dir sagen, welche Farbe sie gerade fühlt.",
+      "ua": "Bewege die Biene auf der bunten Blumenwiese und lass sie dir sagen, welche Farbe sie gerade fühlt."
+    },
+    "filename": "Farben.cubi",
+    "solution_exists": true,
+    "template_exists": true,
+    "tutorial_exists": true,
+    "isModule": false
+  },
+  {
+    "title": {
       "de": "Flugstunde",
       "en": "Flying Lesson",
       "nl": "Flugstunde",
@@ -402,30 +546,6 @@
       "ua": "Bewege die Biene auf der Blumenwiese hin und her. Bei jeder Farbe wird sie eine anderes Kunststück vollbringen."
     },
     "filename": "Flugstunde.cubi",
-    "solution_exists": true,
-    "template_exists": true,
-    "tutorial_exists": true,
-    "isModule": false
-  },
-  {
-    "title": {
-      "de": "Farben",
-      "en": "Colors",
-      "nl": "Farben",
-      "fr": "Farben",
-      "es": "Farben",
-      "ua": "Farben"
-    },
-    "rating": 1,
-    "description": {
-      "de": "Bewege die Biene auf der bunten Blumenwiese und lass sie dir sagen, welche Farbe sie gerade fühlt.",
-      "en": "Move the bee around the colorful flower meadow and let it tell you what color it feels.",
-      "nl": "Bewege die Biene auf der bunten Blumenwiese und lass sie dir sagen, welche Farbe sie gerade fühlt.",
-      "fr": "Bewege die Biene auf der bunten Blumenwiese und lass sie dir sagen, welche Farbe sie gerade fühlt.",
-      "es": "Bewege die Biene auf der bunten Blumenwiese und lass sie dir sagen, welche Farbe sie gerade fühlt.",
-      "ua": "Bewege die Biene auf der bunten Blumenwiese und lass sie dir sagen, welche Farbe sie gerade fühlt."
-    },
-    "filename": "Farben.cubi",
     "solution_exists": true,
     "template_exists": true,
     "tutorial_exists": true,
@@ -453,6 +573,30 @@
     "solution_exists": true,
     "template_exists": true,
     "tutorial_exists": true,
+    "isModule": false
+  },
+  {
+    "title": {
+      "de": "Märchenbuch zu Verzweigungen",
+      "en": "Fairy tale book for if-else",
+      "nl": "",
+      "fr": "",
+      "es": "",
+      "ua": ""
+    },
+    "rating": 1,
+    "description": {
+      "de": "Erstelle dein eigenes Level.",
+      "en": "Creat your own project.",
+      "nl": "Erstelle dein eigenes Level.",
+      "fr": "Erstelle dein eigenes Level.",
+      "es": "Erstelle dein eigenes Level.",
+      "ua": "Erstelle dein eigenes Level."
+    },
+    "filename": "Maerchenbuch_Wenn_Dann.cubi",
+    "solution_exists": false,
+    "template_exists": true,
+    "tutorial_exists": false,
     "isModule": false
   },
   {
