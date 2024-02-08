@@ -361,6 +361,30 @@
   },
   {
     "title": {
+      "de": "Synchronsprechen",
+      "en": "",
+      "nl": "",
+      "fr": "",
+      "es": "",
+      "ua": ""
+    },
+    "rating": 3,
+    "description": {
+      "de": "Shreibe dein eigenes Theaterstück",
+      "en": "",
+      "nl": "",
+      "fr": "",
+      "es": "",
+      "ua": ""
+    },
+    "filename": "Synchronsprechen.cubi",
+    "solution_exists": false,
+    "template_exists": true,
+    "tutorial_exists": false,
+    "isModule": false
+  },
+  {
+    "title": {
       "de": "Reaktionstest",
       "en": "Reaction Test",
       "nl": "Reaktionstest",
@@ -409,30 +433,6 @@
   },
   {
     "title": {
-      "de": "Märchenbuch zu Nachrichten",
-      "en": "Fairy tale book for messages",
-      "nl": "",
-      "fr": "",
-      "es": "",
-      "ua": ""
-    },
-    "rating": 1,
-    "description": {
-      "de": "Erstelle dein eigenes Level.",
-      "en": "Creat your own project.",
-      "nl": "Erstelle dein eigenes Level.",
-      "fr": "Erstelle dein eigenes Level.",
-      "es": "Erstelle dein eigenes Level.",
-      "ua": "Erstelle dein eigenes Level."
-    },
-    "filename": "Maerchenbuch_Nachrichten.cubi",
-    "solution_exists": false,
-    "template_exists": true,
-    "tutorial_exists": false,
-    "isModule": false
-  },
-  {
-    "title": {
       "de": "Hase und Igel",
       "en": "Hare and Hedgehog",
       "nl": "Hase und Igel",
@@ -453,6 +453,30 @@
     "solution_exists": true,
     "template_exists": true,
     "tutorial_exists": true,
+    "isModule": false
+  },
+  {
+    "title": {
+      "de": "Märchenbuch zu Nachrichten",
+      "en": "Fairy tale book for messages",
+      "nl": "",
+      "fr": "",
+      "es": "",
+      "ua": ""
+    },
+    "rating": 1,
+    "description": {
+      "de": "Erstelle dein eigenes Level.",
+      "en": "Creat your own project.",
+      "nl": "Erstelle dein eigenes Level.",
+      "fr": "Erstelle dein eigenes Level.",
+      "es": "Erstelle dein eigenes Level.",
+      "ua": "Erstelle dein eigenes Level."
+    },
+    "filename": "Maerchenbuch_Nachrichten.cubi",
+    "solution_exists": false,
+    "template_exists": true,
+    "tutorial_exists": false,
     "isModule": false
   },
   {
