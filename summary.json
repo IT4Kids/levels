@@ -65,7 +65,7 @@
       "es": "",
       "ua": ""
     },
-    "filename": "Iruse_und_die_Erdbeere",
+    "filename": "Iruse_und_die_Erdbeere.cubi",
     "solution_exists": true,
     "template_exists": false,
     "tutorial_exists": false,
@@ -193,6 +193,78 @@
   },
   {
     "title": {
+      "de": "Sternejagd",
+      "en": "Star chase",
+      "nl": "",
+      "fr": "",
+      "es": "",
+      "ua": ""
+    },
+    "rating": 1,
+    "description": {
+      "de": "",
+      "en": "",
+      "nl": "",
+      "fr": "",
+      "es": "",
+      "ua": ""
+    },
+    "filename": "Sternejagd.cubi",
+    "solution_exists": false,
+    "template_exists": true,
+    "tutorial_exists": false,
+    "isModule": false
+  },
+  {
+    "title": {
+      "de": "RunAndJump",
+      "en": "RunAndJump",
+      "nl": "",
+      "fr": "",
+      "es": "",
+      "ua": ""
+    },
+    "rating": 2,
+    "description": {
+      "de": "",
+      "en": "",
+      "nl": "",
+      "fr": "",
+      "es": "",
+      "ua": ""
+    },
+    "filename": "RunAndJump.cubi",
+    "solution_exists": false,
+    "template_exists": true,
+    "tutorial_exists": false,
+    "isModule": false
+  },
+  {
+    "title": {
+      "de": "Märchenbuch zu Bewegung",
+      "en": "Fairy tale book for movement",
+      "nl": "",
+      "fr": "",
+      "es": "",
+      "ua": ""
+    },
+    "rating": 1,
+    "description": {
+      "de": "Erstelle dein eigenes Level.",
+      "en": "Creat your own project.",
+      "nl": "Erstelle dein eigenes Level.",
+      "fr": "Erstelle dein eigenes Level.",
+      "es": "Erstelle dein eigenes Level.",
+      "ua": "Erstelle dein eigenes Level."
+    },
+    "filename": "Maerchenbuch_Bewegung.cubi",
+    "solution_exists": false,
+    "template_exists": true,
+    "tutorial_exists": false,
+    "isModule": false
+  },
+  {
+    "title": {
       "de": "Codedetektiv 1",
       "en": "Codedetectiv 1",
       "nl": "Codedetektiv 1",
@@ -213,6 +285,30 @@
     "solution_exists": false,
     "template_exists": true,
     "tutorial_exists": true,
+    "isModule": false
+  },
+  {
+    "title": {
+      "de": "Weltraum",
+      "en": "Space",
+      "nl": "Ruimte",
+      "fr": "L",
+      "es": "Espacio",
+      "ua": "Простір"
+    },
+    "rating": 1,
+    "description": {
+      "de": "Steuere den Astronauten mit den Pfeiltasten durch das Weltall. Achte auf die Planeten!",
+      "en": "Use the arrow keys to steer the astronaut through space. Watch out for the planets!",
+      "nl": "Finde die drei Fehler aus dem Level Labyrinth und lerne dabei etwas über die Fehlersuche.",
+      "fr": "Finde die drei Fehler aus dem Level Labyrinth und lerne dabei etwas über die Fehlersuche.",
+      "es": "Finde die drei Fehler aus dem Level Labyrinth und lerne dabei etwas über die Fehlersuche.",
+      "ua": "Finde die drei Fehler aus dem Level Labyrinth und lerne dabei etwas über die Fehlersuche."
+    },
+    "filename": "Weltraum.cubi",
+    "solution_exists": true,
+    "template_exists": true,
+    "tutorial_exists": false,
     "isModule": false
   },
   {
@@ -265,6 +361,30 @@
   },
   {
     "title": {
+      "de": "Märchenbuch zu Schleifen",
+      "en": "Fairy tale book for loops",
+      "nl": "",
+      "fr": "",
+      "es": "",
+      "ua": ""
+    },
+    "rating": 1,
+    "description": {
+      "de": "Erstelle dein eigenes Level.",
+      "en": "Creat your own project.",
+      "nl": "Erstelle dein eigenes Level.",
+      "fr": "Erstelle dein eigenes Level.",
+      "es": "Erstelle dein eigenes Level.",
+      "ua": "Erstelle dein eigenes Level."
+    },
+    "filename": "Maerchenbuch_Schleifen.cubi",
+    "solution_exists": false,
+    "template_exists": true,
+    "tutorial_exists": false,
+    "isModule": false
+  },
+  {
+    "title": {
       "de": "Karneval",
       "en": "Carnival",
       "nl": "Karneval",
@@ -285,6 +405,30 @@
     "solution_exists": true,
     "template_exists": true,
     "tutorial_exists": true,
+    "isModule": false
+  },
+  {
+    "title": {
+      "de": "Synchronsprechen",
+      "en": "",
+      "nl": "",
+      "fr": "",
+      "es": "",
+      "ua": ""
+    },
+    "rating": 3,
+    "description": {
+      "de": "Shreibe dein eigenes Theaterstück",
+      "en": "",
+      "nl": "",
+      "fr": "",
+      "es": "",
+      "ua": ""
+    },
+    "filename": "Synchronsprechen.cubi",
+    "solution_exists": false,
+    "template_exists": true,
+    "tutorial_exists": false,
     "isModule": false
   },
   {
@@ -361,6 +505,30 @@
   },
   {
     "title": {
+      "de": "Märchenbuch zu Nachrichten",
+      "en": "Fairy tale book for messages",
+      "nl": "",
+      "fr": "",
+      "es": "",
+      "ua": ""
+    },
+    "rating": 1,
+    "description": {
+      "de": "Erstelle dein eigenes Level.",
+      "en": "Creat your own project.",
+      "nl": "Erstelle dein eigenes Level.",
+      "fr": "Erstelle dein eigenes Level.",
+      "es": "Erstelle dein eigenes Level.",
+      "ua": "Erstelle dein eigenes Level."
+    },
+    "filename": "Maerchenbuch_Nachrichten.cubi",
+    "solution_exists": false,
+    "template_exists": true,
+    "tutorial_exists": false,
+    "isModule": false
+  },
+  {
+    "title": {
       "de": "Ballon platzen",
       "en": "Balloon popping",
       "nl": "Ballon platzen",
@@ -378,6 +546,54 @@
       "ua": "Wie schnell kannst du den Ballon zum Platzen bringen?"
     },
     "filename": "Ballon_platzen.cubi",
+    "solution_exists": true,
+    "template_exists": true,
+    "tutorial_exists": true,
+    "isModule": false
+  },
+  {
+    "title": {
+      "de": "Märchenbuch zu Bedingungen",
+      "en": "Fairy tale book for conditions",
+      "nl": "",
+      "fr": "",
+      "es": "",
+      "ua": ""
+    },
+    "rating": 1,
+    "description": {
+      "de": "Erstelle dein eigenes Level.",
+      "en": "Creat your own project.",
+      "nl": "Erstelle dein eigenes Level.",
+      "fr": "Erstelle dein eigenes Level.",
+      "es": "Erstelle dein eigenes Level.",
+      "ua": "Erstelle dein eigenes Level."
+    },
+    "filename": "Maerchenbuch_Bedingungen.cubi",
+    "solution_exists": false,
+    "template_exists": true,
+    "tutorial_exists": false,
+    "isModule": false
+  },
+  {
+    "title": {
+      "de": "Farben",
+      "en": "Colors",
+      "nl": "Farben",
+      "fr": "Farben",
+      "es": "Colores",
+      "ua": "Farben"
+    },
+    "rating": 1,
+    "description": {
+      "de": "Bewege die Biene auf der bunten Blumenwiese und lass sie dir sagen, welche Farbe sie gerade fühlt.",
+      "en": "Move the bee around the colorful flower meadow and let it tell you what color it feels.",
+      "nl": "Bewege die Biene auf der bunten Blumenwiese und lass sie dir sagen, welche Farbe sie gerade fühlt.",
+      "fr": "Bewege die Biene auf der bunten Blumenwiese und lass sie dir sagen, welche Farbe sie gerade fühlt.",
+      "es": "Bewege die Biene auf der bunten Blumenwiese und lass sie dir sagen, welche Farbe sie gerade fühlt.",
+      "ua": "Bewege die Biene auf der bunten Blumenwiese und lass sie dir sagen, welche Farbe sie gerade fühlt."
+    },
+    "filename": "Farben.cubi",
     "solution_exists": true,
     "template_exists": true,
     "tutorial_exists": true,
@@ -409,30 +625,6 @@
   },
   {
     "title": {
-      "de": "Farben",
-      "en": "Colors",
-      "nl": "Farben",
-      "fr": "Farben",
-      "es": "Farben",
-      "ua": "Farben"
-    },
-    "rating": 1,
-    "description": {
-      "de": "Bewege die Biene auf der bunten Blumenwiese und lass sie dir sagen, welche Farbe sie gerade fühlt.",
-      "en": "Move the bee around the colorful flower meadow and let it tell you what color it feels.",
-      "nl": "Bewege die Biene auf der bunten Blumenwiese und lass sie dir sagen, welche Farbe sie gerade fühlt.",
-      "fr": "Bewege die Biene auf der bunten Blumenwiese und lass sie dir sagen, welche Farbe sie gerade fühlt.",
-      "es": "Bewege die Biene auf der bunten Blumenwiese und lass sie dir sagen, welche Farbe sie gerade fühlt.",
-      "ua": "Bewege die Biene auf der bunten Blumenwiese und lass sie dir sagen, welche Farbe sie gerade fühlt."
-    },
-    "filename": "Farben.cubi",
-    "solution_exists": true,
-    "template_exists": true,
-    "tutorial_exists": true,
-    "isModule": false
-  },
-  {
-    "title": {
       "de": "Katze fängt Maus",
       "en": "Katze fängt Maus",
       "nl": "Katze fängt Maus",
@@ -453,6 +645,30 @@
     "solution_exists": true,
     "template_exists": true,
     "tutorial_exists": true,
+    "isModule": false
+  },
+  {
+    "title": {
+      "de": "Märchenbuch zu Verzweigungen",
+      "en": "Fairy tale book for if-else",
+      "nl": "",
+      "fr": "",
+      "es": "",
+      "ua": ""
+    },
+    "rating": 1,
+    "description": {
+      "de": "Erstelle dein eigenes Level.",
+      "en": "Creat your own project.",
+      "nl": "Erstelle dein eigenes Level.",
+      "fr": "Erstelle dein eigenes Level.",
+      "es": "Erstelle dein eigenes Level.",
+      "ua": "Erstelle dein eigenes Level."
+    },
+    "filename": "Maerchenbuch_Wenn_Dann.cubi",
+    "solution_exists": false,
+    "template_exists": true,
+    "tutorial_exists": false,
     "isModule": false
   },
   {
