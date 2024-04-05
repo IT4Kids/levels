@@ -481,30 +481,6 @@
   },
   {
     "title": {
-      "de": "Synchronsprechen",
-      "en": "",
-      "nl": "",
-      "fr": "",
-      "es": "",
-      "ua": ""
-    },
-    "rating": 3,
-    "description": {
-      "de": "Shreibe dein eigenes Theaterstück",
-      "en": "",
-      "nl": "",
-      "fr": "",
-      "es": "",
-      "ua": ""
-    },
-    "filename": "Synchronsprechen.cubi",
-    "solution_exists": false,
-    "template_exists": true,
-    "tutorial_exists": false,
-    "isModule": false
-  },
-  {
-    "title": {
       "de": "Reaktionstest",
       "en": "Reaction Test",
       "nl": "Reaktionstest",
