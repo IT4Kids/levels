@@ -3,19 +3,19 @@
     "title": {
       "de": "Esuri und der Apfel",
       "en": "Esuri and the Apple",
-      "nl": "Esuri en de Appel",
-      "fr": "",
-      "es": "",
-      "ua": ""
+      "nl": "Esuri en de appel",
+      "fr": "Esuri et la pomme",
+      "es": "Esuri y la manzana",
+      "ua": "Есурі та яблуко"
     },
     "rating": 1,
     "description": {
       "de": "Basislevel Modul 1",
-      "en": "Basic Level Module 1",
-      "nl": "",
-      "fr": "",
-      "es": "",
-      "ua": ""
+      "en": "Basic Level of Module 1",
+      "nl": "Basisniveau van module 1",
+      "fr": "Niveau de base du module 1",
+      "es": "Tarea básico del módulo 1",
+      "ua": "Модуль 1 базового рівня"
     },
     "filename": "Esuri_und_der_Apfel.cubi",
     "solution_exists": true,
@@ -27,19 +27,19 @@
     "title": {
       "de": "Esuri und die Birne",
       "en": "Esuri and the Pear",
-      "nl": "Esuri en de Peer",
-      "fr": "",
-      "es": "",
-      "ua": ""
+      "nl": "Esuri en de peer",
+      "fr": "Esuri et la poire",
+      "es": "Esuri y la pera",
+      "ua": "Есурі та груша"
     },
     "rating": 2,
     "description": {
       "de": "Vertiefungslevel Modul 1",
-      "en": "Advanced Level Module 1",
-      "nl": "",
-      "fr": "",
-      "es": "",
-      "ua": ""
+      "en": "Advanced Level of Module 1",
+      "nl": "Gevorderd niveau van module 1",
+      "fr": "Niveau d'approfondissement du module 1",
+      "es": "Tarea avanzado de módulo 1",
+      "ua": "Просунутий рівень Модуль 1"
     },
     "filename": "Esuri_und_die_Birne.cubi",
     "solution_exists": true,
@@ -51,19 +51,19 @@
     "title": {
       "de": "Iruse und die Erdbeere",
       "en": "Iruse and the Strawberry",
-      "nl": "Iruse en de Aardbei",
-      "fr": "",
-      "es": "",
-      "ua": ""
+      "nl": "Iruse en de aardbei",
+      "fr": "Iruse et la fraise",
+      "es": "Iruse y la fresa",
+      "ua": "Ірусе та полуниця"
     },
     "rating": 3,
     "description": {
       "de": "Code-Detektiv Modul 1",
       "en": "Code-Detective Module 1",
-      "nl": "",
-      "fr": "",
-      "es": "",
-      "ua": ""
+      "nl": "Codedetective uit module 1",
+      "fr": "Code Détective du module 1",
+      "es": "Detective de códigos del Módulo 1",
+      "ua": "Кодовий детектив з модуля 1"
     },
     "filename": "Iruse_und_die_Erdbeere.cubi",
     "solution_exists": true,
@@ -75,19 +75,19 @@
     "title": {
       "de": "Synchronsprechen",
       "en": "Voice Acting",
-      "nl": "",
-      "fr": "",
-      "es": "",
-      "ua": ""
+      "nl": "Gesynchroniseerde spraak",
+      "fr": "Parole synchronisée",
+      "es": "Voz sincronizada",
+      "ua": "Синхронізоване мовлення"
     },
     "rating": 3,
     "description": {
       "de": "Zusatz-Lektion Modul 1",
       "en": "Additional Level Module 1",
-      "nl": "",
-      "fr": "",
-      "es": "",
-      "ua": ""
+      "nl": "Extra les uit module 1",
+      "fr": "Leçon supplémentaire du module 1",
+      "es": "Lección adicional del módulo 1",
+      "ua": "Додатковий урок з модуля 1"
     },
     "filename": "Synchronsprechen.cubi",
     "solution_exists": true,
@@ -99,19 +99,19 @@
     "title": {
       "de": "Wellenreiten mit Natari",
       "en": "Riding the Waves with Natari",
-      "nl": "",
-      "fr": "",
-      "es": "",
-      "ua": ""
+      "nl": "Surfen met Natari",
+      "fr": "Surfer avec Natari",
+      "es": "Surfear con Natari",
+      "ua": "Серфінг з Натарі"
     },
     "rating": 1,
     "description": {
       "de": "Basislevel Modul 2",
-      "en": "Basic Level Module 2",
-      "nl": "",
-      "fr": "",
-      "es": "",
-      "ua": ""
+      "en": "Basic Level of Module 2",
+      "nl": "Basisniveau van module 2",
+      "fr": "Niveau de base du module 2",
+      "es": "Tarea básico del módulo 2",
+      "ua": "Модуль 2 базового рівня"
     },
     "filename": "Wellenreiten_mit_Natari.cubi",
     "solution_exists": true,
@@ -123,19 +123,19 @@
     "title": {
       "de": "Nataris Kunststück",
       "en": "Natari",
-      "nl": "",
-      "fr": "",
-      "es": "",
-      "ua": ""
+      "nl": "Natari's truc",
+      "fr": "Le tour de force de Natari",
+      "es": "El truco de Natari",
+      "ua": "Трюк Натарі"
     },
     "rating": 2,
     "description": {
       "de": "Vertiefungslevel Modul 2",
-      "en": "Advanced Level Module 2",
-      "nl": "",
-      "fr": "",
-      "es": "",
-      "ua": ""
+      "en": "Advanced Level of Module 2",
+      "nl": "Gevorderd niveau van module 2",
+      "fr": "Niveau d'approfondissement du module 2",
+      "es": "Tarea avanzado de módulo 2",
+      "ua": "Просунутий рівень Модуль 2"
     },
     "filename": "Nataris_Kunststück.cubi",
     "solution_exists": true,
@@ -243,19 +243,19 @@
     "title": {
       "de": "Sternejagd",
       "en": "Star chase",
-      "nl": "",
-      "fr": "",
-      "es": "",
-      "ua": ""
+      "nl": "Sternejagd",
+      "fr": "Sternejagd",
+      "es": "Sternejagd",
+      "ua": "Sternejagd"
     },
     "rating": 1,
     "description": {
       "de": "Hilf dem Baumwesen, den Stern einzusammeln",
-      "en": "",
-      "nl": "",
-      "fr": "",
-      "es": "",
-      "ua": ""
+      "en": "Help the tree creature to collect the star",
+      "nl": "Hilf dem Baumwesen, den Stern einzusammeln",
+      "fr": "Hilf dem Baumwesen, den Stern einzusammeln",
+      "es": "Hilf dem Baumwesen, den Stern einzusammeln",
+      "ua": "Hilf dem Baumwesen, den Stern einzusammeln"
     },
     "filename": "Sternejagd.cubi",
     "solution_exists": false,
@@ -267,19 +267,19 @@
     "title": {
       "de": "RunAndJump",
       "en": "RunAndJump",
-      "nl": "",
-      "fr": "",
-      "es": "",
-      "ua": ""
+      "nl": "RunAndJump",
+      "fr": "RunAndJump",
+      "es": "RunAndJump",
+      "ua": "RunAndJump"
     },
     "rating": 2,
     "description": {
       "de": "Steuere den Vogel und weiche rechtzeitig den Bällen aus.",
-      "en": "",
-      "nl": "",
-      "fr": "",
-      "es": "",
-      "ua": ""
+      "en": "Steer the bird and avoid the balls in good time.",
+      "nl": "Steuere den Vogel und weiche rechtzeitig den Bällen aus.",
+      "fr": "Steuere den Vogel und weiche rechtzeitig den Bällen aus.",
+      "es": "Steuere den Vogel und weiche rechtzeitig den Bällen aus.",
+      "ua": "Steuere den Vogel und weiche rechtzeitig den Bällen aus."
     },
     "filename": "RunAndJump.cubi",
     "solution_exists": false,
@@ -290,20 +290,20 @@
   {
     "title": {
       "de": "Bauernhof automatisch",
-      "en": "",
-      "nl": "",
-      "fr": "",
-      "es": "",
-      "ua": ""
+      "en": "Farm automatically",
+      "nl": "Bauernhof automatisch",
+      "fr": "Bauernhof automatisch",
+      "es": "Bauernhof automatisch",
+      "ua": "Bauernhof automatisch"
     },
     "rating": 1,
     "description": {
-      "de": "Eine Version von Bauernhof die Automatisch das level spielt.",
-      "en": "",
-      "nl": "",
-      "fr": "",
-      "es": "",
-      "ua": ""
+      "de": "Eine Version von Bauernhof, die das Level spielt automatisch.",
+      "en": "A version of farm that plays the level automatically.",
+      "nl": "Eine Version von Bauernhof, die das Level spielt automatisch.",
+      "fr": "Eine Version von Bauernhof, die das Level spielt automatisch.",
+      "es": "Eine Version von Bauernhof, die das Level spielt automatisch.",
+      "ua": "Eine Version von Bauernhof, die das Level spielt automatisch."
     },
     "filename": "Bauernhof_Auto.cubi",
     "solution_exists": true,
@@ -315,10 +315,10 @@
     "title": {
       "de": "Märchenbuch zu Bewegung",
       "en": "Fairy tale book for movement",
-      "nl": "",
-      "fr": "",
-      "es": "",
-      "ua": ""
+      "nl": "Verhaalboek over beweging",
+      "fr": "Livre de contes sur le mouvement",
+      "es": "Libro de cuentos sobre el movimiento",
+      "ua": "Книга оповідань про рух"
     },
     "rating": 1,
     "description": {
@@ -435,10 +435,10 @@
     "title": {
       "de": "Märchenbuch zu Schleifen",
       "en": "Fairy tale book for loops",
-      "nl": "",
-      "fr": "",
-      "es": "",
-      "ua": ""
+      "nl": "Sprookjesboek voor strikken",
+      "fr": "Livre de contes en boucle",
+      "es": "Libro de cuentos para bucles",
+      "ua": "Книжка казок для бантиків"
     },
     "rating": 1,
     "description": {
@@ -555,10 +555,10 @@
     "title": {
       "de": "Märchenbuch zu Nachrichten",
       "en": "Fairy tale book for messages",
-      "nl": "",
-      "fr": "",
-      "es": "",
-      "ua": ""
+      "nl": "Verhalenboek over nieuws",
+      "fr": "Livre de contes sur les nouvelles",
+      "es": "Cuentos sobre noticias",
+      "ua": "Книга оповідань про новини"
     },
     "rating": 1,
     "description": {
@@ -603,10 +603,10 @@
     "title": {
       "de": "Märchenbuch zu Bedingungen",
       "en": "Fairy tale book for conditions",
-      "nl": "",
-      "fr": "",
-      "es": "",
-      "ua": ""
+      "nl": "Sprookjesboek over voorwaarden",
+      "fr": "Livre de contes à conditions",
+      "es": "Libro de cuentos en condiciones",
+      "ua": "Книжка казок на умовах"
     },
     "rating": 1,
     "description": {
@@ -699,10 +699,10 @@
     "title": {
       "de": "Märchenbuch zu Verzweigungen",
       "en": "Fairy tale book for if-else",
-      "nl": "",
-      "fr": "",
-      "es": "",
-      "ua": ""
+      "nl": "Sprookjesboek voor if-else",
+      "fr": "Livre de contes de fées pour if-else",
+      "es": "Libro de cuentos para if-else",
+      "ua": "Книжка казок для if-else"
     },
     "rating": 1,
     "description": {
