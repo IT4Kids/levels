@@ -337,12 +337,12 @@
   },
   {
     "title": {
-      "de": "Codedetektiv 1",
-      "en": "Codedetectiv 1",
-      "nl": "Codedetektiv 1",
-      "fr": "Codedetektiv 1",
-      "es": "Codedetektiv 1",
-      "ua": "Codedetektiv 1"
+      "de": "Code-Detektiv 1",
+      "en": "Code-Detectiv 1",
+      "nl": "Code-Detektiv 1",
+      "fr": "Code-Detektiv 1",
+      "es": "Code-Detektiv 1",
+      "ua": "Code-Detektiv 1"
     },
     "rating": 1,
     "description": {
@@ -817,21 +817,21 @@
   },
   {
     "title": {
-      "de": "Codedetektiv 2",
-      "en": "Codedetektiv 2",
-      "nl": "Codedetektiv 2",
-      "fr": "Codedetektiv 2",
-      "es": "Codedetektiv 2",
-      "ua": "Codedetektiv 2"
+      "de": "Code-Detektiv 2",
+      "en": "Code-Detective 2",
+      "nl": "Code-Detektiv 2",
+      "fr": "Code-Detektiv 2",
+      "es": "Code-Detektiv 2",
+      "ua": "Code-Detektiv 2"
     },
     "rating": 2,
     "description": {
-      "de": "Bist du ein echter Codedetektiv und findest alle Fehler, die sich im Level \"Aquarium\" versteckt haben?",
-      "en": "Bist du ein echter Codedetektiv und findest alle Fehler, die sich im Level \"Aquarium\" versteckt haben?",
-      "nl": "Bist du ein echter Codedetektiv und findest alle Fehler, die sich im Level \"Aquarium\" versteckt haben?",
-      "fr": "Bist du ein echter Codedetektiv und findest alle Fehler, die sich im Level \"Aquarium\" versteckt haben?",
-      "es": "Bist du ein echter Codedetektiv und findest alle Fehler, die sich im Level \"Aquarium\" versteckt haben?",
-      "ua": "Bist du ein echter Codedetektiv und findest alle Fehler, die sich im Level \"Aquarium\" versteckt haben?"
+      "de": "Bist du ein echter Code-Detektiv und findest alle Fehler, die sich im Level \"Aquarium\" versteckt haben?",
+      "en": "Bist du ein echter Code-Detektiv und findest alle Fehler, die sich im Level \"Aquarium\" versteckt haben?",
+      "nl": "Bist du ein echter Code-Detektiv und findest alle Fehler, die sich im Level \"Aquarium\" versteckt haben?",
+      "fr": "Bist du ein echter Code-Detektiv und findest alle Fehler, die sich im Level \"Aquarium\" versteckt haben?",
+      "es": "Bist du ein echter Code-Detektiv und findest alle Fehler, die sich im Level \"Aquarium\" versteckt haben?",
+      "ua": "Bist du ein echter Code-Detektiv und findest alle Fehler, die sich im Level \"Aquarium\" versteckt haben?"
     },
     "filename": "Codedetektiv_2.cubi",
     "solution_exists": false,
@@ -1249,12 +1249,12 @@
   },
   {
     "title": {
-      "de": "Codedetektiv 3",
-      "en": "Codedetektiv 3",
-      "nl": "Codedetektiv 3",
-      "fr": "Codedetektiv 3",
-      "es": "Codedetektiv 3",
-      "ua": "Codedetektiv 3"
+      "de": "Code-Detektiv 3",
+      "en": "Code-Detective 3",
+      "nl": "Code-Detektiv 3",
+      "fr": "Code-Detektiv 3",
+      "es": "Code-Detektiv 3",
+      "ua": "Code-Detektiv 3"
     },
     "rating": 3,
     "description": {
