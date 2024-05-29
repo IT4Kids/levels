@@ -1462,5 +1462,28 @@
     "template_exists": true,
     "tutorial_exists": false,
     "isModule": false
-  }
+  },
+  {
+    "title": {
+    "de":"Der Rabe und der Fuchs",
+    "en":"",
+    "nl":"",
+    "fr":"",
+    "es":"",
+    "ua":""
+  },
+  "rating":3,
+  "description": {
+    "de":"Projekttag Fabeln",
+    "en":"",
+    "nl":"",
+    "fr":"",
+    "es":"",
+    "ua":""
+  },
+  "filename":"Der_Rabe_und_der_Fuchs.cubi",
+  "solution_exists":false,
+  "template_exists":true,
+  "tutorial_exists":false,
+  "isModule":false},
 ]
