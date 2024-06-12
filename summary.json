@@ -1,1 +1,1552 @@
-[{"title":{"de":"Esuri und der Apfel","en":"Esuri and the Apple","nl":"Esuri en de appel","fr":"Esuri et la pomme","es":"Esuri y la manzana","ua":"Есурі та яблуко"},"rating":1,"description":{"de":"Basislevel Modul 1","en":"Basic Level of Module 1","nl":"Basisniveau van module 1","fr":"Niveau de base du module 1","es":"Tarea básico del módulo 1","ua":"Модуль 1 базового рівня"},"filename":"Esuri_und_der_Apfel.cubi","solution_exists":true,"template_exists":false,"tutorial_exists":false,"isModule":true},{"title":{"de":"Esuri und die Birne","en":"Esuri and the Pear","nl":"Esuri en de peer","fr":"Esuri et la poire","es":"Esuri y la pera","ua":"Есурі та груша"},"rating":2,"description":{"de":"Vertiefungslevel Modul 1","en":"Advanced Level of Module 1","nl":"Gevorderd niveau van module 1","fr":"Niveau d'approfondissement du module 1","es":"Tarea avanzado de módulo 1","ua":"Просунутий рівень Модуль 1"},"filename":"Esuri_und_die_Birne.cubi","solution_exists":true,"template_exists":false,"tutorial_exists":false,"isModule":true},{"title":{"de":"Iruse und die Erdbeere","en":"Iruse and the Strawberry","nl":"Iruse en de aardbei","fr":"Iruse et la fraise","es":"Iruse y la fresa","ua":"Ірусе та полуниця"},"rating":3,"description":{"de":"Code-Detektiv Modul 1","en":"Code-Detective Module 1","nl":"Codedetective uit module 1","fr":"Code Détective du module 1","es":"Detective de códigos del Módulo 1","ua":"Кодовий детектив з модуля 1"},"filename":"Iruse_und_die_Erdbeere.cubi","solution_exists":true,"template_exists":false,"tutorial_exists":false,"isModule":true},{"title":{"de":"Synchronsprechen","en":"Voice Acting","nl":"Gesynchroniseerde spraak","fr":"Parole synchronisée","es":"Voz sincronizada","ua":"Синхронізоване мовлення"},"rating":3,"description":{"de":"Zusatz-Lektion Modul 1","en":"Additional Level Module 1","nl":"Extra les uit module 1","fr":"Leçon supplémentaire du module 1","es":"Lección adicional del módulo 1","ua":"Додатковий урок з модуля 1"},"filename":"Synchronsprechen.cubi","solution_exists":true,"template_exists":false,"tutorial_exists":false,"isModule":true},{"title":{"de":"Wellenreiten mit Natari","en":"Riding the Waves with Natari","nl":"Surfen met Natari","fr":"Surfer avec Natari","es":"Surfear con Natari","ua":"Серфінг з Натарі"},"rating":1,"description":{"de":"Basislevel Modul 2","en":"Basic Level of Module 2","nl":"Basisniveau van module 2","fr":"Niveau de base du module 2","es":"Tarea básico del módulo 2","ua":"Модуль 2 базового рівня"},"filename":"Wellenreiten_mit_Natari.cubi","solution_exists":true,"template_exists":false,"tutorial_exists":false,"isModule":true},{"title":{"de":"Nataris Kunststück","en":"Natari","nl":"Natari","fr":"Le tour de force de Natari","es":"El truco de Natari","ua":"Трюк Натарі"},"rating":2,"description":{"de":"Vertiefungslevel Modul 2","en":"Advanced Level of Module 2","nl":"Gevorderd niveau van module 2","fr":"Niveau d'approfondissement du module 2","es":"Tarea avanzado de módulo 2","ua":"Просунутий рівень Модуль 2"},"filename":"Nataris_Kunststück.cubi","solution_exists":true,"template_exists":false,"tutorial_exists":false,"isModule":true},{"title":{"de":"Begrüßung","en":"Welcoming","nl":"Begrüßung","fr":"Begrüßung","es":"Begrüßung","ua":"Begrüßung"},"rating":1,"description":{"de":"In diesem Tutorial wirst du Schritt für Schritt durch Cubi geführt.","en":"In this tutorial, you will be guided step-by-step through Cubi.","nl":"In diesem Tutorial wirst du Schritt für Schritt durch Cubi geführt.","fr":"In diesem Tutorial wirst du Schritt für Schritt durch Cubi geführt.","es":"In diesem Tutorial wirst du Schritt für Schritt durch Cubi geführt.","ua":"In diesem Tutorial wirst du Schritt für Schritt durch Cubi geführt."},"filename":"Begrüßung.cubi","solution_exists":false,"template_exists":false,"tutorial_exists":true,"isModule":false},{"title":{"de":"Bauernhof","en":"Farm","nl":"Bauernhof","fr":"Bauernhof","es":"Bauernhof","ua":"Bauernhof"},"rating":1,"description":{"de":"Zeige der Kuh den Weg zurück in ihren Stall.","en":"Show the cow the way to her barn.","nl":"Zeige der Kuh den Weg zurück in ihren Stall.","fr":"Zeige der Kuh den Weg zurück in ihren Stall.","es":"Zeige der Kuh den Weg zurück in ihren Stall.","ua":"Zeige der Kuh den Weg zurück in ihren Stall."},"filename":"Bauernhof.cubi","solution_exists":true,"template_exists":true,"tutorial_exists":true,"isModule":false},{"title":{"de":"Maus zum Käse","en":"Mouse to the cheese","nl":"Maus zum Käse","fr":"Maus zum Käse","es":"Maus zum Käse","ua":"Maus zum Käse"},"rating":1,"description":{"de":"Die Maus soll den leckeren Käse erreichen. Hilf ihr den Weg über die Brücke zu finden, ohne herunterzufallen.","en":"The mouse should reach the delicious cheese. Help her find the way across the bridge without falling down.","nl":"Programmiere die Maus so, dass sie über die Brücke zum Käse läuft und dabei nicht ins Wasser fällt.","fr":"Programmiere die Maus so, dass sie über die Brücke zum Käse läuft und dabei nicht ins Wasser fällt.","es":"Programmiere die Maus so, dass sie über die Brücke zum Käse läuft und dabei nicht ins Wasser fällt.","ua":"Programmiere die Maus so, dass sie über die Brücke zum Käse läuft und dabei nicht ins Wasser fällt."},"filename":"Maus_zum_Kaese.cubi","solution_exists":true,"template_exists":true,"tutorial_exists":true,"isModule":false},{"title":{"de":"Labyrinth","en":"Labyrinth","nl":"Labyrinth","fr":"Labyrinth","es":"Labyrinth","ua":"Labyrinth"},"rating":1,"description":{"de":"Zeige der Maus den Weg durch das Labyrinth. Um das Tor zu  ̈öffnen, braucht sie vorher den Schlüssel.","en":"Guide the mouse through the labyrinth. To open the gate, she needs the key first.","nl":"Führe die Maus durch das Labyrinth: Erst zum Schlüssel, dann zum Tor.","fr":"Führe die Maus durch das Labyrinth: Erst zum Schlüssel, dann zum Tor.","es":"Führe die Maus durch das Labyrinth: Erst zum Schlüssel, dann zum Tor.","ua":"Führe die Maus durch das Labyrinth: Erst zum Schlüssel, dann zum Tor."},"filename":"Labyrinth.cubi","solution_exists":true,"template_exists":true,"tutorial_exists":true,"isModule":false},{"title":{"de":"Sternejagd","en":"Star chase","nl":"Sternejagd","fr":"Sternejagd","es":"Sternejagd","ua":"Sternejagd"},"rating":1,"description":{"de":"Hilf dem Baumwesen, den Stern einzusammeln","en":"Help the tree creature to collect the star","nl":"Hilf dem Baumwesen, den Stern einzusammeln","fr":"Hilf dem Baumwesen, den Stern einzusammeln","es":"Hilf dem Baumwesen, den Stern einzusammeln","ua":"Hilf dem Baumwesen, den Stern einzusammeln"},"filename":"Sternejagd.cubi","solution_exists":false,"template_exists":true,"tutorial_exists":false,"isModule":false},{"title":{"de":"RunAndJump","en":"RunAndJump","nl":"RunAndJump","fr":"RunAndJump","es":"RunAndJump","ua":"RunAndJump"},"rating":2,"description":{"de":"Steuere den Vogel und weiche rechtzeitig den Bällen aus.","en":"Steer the bird and avoid the balls in good time.","nl":"Steuere den Vogel und weiche rechtzeitig den Bällen aus.","fr":"Steuere den Vogel und weiche rechtzeitig den Bällen aus.","es":"Steuere den Vogel und weiche rechtzeitig den Bällen aus.","ua":"Steuere den Vogel und weiche rechtzeitig den Bällen aus."},"filename":"RunAndJump.cubi","solution_exists":false,"template_exists":true,"tutorial_exists":false,"isModule":false},{"title":{"de":"Bauernhof automatisch","en":"Farm automatically","nl":"Bauernhof automatisch","fr":"Bauernhof automatisch","es":"Bauernhof automatisch","ua":"Bauernhof automatisch"},"rating":1,"description":{"de":"Eine Version von Bauernhof, die das Level spielt automatisch.","en":"A version of farm that plays the level automatically.","nl":"Eine Version von Bauernhof, die das Level spielt automatisch.","fr":"Eine Version von Bauernhof, die das Level spielt automatisch.","es":"Eine Version von Bauernhof, die das Level spielt automatisch.","ua":"Eine Version von Bauernhof, die das Level spielt automatisch."},"filename":"Bauernhof_Auto.cubi","solution_exists":true,"template_exists":false,"tutorial_exists":false,"isModule":false},{"title":{"de":"Märchenbuch zu Bewegung","en":"Fairy tale book for movement","nl":"Verhaalboek over beweging","fr":"Livre de contes sur le mouvement","es":"Libro de cuentos sobre el movimiento","ua":"Книга оповідань про рух"},"rating":1,"description":{"de":"Erstelle dein eigenes Level.","en":"Creat your own project.","nl":"Erstelle dein eigenes Level.","fr":"Erstelle dein eigenes Level.","es":"Erstelle dein eigenes Level.","ua":"Erstelle dein eigenes Level."},"filename":"Maerchenbuch_Bewegung.cubi","solution_exists":false,"template_exists":true,"tutorial_exists":false,"isModule":false},{"title":{"de":"Code-Detektiv 1","en":"Code-Detectiv 1","nl":"Code-Detektiv 1","fr":"Code-Detektiv 1","es":"Code-Detektiv 1","ua":"Code-Detektiv 1"},"rating":1,"description":{"de":"Finde die drei Fehler aus dem Level Labyrinth und lerne dabei etwas über die Fehlersuche.","en":"Find the three mistakes from the level Labyrinth and learn about debugging.","nl":"Finde die drei Fehler aus dem Level Labyrinth und lerne dabei etwas über die Fehlersuche.","fr":"Finde die drei Fehler aus dem Level Labyrinth und lerne dabei etwas über die Fehlersuche.","es":"Finde die drei Fehler aus dem Level Labyrinth und lerne dabei etwas über die Fehlersuche.","ua":"Finde die drei Fehler aus dem Level Labyrinth und lerne dabei etwas über die Fehlersuche."},"filename":"Codedetektiv_1.cubi","solution_exists":false,"template_exists":true,"tutorial_exists":true,"isModule":false},{"title":{"de":"Weltraum","en":"Space","nl":"Ruimte","fr":"L","es":"Espacio","ua":"Простір"},"rating":1,"description":{"de":"Steuere den Astronauten mit den Pfeiltasten durch das Weltall. Achte auf die Planeten!","en":"Use the arrow keys to steer the astronaut through space. Watch out for the planets!","nl":"Finde die drei Fehler aus dem Level Labyrinth und lerne dabei etwas über die Fehlersuche.","fr":"Finde die drei Fehler aus dem Level Labyrinth und lerne dabei etwas über die Fehlersuche.","es":"Finde die drei Fehler aus dem Level Labyrinth und lerne dabei etwas über die Fehlersuche.","ua":"Finde die drei Fehler aus dem Level Labyrinth und lerne dabei etwas über die Fehlersuche."},"filename":"Weltraum.cubi","solution_exists":true,"template_exists":true,"tutorial_exists":false,"isModule":false},{"title":{"de":"Maulwurf","en":"Mole","nl":"Maulwurf","fr":"Maulwurf","es":"Maulwurf","ua":"Maulwurf"},"rating":1,"description":{"de":"Die zwei Maulwürfe sind auf dem Weg durch ihre Tunnel zu den Regenwürmern.","en":"The two moles are on their way through their tunnels to the earthworms.","nl":"Die zwei Maulwürfe sind auf dem Weg durch ihre Tunnel zu den Regenwürmern.","fr":"Die zwei Maulwürfe sind auf dem Weg durch ihre Tunnel zu den Regenwürmern.","es":"Die zwei Maulwürfe sind auf dem Weg durch ihre Tunnel zu den Regenwürmern.","ua":"Die zwei Maulwürfe sind auf dem Weg durch ihre Tunnel zu den Regenwürmern."},"filename":"Maulwurf.cubi","solution_exists":true,"template_exists":true,"tutorial_exists":true,"isModule":false},{"title":{"de":"Sternlabyrinth","en":"Starlabyrinth","nl":"Sternlabyrinth","fr":"Sternlabyrinth","es":"Sternlabyrinth","ua":"Sternlabyrinth"},"rating":1,"description":{"de":"Sammle das Herz, den Stern, die Münze und den Schlüssel in der richtigen Reihenfolge ein.","en":"Collect the heart, the star, the coin, and the key in the correct order.","nl":"Sammle das Herz, den Stern, die Münze und den Schlüssel in der richtigen Reihenfolge ein.","fr":"Sammle das Herz, den Stern, die Münze und den Schlüssel in der richtigen Reihenfolge ein.","es":"Sammle das Herz, den Stern, die Münze und den Schlüssel in der richtigen Reihenfolge ein.","ua":"Sammle das Herz, den Stern, die Münze und den Schlüssel in der richtigen Reihenfolge ein."},"filename":"Sternlabyrinth.cubi","solution_exists":true,"template_exists":true,"tutorial_exists":true,"isModule":false},{"title":{"de":"Märchenbuch zu Schleifen","en":"Fairy tale book for loops","nl":"Sprookjesboek voor strikken","fr":"Livre de contes en boucle","es":"Libro de cuentos para bucles","ua":"Книжка казок для бантиків"},"rating":1,"description":{"de":"Erstelle dein eigenes Level.","en":"Creat your own project.","nl":"Erstelle dein eigenes Level.","fr":"Erstelle dein eigenes Level.","es":"Erstelle dein eigenes Level.","ua":"Erstelle dein eigenes Level."},"filename":"Maerchenbuch_Schleifen.cubi","solution_exists":false,"template_exists":true,"tutorial_exists":false,"isModule":false},{"title":{"de":"Karneval","en":"Carnival","nl":"Karneval","fr":"Karneval","es":"Karneval","ua":"Karneval"},"rating":1,"description":{"de":"Cubi möchte sich verkleiden, aber er ist noch nicht sicher, was er anziehen muss. Probiere alle Kostüme mit ihm durch, indem du ihn drückst.","en":"Cubi wants to dress up, but he's not sure what to wear. Try on all the costumes with him by tapping on him.","nl":"Cubi möchte sich verkleiden, aber er ist noch nicht sicher, was er anziehen muss. Probiere alle Kostüme mit ihm durch, indem du ihn drückst.","fr":"Cubi möchte sich verkleiden, aber er ist noch nicht sicher, was er anziehen muss. Probiere alle Kostüme mit ihm durch, indem du ihn drückst.","es":"Cubi möchte sich verkleiden, aber er ist noch nicht sicher, was er anziehen muss. Probiere alle Kostüme mit ihm durch, indem du ihn drückst.","ua":"Cubi möchte sich verkleiden, aber er ist noch nicht sicher, was er anziehen muss. Probiere alle Kostüme mit ihm durch, indem du ihn drückst."},"filename":"Karneval.cubi","solution_exists":true,"template_exists":true,"tutorial_exists":true,"isModule":false},{"title":{"de":"Reaktionstest","en":"Reaction Test","nl":"Reaktionstest","fr":"Reaktionstest","es":"Reaktionstest","ua":"Reaktionstest"},"rating":1,"description":{"de":"Drücke so schnell es geht die Taste sobald der Hintergrund sich ändert!","en":"Press the button as quickly as possible when the background changes!","nl":"Drücke so schnell es geht die Taste sobald der Hintergrund sich ändert!","fr":"Drücke so schnell es geht die Taste sobald der Hintergrund sich ändert!","es":"Drücke so schnell es geht die Taste sobald der Hintergrund sich ändert!","ua":"Drücke so schnell es geht die Taste sobald der Hintergrund sich ändert!"},"filename":"Reaktionstest.cubi","solution_exists":true,"template_exists":true,"tutorial_exists":true,"isModule":false},{"title":{"de":"Klassendienst","en":"Classroom Duties","nl":"Klassendienst","fr":"Klassendienst","es":"Klassendienst","ua":"Klassendienst"},"rating":1,"description":{"de":"Du hast Tafeldienst und Pflanzendienst. Wische die Tafel und gieße die Pflanze im Klassenzimmer, damit du schnell nach Hause gehen kannst.","en":"You have chalkboard and plant duty. Wish the board and water the plant in the class room so that you can go home quickly.","nl":"Du hast Tafeldienst und Pflanzendienst. Wische die Tafel und gieße die Pflanzen im Klassenzimmer, damit du schnell nach Hause gehen kannst.","fr":"Du hast Tafeldienst und Pflanzendienst. Wische die Tafel und gieße die Pflanzen im Klassenzimmer, damit du schnell nach Hause gehen kannst.","es":"Du hast Tafeldienst und Pflanzendienst. Wische die Tafel und gieße die Pflanzen im Klassenzimmer, damit du schnell nach Hause gehen kannst.","ua":"Du hast Tafeldienst und Pflanzendienst. Wische die Tafel und gieße die Pflanzen im Klassenzimmer, damit du schnell nach Hause gehen kannst."},"filename":"Klassendienst.cubi","solution_exists":true,"template_exists":true,"tutorial_exists":true,"isModule":false},{"title":{"de":"Hase und Igel","en":"Hare and Hedgehog","nl":"Hase und Igel","fr":"Hase und Igel","es":"Hase und Igel","ua":"Hase und Igel"},"rating":1,"description":{"de":"Hase und Igel laufen um die Wette. Aber der Igel hat ein paar Tricks auf Lager...","en":"Hare and Hedgehog are racing each other. But the hedgehog has a few tricks up its sleeve...","nl":"Hase und Igel laufen um die Wette. Aber der Igel hat ein paar Tricks auf Lager...","fr":"Hase und Igel laufen um die Wette. Aber der Igel hat ein paar Tricks auf Lager...","es":"Hase und Igel laufen um die Wette. Aber der Igel hat ein paar Tricks auf Lager...","ua":"Hase und Igel laufen um die Wette. Aber der Igel hat ein paar Tricks auf Lager..."},"filename":"Hase_und_Igel.cubi","solution_exists":true,"template_exists":true,"tutorial_exists":true,"isModule":false},{"title":{"de":"Märchenbuch zu Nachrichten","en":"Fairy tale book for messages","nl":"Verhalenboek over nieuws","fr":"Livre de contes sur les nouvelles","es":"Cuentos sobre noticias","ua":"Книга оповідань про новини"},"rating":1,"description":{"de":"Erstelle dein eigenes Level.","en":"Creat your own project.","nl":"Erstelle dein eigenes Level.","fr":"Erstelle dein eigenes Level.","es":"Erstelle dein eigenes Level.","ua":"Erstelle dein eigenes Level."},"filename":"Maerchenbuch_Nachrichten.cubi","solution_exists":false,"template_exists":true,"tutorial_exists":false,"isModule":false},{"title":{"de":"Ballon platzen","en":"Balloon popping","nl":"Ballon platzen","fr":"Ballon platzen","es":"Ballon platzen","ua":"Ballon platzen"},"rating":1,"description":{"de":"Wie schnell kannst du den Ballon zum Platzen bringen?","en":"How fast can you burst the balloon?","nl":"Wie schnell kannst du den Ballon zum Platzen bringen?","fr":"Wie schnell kannst du den Ballon zum Platzen bringen?","es":"Wie schnell kannst du den Ballon zum Platzen bringen?","ua":"Wie schnell kannst du den Ballon zum Platzen bringen?"},"filename":"Ballon_platzen.cubi","solution_exists":true,"template_exists":true,"tutorial_exists":true,"isModule":false},{"title":{"de":"Märchenbuch zu Bedingungen","en":"Fairy tale book for conditions","nl":"Sprookjesboek over voorwaarden","fr":"Livre de contes à conditions","es":"Libro de cuentos en condiciones","ua":"Книжка казок на умовах"},"rating":1,"description":{"de":"Erstelle dein eigenes Level.","en":"Creat your own project.","nl":"Erstelle dein eigenes Level.","fr":"Erstelle dein eigenes Level.","es":"Erstelle dein eigenes Level.","ua":"Erstelle dein eigenes Level."},"filename":"Maerchenbuch_Bedingungen.cubi","solution_exists":false,"template_exists":true,"tutorial_exists":false,"isModule":false},{"title":{"de":"Farben","en":"Colors","nl":"Farben","fr":"Farben","es":"Colores","ua":"Farben"},"rating":1,"description":{"de":"Bewege die Biene auf der bunten Blumenwiese und lass sie dir sagen, welche Farbe sie gerade fühlt.","en":"Move the bee around the colorful flower meadow and let it tell you what color it feels.","nl":"Bewege die Biene auf der bunten Blumenwiese und lass sie dir sagen, welche Farbe sie gerade fühlt.","fr":"Bewege die Biene auf der bunten Blumenwiese und lass sie dir sagen, welche Farbe sie gerade fühlt.","es":"Bewege die Biene auf der bunten Blumenwiese und lass sie dir sagen, welche Farbe sie gerade fühlt.","ua":"Bewege die Biene auf der bunten Blumenwiese und lass sie dir sagen, welche Farbe sie gerade fühlt."},"filename":"Farben.cubi","solution_exists":true,"template_exists":true,"tutorial_exists":true,"isModule":false},{"title":{"de":"Flugstunde","en":"Flying Lesson","nl":"Flugstunde","fr":"Flugstunde","es":"Flugstunde","ua":"Flugstunde"},"rating":1,"description":{"de":"Bewege die Biene auf der Blumenwiese hin und her. Bei jeder Farbe wird sie eine anderes Kunststück vollbringen.","en":"Move the bee around the flower meadow. She performs a different stunt on each flower.","nl":"Bewege die Biene auf der Blumenwiese hin und her. Bei jeder Farbe wird sie eine anderes Kunststück vollbringen.","fr":"Bewege die Biene auf der Blumenwiese hin und her. Bei jeder Farbe wird sie eine anderes Kunststück vollbringen.","es":"Bewege die Biene auf der Blumenwiese hin und her. Bei jeder Farbe wird sie eine anderes Kunststück vollbringen.","ua":"Bewege die Biene auf der Blumenwiese hin und her. Bei jeder Farbe wird sie eine anderes Kunststück vollbringen."},"filename":"Flugstunde.cubi","solution_exists":true,"template_exists":true,"tutorial_exists":true,"isModule":false},{"title":{"de":"Katze fängt Maus","en":"Katze fängt Maus","nl":"Katze fängt Maus","fr":"Katze fängt Maus","es":"Katze fängt Maus","ua":"Katze fängt Maus"},"rating":1,"description":{"de":"Fang die Maus! Errate, wo sie als nächstes hingehen wird und lauere dort auf die Maus.","en":"Fang die Maus! Errate, wo sie als nächstes hingehen wird und lauere dort auf die Maus.","nl":"Fang die Maus! Errate, wo sie als nächstes hingehen wird und lauere dort auf die Maus.","fr":"Fang die Maus! Errate, wo sie als nächstes hingehen wird und lauere dort auf die Maus.","es":"Fang die Maus! Errate, wo sie als nächstes hingehen wird und lauere dort auf die Maus.","ua":"Fang die Maus! Errate, wo sie als nächstes hingehen wird und lauere dort auf die Maus."},"filename":"Katze_faengt_Maus.cubi","solution_exists":true,"template_exists":true,"tutorial_exists":true,"isModule":false},{"title":{"de":"Märchenbuch zu Verzweigungen","en":"Fairy tale book for if-else","nl":"Sprookjesboek voor if-else","fr":"Livre de contes de fées pour if-else","es":"Libro de cuentos para if-else","ua":"Книжка казок для if-else"},"rating":1,"description":{"de":"Erstelle dein eigenes Level.","en":"Creat your own project.","nl":"Erstelle dein eigenes Level.","fr":"Erstelle dein eigenes Level.","es":"Erstelle dein eigenes Level.","ua":"Erstelle dein eigenes Level."},"filename":"Maerchenbuch_Wenn_Dann.cubi","solution_exists":false,"template_exists":true,"tutorial_exists":false,"isModule":false},{"title":{"de":"Was soll ich anziehen?","en":"Was soll ich anziehen?","nl":"Was soll ich anziehen?","fr":"Was soll ich anziehen?","es":"Was soll ich anziehen?","ua":"Was soll ich anziehen?"},"rating":2,"description":{"de":"Cubi möchte sich auf eine Party vorbereiten. Kannst du ihm helfen, eine coole Verkleidung zu finden?","en":"Cubi möchte sich auf eine Party vorbereiten. Kannst du ihm helfen, eine coole Verkleidung zu finden?","nl":"Cubi möchte sich auf eine Party vorbereiten. Kannst du ihm helfen, eine coole Verkleidung zu finden?","fr":"Cubi möchte sich auf eine Party vorbereiten. Kannst du ihm helfen, eine coole Verkleidung zu finden?","es":"Cubi möchte sich auf eine Party vorbereiten. Kannst du ihm helfen, eine coole Verkleidung zu finden?","ua":"Cubi möchte sich auf eine Party vorbereiten. Kannst du ihm helfen, eine coole Verkleidung zu finden?"},"filename":"Was_soll_ich_anziehen.cubi","solution_exists":true,"template_exists":true,"tutorial_exists":false,"isModule":false},{"title":{"de":"Buchstaben","en":"Buchstaben","nl":"Buchstaben","fr":"Buchstaben","es":"Buchstaben","ua":"Buchstaben"},"rating":2,"description":{"de":"Programmiere jeden Buchstaben des Worts \"IT4Kids\" so, dass eine tolle Animation entsteht.","en":"Programmiere jeden Buchstaben des Worts \"IT4Kids\" so, dass eine tolle Animation entsteht.","nl":"Programmiere jeden Buchstaben des Worts \"IT4Kids\" so, dass eine tolle Animation entsteht.","fr":"Programmiere jeden Buchstaben des Worts \"IT4Kids\" so, dass eine tolle Animation entsteht.","es":"Programmiere jeden Buchstaben des Worts \"IT4Kids\" so, dass eine tolle Animation entsteht.","ua":"Programmiere jeden Buchstaben des Worts \"IT4Kids\" so, dass eine tolle Animation entsteht."},"filename":"Buchstaben.cubi","solution_exists":true,"template_exists":true,"tutorial_exists":false,"isModule":false},{"title":{"de":"Kaktus","en":"Kaktus","nl":"Kaktus","fr":"Kaktus","es":"Kaktus","ua":"Kaktus"},"rating":2,"description":{"de":"Springe mit dem Drachen über so viele Kakteen wie möglich.","en":"Springe mit dem Drachen über so viele Kakteen wie möglich.","nl":"Springe mit dem Drachen über so viele Kakteen wie möglich.","fr":"Springe mit dem Drachen über so viele Kakteen wie möglich.","es":"Springe mit dem Drachen über so viele Kakteen wie möglich.","ua":"Springe mit dem Drachen über so viele Kakteen wie möglich."},"filename":"Kaktus.cubi","solution_exists":true,"template_exists":true,"tutorial_exists":false,"isModule":false},{"title":{"de":"Aquarium","en":"Aquarium","nl":"Aquarium","fr":"Aquarium","es":"Aquarium","ua":"Aquarium"},"rating":2,"description":{"de":"Erstelle ein buntes Aquarium, in dem verschiedene Fische schwimmen. Aber achte darauf, dass du nicht mit den gefährlichen Meeresbewohnern zusammenstößt!","en":"Erstelle ein buntes Aquarium, in dem verschiedene Fische schwimmen. Aber achte darauf, dass du nicht mit den gefährlichen Meeresbewohnern zusammenstößt!","nl":"Erstelle ein buntes Aquarium, in dem verschiedene Fische schwimmen. Aber achte darauf, dass du nicht mit den gefährlichen Meeresbewohnern zusammenstößt!","fr":"Erstelle ein buntes Aquarium, in dem verschiedene Fische schwimmen. Aber achte darauf, dass du nicht mit den gefährlichen Meeresbewohnern zusammenstößt!","es":"Erstelle ein buntes Aquarium, in dem verschiedene Fische schwimmen. Aber achte darauf, dass du nicht mit den gefährlichen Meeresbewohnern zusammenstößt!","ua":"Erstelle ein buntes Aquarium, in dem verschiedene Fische schwimmen. Aber achte darauf, dass du nicht mit den gefährlichen Meeresbewohnern zusammenstößt!"},"filename":"Aquarium.cubi","solution_exists":true,"template_exists":true,"tutorial_exists":false,"isModule":false},{"title":{"de":"Code-Detektiv 2","en":"Code-Detective 2","nl":"Code-Detektiv 2","fr":"Code-Detektiv 2","es":"Code-Detektiv 2","ua":"Code-Detektiv 2"},"rating":2,"description":{"de":"Bist du ein echter Code-Detektiv und findest alle Fehler, die sich im Level \"Aquarium\" versteckt haben?","en":"Bist du ein echter Code-Detektiv und findest alle Fehler, die sich im Level \"Aquarium\" versteckt haben?","nl":"Bist du ein echter Code-Detektiv und findest alle Fehler, die sich im Level \"Aquarium\" versteckt haben?","fr":"Bist du ein echter Code-Detektiv und findest alle Fehler, die sich im Level \"Aquarium\" versteckt haben?","es":"Bist du ein echter Code-Detektiv und findest alle Fehler, die sich im Level \"Aquarium\" versteckt haben?","ua":"Bist du ein echter Code-Detektiv und findest alle Fehler, die sich im Level \"Aquarium\" versteckt haben?"},"filename":"Codedetektiv_2.cubi","solution_exists":false,"template_exists":true,"tutorial_exists":false,"isModule":false},{"title":{"de":"Wettrennen","en":"Wettrennen","nl":"Wettrennen","fr":"Wettrennen","es":"Wettrennen","ua":"Wettrennen"},"rating":2,"description":{"de":"Zwei Figuren laufen gesteuert durch schnelle Tastendrücke um die Wette. Sehr gut zum Einstieg in die Spieleentwicklung.","en":"Zwei Figuren laufen gesteuert durch schnelle Tastendrücke um die Wette. Sehr gut zum Einstieg in die Spieleentwicklung.","nl":"Zwei Figuren laufen gesteuert durch schnelle Tastendrücke um die Wette. Sehr gut zum Einstieg in die Spieleentwicklung.","fr":"Zwei Figuren laufen gesteuert durch schnelle Tastendrücke um die Wette. Sehr gut zum Einstieg in die Spieleentwicklung.","es":"Zwei Figuren laufen gesteuert durch schnelle Tastendrücke um die Wette. Sehr gut zum Einstieg in die Spieleentwicklung.","ua":"Zwei Figuren laufen gesteuert durch schnelle Tastendrücke um die Wette. Sehr gut zum Einstieg in die Spieleentwicklung."},"filename":"Wettrennen.cubi","solution_exists":true,"template_exists":true,"tutorial_exists":false,"isModule":false},{"title":{"de":"Tanzen","en":"Tanzen","nl":"Tanzen","fr":"Tanzen","es":"Tanzen","ua":"Tanzen"},"rating":2,"description":{"de":"Die Ballerina möchte durch die Luft gewirbelt werden! Hilf ihr bei den Tanzschritten.","en":"Die Ballerina möchte durch die Luft gewirbelt werden! Hilf ihr bei den Tanzschritten.","nl":"Die Ballerina möchte durch die Luft gewirbelt werden! Hilf ihr bei den Tanzschritten.","fr":"Die Ballerina möchte durch die Luft gewirbelt werden! Hilf ihr bei den Tanzschritten.","es":"Die Ballerina möchte durch die Luft gewirbelt werden! Hilf ihr bei den Tanzschritten.","ua":"Die Ballerina möchte durch die Luft gewirbelt werden! Hilf ihr bei den Tanzschritten."},"filename":"Tanzen.cubi","solution_exists":true,"template_exists":true,"tutorial_exists":false,"isModule":false},{"title":{"de":"Imposter","en":"Imposter","nl":"Imposter","fr":"Imposter","es":"Imposter","ua":"Imposter"},"rating":2,"description":{"de":"Unter den Bienen befindet sich ein Imposter! Kannst du ihn finden?","en":"Unter den Bienen befindet sich ein Imposter! Kannst du ihn finden?","nl":"Unter den Bienen befindet sich ein Imposter! Kannst du ihn finden?","fr":"Unter den Bienen befindet sich ein Imposter! Kannst du ihn finden?","es":"Unter den Bienen befindet sich ein Imposter! Kannst du ihn finden?","ua":"Unter den Bienen befindet sich ein Imposter! Kannst du ihn finden?"},"filename":"Imposter.cubi","solution_exists":true,"template_exists":true,"tutorial_exists":false,"isModule":false},{"title":{"de":"Geschenkewerkstatt","en":"Geschenkewerkstatt","nl":"Geschenkewerkstatt","fr":"Geschenkewerkstatt","es":"Geschenkewerkstatt","ua":"Geschenkewerkstatt"},"rating":2,"description":{"de":"Hilf dem Elfen in der Geschenkewerkstatt die richtigen Geschenke auszuwählen.","en":"Hilf dem Elfen in der Geschenkewerkstatt die richtigen Geschenke auszuwählen.","nl":"Hilf dem Elfen in der Geschenkewerkstatt die richtigen Geschenke auszuwählen.","fr":"Hilf dem Elfen in der Geschenkewerkstatt die richtigen Geschenke auszuwählen.","es":"Hilf dem Elfen in der Geschenkewerkstatt die richtigen Geschenke auszuwählen.","ua":"Hilf dem Elfen in der Geschenkewerkstatt die richtigen Geschenke auszuwählen."},"filename":"Geschenkewerkstatt.cubi","solution_exists":true,"template_exists":true,"tutorial_exists":false,"isModule":false},{"title":{"de":"Bananenzauber","en":"Bananenzauber","nl":"Bananenzauber","fr":"Bananenzauber","es":"Bananenzauber","ua":"Bananenzauber"},"rating":2,"description":{"de":"Der Zauberer zaubert Bananen herbei, die sich zufällig über den Bildschirm verteilen. Lerne, mit Zufallszahlen umzugehen und Nachrichten zu verschicken.","en":"Der Zauberer zaubert Bananen herbei, die sich zufällig über den Bildschirm verteilen. Lerne, mit Zufallszahlen umzugehen und Nachrichten zu verschicken.","nl":"Der Zauberer zaubert Bananen herbei, die sich zufällig über den Bildschirm verteilen. Lerne, mit Zufallszahlen umzugehen und Nachrichten zu verschicken.","fr":"Der Zauberer zaubert Bananen herbei, die sich zufällig über den Bildschirm verteilen. Lerne, mit Zufallszahlen umzugehen und Nachrichten zu verschicken.","es":"Der Zauberer zaubert Bananen herbei, die sich zufällig über den Bildschirm verteilen. Lerne, mit Zufallszahlen umzugehen und Nachrichten zu verschicken.","ua":"Der Zauberer zaubert Bananen herbei, die sich zufällig über den Bildschirm verteilen. Lerne, mit Zufallszahlen umzugehen und Nachrichten zu verschicken."},"filename":"Bananenzauber.cubi","solution_exists":true,"template_exists":true,"tutorial_exists":false,"isModule":false},{"title":{"de":"Helikopter","en":"Helikopter","nl":"Helikopter","fr":"Helikopter","es":"Helikopter","ua":"Helikopter"},"rating":2,"description":{"de":"Weiche mit dem Helikopter einem Ansturm von Flugzeugen aus, während du versuchst den rechten Rand zu erreichen. Der Helikopter kann mit den Pfeiltasten in alle Richtungen auf dem ganzen Spielfeld bewegt werden.","en":"Weiche mit dem Helikopter einem Ansturm von Flugzeugen aus, während du versuchst den rechten Rand zu erreichen. Der Helikopter kann mit den Pfeiltasten in alle Richtungen auf dem ganzen Spielfeld bewegt werden.","nl":"Weiche mit dem Helikopter einem Ansturm von Flugzeugen aus, während du versuchst den rechten Rand zu erreichen. Der Helikopter kann mit den Pfeiltasten in alle Richtungen auf dem ganzen Spielfeld bewegt werden.","fr":"Weiche mit dem Helikopter einem Ansturm von Flugzeugen aus, während du versuchst den rechten Rand zu erreichen. Der Helikopter kann mit den Pfeiltasten in alle Richtungen auf dem ganzen Spielfeld bewegt werden.","es":"Weiche mit dem Helikopter einem Ansturm von Flugzeugen aus, während du versuchst den rechten Rand zu erreichen. Der Helikopter kann mit den Pfeiltasten in alle Richtungen auf dem ganzen Spielfeld bewegt werden.","ua":"Weiche mit dem Helikopter einem Ansturm von Flugzeugen aus, während du versuchst den rechten Rand zu erreichen. Der Helikopter kann mit den Pfeiltasten in alle Richtungen auf dem ganzen Spielfeld bewegt werden."},"filename":"Helikopter.cubi","solution_exists":true,"template_exists":true,"tutorial_exists":false,"isModule":false},{"title":{"de":"Drache rettet Ritter","en":"Drache rettet Ritter","nl":"Drache rettet Ritter","fr":"Drache rettet Ritter","es":"Drache rettet Ritter","ua":"Drache rettet Ritter"},"rating":2,"description":{"de":"Hilf dem Drachen Naloth, Ritter Karl aus den Fängen von Prinzessin Mathilda von Quasselstrippe zu befreien. Dazu muss Drache Naloth den Schlüssel vom Schloss der Prinzessin vor Ente Ducky erreichen.","en":"Hilf dem Drachen Naloth, Ritter Karl aus den Fängen von Prinzessin Mathilda von Quasselstrippe zu befreien. Dazu muss Drache Naloth den Schlüssel vom Schloss der Prinzessin vor Ente Ducky erreichen.","nl":"Hilf dem Drachen Naloth, Ritter Karl aus den Fängen von Prinzessin Mathilda von Quasselstrippe zu befreien. Dazu muss Drache Naloth den Schlüssel vom Schloss der Prinzessin vor Ente Ducky erreichen.","fr":"Hilf dem Drachen Naloth, Ritter Karl aus den Fängen von Prinzessin Mathilda von Quasselstrippe zu befreien. Dazu muss Drache Naloth den Schlüssel vom Schloss der Prinzessin vor Ente Ducky erreichen.","es":"Hilf dem Drachen Naloth, Ritter Karl aus den Fängen von Prinzessin Mathilda von Quasselstrippe zu befreien. Dazu muss Drache Naloth den Schlüssel vom Schloss der Prinzessin vor Ente Ducky erreichen.","ua":"Hilf dem Drachen Naloth, Ritter Karl aus den Fängen von Prinzessin Mathilda von Quasselstrippe zu befreien. Dazu muss Drache Naloth den Schlüssel vom Schloss der Prinzessin vor Ente Ducky erreichen."},"filename":"Drache_rettet_Ritter.cubi","solution_exists":true,"template_exists":true,"tutorial_exists":false,"isModule":false},{"title":{"de":"Weltraumreise","en":"Weltraumreise","nl":"Weltraumreise","fr":"Weltraumreise","es":"Weltraumreise","ua":"Weltraumreise"},"rating":2,"description":{"de":"Teleportiere dich zu weit entfernten Planeten.","en":"Teleportiere dich zu weit entfernten Planeten.","nl":"Teleportiere dich zu weit entfernten Planeten.","fr":"Teleportiere dich zu weit entfernten Planeten.","es":"Teleportiere dich zu weit entfernten Planeten.","ua":"Teleportiere dich zu weit entfernten Planeten."},"filename":"Weltraumreise.cubi","solution_exists":true,"template_exists":true,"tutorial_exists":false,"isModule":false},{"title":{"de":"KI Training","en":"AI Training","nl":"KI Training","fr":"KI Training","es":"KI Training","ua":"KI Training"},"rating":2,"description":{"de":"Programmiere eine lernende Künstliche Intelligenz.","en":"Programmiere eine lernende Künstliche Intelligenz.","nl":"Programmiere eine lernende Künstliche Intelligenz.","fr":"Programmiere eine lernende Künstliche Intelligenz.","es":"Programmiere eine lernende Künstliche Intelligenz.","ua":"Programmiere eine lernende Künstliche Intelligenz."},"filename":"KI_Training.cubi","solution_exists":true,"template_exists":true,"tutorial_exists":false,"isModule":false},{"title":{"de":"Professor Tanzalarm","en":"Professor Tanzalarm","nl":"Professor Tanzalarm","fr":"Professor Tanzalarm","es":"Professor Tanzalarm","ua":"Professor Tanzalarm"},"rating":2,"description":{"de":"Die Disco startet und Professor Tanzalarm eröffnet die Tanzfläche. Kannst du ihm helfen, einen neuen Rekord aufzustellen?","en":"Die Disco startet und Professor Tanzalarm eröffnet die Tanzfläche. Kannst du ihm helfen, einen neuen Rekord aufzustellen?","nl":"Die Disco startet und Professor Tanzalarm eröffnet die Tanzfläche. Kannst du ihm helfen, einen neuen Rekord aufzustellen?","fr":"Die Disco startet und Professor Tanzalarm eröffnet die Tanzfläche. Kannst du ihm helfen, einen neuen Rekord aufzustellen?","es":"Die Disco startet und Professor Tanzalarm eröffnet die Tanzfläche. Kannst du ihm helfen, einen neuen Rekord aufzustellen?","ua":"Die Disco startet und Professor Tanzalarm eröffnet die Tanzfläche. Kannst du ihm helfen, einen neuen Rekord aufzustellen?"},"filename":"Professor_Tanzalarm.cubi","solution_exists":true,"template_exists":true,"tutorial_exists":false,"isModule":false},{"title":{"de":"Rechenolympiade","en":"Rechenolympiade","nl":"Rechenolympiade","fr":"Rechenolympiade","es":"Rechenolympiade","ua":"Rechenolympiade"},"rating":2,"description":{"de":"Baue deinen eigenen Taschenrechner und teste deine Fähigkeiten im Kopfrechnen! Wie viele richtige Antworten schaffst du hintereinander?","en":"Baue deinen eigenen Taschenrechner und teste deine Fähigkeiten im Kopfrechnen! Wie viele richtige Antworten schaffst du hintereinander?","nl":"Baue deinen eigenen Taschenrechner und teste deine Fähigkeiten im Kopfrechnen! Wie viele richtige Antworten schaffst du hintereinander?","fr":"Baue deinen eigenen Taschenrechner und teste deine Fähigkeiten im Kopfrechnen! Wie viele richtige Antworten schaffst du hintereinander?","es":"Baue deinen eigenen Taschenrechner und teste deine Fähigkeiten im Kopfrechnen! Wie viele richtige Antworten schaffst du hintereinander?","ua":"Baue deinen eigenen Taschenrechner und teste deine Fähigkeiten im Kopfrechnen! Wie viele richtige Antworten schaffst du hintereinander?"},"filename":"Rechenolympiade.cubi","solution_exists":true,"template_exists":true,"tutorial_exists":false,"isModule":false},{"title":{"de":"Obstsalat","en":"Obstsalat","nl":"Obstsalat","fr":"Obstsalat","es":"Obstsalat","ua":"Obstsalat"},"rating":2,"description":{"de":"Die Früchte fliegen am Obststand durch die Luft. Fang sie alle wieder ein.","en":"Die Früchte fliegen am Obststand durch die Luft. Fang sie alle wieder ein.","nl":"Die Früchte fliegen am Obststand durch die Luft. Fang sie alle wieder ein.","fr":"Die Früchte fliegen am Obststand durch die Luft. Fang sie alle wieder ein.","es":"Die Früchte fliegen am Obststand durch die Luft. Fang sie alle wieder ein.","ua":"Die Früchte fliegen am Obststand durch die Luft. Fang sie alle wieder ein."},"filename":"Obstsalat.cubi","solution_exists":true,"template_exists":true,"tutorial_exists":false,"isModule":false},{"title":{"de":"Jonglieren","en":"Jonglieren","nl":"Jonglieren","fr":"Jonglieren","es":"Jonglieren","ua":"Jonglieren"},"rating":2,"description":{"de":"Jongliere die beiden Bälle, bis sie die Decke erreichen.","en":"Jongliere die beiden Bälle, bis sie die Decke erreichen.","nl":"Jongliere die beiden Bälle, bis sie die Decke erreichen.","fr":"Jongliere die beiden Bälle, bis sie die Decke erreichen.","es":"Jongliere die beiden Bälle, bis sie die Decke erreichen.","ua":"Jongliere die beiden Bälle, bis sie die Decke erreichen."},"filename":"Jonglieren.cubi","solution_exists":true,"template_exists":true,"tutorial_exists":false,"isModule":false},{"title":{"de":"Spaceball","en":"Spaceball","nl":"Spaceball","fr":"Spaceball","es":"Spaceball","ua":"Spaceball"},"rating":3,"description":{"de":"Hilfe, ein Planet fliegt frei im Weltall herum! Könnt ihr die beiden Aliens steuern, sodass der Planet zwischen den beiden bleibt und von ihren Körpern abprallt?","en":"Hilfe, ein Planet fliegt frei im Weltall herum! Könnt ihr die beiden Aliens steuern, sodass der Planet zwischen den beiden bleibt und von ihren Körpern abprallt?","nl":"Hilfe, ein Planet fliegt frei im Weltall herum! Könnt ihr die beiden Aliens steuern, sodass der Planet zwischen den beiden bleibt und von ihren Körpern abprallt?","fr":"Hilfe, ein Planet fliegt frei im Weltall herum! Könnt ihr die beiden Aliens steuern, sodass der Planet zwischen den beiden bleibt und von ihren Körpern abprallt?","es":"Hilfe, ein Planet fliegt frei im Weltall herum! Könnt ihr die beiden Aliens steuern, sodass der Planet zwischen den beiden bleibt und von ihren Körpern abprallt?","ua":"Hilfe, ein Planet fliegt frei im Weltall herum! Könnt ihr die beiden Aliens steuern, sodass der Planet zwischen den beiden bleibt und von ihren Körpern abprallt?"},"filename":"Spaceball.cubi","solution_exists":true,"template_exists":true,"tutorial_exists":false,"isModule":false},{"title":{"de":"Pacman","en":"Pacman","nl":"Pacman","fr":"Pacman","es":"Pacman","ua":"Pacman"},"rating":3,"description":{"de":"Pacman ist hungrig. Hilf ihm alle Äpfel einzusammeln, aber pass vor den Wänden auf.","en":"Pacman ist hungrig. Hilf ihm alle Äpfel einzusammeln, aber pass vor den Wänden auf.","nl":"Pacman ist hungrig. Hilf ihm alle Äpfel einzusammeln, aber pass vor den Wänden auf.","fr":"Pacman ist hungrig. Hilf ihm alle Äpfel einzusammeln, aber pass vor den Wänden auf.","es":"Pacman ist hungrig. Hilf ihm alle Äpfel einzusammeln, aber pass vor den Wänden auf.","ua":"Pacman ist hungrig. Hilf ihm alle Äpfel einzusammeln, aber pass vor den Wänden auf."},"filename":"Pacman.cubi","solution_exists":true,"template_exists":true,"tutorial_exists":false,"isModule":false},{"title":{"de":"Katze jagt dich","en":"Katze jagt dich","nl":"Katze jagt dich","fr":"Katze jagt dich","es":"Katze jagt dich","ua":"Katze jagt dich"},"rating":3,"description":{"de":"Hilf der Maus der Katze zu entkommen. Aber pass auf, die Katze hat schon ihren Freunden Bescheid gesagt...","en":"Hilf der Maus der Katze zu entkommen. Aber pass auf, die Katze hat schon ihren Freunden Bescheid gesagt...","nl":"Hilf der Maus der Katze zu entkommen. Aber pass auf, die Katze hat schon ihren Freunden Bescheid gesagt...","fr":"Hilf der Maus der Katze zu entkommen. Aber pass auf, die Katze hat schon ihren Freunden Bescheid gesagt...","es":"Hilf der Maus der Katze zu entkommen. Aber pass auf, die Katze hat schon ihren Freunden Bescheid gesagt...","ua":"Hilf der Maus der Katze zu entkommen. Aber pass auf, die Katze hat schon ihren Freunden Bescheid gesagt..."},"filename":"Katze_jagt_dich.cubi","solution_exists":true,"template_exists":true,"tutorial_exists":false,"isModule":false},{"title":{"de":"Autorennen","en":"Autorennen","nl":"Autorennen","fr":"Autorennen","es":"Autorennen","ua":"Autorennen"},"rating":3,"description":{"de":"Dein Fahrzeug fährt auf einer Rennstrecke um die Wette. Steuere das Auto so schnell es geht ins Ziel, um eine Bestzeit aufzustellen.","en":"Dein Fahrzeug fährt auf einer Rennstrecke um die Wette. Steuere das Auto so schnell es geht ins Ziel, um eine Bestzeit aufzustellen.","nl":"Dein Fahrzeug fährt auf einer Rennstrecke um die Wette. Steuere das Auto so schnell es geht ins Ziel, um eine Bestzeit aufzustellen.","fr":"Dein Fahrzeug fährt auf einer Rennstrecke um die Wette. Steuere das Auto so schnell es geht ins Ziel, um eine Bestzeit aufzustellen.","es":"Dein Fahrzeug fährt auf einer Rennstrecke um die Wette. Steuere das Auto so schnell es geht ins Ziel, um eine Bestzeit aufzustellen.","ua":"Dein Fahrzeug fährt auf einer Rennstrecke um die Wette. Steuere das Auto so schnell es geht ins Ziel, um eine Bestzeit aufzustellen."},"filename":"Autorennen.cubi","solution_exists":true,"template_exists":true,"tutorial_exists":false,"isModule":false},{"title":{"de":"Code-Detektiv 3","en":"Code-Detective 3","nl":"Code-Detektiv 3","fr":"Code-Detektiv 3","es":"Code-Detektiv 3","ua":"Code-Detektiv 3"},"rating":3,"description":{"de":"Finde die Fehler aus dem Level Autorennen und werde zum Fehlersuch-Experten.","en":"Finde die Fehler aus dem Level Autorennen und werde zum Fehlersuch-Experten.","nl":"Finde die Fehler aus dem Level Autorennen und werde zum Fehlersuch-Experten.","fr":"Finde die Fehler aus dem Level Autorennen und werde zum Fehlersuch-Experten.","es":"Finde die Fehler aus dem Level Autorennen und werde zum Fehlersuch-Experten.","ua":"Finde die Fehler aus dem Level Autorennen und werde zum Fehlersuch-Experten."},"filename":"Codedetektiv_3.cubi","solution_exists":false,"template_exists":true,"tutorial_exists":false,"isModule":false},{"title":{"de":"Finde das Tier","en":"Finde das Tier","nl":"Finde das Tier","fr":"Finde das Tier","es":"Finde das Tier","ua":"Finde das Tier"},"rating":3,"description":{"de":"Die Katze ist auf der Suche nach ihren Tierfreunden. Hilf ihr, ihre Freunde zu finden, indem du das richtige Tier berührst.","en":"Die Katze ist auf der Suche nach ihren Tierfreunden. Hilf ihr, ihre Freunde zu finden, indem du das richtige Tier berührst.","nl":"Die Katze ist auf der Suche nach ihren Tierfreunden. Hilf ihr, ihre Freunde zu finden, indem du das richtige Tier berührst.","fr":"Die Katze ist auf der Suche nach ihren Tierfreunden. Hilf ihr, ihre Freunde zu finden, indem du das richtige Tier berührst.","es":"Die Katze ist auf der Suche nach ihren Tierfreunden. Hilf ihr, ihre Freunde zu finden, indem du das richtige Tier berührst.","ua":"Die Katze ist auf der Suche nach ihren Tierfreunden. Hilf ihr, ihre Freunde zu finden, indem du das richtige Tier berührst."},"filename":"Finde_das_Tier.cubi","solution_exists":true,"template_exists":true,"tutorial_exists":false,"isModule":false},{"title":{"de":"TamaCubi","en":"TamaCubi","nl":"TamaCubi","fr":"TamaCubi","es":"TamaCubi","ua":"TamaCubi"},"rating":3,"description":{"de":"Kümmere dich um Cubi: Füttere ihn, wenn er Hunger hat. Bringe ihn ins Bett, wenn er müde ist. Lies ihm etwas vor, wenn ihm langweilig ist und bade ihn, wenn er zu schmutzig ist.","en":"Kümmere dich um Cubi: Füttere ihn, wenn er Hunger hat. Bringe ihn ins Bett, wenn er müde ist. Lies ihm etwas vor, wenn ihm langweilig ist und bade ihn, wenn er zu schmutzig ist.","nl":"Kümmere dich um Cubi: Füttere ihn, wenn er Hunger hat. Bringe ihn ins Bett, wenn er müde ist. Lies ihm etwas vor, wenn ihm langweilig ist und bade ihn, wenn er zu schmutzig ist.","fr":"Kümmere dich um Cubi: Füttere ihn, wenn er Hunger hat. Bringe ihn ins Bett, wenn er müde ist. Lies ihm etwas vor, wenn ihm langweilig ist und bade ihn, wenn er zu schmutzig ist.","es":"Kümmere dich um Cubi: Füttere ihn, wenn er Hunger hat. Bringe ihn ins Bett, wenn er müde ist. Lies ihm etwas vor, wenn ihm langweilig ist und bade ihn, wenn er zu schmutzig ist.","ua":"Kümmere dich um Cubi: Füttere ihn, wenn er Hunger hat. Bringe ihn ins Bett, wenn er müde ist. Lies ihm etwas vor, wenn ihm langweilig ist und bade ihn, wenn er zu schmutzig ist."},"filename":"TamaCubi.cubi","solution_exists":true,"template_exists":true,"tutorial_exists":false,"isModule":false},{"title":{"de":"Zitterlabyrinth","en":"Zitterlabyrinth","nl":"Zitterlabyrinth","fr":"Zitterlabyrinth","es":"Zitterlabyrinth","ua":"Zitterlabyrinth"},"rating":3,"description":{"de":"Führe den Hund Cali so schnell wie möglich zum Ziel bei der roten Flagge. Aber Achtung, Cali darf nicht auf die Wiese laufen!","en":"Führe den Hund Cali so schnell wie möglich zum Ziel bei der roten Flagge. Aber Achtung, Cali darf nicht auf die Wiese laufen!","nl":"Führe den Hund Cali so schnell wie möglich zum Ziel bei der roten Flagge. Aber Achtung, Cali darf nicht auf die Wiese laufen!","fr":"Führe den Hund Cali so schnell wie möglich zum Ziel bei der roten Flagge. Aber Achtung, Cali darf nicht auf die Wiese laufen!","es":"Führe den Hund Cali so schnell wie möglich zum Ziel bei der roten Flagge. Aber Achtung, Cali darf nicht auf die Wiese laufen!","ua":"Führe den Hund Cali so schnell wie möglich zum Ziel bei der roten Flagge. Aber Achtung, Cali darf nicht auf die Wiese laufen!"},"filename":"Zitterlabyrinth.cubi","solution_exists":true,"template_exists":true,"tutorial_exists":false,"isModule":false},{"title":{"de":"CubiCart - Nicht spielbar auf Tablet","en":"CubiCart - Not available for tablet","nl":"CubiCart - Nicht spielbar auf Tablet","fr":"CubiCart - Nicht spielbar auf Tablet","es":"CubiCart - Nicht spielbar auf Tablet","ua":"CubiCart - Nicht spielbar auf Tablet"},"rating":3,"description":{"de":"Beim Spiel CubiCart geht es um alles! Wer von euch fährt die drei Runden am schnellsten und bringt den Sieg nach Hause?","en":"Beim Spiel CubiCart geht es um alles! Wer von euch fährt die drei Runden am schnellsten und bringt den Sieg nach Hause?","nl":"Beim Spiel CubiCart geht es um alles! Wer von euch fährt die drei Runden am schnellsten und bringt den Sieg nach Hause?","fr":"Beim Spiel CubiCart geht es um alles! Wer von euch fährt die drei Runden am schnellsten und bringt den Sieg nach Hause?","es":"Beim Spiel CubiCart geht es um alles! Wer von euch fährt die drei Runden am schnellsten und bringt den Sieg nach Hause?","ua":"Beim Spiel CubiCart geht es um alles! Wer von euch fährt die drei Runden am schnellsten und bringt den Sieg nach Hause?"},"filename":"CubiCart.cubi","solution_exists":true,"template_exists":true,"tutorial_exists":false,"isModule":false},{"title":{"de":"Quizmaster","en":"Quizmaster","nl":"Quizmaster","fr":"Quizmaster","es":"Quizmaster","ua":"Quizmaster"},"rating":3,"description":{"de":"Bist du ein Quizmaster? Stelle deine Fähigkeiten bei diesem Spiel unter Beweis und lasse andere die richtige Antwort herausfinden!","en":"Bist du ein Quizmaster? Stelle deine Fähigkeiten bei diesem Spiel unter Beweis und lasse andere die richtige Antwort herausfinden!","nl":"Bist du ein Quizmaster? Stelle deine Fähigkeiten bei diesem Spiel unter Beweis und lasse andere die richtige Antwort herausfinden!","fr":"Bist du ein Quizmaster? Stelle deine Fähigkeiten bei diesem Spiel unter Beweis und lasse andere die richtige Antwort herausfinden!","es":"Bist du ein Quizmaster? Stelle deine Fähigkeiten bei diesem Spiel unter Beweis und lasse andere die richtige Antwort herausfinden!","ua":"Bist du ein Quizmaster? Stelle deine Fähigkeiten bei diesem Spiel unter Beweis und lasse andere die richtige Antwort herausfinden!"},"filename":"Quizmaster.cubi","solution_exists":true,"template_exists":true,"tutorial_exists":false,"isModule":false},{"title":{"de":"Rotes Auto","en":"Rotes Auto","nl":"Rotes Auto","fr":"Rotes Auto","es":"Rotes Auto","ua":"Rotes Auto"},"rating":3,"description":{"de":"Das rote Auto muss schnell aus dem zugeparkten Parkplatz entkommen! Kannst du helfen?","en":"Das rote Auto muss schnell aus dem zugeparkten Parkplatz entkommen! Kannst du helfen?","nl":"Das rote Auto muss schnell aus dem zugeparkten Parkplatz entkommen! Kannst du helfen?","fr":"Das rote Auto muss schnell aus dem zugeparkten Parkplatz entkommen! Kannst du helfen?","es":"Das rote Auto muss schnell aus dem zugeparkten Parkplatz entkommen! Kannst du helfen?","ua":"Das rote Auto muss schnell aus dem zugeparkten Parkplatz entkommen! Kannst du helfen?"},"filename":"Rotes_Auto.cubi","solution_exists":true,"template_exists":true,"tutorial_exists":false,"isModule":false},{"title":{"de":"Wettervorhersage","en":"Wettervorhersage","nl":"Wettervorhersage","fr":"Wettervorhersage","es":"Wettervorhersage","ua":"Wettervorhersage"},"rating":3,"description":{"de":"Das Wetter spielt verrückt! Hilf Cubi die richtige Kleidung zu finden.","en":"Das Wetter spielt verrückt! Hilf Cubi die richtige Kleidung zu finden.","nl":"Das Wetter spielt verrückt! Hilf Cubi die richtige Kleidung zu finden.","fr":"Das Wetter spielt verrückt! Hilf Cubi die richtige Kleidung zu finden.","es":"Das Wetter spielt verrückt! Hilf Cubi die richtige Kleidung zu finden.","ua":"Das Wetter spielt verrückt! Hilf Cubi die richtige Kleidung zu finden."},"filename":"Wettervorhersage.cubi","solution_exists":true,"template_exists":true,"tutorial_exists":false,"isModule":false},{"title":{"de":"Standard","en":"Standard","nl":"Standard","fr":"Standard","es":"Standard","ua":"Standard"},"rating":0,"description":{"de":"Ein leeres Projekt zum Starten.","en":"Ein leeres Projekt zum Starten.","nl":"Ein leeres Projekt zum Starten.","fr":"Ein leeres Projekt zum Starten.","es":"Ein leeres Projekt zum Starten.","ua":"Ein leeres Projekt zum Starten."},"filename":"Standard.cubi","solution_exists":false,"template_exists":true,"tutorial_exists":false,"isModule":false},{"title":{"de":"Der Rabe und der Fuchs","en":"","nl":"","fr":"","es":"","ua":""},"rating":3,"description":{"de":"Projekttag Fabeln","en":"","nl":"","fr":"","es":"","ua":""},"filename":"Der_Rabe_und_der_Fuchs.cubi","solution_exists":true,"template_exists":true,"tutorial_exists":false,"isModule":false}]
+[
+  {
+    "title": {
+      "de": "Esuri und der Apfel",
+      "en": "Esuri and the Apple",
+      "nl": "Esuri en de appel",
+      "fr": "Esuri et la pomme",
+      "es": "Esuri y la manzana",
+      "ua": "Есурі та яблуко"
+    },
+    "rating": 1,
+    "description": {
+      "de": "Basislevel Modul 1",
+      "en": "Basic Level of Module 1",
+      "nl": "Basisniveau van module 1",
+      "fr": "Niveau de base du module 1",
+      "es": "Tarea básico del módulo 1",
+      "ua": "Модуль 1 базового рівня"
+    },
+    "filename": "Esuri_und_der_Apfel.cubi",
+    "solution_exists": true,
+    "template_exists": false,
+    "tutorial_exists": false,
+    "isModule": true,
+    "isProject": false
+  },
+  {
+    "title": {
+      "de": "Esuri und die Birne",
+      "en": "Esuri and the Pear",
+      "nl": "Esuri en de peer",
+      "fr": "Esuri et la poire",
+      "es": "Esuri y la pera",
+      "ua": "Есурі та груша"
+    },
+    "rating": 2,
+    "description": {
+      "de": "Vertiefungslevel Modul 1",
+      "en": "Advanced Level of Module 1",
+      "nl": "Gevorderd niveau van module 1",
+      "fr": "Niveau d'approfondissement du module 1",
+      "es": "Tarea avanzado de módulo 1",
+      "ua": "Просунутий рівень Модуль 1"
+    },
+    "filename": "Esuri_und_die_Birne.cubi",
+    "solution_exists": true,
+    "template_exists": false,
+    "tutorial_exists": false,
+    "isModule": true,
+    "isProject": false
+  },
+  {
+    "title": {
+      "de": "Iruse und die Erdbeere",
+      "en": "Iruse and the Strawberry",
+      "nl": "Iruse en de aardbei",
+      "fr": "Iruse et la fraise",
+      "es": "Iruse y la fresa",
+      "ua": "Ірусе та полуниця"
+    },
+    "rating": 3,
+    "description": {
+      "de": "Code-Detektiv Modul 1",
+      "en": "Code-Detective Module 1",
+      "nl": "Codedetective uit module 1",
+      "fr": "Code Détective du module 1",
+      "es": "Detective de códigos del Módulo 1",
+      "ua": "Кодовий детектив з модуля 1"
+    },
+    "filename": "Iruse_und_die_Erdbeere.cubi",
+    "solution_exists": true,
+    "template_exists": false,
+    "tutorial_exists": false,
+    "isModule": true,
+    "isProject": false
+  },
+  {
+    "title": {
+      "de": "Synchronsprechen",
+      "en": "Voice Acting",
+      "nl": "Gesynchroniseerde spraak",
+      "fr": "Parole synchronisée",
+      "es": "Voz sincronizada",
+      "ua": "Синхронізоване мовлення"
+    },
+    "rating": 3,
+    "description": {
+      "de": "Zusatz-Lektion Modul 1",
+      "en": "Additional Level Module 1",
+      "nl": "Extra les uit module 1",
+      "fr": "Leçon supplémentaire du module 1",
+      "es": "Lección adicional del módulo 1",
+      "ua": "Додатковий урок з модуля 1"
+    },
+    "filename": "Synchronsprechen.cubi",
+    "solution_exists": true,
+    "template_exists": false,
+    "tutorial_exists": false,
+    "isModule": true,
+    "isProject": false
+  },
+  {
+    "title": {
+      "de": "Wellenreiten mit Natari",
+      "en": "Riding the Waves with Natari",
+      "nl": "Surfen met Natari",
+      "fr": "Surfer avec Natari",
+      "es": "Surfear con Natari",
+      "ua": "Серфінг з Натарі"
+    },
+    "rating": 1,
+    "description": {
+      "de": "Basislevel Modul 2",
+      "en": "Basic Level of Module 2",
+      "nl": "Basisniveau van module 2",
+      "fr": "Niveau de base du module 2",
+      "es": "Tarea básico del módulo 2",
+      "ua": "Модуль 2 базового рівня"
+    },
+    "filename": "Wellenreiten_mit_Natari.cubi",
+    "solution_exists": true,
+    "template_exists": false,
+    "tutorial_exists": false,
+    "isModule": true,
+    "isProject": false
+  },
+  {
+    "title": {
+      "de": "Nataris Kunststück",
+      "en": "Natari",
+      "nl": "Natari",
+      "fr": "Le tour de force de Natari",
+      "es": "El truco de Natari",
+      "ua": "Трюк Натарі"
+    },
+    "rating": 2,
+    "description": {
+      "de": "Vertiefungslevel Modul 2",
+      "en": "Advanced Level of Module 2",
+      "nl": "Gevorderd niveau van module 2",
+      "fr": "Niveau d'approfondissement du module 2",
+      "es": "Tarea avanzado de módulo 2",
+      "ua": "Просунутий рівень Модуль 2"
+    },
+    "filename": "Nataris_Kunststück.cubi",
+    "solution_exists": true,
+    "template_exists": false,
+    "tutorial_exists": false,
+    "isModule": true,
+    "isProject": false
+  },
+  {
+    "title": {
+      "de": "Begrüßung",
+      "en": "Welcoming",
+      "nl": "Begrüßung",
+      "fr": "Begrüßung",
+      "es": "Begrüßung",
+      "ua": "Begrüßung"
+    },
+    "rating": 1,
+    "description": {
+      "de": "In diesem Tutorial wirst du Schritt für Schritt durch Cubi geführt.",
+      "en": "In this tutorial, you will be guided step-by-step through Cubi.",
+      "nl": "In diesem Tutorial wirst du Schritt für Schritt durch Cubi geführt.",
+      "fr": "In diesem Tutorial wirst du Schritt für Schritt durch Cubi geführt.",
+      "es": "In diesem Tutorial wirst du Schritt für Schritt durch Cubi geführt.",
+      "ua": "In diesem Tutorial wirst du Schritt für Schritt durch Cubi geführt."
+    },
+    "filename": "Begrüßung.cubi",
+    "solution_exists": false,
+    "template_exists": false,
+    "tutorial_exists": true,
+    "isModule": false,
+    "isProject": false
+  },
+  {
+    "title": {
+      "de": "Bauernhof",
+      "en": "Farm",
+      "nl": "Bauernhof",
+      "fr": "Bauernhof",
+      "es": "Bauernhof",
+      "ua": "Bauernhof"
+    },
+    "rating": 1,
+    "description": {
+      "de": "Zeige der Kuh den Weg zurück in ihren Stall.",
+      "en": "Show the cow the way to her barn.",
+      "nl": "Zeige der Kuh den Weg zurück in ihren Stall.",
+      "fr": "Zeige der Kuh den Weg zurück in ihren Stall.",
+      "es": "Zeige der Kuh den Weg zurück in ihren Stall.",
+      "ua": "Zeige der Kuh den Weg zurück in ihren Stall."
+    },
+    "filename": "Bauernhof.cubi",
+    "solution_exists": true,
+    "template_exists": true,
+    "tutorial_exists": true,
+    "isModule": false,
+    "isProject": false
+  },
+  {
+    "title": {
+      "de": "Maus zum Käse",
+      "en": "Mouse to the cheese",
+      "nl": "Maus zum Käse",
+      "fr": "Maus zum Käse",
+      "es": "Maus zum Käse",
+      "ua": "Maus zum Käse"
+    },
+    "rating": 1,
+    "description": {
+      "de": "Die Maus soll den leckeren Käse erreichen. Hilf ihr den Weg über die Brücke zu finden, ohne herunterzufallen.",
+      "en": "The mouse should reach the delicious cheese. Help her find the way across the bridge without falling down.",
+      "nl": "Programmiere die Maus so, dass sie über die Brücke zum Käse läuft und dabei nicht ins Wasser fällt.",
+      "fr": "Programmiere die Maus so, dass sie über die Brücke zum Käse läuft und dabei nicht ins Wasser fällt.",
+      "es": "Programmiere die Maus so, dass sie über die Brücke zum Käse läuft und dabei nicht ins Wasser fällt.",
+      "ua": "Programmiere die Maus so, dass sie über die Brücke zum Käse läuft und dabei nicht ins Wasser fällt."
+    },
+    "filename": "Maus_zum_Kaese.cubi",
+    "solution_exists": true,
+    "template_exists": true,
+    "tutorial_exists": true,
+    "isModule": false,
+    "isProject": false
+  },
+  {
+    "title": {
+      "de": "Labyrinth",
+      "en": "Labyrinth",
+      "nl": "Labyrinth",
+      "fr": "Labyrinth",
+      "es": "Labyrinth",
+      "ua": "Labyrinth"
+    },
+    "rating": 1,
+    "description": {
+      "de": "Zeige der Maus den Weg durch das Labyrinth. Um das Tor zu  ̈öffnen, braucht sie vorher den Schlüssel.",
+      "en": "Guide the mouse through the labyrinth. To open the gate, she needs the key first.",
+      "nl": "Führe die Maus durch das Labyrinth: Erst zum Schlüssel, dann zum Tor.",
+      "fr": "Führe die Maus durch das Labyrinth: Erst zum Schlüssel, dann zum Tor.",
+      "es": "Führe die Maus durch das Labyrinth: Erst zum Schlüssel, dann zum Tor.",
+      "ua": "Führe die Maus durch das Labyrinth: Erst zum Schlüssel, dann zum Tor."
+    },
+    "filename": "Labyrinth.cubi",
+    "solution_exists": true,
+    "template_exists": true,
+    "tutorial_exists": true,
+    "isModule": false,
+    "isProject": false
+  },
+  {
+    "title": {
+      "de": "Sternejagd",
+      "en": "Star chase",
+      "nl": "Sternejagd",
+      "fr": "Sternejagd",
+      "es": "Sternejagd",
+      "ua": "Sternejagd"
+    },
+    "rating": 1,
+    "description": {
+      "de": "Hilf dem Baumwesen, den Stern einzusammeln",
+      "en": "Help the tree creature to collect the star",
+      "nl": "Hilf dem Baumwesen, den Stern einzusammeln",
+      "fr": "Hilf dem Baumwesen, den Stern einzusammeln",
+      "es": "Hilf dem Baumwesen, den Stern einzusammeln",
+      "ua": "Hilf dem Baumwesen, den Stern einzusammeln"
+    },
+    "filename": "Sternejagd.cubi",
+    "solution_exists": false,
+    "template_exists": true,
+    "tutorial_exists": false,
+    "isModule": false,
+    "isProject": false
+  },
+  {
+    "title": {
+      "de": "RunAndJump",
+      "en": "RunAndJump",
+      "nl": "RunAndJump",
+      "fr": "RunAndJump",
+      "es": "RunAndJump",
+      "ua": "RunAndJump"
+    },
+    "rating": 2,
+    "description": {
+      "de": "Steuere den Vogel und weiche rechtzeitig den Bällen aus.",
+      "en": "Steer the bird and avoid the balls in good time.",
+      "nl": "Steuere den Vogel und weiche rechtzeitig den Bällen aus.",
+      "fr": "Steuere den Vogel und weiche rechtzeitig den Bällen aus.",
+      "es": "Steuere den Vogel und weiche rechtzeitig den Bällen aus.",
+      "ua": "Steuere den Vogel und weiche rechtzeitig den Bällen aus."
+    },
+    "filename": "RunAndJump.cubi",
+    "solution_exists": false,
+    "template_exists": true,
+    "tutorial_exists": false,
+    "isModule": false,
+    "isProject": false
+  },
+  {
+    "title": {
+      "de": "Bauernhof automatisch",
+      "en": "Farm automatically",
+      "nl": "Bauernhof automatisch",
+      "fr": "Bauernhof automatisch",
+      "es": "Bauernhof automatisch",
+      "ua": "Bauernhof automatisch"
+    },
+    "rating": 1,
+    "description": {
+      "de": "Eine Version von Bauernhof, die das Level spielt automatisch.",
+      "en": "A version of farm that plays the level automatically.",
+      "nl": "Eine Version von Bauernhof, die das Level spielt automatisch.",
+      "fr": "Eine Version von Bauernhof, die das Level spielt automatisch.",
+      "es": "Eine Version von Bauernhof, die das Level spielt automatisch.",
+      "ua": "Eine Version von Bauernhof, die das Level spielt automatisch."
+    },
+    "filename": "Bauernhof_Auto.cubi",
+    "solution_exists": true,
+    "template_exists": false,
+    "tutorial_exists": false,
+    "isModule": false,
+    "isProject": false
+  },
+  {
+    "title": {
+      "de": "Märchenbuch zu Bewegung",
+      "en": "Fairy tale book for movement",
+      "nl": "Verhaalboek over beweging",
+      "fr": "Livre de contes sur le mouvement",
+      "es": "Libro de cuentos sobre el movimiento",
+      "ua": "Книга оповідань про рух"
+    },
+    "rating": 1,
+    "description": {
+      "de": "Erstelle dein eigenes Level.",
+      "en": "Creat your own project.",
+      "nl": "Erstelle dein eigenes Level.",
+      "fr": "Erstelle dein eigenes Level.",
+      "es": "Erstelle dein eigenes Level.",
+      "ua": "Erstelle dein eigenes Level."
+    },
+    "filename": "Maerchenbuch_Bewegung.cubi",
+    "solution_exists": false,
+    "template_exists": true,
+    "tutorial_exists": false,
+    "isModule": false,
+    "isProject": false
+  },
+  {
+    "title": {
+      "de": "Code-Detektiv 1",
+      "en": "Code-Detectiv 1",
+      "nl": "Code-Detektiv 1",
+      "fr": "Code-Detektiv 1",
+      "es": "Code-Detektiv 1",
+      "ua": "Code-Detektiv 1"
+    },
+    "rating": 1,
+    "description": {
+      "de": "Finde die drei Fehler aus dem Level Labyrinth und lerne dabei etwas über die Fehlersuche.",
+      "en": "Find the three mistakes from the level Labyrinth and learn about debugging.",
+      "nl": "Finde die drei Fehler aus dem Level Labyrinth und lerne dabei etwas über die Fehlersuche.",
+      "fr": "Finde die drei Fehler aus dem Level Labyrinth und lerne dabei etwas über die Fehlersuche.",
+      "es": "Finde die drei Fehler aus dem Level Labyrinth und lerne dabei etwas über die Fehlersuche.",
+      "ua": "Finde die drei Fehler aus dem Level Labyrinth und lerne dabei etwas über die Fehlersuche."
+    },
+    "filename": "Codedetektiv_1.cubi",
+    "solution_exists": false,
+    "template_exists": true,
+    "tutorial_exists": true,
+    "isModule": false,
+    "isProject": false
+  },
+  {
+    "title": {
+      "de": "Weltraum",
+      "en": "Space",
+      "nl": "Ruimte",
+      "fr": "L",
+      "es": "Espacio",
+      "ua": "Простір"
+    },
+    "rating": 1,
+    "description": {
+      "de": "Steuere den Astronauten mit den Pfeiltasten durch das Weltall. Achte auf die Planeten!",
+      "en": "Use the arrow keys to steer the astronaut through space. Watch out for the planets!",
+      "nl": "Finde die drei Fehler aus dem Level Labyrinth und lerne dabei etwas über die Fehlersuche.",
+      "fr": "Finde die drei Fehler aus dem Level Labyrinth und lerne dabei etwas über die Fehlersuche.",
+      "es": "Finde die drei Fehler aus dem Level Labyrinth und lerne dabei etwas über die Fehlersuche.",
+      "ua": "Finde die drei Fehler aus dem Level Labyrinth und lerne dabei etwas über die Fehlersuche."
+    },
+    "filename": "Weltraum.cubi",
+    "solution_exists": true,
+    "template_exists": true,
+    "tutorial_exists": false,
+    "isModule": false,
+    "isProject": false
+  },
+  {
+    "title": {
+      "de": "Maulwurf",
+      "en": "Mole",
+      "nl": "Maulwurf",
+      "fr": "Maulwurf",
+      "es": "Maulwurf",
+      "ua": "Maulwurf"
+    },
+    "rating": 1,
+    "description": {
+      "de": "Die zwei Maulwürfe sind auf dem Weg durch ihre Tunnel zu den Regenwürmern.",
+      "en": "The two moles are on their way through their tunnels to the earthworms.",
+      "nl": "Die zwei Maulwürfe sind auf dem Weg durch ihre Tunnel zu den Regenwürmern.",
+      "fr": "Die zwei Maulwürfe sind auf dem Weg durch ihre Tunnel zu den Regenwürmern.",
+      "es": "Die zwei Maulwürfe sind auf dem Weg durch ihre Tunnel zu den Regenwürmern.",
+      "ua": "Die zwei Maulwürfe sind auf dem Weg durch ihre Tunnel zu den Regenwürmern."
+    },
+    "filename": "Maulwurf.cubi",
+    "solution_exists": true,
+    "template_exists": true,
+    "tutorial_exists": true,
+    "isModule": false,
+    "isProject": false
+  },
+  {
+    "title": {
+      "de": "Sternlabyrinth",
+      "en": "Starlabyrinth",
+      "nl": "Sternlabyrinth",
+      "fr": "Sternlabyrinth",
+      "es": "Sternlabyrinth",
+      "ua": "Sternlabyrinth"
+    },
+    "rating": 1,
+    "description": {
+      "de": "Sammle das Herz, den Stern, die Münze und den Schlüssel in der richtigen Reihenfolge ein.",
+      "en": "Collect the heart, the star, the coin, and the key in the correct order.",
+      "nl": "Sammle das Herz, den Stern, die Münze und den Schlüssel in der richtigen Reihenfolge ein.",
+      "fr": "Sammle das Herz, den Stern, die Münze und den Schlüssel in der richtigen Reihenfolge ein.",
+      "es": "Sammle das Herz, den Stern, die Münze und den Schlüssel in der richtigen Reihenfolge ein.",
+      "ua": "Sammle das Herz, den Stern, die Münze und den Schlüssel in der richtigen Reihenfolge ein."
+    },
+    "filename": "Sternlabyrinth.cubi",
+    "solution_exists": true,
+    "template_exists": true,
+    "tutorial_exists": true,
+    "isModule": false,
+    "isProject": false
+  },
+  {
+    "title": {
+      "de": "Märchenbuch zu Schleifen",
+      "en": "Fairy tale book for loops",
+      "nl": "Sprookjesboek voor strikken",
+      "fr": "Livre de contes en boucle",
+      "es": "Libro de cuentos para bucles",
+      "ua": "Книжка казок для бантиків"
+    },
+    "rating": 1,
+    "description": {
+      "de": "Erstelle dein eigenes Level.",
+      "en": "Creat your own project.",
+      "nl": "Erstelle dein eigenes Level.",
+      "fr": "Erstelle dein eigenes Level.",
+      "es": "Erstelle dein eigenes Level.",
+      "ua": "Erstelle dein eigenes Level."
+    },
+    "filename": "Maerchenbuch_Schleifen.cubi",
+    "solution_exists": false,
+    "template_exists": true,
+    "tutorial_exists": false,
+    "isModule": false,
+    "isProject": false
+  },
+  {
+    "title": {
+      "de": "Karneval",
+      "en": "Carnival",
+      "nl": "Karneval",
+      "fr": "Karneval",
+      "es": "Karneval",
+      "ua": "Karneval"
+    },
+    "rating": 1,
+    "description": {
+      "de": "Cubi möchte sich verkleiden, aber er ist noch nicht sicher, was er anziehen muss. Probiere alle Kostüme mit ihm durch, indem du ihn drückst.",
+      "en": "Cubi wants to dress up, but he's not sure what to wear. Try on all the costumes with him by tapping on him.",
+      "nl": "Cubi möchte sich verkleiden, aber er ist noch nicht sicher, was er anziehen muss. Probiere alle Kostüme mit ihm durch, indem du ihn drückst.",
+      "fr": "Cubi möchte sich verkleiden, aber er ist noch nicht sicher, was er anziehen muss. Probiere alle Kostüme mit ihm durch, indem du ihn drückst.",
+      "es": "Cubi möchte sich verkleiden, aber er ist noch nicht sicher, was er anziehen muss. Probiere alle Kostüme mit ihm durch, indem du ihn drückst.",
+      "ua": "Cubi möchte sich verkleiden, aber er ist noch nicht sicher, was er anziehen muss. Probiere alle Kostüme mit ihm durch, indem du ihn drückst."
+    },
+    "filename": "Karneval.cubi",
+    "solution_exists": true,
+    "template_exists": true,
+    "tutorial_exists": true,
+    "isModule": false,
+    "isProject": false
+  },
+  {
+    "title": {
+      "de": "Reaktionstest",
+      "en": "Reaction Test",
+      "nl": "Reaktionstest",
+      "fr": "Reaktionstest",
+      "es": "Reaktionstest",
+      "ua": "Reaktionstest"
+    },
+    "rating": 1,
+    "description": {
+      "de": "Drücke so schnell es geht die Taste sobald der Hintergrund sich ändert!",
+      "en": "Press the button as quickly as possible when the background changes!",
+      "nl": "Drücke so schnell es geht die Taste sobald der Hintergrund sich ändert!",
+      "fr": "Drücke so schnell es geht die Taste sobald der Hintergrund sich ändert!",
+      "es": "Drücke so schnell es geht die Taste sobald der Hintergrund sich ändert!",
+      "ua": "Drücke so schnell es geht die Taste sobald der Hintergrund sich ändert!"
+    },
+    "filename": "Reaktionstest.cubi",
+    "solution_exists": true,
+    "template_exists": true,
+    "tutorial_exists": true,
+    "isModule": false,
+    "isProject": false
+  },
+  {
+    "title": {
+      "de": "Klassendienst",
+      "en": "Classroom Duties",
+      "nl": "Klassendienst",
+      "fr": "Klassendienst",
+      "es": "Klassendienst",
+      "ua": "Klassendienst"
+    },
+    "rating": 1,
+    "description": {
+      "de": "Du hast Tafeldienst und Pflanzendienst. Wische die Tafel und gieße die Pflanze im Klassenzimmer, damit du schnell nach Hause gehen kannst.",
+      "en": "You have chalkboard and plant duty. Wish the board and water the plant in the class room so that you can go home quickly.",
+      "nl": "Du hast Tafeldienst und Pflanzendienst. Wische die Tafel und gieße die Pflanzen im Klassenzimmer, damit du schnell nach Hause gehen kannst.",
+      "fr": "Du hast Tafeldienst und Pflanzendienst. Wische die Tafel und gieße die Pflanzen im Klassenzimmer, damit du schnell nach Hause gehen kannst.",
+      "es": "Du hast Tafeldienst und Pflanzendienst. Wische die Tafel und gieße die Pflanzen im Klassenzimmer, damit du schnell nach Hause gehen kannst.",
+      "ua": "Du hast Tafeldienst und Pflanzendienst. Wische die Tafel und gieße die Pflanzen im Klassenzimmer, damit du schnell nach Hause gehen kannst."
+    },
+    "filename": "Klassendienst.cubi",
+    "solution_exists": true,
+    "template_exists": true,
+    "tutorial_exists": true,
+    "isModule": false,
+    "isProject": false
+  },
+  {
+    "title": {
+      "de": "Hase und Igel",
+      "en": "Hare and Hedgehog",
+      "nl": "Hase und Igel",
+      "fr": "Hase und Igel",
+      "es": "Hase und Igel",
+      "ua": "Hase und Igel"
+    },
+    "rating": 1,
+    "description": {
+      "de": "Hase und Igel laufen um die Wette. Aber der Igel hat ein paar Tricks auf Lager...",
+      "en": "Hare and Hedgehog are racing each other. But the hedgehog has a few tricks up its sleeve...",
+      "nl": "Hase und Igel laufen um die Wette. Aber der Igel hat ein paar Tricks auf Lager...",
+      "fr": "Hase und Igel laufen um die Wette. Aber der Igel hat ein paar Tricks auf Lager...",
+      "es": "Hase und Igel laufen um die Wette. Aber der Igel hat ein paar Tricks auf Lager...",
+      "ua": "Hase und Igel laufen um die Wette. Aber der Igel hat ein paar Tricks auf Lager..."
+    },
+    "filename": "Hase_und_Igel.cubi",
+    "solution_exists": true,
+    "template_exists": true,
+    "tutorial_exists": true,
+    "isModule": false,
+    "isProject": false
+  },
+  {
+    "title": {
+      "de": "Märchenbuch zu Nachrichten",
+      "en": "Fairy tale book for messages",
+      "nl": "Verhalenboek over nieuws",
+      "fr": "Livre de contes sur les nouvelles",
+      "es": "Cuentos sobre noticias",
+      "ua": "Книга оповідань про новини"
+    },
+    "rating": 1,
+    "description": {
+      "de": "Erstelle dein eigenes Level.",
+      "en": "Creat your own project.",
+      "nl": "Erstelle dein eigenes Level.",
+      "fr": "Erstelle dein eigenes Level.",
+      "es": "Erstelle dein eigenes Level.",
+      "ua": "Erstelle dein eigenes Level."
+    },
+    "filename": "Maerchenbuch_Nachrichten.cubi",
+    "solution_exists": false,
+    "template_exists": true,
+    "tutorial_exists": false,
+    "isModule": false,
+    "isProject": false
+  },
+  {
+    "title": {
+      "de": "Ballon platzen",
+      "en": "Balloon popping",
+      "nl": "Ballon platzen",
+      "fr": "Ballon platzen",
+      "es": "Ballon platzen",
+      "ua": "Ballon platzen"
+    },
+    "rating": 1,
+    "description": {
+      "de": "Wie schnell kannst du den Ballon zum Platzen bringen?",
+      "en": "How fast can you burst the balloon?",
+      "nl": "Wie schnell kannst du den Ballon zum Platzen bringen?",
+      "fr": "Wie schnell kannst du den Ballon zum Platzen bringen?",
+      "es": "Wie schnell kannst du den Ballon zum Platzen bringen?",
+      "ua": "Wie schnell kannst du den Ballon zum Platzen bringen?"
+    },
+    "filename": "Ballon_platzen.cubi",
+    "solution_exists": true,
+    "template_exists": true,
+    "tutorial_exists": true,
+    "isModule": false,
+    "isProject": false
+  },
+  {
+    "title": {
+      "de": "Märchenbuch zu Bedingungen",
+      "en": "Fairy tale book for conditions",
+      "nl": "Sprookjesboek over voorwaarden",
+      "fr": "Livre de contes à conditions",
+      "es": "Libro de cuentos en condiciones",
+      "ua": "Книжка казок на умовах"
+    },
+    "rating": 1,
+    "description": {
+      "de": "Erstelle dein eigenes Level.",
+      "en": "Creat your own project.",
+      "nl": "Erstelle dein eigenes Level.",
+      "fr": "Erstelle dein eigenes Level.",
+      "es": "Erstelle dein eigenes Level.",
+      "ua": "Erstelle dein eigenes Level."
+    },
+    "filename": "Maerchenbuch_Bedingungen.cubi",
+    "solution_exists": false,
+    "template_exists": true,
+    "tutorial_exists": false,
+    "isModule": false,
+    "isProject": false
+  },
+  {
+    "title": {
+      "de": "Farben",
+      "en": "Colors",
+      "nl": "Farben",
+      "fr": "Farben",
+      "es": "Colores",
+      "ua": "Farben"
+    },
+    "rating": 1,
+    "description": {
+      "de": "Bewege die Biene auf der bunten Blumenwiese und lass sie dir sagen, welche Farbe sie gerade fühlt.",
+      "en": "Move the bee around the colorful flower meadow and let it tell you what color it feels.",
+      "nl": "Bewege die Biene auf der bunten Blumenwiese und lass sie dir sagen, welche Farbe sie gerade fühlt.",
+      "fr": "Bewege die Biene auf der bunten Blumenwiese und lass sie dir sagen, welche Farbe sie gerade fühlt.",
+      "es": "Bewege die Biene auf der bunten Blumenwiese und lass sie dir sagen, welche Farbe sie gerade fühlt.",
+      "ua": "Bewege die Biene auf der bunten Blumenwiese und lass sie dir sagen, welche Farbe sie gerade fühlt."
+    },
+    "filename": "Farben.cubi",
+    "solution_exists": true,
+    "template_exists": true,
+    "tutorial_exists": true,
+    "isModule": false,
+    "isProject": false
+  },
+  {
+    "title": {
+      "de": "Flugstunde",
+      "en": "Flying Lesson",
+      "nl": "Flugstunde",
+      "fr": "Flugstunde",
+      "es": "Flugstunde",
+      "ua": "Flugstunde"
+    },
+    "rating": 1,
+    "description": {
+      "de": "Bewege die Biene auf der Blumenwiese hin und her. Bei jeder Farbe wird sie eine anderes Kunststück vollbringen.",
+      "en": "Move the bee around the flower meadow. She performs a different stunt on each flower.",
+      "nl": "Bewege die Biene auf der Blumenwiese hin und her. Bei jeder Farbe wird sie eine anderes Kunststück vollbringen.",
+      "fr": "Bewege die Biene auf der Blumenwiese hin und her. Bei jeder Farbe wird sie eine anderes Kunststück vollbringen.",
+      "es": "Bewege die Biene auf der Blumenwiese hin und her. Bei jeder Farbe wird sie eine anderes Kunststück vollbringen.",
+      "ua": "Bewege die Biene auf der Blumenwiese hin und her. Bei jeder Farbe wird sie eine anderes Kunststück vollbringen."
+    },
+    "filename": "Flugstunde.cubi",
+    "solution_exists": true,
+    "template_exists": true,
+    "tutorial_exists": true,
+    "isModule": false,
+    "isProject": false
+  },
+  {
+    "title": {
+      "de": "Katze fängt Maus",
+      "en": "Katze fängt Maus",
+      "nl": "Katze fängt Maus",
+      "fr": "Katze fängt Maus",
+      "es": "Katze fängt Maus",
+      "ua": "Katze fängt Maus"
+    },
+    "rating": 1,
+    "description": {
+      "de": "Fang die Maus! Errate, wo sie als nächstes hingehen wird und lauere dort auf die Maus.",
+      "en": "Fang die Maus! Errate, wo sie als nächstes hingehen wird und lauere dort auf die Maus.",
+      "nl": "Fang die Maus! Errate, wo sie als nächstes hingehen wird und lauere dort auf die Maus.",
+      "fr": "Fang die Maus! Errate, wo sie als nächstes hingehen wird und lauere dort auf die Maus.",
+      "es": "Fang die Maus! Errate, wo sie als nächstes hingehen wird und lauere dort auf die Maus.",
+      "ua": "Fang die Maus! Errate, wo sie als nächstes hingehen wird und lauere dort auf die Maus."
+    },
+    "filename": "Katze_faengt_Maus.cubi",
+    "solution_exists": true,
+    "template_exists": true,
+    "tutorial_exists": true,
+    "isModule": false,
+    "isProject": false
+  },
+  {
+    "title": {
+      "de": "Märchenbuch zu Verzweigungen",
+      "en": "Fairy tale book for if-else",
+      "nl": "Sprookjesboek voor if-else",
+      "fr": "Livre de contes de fées pour if-else",
+      "es": "Libro de cuentos para if-else",
+      "ua": "Книжка казок для if-else"
+    },
+    "rating": 1,
+    "description": {
+      "de": "Erstelle dein eigenes Level.",
+      "en": "Creat your own project.",
+      "nl": "Erstelle dein eigenes Level.",
+      "fr": "Erstelle dein eigenes Level.",
+      "es": "Erstelle dein eigenes Level.",
+      "ua": "Erstelle dein eigenes Level."
+    },
+    "filename": "Maerchenbuch_Wenn_Dann.cubi",
+    "solution_exists": false,
+    "template_exists": true,
+    "tutorial_exists": false,
+    "isModule": false,
+    "isProject": false
+  },
+  {
+    "title": {
+      "de": "Was soll ich anziehen?",
+      "en": "Was soll ich anziehen?",
+      "nl": "Was soll ich anziehen?",
+      "fr": "Was soll ich anziehen?",
+      "es": "Was soll ich anziehen?",
+      "ua": "Was soll ich anziehen?"
+    },
+    "rating": 2,
+    "description": {
+      "de": "Cubi möchte sich auf eine Party vorbereiten. Kannst du ihm helfen, eine coole Verkleidung zu finden?",
+      "en": "Cubi möchte sich auf eine Party vorbereiten. Kannst du ihm helfen, eine coole Verkleidung zu finden?",
+      "nl": "Cubi möchte sich auf eine Party vorbereiten. Kannst du ihm helfen, eine coole Verkleidung zu finden?",
+      "fr": "Cubi möchte sich auf eine Party vorbereiten. Kannst du ihm helfen, eine coole Verkleidung zu finden?",
+      "es": "Cubi möchte sich auf eine Party vorbereiten. Kannst du ihm helfen, eine coole Verkleidung zu finden?",
+      "ua": "Cubi möchte sich auf eine Party vorbereiten. Kannst du ihm helfen, eine coole Verkleidung zu finden?"
+    },
+    "filename": "Was_soll_ich_anziehen.cubi",
+    "solution_exists": true,
+    "template_exists": true,
+    "tutorial_exists": false,
+    "isModule": false,
+    "isProject": false
+  },
+  {
+    "title": {
+      "de": "Buchstaben",
+      "en": "Buchstaben",
+      "nl": "Buchstaben",
+      "fr": "Buchstaben",
+      "es": "Buchstaben",
+      "ua": "Buchstaben"
+    },
+    "rating": 2,
+    "description": {
+      "de": "Programmiere jeden Buchstaben des Worts \"IT4Kids\" so, dass eine tolle Animation entsteht.",
+      "en": "Programmiere jeden Buchstaben des Worts \"IT4Kids\" so, dass eine tolle Animation entsteht.",
+      "nl": "Programmiere jeden Buchstaben des Worts \"IT4Kids\" so, dass eine tolle Animation entsteht.",
+      "fr": "Programmiere jeden Buchstaben des Worts \"IT4Kids\" so, dass eine tolle Animation entsteht.",
+      "es": "Programmiere jeden Buchstaben des Worts \"IT4Kids\" so, dass eine tolle Animation entsteht.",
+      "ua": "Programmiere jeden Buchstaben des Worts \"IT4Kids\" so, dass eine tolle Animation entsteht."
+    },
+    "filename": "Buchstaben.cubi",
+    "solution_exists": true,
+    "template_exists": true,
+    "tutorial_exists": false,
+    "isModule": false,
+    "isProject": false
+  },
+  {
+    "title": {
+      "de": "Kaktus",
+      "en": "Kaktus",
+      "nl": "Kaktus",
+      "fr": "Kaktus",
+      "es": "Kaktus",
+      "ua": "Kaktus"
+    },
+    "rating": 2,
+    "description": {
+      "de": "Springe mit dem Drachen über so viele Kakteen wie möglich.",
+      "en": "Springe mit dem Drachen über so viele Kakteen wie möglich.",
+      "nl": "Springe mit dem Drachen über so viele Kakteen wie möglich.",
+      "fr": "Springe mit dem Drachen über so viele Kakteen wie möglich.",
+      "es": "Springe mit dem Drachen über so viele Kakteen wie möglich.",
+      "ua": "Springe mit dem Drachen über so viele Kakteen wie möglich."
+    },
+    "filename": "Kaktus.cubi",
+    "solution_exists": true,
+    "template_exists": true,
+    "tutorial_exists": false,
+    "isModule": false,
+    "isProject": false
+  },
+  {
+    "title": {
+      "de": "Aquarium",
+      "en": "Aquarium",
+      "nl": "Aquarium",
+      "fr": "Aquarium",
+      "es": "Aquarium",
+      "ua": "Aquarium"
+    },
+    "rating": 2,
+    "description": {
+      "de": "Erstelle ein buntes Aquarium, in dem verschiedene Fische schwimmen. Aber achte darauf, dass du nicht mit den gefährlichen Meeresbewohnern zusammenstößt!",
+      "en": "Erstelle ein buntes Aquarium, in dem verschiedene Fische schwimmen. Aber achte darauf, dass du nicht mit den gefährlichen Meeresbewohnern zusammenstößt!",
+      "nl": "Erstelle ein buntes Aquarium, in dem verschiedene Fische schwimmen. Aber achte darauf, dass du nicht mit den gefährlichen Meeresbewohnern zusammenstößt!",
+      "fr": "Erstelle ein buntes Aquarium, in dem verschiedene Fische schwimmen. Aber achte darauf, dass du nicht mit den gefährlichen Meeresbewohnern zusammenstößt!",
+      "es": "Erstelle ein buntes Aquarium, in dem verschiedene Fische schwimmen. Aber achte darauf, dass du nicht mit den gefährlichen Meeresbewohnern zusammenstößt!",
+      "ua": "Erstelle ein buntes Aquarium, in dem verschiedene Fische schwimmen. Aber achte darauf, dass du nicht mit den gefährlichen Meeresbewohnern zusammenstößt!"
+    },
+    "filename": "Aquarium.cubi",
+    "solution_exists": true,
+    "template_exists": true,
+    "tutorial_exists": false,
+    "isModule": false,
+    "isProject": false
+  },
+  {
+    "title": {
+      "de": "Code-Detektiv 2",
+      "en": "Code-Detective 2",
+      "nl": "Code-Detektiv 2",
+      "fr": "Code-Detektiv 2",
+      "es": "Code-Detektiv 2",
+      "ua": "Code-Detektiv 2"
+    },
+    "rating": 2,
+    "description": {
+      "de": "Bist du ein echter Code-Detektiv und findest alle Fehler, die sich im Level \"Aquarium\" versteckt haben?",
+      "en": "Bist du ein echter Code-Detektiv und findest alle Fehler, die sich im Level \"Aquarium\" versteckt haben?",
+      "nl": "Bist du ein echter Code-Detektiv und findest alle Fehler, die sich im Level \"Aquarium\" versteckt haben?",
+      "fr": "Bist du ein echter Code-Detektiv und findest alle Fehler, die sich im Level \"Aquarium\" versteckt haben?",
+      "es": "Bist du ein echter Code-Detektiv und findest alle Fehler, die sich im Level \"Aquarium\" versteckt haben?",
+      "ua": "Bist du ein echter Code-Detektiv und findest alle Fehler, die sich im Level \"Aquarium\" versteckt haben?"
+    },
+    "filename": "Codedetektiv_2.cubi",
+    "solution_exists": false,
+    "template_exists": true,
+    "tutorial_exists": false,
+    "isModule": false,
+    "isProject": false
+  },
+  {
+    "title": {
+      "de": "Wettrennen",
+      "en": "Wettrennen",
+      "nl": "Wettrennen",
+      "fr": "Wettrennen",
+      "es": "Wettrennen",
+      "ua": "Wettrennen"
+    },
+    "rating": 2,
+    "description": {
+      "de": "Zwei Figuren laufen gesteuert durch schnelle Tastendrücke um die Wette. Sehr gut zum Einstieg in die Spieleentwicklung.",
+      "en": "Zwei Figuren laufen gesteuert durch schnelle Tastendrücke um die Wette. Sehr gut zum Einstieg in die Spieleentwicklung.",
+      "nl": "Zwei Figuren laufen gesteuert durch schnelle Tastendrücke um die Wette. Sehr gut zum Einstieg in die Spieleentwicklung.",
+      "fr": "Zwei Figuren laufen gesteuert durch schnelle Tastendrücke um die Wette. Sehr gut zum Einstieg in die Spieleentwicklung.",
+      "es": "Zwei Figuren laufen gesteuert durch schnelle Tastendrücke um die Wette. Sehr gut zum Einstieg in die Spieleentwicklung.",
+      "ua": "Zwei Figuren laufen gesteuert durch schnelle Tastendrücke um die Wette. Sehr gut zum Einstieg in die Spieleentwicklung."
+    },
+    "filename": "Wettrennen.cubi",
+    "solution_exists": true,
+    "template_exists": true,
+    "tutorial_exists": false,
+    "isModule": false,
+    "isProject": false
+  },
+  {
+    "title": {
+      "de": "Tanzen",
+      "en": "Tanzen",
+      "nl": "Tanzen",
+      "fr": "Tanzen",
+      "es": "Tanzen",
+      "ua": "Tanzen"
+    },
+    "rating": 2,
+    "description": {
+      "de": "Die Ballerina möchte durch die Luft gewirbelt werden! Hilf ihr bei den Tanzschritten.",
+      "en": "Die Ballerina möchte durch die Luft gewirbelt werden! Hilf ihr bei den Tanzschritten.",
+      "nl": "Die Ballerina möchte durch die Luft gewirbelt werden! Hilf ihr bei den Tanzschritten.",
+      "fr": "Die Ballerina möchte durch die Luft gewirbelt werden! Hilf ihr bei den Tanzschritten.",
+      "es": "Die Ballerina möchte durch die Luft gewirbelt werden! Hilf ihr bei den Tanzschritten.",
+      "ua": "Die Ballerina möchte durch die Luft gewirbelt werden! Hilf ihr bei den Tanzschritten."
+    },
+    "filename": "Tanzen.cubi",
+    "solution_exists": true,
+    "template_exists": true,
+    "tutorial_exists": false,
+    "isModule": false,
+    "isProject": false
+  },
+  {
+    "title": {
+      "de": "Imposter",
+      "en": "Imposter",
+      "nl": "Imposter",
+      "fr": "Imposter",
+      "es": "Imposter",
+      "ua": "Imposter"
+    },
+    "rating": 2,
+    "description": {
+      "de": "Unter den Bienen befindet sich ein Imposter! Kannst du ihn finden?",
+      "en": "Unter den Bienen befindet sich ein Imposter! Kannst du ihn finden?",
+      "nl": "Unter den Bienen befindet sich ein Imposter! Kannst du ihn finden?",
+      "fr": "Unter den Bienen befindet sich ein Imposter! Kannst du ihn finden?",
+      "es": "Unter den Bienen befindet sich ein Imposter! Kannst du ihn finden?",
+      "ua": "Unter den Bienen befindet sich ein Imposter! Kannst du ihn finden?"
+    },
+    "filename": "Imposter.cubi",
+    "solution_exists": true,
+    "template_exists": true,
+    "tutorial_exists": false,
+    "isModule": false,
+    "isProject": false
+  },
+  {
+    "title": {
+      "de": "Geschenkewerkstatt",
+      "en": "Geschenkewerkstatt",
+      "nl": "Geschenkewerkstatt",
+      "fr": "Geschenkewerkstatt",
+      "es": "Geschenkewerkstatt",
+      "ua": "Geschenkewerkstatt"
+    },
+    "rating": 2,
+    "description": {
+      "de": "Hilf dem Elfen in der Geschenkewerkstatt die richtigen Geschenke auszuwählen.",
+      "en": "Hilf dem Elfen in der Geschenkewerkstatt die richtigen Geschenke auszuwählen.",
+      "nl": "Hilf dem Elfen in der Geschenkewerkstatt die richtigen Geschenke auszuwählen.",
+      "fr": "Hilf dem Elfen in der Geschenkewerkstatt die richtigen Geschenke auszuwählen.",
+      "es": "Hilf dem Elfen in der Geschenkewerkstatt die richtigen Geschenke auszuwählen.",
+      "ua": "Hilf dem Elfen in der Geschenkewerkstatt die richtigen Geschenke auszuwählen."
+    },
+    "filename": "Geschenkewerkstatt.cubi",
+    "solution_exists": true,
+    "template_exists": true,
+    "tutorial_exists": false,
+    "isModule": false,
+    "isProject": false
+  },
+  {
+    "title": {
+      "de": "Bananenzauber",
+      "en": "Bananenzauber",
+      "nl": "Bananenzauber",
+      "fr": "Bananenzauber",
+      "es": "Bananenzauber",
+      "ua": "Bananenzauber"
+    },
+    "rating": 2,
+    "description": {
+      "de": "Der Zauberer zaubert Bananen herbei, die sich zufällig über den Bildschirm verteilen. Lerne, mit Zufallszahlen umzugehen und Nachrichten zu verschicken.",
+      "en": "Der Zauberer zaubert Bananen herbei, die sich zufällig über den Bildschirm verteilen. Lerne, mit Zufallszahlen umzugehen und Nachrichten zu verschicken.",
+      "nl": "Der Zauberer zaubert Bananen herbei, die sich zufällig über den Bildschirm verteilen. Lerne, mit Zufallszahlen umzugehen und Nachrichten zu verschicken.",
+      "fr": "Der Zauberer zaubert Bananen herbei, die sich zufällig über den Bildschirm verteilen. Lerne, mit Zufallszahlen umzugehen und Nachrichten zu verschicken.",
+      "es": "Der Zauberer zaubert Bananen herbei, die sich zufällig über den Bildschirm verteilen. Lerne, mit Zufallszahlen umzugehen und Nachrichten zu verschicken.",
+      "ua": "Der Zauberer zaubert Bananen herbei, die sich zufällig über den Bildschirm verteilen. Lerne, mit Zufallszahlen umzugehen und Nachrichten zu verschicken."
+    },
+    "filename": "Bananenzauber.cubi",
+    "solution_exists": true,
+    "template_exists": true,
+    "tutorial_exists": false,
+    "isModule": false,
+    "isProject": false
+  },
+  {
+    "title": {
+      "de": "Helikopter",
+      "en": "Helikopter",
+      "nl": "Helikopter",
+      "fr": "Helikopter",
+      "es": "Helikopter",
+      "ua": "Helikopter"
+    },
+    "rating": 2,
+    "description": {
+      "de": "Weiche mit dem Helikopter einem Ansturm von Flugzeugen aus, während du versuchst den rechten Rand zu erreichen. Der Helikopter kann mit den Pfeiltasten in alle Richtungen auf dem ganzen Spielfeld bewegt werden.",
+      "en": "Weiche mit dem Helikopter einem Ansturm von Flugzeugen aus, während du versuchst den rechten Rand zu erreichen. Der Helikopter kann mit den Pfeiltasten in alle Richtungen auf dem ganzen Spielfeld bewegt werden.",
+      "nl": "Weiche mit dem Helikopter einem Ansturm von Flugzeugen aus, während du versuchst den rechten Rand zu erreichen. Der Helikopter kann mit den Pfeiltasten in alle Richtungen auf dem ganzen Spielfeld bewegt werden.",
+      "fr": "Weiche mit dem Helikopter einem Ansturm von Flugzeugen aus, während du versuchst den rechten Rand zu erreichen. Der Helikopter kann mit den Pfeiltasten in alle Richtungen auf dem ganzen Spielfeld bewegt werden.",
+      "es": "Weiche mit dem Helikopter einem Ansturm von Flugzeugen aus, während du versuchst den rechten Rand zu erreichen. Der Helikopter kann mit den Pfeiltasten in alle Richtungen auf dem ganzen Spielfeld bewegt werden.",
+      "ua": "Weiche mit dem Helikopter einem Ansturm von Flugzeugen aus, während du versuchst den rechten Rand zu erreichen. Der Helikopter kann mit den Pfeiltasten in alle Richtungen auf dem ganzen Spielfeld bewegt werden."
+    },
+    "filename": "Helikopter.cubi",
+    "solution_exists": true,
+    "template_exists": true,
+    "tutorial_exists": false,
+    "isModule": false,
+    "isProject": false
+  },
+  {
+    "title": {
+      "de": "Drache rettet Ritter",
+      "en": "Drache rettet Ritter",
+      "nl": "Drache rettet Ritter",
+      "fr": "Drache rettet Ritter",
+      "es": "Drache rettet Ritter",
+      "ua": "Drache rettet Ritter"
+    },
+    "rating": 2,
+    "description": {
+      "de": "Hilf dem Drachen Naloth, Ritter Karl aus den Fängen von Prinzessin Mathilda von Quasselstrippe zu befreien. Dazu muss Drache Naloth den Schlüssel vom Schloss der Prinzessin vor Ente Ducky erreichen.",
+      "en": "Hilf dem Drachen Naloth, Ritter Karl aus den Fängen von Prinzessin Mathilda von Quasselstrippe zu befreien. Dazu muss Drache Naloth den Schlüssel vom Schloss der Prinzessin vor Ente Ducky erreichen.",
+      "nl": "Hilf dem Drachen Naloth, Ritter Karl aus den Fängen von Prinzessin Mathilda von Quasselstrippe zu befreien. Dazu muss Drache Naloth den Schlüssel vom Schloss der Prinzessin vor Ente Ducky erreichen.",
+      "fr": "Hilf dem Drachen Naloth, Ritter Karl aus den Fängen von Prinzessin Mathilda von Quasselstrippe zu befreien. Dazu muss Drache Naloth den Schlüssel vom Schloss der Prinzessin vor Ente Ducky erreichen.",
+      "es": "Hilf dem Drachen Naloth, Ritter Karl aus den Fängen von Prinzessin Mathilda von Quasselstrippe zu befreien. Dazu muss Drache Naloth den Schlüssel vom Schloss der Prinzessin vor Ente Ducky erreichen.",
+      "ua": "Hilf dem Drachen Naloth, Ritter Karl aus den Fängen von Prinzessin Mathilda von Quasselstrippe zu befreien. Dazu muss Drache Naloth den Schlüssel vom Schloss der Prinzessin vor Ente Ducky erreichen."
+    },
+    "filename": "Drache_rettet_Ritter.cubi",
+    "solution_exists": true,
+    "template_exists": true,
+    "tutorial_exists": false,
+    "isModule": false,
+    "isProject": false
+  },
+  {
+    "title": {
+      "de": "Weltraumreise",
+      "en": "Weltraumreise",
+      "nl": "Weltraumreise",
+      "fr": "Weltraumreise",
+      "es": "Weltraumreise",
+      "ua": "Weltraumreise"
+    },
+    "rating": 2,
+    "description": {
+      "de": "Teleportiere dich zu weit entfernten Planeten.",
+      "en": "Teleportiere dich zu weit entfernten Planeten.",
+      "nl": "Teleportiere dich zu weit entfernten Planeten.",
+      "fr": "Teleportiere dich zu weit entfernten Planeten.",
+      "es": "Teleportiere dich zu weit entfernten Planeten.",
+      "ua": "Teleportiere dich zu weit entfernten Planeten."
+    },
+    "filename": "Weltraumreise.cubi",
+    "solution_exists": true,
+    "template_exists": true,
+    "tutorial_exists": false,
+    "isModule": false,
+    "isProject": false
+  },
+  {
+    "title": {
+      "de": "KI Training",
+      "en": "AI Training",
+      "nl": "KI Training",
+      "fr": "KI Training",
+      "es": "KI Training",
+      "ua": "KI Training"
+    },
+    "rating": 2,
+    "description": {
+      "de": "Programmiere eine lernende Künstliche Intelligenz.",
+      "en": "Programmiere eine lernende Künstliche Intelligenz.",
+      "nl": "Programmiere eine lernende Künstliche Intelligenz.",
+      "fr": "Programmiere eine lernende Künstliche Intelligenz.",
+      "es": "Programmiere eine lernende Künstliche Intelligenz.",
+      "ua": "Programmiere eine lernende Künstliche Intelligenz."
+    },
+    "filename": "KI_Training.cubi",
+    "solution_exists": true,
+    "template_exists": true,
+    "tutorial_exists": false,
+    "isModule": false,
+    "isProject": false
+  },
+  {
+    "title": {
+      "de": "Professor Tanzalarm",
+      "en": "Professor Tanzalarm",
+      "nl": "Professor Tanzalarm",
+      "fr": "Professor Tanzalarm",
+      "es": "Professor Tanzalarm",
+      "ua": "Professor Tanzalarm"
+    },
+    "rating": 2,
+    "description": {
+      "de": "Die Disco startet und Professor Tanzalarm eröffnet die Tanzfläche. Kannst du ihm helfen, einen neuen Rekord aufzustellen?",
+      "en": "Die Disco startet und Professor Tanzalarm eröffnet die Tanzfläche. Kannst du ihm helfen, einen neuen Rekord aufzustellen?",
+      "nl": "Die Disco startet und Professor Tanzalarm eröffnet die Tanzfläche. Kannst du ihm helfen, einen neuen Rekord aufzustellen?",
+      "fr": "Die Disco startet und Professor Tanzalarm eröffnet die Tanzfläche. Kannst du ihm helfen, einen neuen Rekord aufzustellen?",
+      "es": "Die Disco startet und Professor Tanzalarm eröffnet die Tanzfläche. Kannst du ihm helfen, einen neuen Rekord aufzustellen?",
+      "ua": "Die Disco startet und Professor Tanzalarm eröffnet die Tanzfläche. Kannst du ihm helfen, einen neuen Rekord aufzustellen?"
+    },
+    "filename": "Professor_Tanzalarm.cubi",
+    "solution_exists": true,
+    "template_exists": true,
+    "tutorial_exists": false,
+    "isModule": false,
+    "isProject": false
+  },
+  {
+    "title": {
+      "de": "Rechenolympiade",
+      "en": "Rechenolympiade",
+      "nl": "Rechenolympiade",
+      "fr": "Rechenolympiade",
+      "es": "Rechenolympiade",
+      "ua": "Rechenolympiade"
+    },
+    "rating": 2,
+    "description": {
+      "de": "Baue deinen eigenen Taschenrechner und teste deine Fähigkeiten im Kopfrechnen! Wie viele richtige Antworten schaffst du hintereinander?",
+      "en": "Baue deinen eigenen Taschenrechner und teste deine Fähigkeiten im Kopfrechnen! Wie viele richtige Antworten schaffst du hintereinander?",
+      "nl": "Baue deinen eigenen Taschenrechner und teste deine Fähigkeiten im Kopfrechnen! Wie viele richtige Antworten schaffst du hintereinander?",
+      "fr": "Baue deinen eigenen Taschenrechner und teste deine Fähigkeiten im Kopfrechnen! Wie viele richtige Antworten schaffst du hintereinander?",
+      "es": "Baue deinen eigenen Taschenrechner und teste deine Fähigkeiten im Kopfrechnen! Wie viele richtige Antworten schaffst du hintereinander?",
+      "ua": "Baue deinen eigenen Taschenrechner und teste deine Fähigkeiten im Kopfrechnen! Wie viele richtige Antworten schaffst du hintereinander?"
+    },
+    "filename": "Rechenolympiade.cubi",
+    "solution_exists": true,
+    "template_exists": true,
+    "tutorial_exists": false,
+    "isModule": false,
+    "isProject": false
+  },
+  {
+    "title": {
+      "de": "Obstsalat",
+      "en": "Obstsalat",
+      "nl": "Obstsalat",
+      "fr": "Obstsalat",
+      "es": "Obstsalat",
+      "ua": "Obstsalat"
+    },
+    "rating": 2,
+    "description": {
+      "de": "Die Früchte fliegen am Obststand durch die Luft. Fang sie alle wieder ein.",
+      "en": "Die Früchte fliegen am Obststand durch die Luft. Fang sie alle wieder ein.",
+      "nl": "Die Früchte fliegen am Obststand durch die Luft. Fang sie alle wieder ein.",
+      "fr": "Die Früchte fliegen am Obststand durch die Luft. Fang sie alle wieder ein.",
+      "es": "Die Früchte fliegen am Obststand durch die Luft. Fang sie alle wieder ein.",
+      "ua": "Die Früchte fliegen am Obststand durch die Luft. Fang sie alle wieder ein."
+    },
+    "filename": "Obstsalat.cubi",
+    "solution_exists": true,
+    "template_exists": true,
+    "tutorial_exists": false,
+    "isModule": false,
+    "isProject": false
+  },
+  {
+    "title": {
+      "de": "Jonglieren",
+      "en": "Jonglieren",
+      "nl": "Jonglieren",
+      "fr": "Jonglieren",
+      "es": "Jonglieren",
+      "ua": "Jonglieren"
+    },
+    "rating": 2,
+    "description": {
+      "de": "Jongliere die beiden Bälle, bis sie die Decke erreichen.",
+      "en": "Jongliere die beiden Bälle, bis sie die Decke erreichen.",
+      "nl": "Jongliere die beiden Bälle, bis sie die Decke erreichen.",
+      "fr": "Jongliere die beiden Bälle, bis sie die Decke erreichen.",
+      "es": "Jongliere die beiden Bälle, bis sie die Decke erreichen.",
+      "ua": "Jongliere die beiden Bälle, bis sie die Decke erreichen."
+    },
+    "filename": "Jonglieren.cubi",
+    "solution_exists": true,
+    "template_exists": true,
+    "tutorial_exists": false,
+    "isModule": false,
+    "isProject": false
+  },
+  {
+    "title": {
+      "de": "Spaceball",
+      "en": "Spaceball",
+      "nl": "Spaceball",
+      "fr": "Spaceball",
+      "es": "Spaceball",
+      "ua": "Spaceball"
+    },
+    "rating": 3,
+    "description": {
+      "de": "Hilfe, ein Planet fliegt frei im Weltall herum! Könnt ihr die beiden Aliens steuern, sodass der Planet zwischen den beiden bleibt und von ihren Körpern abprallt?",
+      "en": "Hilfe, ein Planet fliegt frei im Weltall herum! Könnt ihr die beiden Aliens steuern, sodass der Planet zwischen den beiden bleibt und von ihren Körpern abprallt?",
+      "nl": "Hilfe, ein Planet fliegt frei im Weltall herum! Könnt ihr die beiden Aliens steuern, sodass der Planet zwischen den beiden bleibt und von ihren Körpern abprallt?",
+      "fr": "Hilfe, ein Planet fliegt frei im Weltall herum! Könnt ihr die beiden Aliens steuern, sodass der Planet zwischen den beiden bleibt und von ihren Körpern abprallt?",
+      "es": "Hilfe, ein Planet fliegt frei im Weltall herum! Könnt ihr die beiden Aliens steuern, sodass der Planet zwischen den beiden bleibt und von ihren Körpern abprallt?",
+      "ua": "Hilfe, ein Planet fliegt frei im Weltall herum! Könnt ihr die beiden Aliens steuern, sodass der Planet zwischen den beiden bleibt und von ihren Körpern abprallt?"
+    },
+    "filename": "Spaceball.cubi",
+    "solution_exists": true,
+    "template_exists": true,
+    "tutorial_exists": false,
+    "isModule": false,
+    "isProject": false
+  },
+  {
+    "title": {
+      "de": "Pacman",
+      "en": "Pacman",
+      "nl": "Pacman",
+      "fr": "Pacman",
+      "es": "Pacman",
+      "ua": "Pacman"
+    },
+    "rating": 3,
+    "description": {
+      "de": "Pacman ist hungrig. Hilf ihm alle Äpfel einzusammeln, aber pass vor den Wänden auf.",
+      "en": "Pacman ist hungrig. Hilf ihm alle Äpfel einzusammeln, aber pass vor den Wänden auf.",
+      "nl": "Pacman ist hungrig. Hilf ihm alle Äpfel einzusammeln, aber pass vor den Wänden auf.",
+      "fr": "Pacman ist hungrig. Hilf ihm alle Äpfel einzusammeln, aber pass vor den Wänden auf.",
+      "es": "Pacman ist hungrig. Hilf ihm alle Äpfel einzusammeln, aber pass vor den Wänden auf.",
+      "ua": "Pacman ist hungrig. Hilf ihm alle Äpfel einzusammeln, aber pass vor den Wänden auf."
+    },
+    "filename": "Pacman.cubi",
+    "solution_exists": true,
+    "template_exists": true,
+    "tutorial_exists": false,
+    "isModule": false,
+    "isProject": false
+  },
+  {
+    "title": {
+      "de": "Katze jagt dich",
+      "en": "Katze jagt dich",
+      "nl": "Katze jagt dich",
+      "fr": "Katze jagt dich",
+      "es": "Katze jagt dich",
+      "ua": "Katze jagt dich"
+    },
+    "rating": 3,
+    "description": {
+      "de": "Hilf der Maus der Katze zu entkommen. Aber pass auf, die Katze hat schon ihren Freunden Bescheid gesagt...",
+      "en": "Hilf der Maus der Katze zu entkommen. Aber pass auf, die Katze hat schon ihren Freunden Bescheid gesagt...",
+      "nl": "Hilf der Maus der Katze zu entkommen. Aber pass auf, die Katze hat schon ihren Freunden Bescheid gesagt...",
+      "fr": "Hilf der Maus der Katze zu entkommen. Aber pass auf, die Katze hat schon ihren Freunden Bescheid gesagt...",
+      "es": "Hilf der Maus der Katze zu entkommen. Aber pass auf, die Katze hat schon ihren Freunden Bescheid gesagt...",
+      "ua": "Hilf der Maus der Katze zu entkommen. Aber pass auf, die Katze hat schon ihren Freunden Bescheid gesagt..."
+    },
+    "filename": "Katze_jagt_dich.cubi",
+    "solution_exists": true,
+    "template_exists": true,
+    "tutorial_exists": false,
+    "isModule": false,
+    "isProject": false
+  },
+  {
+    "title": {
+      "de": "Autorennen",
+      "en": "Autorennen",
+      "nl": "Autorennen",
+      "fr": "Autorennen",
+      "es": "Autorennen",
+      "ua": "Autorennen"
+    },
+    "rating": 3,
+    "description": {
+      "de": "Dein Fahrzeug fährt auf einer Rennstrecke um die Wette. Steuere das Auto so schnell es geht ins Ziel, um eine Bestzeit aufzustellen.",
+      "en": "Dein Fahrzeug fährt auf einer Rennstrecke um die Wette. Steuere das Auto so schnell es geht ins Ziel, um eine Bestzeit aufzustellen.",
+      "nl": "Dein Fahrzeug fährt auf einer Rennstrecke um die Wette. Steuere das Auto so schnell es geht ins Ziel, um eine Bestzeit aufzustellen.",
+      "fr": "Dein Fahrzeug fährt auf einer Rennstrecke um die Wette. Steuere das Auto so schnell es geht ins Ziel, um eine Bestzeit aufzustellen.",
+      "es": "Dein Fahrzeug fährt auf einer Rennstrecke um die Wette. Steuere das Auto so schnell es geht ins Ziel, um eine Bestzeit aufzustellen.",
+      "ua": "Dein Fahrzeug fährt auf einer Rennstrecke um die Wette. Steuere das Auto so schnell es geht ins Ziel, um eine Bestzeit aufzustellen."
+    },
+    "filename": "Autorennen.cubi",
+    "solution_exists": true,
+    "template_exists": true,
+    "tutorial_exists": false,
+    "isModule": false,
+    "isProject": false
+  },
+  {
+    "title": {
+      "de": "Code-Detektiv 3",
+      "en": "Code-Detective 3",
+      "nl": "Code-Detektiv 3",
+      "fr": "Code-Detektiv 3",
+      "es": "Code-Detektiv 3",
+      "ua": "Code-Detektiv 3"
+    },
+    "rating": 3,
+    "description": {
+      "de": "Finde die Fehler aus dem Level Autorennen und werde zum Fehlersuch-Experten.",
+      "en": "Finde die Fehler aus dem Level Autorennen und werde zum Fehlersuch-Experten.",
+      "nl": "Finde die Fehler aus dem Level Autorennen und werde zum Fehlersuch-Experten.",
+      "fr": "Finde die Fehler aus dem Level Autorennen und werde zum Fehlersuch-Experten.",
+      "es": "Finde die Fehler aus dem Level Autorennen und werde zum Fehlersuch-Experten.",
+      "ua": "Finde die Fehler aus dem Level Autorennen und werde zum Fehlersuch-Experten."
+    },
+    "filename": "Codedetektiv_3.cubi",
+    "solution_exists": false,
+    "template_exists": true,
+    "tutorial_exists": false,
+    "isModule": false,
+    "isProject": false
+  },
+  {
+    "title": {
+      "de": "Finde das Tier",
+      "en": "Finde das Tier",
+      "nl": "Finde das Tier",
+      "fr": "Finde das Tier",
+      "es": "Finde das Tier",
+      "ua": "Finde das Tier"
+    },
+    "rating": 3,
+    "description": {
+      "de": "Die Katze ist auf der Suche nach ihren Tierfreunden. Hilf ihr, ihre Freunde zu finden, indem du das richtige Tier berührst.",
+      "en": "Die Katze ist auf der Suche nach ihren Tierfreunden. Hilf ihr, ihre Freunde zu finden, indem du das richtige Tier berührst.",
+      "nl": "Die Katze ist auf der Suche nach ihren Tierfreunden. Hilf ihr, ihre Freunde zu finden, indem du das richtige Tier berührst.",
+      "fr": "Die Katze ist auf der Suche nach ihren Tierfreunden. Hilf ihr, ihre Freunde zu finden, indem du das richtige Tier berührst.",
+      "es": "Die Katze ist auf der Suche nach ihren Tierfreunden. Hilf ihr, ihre Freunde zu finden, indem du das richtige Tier berührst.",
+      "ua": "Die Katze ist auf der Suche nach ihren Tierfreunden. Hilf ihr, ihre Freunde zu finden, indem du das richtige Tier berührst."
+    },
+    "filename": "Finde_das_Tier.cubi",
+    "solution_exists": true,
+    "template_exists": true,
+    "tutorial_exists": false,
+    "isModule": false,
+    "isProject": false
+  },
+  {
+    "title": {
+      "de": "TamaCubi",
+      "en": "TamaCubi",
+      "nl": "TamaCubi",
+      "fr": "TamaCubi",
+      "es": "TamaCubi",
+      "ua": "TamaCubi"
+    },
+    "rating": 3,
+    "description": {
+      "de": "Kümmere dich um Cubi: Füttere ihn, wenn er Hunger hat. Bringe ihn ins Bett, wenn er müde ist. Lies ihm etwas vor, wenn ihm langweilig ist und bade ihn, wenn er zu schmutzig ist.",
+      "en": "Kümmere dich um Cubi: Füttere ihn, wenn er Hunger hat. Bringe ihn ins Bett, wenn er müde ist. Lies ihm etwas vor, wenn ihm langweilig ist und bade ihn, wenn er zu schmutzig ist.",
+      "nl": "Kümmere dich um Cubi: Füttere ihn, wenn er Hunger hat. Bringe ihn ins Bett, wenn er müde ist. Lies ihm etwas vor, wenn ihm langweilig ist und bade ihn, wenn er zu schmutzig ist.",
+      "fr": "Kümmere dich um Cubi: Füttere ihn, wenn er Hunger hat. Bringe ihn ins Bett, wenn er müde ist. Lies ihm etwas vor, wenn ihm langweilig ist und bade ihn, wenn er zu schmutzig ist.",
+      "es": "Kümmere dich um Cubi: Füttere ihn, wenn er Hunger hat. Bringe ihn ins Bett, wenn er müde ist. Lies ihm etwas vor, wenn ihm langweilig ist und bade ihn, wenn er zu schmutzig ist.",
+      "ua": "Kümmere dich um Cubi: Füttere ihn, wenn er Hunger hat. Bringe ihn ins Bett, wenn er müde ist. Lies ihm etwas vor, wenn ihm langweilig ist und bade ihn, wenn er zu schmutzig ist."
+    },
+    "filename": "TamaCubi.cubi",
+    "solution_exists": true,
+    "template_exists": true,
+    "tutorial_exists": false,
+    "isModule": false,
+    "isProject": false
+  },
+  {
+    "title": {
+      "de": "Zitterlabyrinth",
+      "en": "Zitterlabyrinth",
+      "nl": "Zitterlabyrinth",
+      "fr": "Zitterlabyrinth",
+      "es": "Zitterlabyrinth",
+      "ua": "Zitterlabyrinth"
+    },
+    "rating": 3,
+    "description": {
+      "de": "Führe den Hund Cali so schnell wie möglich zum Ziel bei der roten Flagge. Aber Achtung, Cali darf nicht auf die Wiese laufen!",
+      "en": "Führe den Hund Cali so schnell wie möglich zum Ziel bei der roten Flagge. Aber Achtung, Cali darf nicht auf die Wiese laufen!",
+      "nl": "Führe den Hund Cali so schnell wie möglich zum Ziel bei der roten Flagge. Aber Achtung, Cali darf nicht auf die Wiese laufen!",
+      "fr": "Führe den Hund Cali so schnell wie möglich zum Ziel bei der roten Flagge. Aber Achtung, Cali darf nicht auf die Wiese laufen!",
+      "es": "Führe den Hund Cali so schnell wie möglich zum Ziel bei der roten Flagge. Aber Achtung, Cali darf nicht auf die Wiese laufen!",
+      "ua": "Führe den Hund Cali so schnell wie möglich zum Ziel bei der roten Flagge. Aber Achtung, Cali darf nicht auf die Wiese laufen!"
+    },
+    "filename": "Zitterlabyrinth.cubi",
+    "solution_exists": true,
+    "template_exists": true,
+    "tutorial_exists": false,
+    "isModule": false,
+    "isProject": false
+  },
+  {
+    "title": {
+      "de": "CubiCart - Nicht spielbar auf Tablet",
+      "en": "CubiCart - Not available for tablet",
+      "nl": "CubiCart - Nicht spielbar auf Tablet",
+      "fr": "CubiCart - Nicht spielbar auf Tablet",
+      "es": "CubiCart - Nicht spielbar auf Tablet",
+      "ua": "CubiCart - Nicht spielbar auf Tablet"
+    },
+    "rating": 3,
+    "description": {
+      "de": "Beim Spiel CubiCart geht es um alles! Wer von euch fährt die drei Runden am schnellsten und bringt den Sieg nach Hause?",
+      "en": "Beim Spiel CubiCart geht es um alles! Wer von euch fährt die drei Runden am schnellsten und bringt den Sieg nach Hause?",
+      "nl": "Beim Spiel CubiCart geht es um alles! Wer von euch fährt die drei Runden am schnellsten und bringt den Sieg nach Hause?",
+      "fr": "Beim Spiel CubiCart geht es um alles! Wer von euch fährt die drei Runden am schnellsten und bringt den Sieg nach Hause?",
+      "es": "Beim Spiel CubiCart geht es um alles! Wer von euch fährt die drei Runden am schnellsten und bringt den Sieg nach Hause?",
+      "ua": "Beim Spiel CubiCart geht es um alles! Wer von euch fährt die drei Runden am schnellsten und bringt den Sieg nach Hause?"
+    },
+    "filename": "CubiCart.cubi",
+    "solution_exists": true,
+    "template_exists": true,
+    "tutorial_exists": false,
+    "isModule": false,
+    "isProject": false
+  },
+  {
+    "title": {
+      "de": "Quizmaster",
+      "en": "Quizmaster",
+      "nl": "Quizmaster",
+      "fr": "Quizmaster",
+      "es": "Quizmaster",
+      "ua": "Quizmaster"
+    },
+    "rating": 3,
+    "description": {
+      "de": "Bist du ein Quizmaster? Stelle deine Fähigkeiten bei diesem Spiel unter Beweis und lasse andere die richtige Antwort herausfinden!",
+      "en": "Bist du ein Quizmaster? Stelle deine Fähigkeiten bei diesem Spiel unter Beweis und lasse andere die richtige Antwort herausfinden!",
+      "nl": "Bist du ein Quizmaster? Stelle deine Fähigkeiten bei diesem Spiel unter Beweis und lasse andere die richtige Antwort herausfinden!",
+      "fr": "Bist du ein Quizmaster? Stelle deine Fähigkeiten bei diesem Spiel unter Beweis und lasse andere die richtige Antwort herausfinden!",
+      "es": "Bist du ein Quizmaster? Stelle deine Fähigkeiten bei diesem Spiel unter Beweis und lasse andere die richtige Antwort herausfinden!",
+      "ua": "Bist du ein Quizmaster? Stelle deine Fähigkeiten bei diesem Spiel unter Beweis und lasse andere die richtige Antwort herausfinden!"
+    },
+    "filename": "Quizmaster.cubi",
+    "solution_exists": true,
+    "template_exists": true,
+    "tutorial_exists": false,
+    "isModule": false,
+    "isProject": false
+  },
+  {
+    "title": {
+      "de": "Rotes Auto",
+      "en": "Rotes Auto",
+      "nl": "Rotes Auto",
+      "fr": "Rotes Auto",
+      "es": "Rotes Auto",
+      "ua": "Rotes Auto"
+    },
+    "rating": 3,
+    "description": {
+      "de": "Das rote Auto muss schnell aus dem zugeparkten Parkplatz entkommen! Kannst du helfen?",
+      "en": "Das rote Auto muss schnell aus dem zugeparkten Parkplatz entkommen! Kannst du helfen?",
+      "nl": "Das rote Auto muss schnell aus dem zugeparkten Parkplatz entkommen! Kannst du helfen?",
+      "fr": "Das rote Auto muss schnell aus dem zugeparkten Parkplatz entkommen! Kannst du helfen?",
+      "es": "Das rote Auto muss schnell aus dem zugeparkten Parkplatz entkommen! Kannst du helfen?",
+      "ua": "Das rote Auto muss schnell aus dem zugeparkten Parkplatz entkommen! Kannst du helfen?"
+    },
+    "filename": "Rotes_Auto.cubi",
+    "solution_exists": true,
+    "template_exists": true,
+    "tutorial_exists": false,
+    "isModule": false,
+    "isProject": false
+  },
+  {
+    "title": {
+      "de": "Wettervorhersage",
+      "en": "Wettervorhersage",
+      "nl": "Wettervorhersage",
+      "fr": "Wettervorhersage",
+      "es": "Wettervorhersage",
+      "ua": "Wettervorhersage"
+    },
+    "rating": 3,
+    "description": {
+      "de": "Das Wetter spielt verrückt! Hilf Cubi die richtige Kleidung zu finden.",
+      "en": "Das Wetter spielt verrückt! Hilf Cubi die richtige Kleidung zu finden.",
+      "nl": "Das Wetter spielt verrückt! Hilf Cubi die richtige Kleidung zu finden.",
+      "fr": "Das Wetter spielt verrückt! Hilf Cubi die richtige Kleidung zu finden.",
+      "es": "Das Wetter spielt verrückt! Hilf Cubi die richtige Kleidung zu finden.",
+      "ua": "Das Wetter spielt verrückt! Hilf Cubi die richtige Kleidung zu finden."
+    },
+    "filename": "Wettervorhersage.cubi",
+    "solution_exists": true,
+    "template_exists": true,
+    "tutorial_exists": false,
+    "isModule": false,
+    "isProject": false
+  },
+  {
+    "title": {
+      "de": "Standard",
+      "en": "Standard",
+      "nl": "Standard",
+      "fr": "Standard",
+      "es": "Standard",
+      "ua": "Standard"
+    },
+    "rating": 0,
+    "description": {
+      "de": "Ein leeres Projekt zum Starten.",
+      "en": "Ein leeres Projekt zum Starten.",
+      "nl": "Ein leeres Projekt zum Starten.",
+      "fr": "Ein leeres Projekt zum Starten.",
+      "es": "Ein leeres Projekt zum Starten.",
+      "ua": "Ein leeres Projekt zum Starten."
+    },
+    "filename": "Standard.cubi",
+    "solution_exists": false,
+    "template_exists": true,
+    "tutorial_exists": false,
+    "isModule": false,
+    "isProject": false
+  },
+  {
+    "title": {
+      "de": "Der Rabe und der Fuchs",
+      "en": "",
+      "nl": "",
+      "fr": "",
+      "es": "",
+      "ua": ""
+    },
+    "rating": 3,
+    "description": {
+      "de": "Projekttag Fabeln",
+      "en": "",
+      "nl": "",
+      "fr": "",
+      "es": "",
+      "ua": ""
+    },
+    "filename": "Der_Rabe_und_der_Fuchs.cubi",
+    "solution_exists": true,
+    "template_exists": true,
+    "tutorial_exists": false,
+    "isModule": false,
+    "isProject": false
+  }
+]
