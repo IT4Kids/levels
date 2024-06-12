@@ -1097,7 +1097,7 @@
     "template_exists": true,
     "tutorial_exists": false,
     "isModule": false,
-    "isProject": false
+    "isProject": true
   },
   {
     "title": {
