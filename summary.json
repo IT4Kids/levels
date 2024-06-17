@@ -1527,7 +1527,7 @@
   {
     "title": {
       "de": "Der Rabe und der Fuchs",
-      "en": "",
+      "en": "The Raven and the Fox",
       "nl": "",
       "fr": "",
       "es": "",
@@ -1536,7 +1536,7 @@
     "rating": 3,
     "description": {
       "de": "Projekttag Fabeln",
-      "en": "",
+      "en": "Projectday Fables",
       "nl": "",
       "fr": "",
       "es": "",
@@ -1544,7 +1544,7 @@
     },
     "filename": "Der_Rabe_und_der_Fuchs.cubi",
     "solution_exists": true,
-    "template_exists": true,
+    "template_exists": false,
     "tutorial_exists": false,
     "isModule": false,
     "isProject": true
