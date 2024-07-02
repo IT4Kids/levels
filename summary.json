@@ -1573,5 +1573,30 @@
     "tutorial_exists": false,
     "isModule": false,
     "isProject": true
+  },
+  {
+    "title": {
+      "de": "Würfel",
+      "en": "Dice",
+      "nl": "",
+      "fr": "",
+      "es": "",
+      "ua": ""
+    },
+    "rating": 3,
+    "description": {
+      "de": "Programmiere einen Würfel mit Superkraft",
+      "en": "Program a dice with super power",
+      "nl": "",
+      "fr": "",
+      "es": "",
+      "ua": ""
+    },
+    "filename": "Wuerfel.cubi",
+    "solution_exists": true,
+    "template_exists": false,
+    "tutorial_exists": false,
+    "isModule": false,
+    "isProject": true
   }
 ]
