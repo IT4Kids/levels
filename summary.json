@@ -1548,5 +1548,30 @@
     "tutorial_exists": false,
     "isModule": false,
     "isProject": true
+  },
+  {
+    "title": {
+      "de": "KI austricksen",
+      "en": "Tricking AI",
+      "nl": "",
+      "fr": "",
+      "es": "",
+      "ua": ""
+    },
+    "rating": 3,
+    "description": {
+      "de": "Schwierigkeiten beim Trainieren von KI herausfinden",
+      "en": "Finding out the difficulties of training AI",
+      "nl": "",
+      "fr": "",
+      "es": "",
+      "ua": ""
+    },
+    "filename": "KI_austricksen.cubi",
+    "solution_exists": false,
+    "template_exists": false,
+    "tutorial_exists": false,
+    "isModule": false,
+    "isProject": true
   }
 ]
