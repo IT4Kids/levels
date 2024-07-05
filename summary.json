@@ -1,6 +1,31 @@
 [
   {
     "title": {
+      "de": "Tanz",
+      "en": "Tanz",
+      "nl": "Tanz",
+      "fr": "Tanz",
+      "es": "Tanz",
+      "ua": "Tanz"
+    },
+    "rating": 1,
+    "description": {
+      "de": "Tanz",
+      "en": "Tanz",
+      "nl": "Tanz",
+      "fr": "Tanz",
+      "es": "Tanz",
+      "ua": "Tanz"
+    },
+    "filename": "Tanz.cubi",
+    "solution_exists": true,
+    "template_exists": true,
+    "tutorial_exists": false,
+    "isModule": false,
+    "isProject": true
+  },
+  {
+    "title": {
       "de": "Esuri und der Apfel",
       "en": "Esuri and the Apple",
       "nl": "Esuri en de appel",
