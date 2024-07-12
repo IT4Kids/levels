@@ -176,6 +176,56 @@
   },
   {
     "title": {
+      "de": "Natari weicht aus",
+      "en": "Natari weicht aus",
+      "nl": "Natari weicht aus",
+      "fr": "Natari weicht aus",
+      "es": "Natari weicht aus",
+      "ua": "Natari weicht aus"
+    },
+    "rating": 3,
+    "description": {
+      "de": "Code-Detektiv Modul 2",
+      "en": "Code-Detective Module 2",
+      "nl": "Codedetective uit module 2",
+      "fr": "Code Détective du module 2",
+      "es": "Detective de códigos del Módulo 2",
+      "ua": "Кодовий детектив з модуля 2"
+    },
+    "filename": "Natari_weicht_aus.cubi",
+    "solution_exists": true,
+    "template_exists": false,
+    "tutorial_exists": false,
+    "isModule": true,
+    "isProject": false
+  },
+  {
+    "title": {
+      "de": "Muschelsuche",
+      "en": "Muschelsuche",
+      "nl": "Muschelsuche",
+      "fr": "Muschelsuche",
+      "es": "Muschelsuche",
+      "ua": "Muschelsuche"
+    },
+    "rating": 3,
+    "description": {
+      "de": "Code-Detektiv Modul 2",
+      "en": "Code-Detective Module 2",
+      "nl": "Codedetective uit module 2",
+      "fr": "Code Détective du module 2",
+      "es": "Detective de códigos del Módulo 2",
+      "ua": "Кодовий детектив з модуля 2"
+    },
+    "filename": "Muschelsuche.cubi",
+    "solution_exists": true,
+    "template_exists": false,
+    "tutorial_exists": false,
+    "isModule": true,
+    "isProject": false
+  },
+  {
+    "title": {
       "de": "Begrüßung",
       "en": "Welcoming",
       "nl": "Begrüßung",
