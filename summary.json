@@ -26,12 +26,12 @@
   },
   {
     "title": {
-      "de": "Zufallssieger",
-      "en": "Zufallssieger",
-      "nl": "Zufallssieger",
-      "fr": "Zufallssieger",
-      "es": "Zufallssieger",
-      "ua": "Zufallssieger"
+      "de": "Eigenes Spiel",
+      "en": "Eigenes Spiel",
+      "nl": "Eigenes Spiel",
+      "fr": "Eigenes Spiel",
+      "es": "Eigenes Spiel",
+      "ua": "Eigenes Spiel"
     },
     "rating": 1,
     "description": {
@@ -74,15 +74,6 @@
     "isModule": false,
     "isProject": true
   },
-  {
-    "title": {
-      "de": "Esuri und der Apfel",
-      "en": "Esuri and the Apple",
-      "nl": "Esuri en de appel",
-      "fr": "Esuri et la pomme",
-      "es": "Esuri y la manzana",
-      "ua": "Есурі та яблуко"
-    },
     {
       "title": {
         "de": "Tanz",
