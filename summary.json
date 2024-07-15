@@ -74,8 +74,8 @@
     "template_exists": false,
     "tutorial_exists": false,
     "isModule": false,
-    "isProject": true,
-    "isDeveloper": false
+    "isProject": false,
+    "isDeveloper": true
   },
   {
     "title": {
@@ -100,8 +100,8 @@
     "template_exists": false,
     "tutorial_exists": false,
     "isModule": false,
-    "isProject": true,
-    "isDeveloper": false
+    "isProject": false,
+    "isDeveloper": true
   },
   {
     "title": {
