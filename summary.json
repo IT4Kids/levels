@@ -24,5 +24,31 @@
       "Cubi"
     ],
     "Thumbnail": "testThumbnail.png"
+  },
+    {
+    "title": {
+      "de": "voll cooles über level",
+      "en": "",
+      "nl": "",
+      "fr": "",
+      "es": "",
+      "ua": ""
+    },
+    "difficulty": 1,
+    "description": {
+      "de": "Dieses Level ist der zweite test um dieses UI zu testen",
+      "en": "",
+      "nl": "",
+      "fr": "",
+      "es": "",
+      "ua": ""
+    },
+    "filename": "zweiter test.cubi",
+    "tags": [
+      "Template",
+      "Modul",
+      "Maus"
+    ],
+    "Thumbnail": "testThumbnail.png"
   }
 ]
