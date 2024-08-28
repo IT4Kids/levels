@@ -50,5 +50,39 @@
       "Maus"
     ],
     "Thumbnail": "zweiter test.png"
+  },
+    {
+    "title": {
+      "de": "Neus Format",
+      "en": "",
+      "nl": "",
+      "fr": "",
+      "es": "",
+      "ua": ""
+    },
+    "difficulty": 1,
+    "description": {
+      "de": "Hier kannst du das neue format Testen",
+      "en": "",
+      "nl": "",
+      "fr": "",
+      "es": "",
+      "ua": ""
+    },
+    "filename": "newLevelFormatTest.cubi",
+    "tags": [
+      "Template",
+      "Code Explorer",
+      "Cubi",
+      "levelformat",
+      "bla",
+      "testen",
+      "wir",
+      "mal",
+      "lejlas",
+      "tag",
+      "responsiveness"
+    ],
+    "Thumbnail": "testThumbnail.png"
   }
 ]
