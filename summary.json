@@ -22,15 +22,39 @@
       "Template",
       "Code Explorer",
       "Cubi",
-      "levelformat",
-      "bla",
-      "testen",
-      "wir",
-      "mal",
-      "lejlas",
-      "tag",
-      "responsiveness"
+      "levelformat"
     ],
     "Thumbnail": "testThumbnail.png"
+  },
+  {
+    "title": {
+      "de": "WIP Maus zum Käse",
+      "en": "",
+      "nl": "",
+      "fr": "",
+      "es": "",
+      "ua": ""
+    },
+    "difficulty": 1,
+    "description": {
+      "de": "Die erste version von maus zum käse in Cubi 3",
+      "en": "",
+      "nl": "",
+      "fr": "",
+      "es": "",
+      "ua": ""
+    },
+    "filename": "Maus zum Käse.cubi",
+    "tags": [
+      "Template",
+      "Code Explorer",
+      "Cubi",
+      "TestLevel",
+      "Maus",
+      "Käse",
+      "Bugs"
+
+    ],
+    "Thumbnail": "Maus.png"
   }
 ]
