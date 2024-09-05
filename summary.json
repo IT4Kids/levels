@@ -782,7 +782,7 @@
   {
     "title": {
       "de": "Training mit Pilu",
-      "en": "",
+      "en": "Training with Pilu",
       "nl": "",
       "fr": "",
       "es": "",
@@ -791,7 +791,7 @@
     "rating": 1,
     "description": {
       "de": "Pilu übt für den großen Wettbewerb. (Basislevel Bedingungen Modul 3)",
-      "en": "",
+      "en": "Pilu is training for his big competition.",
       "nl": "",
       "fr": "",
       "es": "",
@@ -808,7 +808,7 @@
   {
     "title": {
       "de": "Parcour mit Pilu",
-      "en": "",
+      "en": "Parkour with Pilu",
       "nl": "",
       "fr": "",
       "es": "",
@@ -817,7 +817,7 @@
     "rating": 2,
     "description": {
       "de": "Pilu muss in diesem Pacor eine Reihe an Aufgaben bewältigen. (Vertiefungslevel Bedingungen Modul 3",
-      "en": "",
+      "en": "Pilu has to overcome a number of challenges to complete this parkour.",
       "nl": "",
       "fr": "",
       "es": "",
@@ -834,7 +834,7 @@
   {
     "title": {
       "de": "Pilu trifft Entscheidungen",
-      "en": "",
+      "en": "Pilu makes decision",
       "nl": "",
       "fr": "",
       "es": "",
@@ -843,7 +843,7 @@
     "rating": 1,
     "description": {
       "de": "Pilu muss sich richtig entscheiden und den Ball in das gleichfarbige Körbchen legen. (Basislevel Verzweigungen Modul 3) ",
-      "en": "",
+      "en": "Pilu has to make the right decisions to bring the ball to the correct basket.",
       "nl": "",
       "fr": "",
       "es": "",
@@ -860,7 +860,7 @@
   {
     "title": {
       "de": "Pilus großer Wettbewerb",
-      "en": "",
+      "en": "Pilus big competition",
       "nl": "",
       "fr": "",
       "es": "",
@@ -869,7 +869,7 @@
     "rating": 2,
     "description": {
       "de": "Der große Wettbewerb steht an. Pilu muss den Ball in das richtige Körbchen legen. (Vertiefungslevel Verzweigungen Modul 3",
-      "en": "",
+      "en": "Pilus big competition is right around the corner. He has to bring the ball to the correct basket.",
       "nl": "",
       "fr": "",
       "es": "",
@@ -886,7 +886,7 @@
   {
     "title": {
       "de": "Pilu verläuft sich",
-      "en": "",
+      "en": "Pilu is lost",
       "nl": "",
       "fr": "",
       "es": "",
@@ -895,7 +895,7 @@
     "rating": 3,
     "description": {
       "de": "Pilu hat sich verlaufen und findet nicht den Weg zum Korb. Kannst du ihm helfen die richtigen Entscheidungen zu treffen? (Code-Detektiv Modul 3)",
-      "en": "",
+      "en": "Pilu is lost and can't find the way to the basket. Can you help him with his decision making?",
       "nl": "",
       "fr": "",
       "es": "",
