@@ -239,7 +239,7 @@
                         json[i].description[l] = items[i].querySelector("." + l + "[name='description']").value;
                     }
                 }
-                document.getElementById("i-new_summary").value = JSON.stringify(json);
+                document.getElementById("i-new_summary").value = JSON.stringify(json, null, 4);
             }
 
             function toClipboard(el) {
