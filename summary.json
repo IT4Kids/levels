@@ -1,32 +1,6 @@
 [
     {
         "title": {
-            "de": "Bonuslevel - Käselabyrinth",
-            "en": "",
-            "nl": "",
-            "fr": "",
-            "es": "",
-            "ua": ""
-        },
-        "rating": 1,
-        "description": {
-            "de": "",
-            "en": "",
-            "nl": "",
-            "fr": "",
-            "es": "",
-            "ua": ""
-        },
-        "filename": "Käselabyrinth.cubi",
-        "solution_exists": true,
-        "template_exists": true,
-        "tutorial_exists": false,
-        "isModule": false,
-        "isProject": false,
-        "isDeveloper": false
-    },
-    {
-        "title": {
             "de": "Zufallssieger",
             "en": "Zufallssieger",
             "nl": "Zufallssieger",
@@ -206,6 +180,32 @@
         "isModule": false,
         "isProject": false,
         "isDeveloper": true
+    },
+    {
+        "title": {
+            "de": "Bonuslevel - Käselabyrinth",
+            "en": "",
+            "nl": "",
+            "fr": "",
+            "es": "",
+            "ua": ""
+        },
+        "rating": 1,
+        "description": {
+            "de": "",
+            "en": "",
+            "nl": "",
+            "fr": "",
+            "es": "",
+            "ua": ""
+        },
+        "filename": "Käselabyrinth.cubi",
+        "solution_exists": true,
+        "template_exists": true,
+        "tutorial_exists": false,
+        "isModule": false,
+        "isProject": false,
+        "isDeveloper": false
     },
     {
         "title": {
@@ -980,10 +980,10 @@
             "ua": ""
         },
         "filename": "Pilus_großer_Wettbewerb.cubi",
-        "solution_exists": true,
+        "solution_exists": false,
         "template_exists": true,
         "tutorial_exists": false,
-        "isModule": true,
+        "isModule": false,
         "isProject": false,
         "isDeveloper": false
     },
