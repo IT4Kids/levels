@@ -56,5 +56,31 @@
 
     ],
     "Thumbnail": "Maus.png"
+  },
+  {
+    "title": {
+      "de": "Vorrzeige Level",
+      "en": "",
+      "nl": "",
+      "fr": "",
+      "es": "",
+      "ua": ""
+    },
+    "difficulty": 1,
+    "description": {
+      "de": "Dieses Level ist für das tutorial",
+      "en": "",
+      "nl": "",
+      "fr": "",
+      "es": "",
+      "ua": ""
+    },
+    "filename": "filename.cubi",
+    "tags": [
+      "testlevel",
+      "tutorial",
+      "etc"
+    ],
+    "Thumbnail": "tutorial level.png"
   }
 ]
