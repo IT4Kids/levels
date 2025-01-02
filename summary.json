@@ -545,7 +545,7 @@
         "isProject": true,
         "isDeveloper": false
     },
-{
+    {
         "title": {
             "de": "Synchronsprechen",
             "en": "Voice Acting",
@@ -935,7 +935,7 @@
         "isProject": false,
         "isDeveloper": true
     },
-{
+    {
         "title": {
             "de": "Pilus großer Wettbewerb",
             "en": "Pilus big competition",
@@ -961,7 +961,7 @@
         "isProject": false,
         "isDeveloper": false
     },
-{
+    {
         "title": {
             "de": "Pilus großer Wettbewerb",
             "en": "Pilus big competition",
@@ -987,7 +987,7 @@
         "isProject": false,
         "isDeveloper": false
     },
-        {
+    {
         "title": {
             "de": "Farben",
             "en": "Colors",
@@ -1084,6 +1084,32 @@
             "ua": "Steuere den Astronauten mit den Pfeiltasten durch das Weltall. Achte auf die Planeten!"
         },
         "filename": "Weltraum.cubi",
+        "solution_exists": true,
+        "template_exists": true,
+        "tutorial_exists": false,
+        "isModule": false,
+        "isProject": false,
+        "isDeveloper": false
+    },
+    {
+        "title": {
+            "de": "Maus öffnet Türen",
+            "en": "",
+            "nl": "",
+            "fr": "",
+            "es": "",
+            "ua": ""
+        },
+        "rating": 1,
+        "description": {
+            "de": "Führe die Maus durchs Labyrinth und lass sie auf dem Weg die Türen mithilfe der Knöpfe öffnen.",
+            "en": "",
+            "nl": "",
+            "fr": "",
+            "es": "",
+            "ua": ""
+        },
+        "filename": "Maus_oeffnet_Tueren.cubi",
         "solution_exists": true,
         "template_exists": true,
         "tutorial_exists": false,
