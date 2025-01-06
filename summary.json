@@ -1,5 +1,5 @@
 [
-    {
+  {
     "title": {
       "de": "Toni Tests Level",
       "en": "",
@@ -17,12 +17,9 @@
       "es": "",
       "ua": ""
     },
-    "filename": "ToniTestLevel.cubi",
-    "tags": [
-      "Test",
-      "Level",
-      "Toni"
-    ],
-    "Thumbnail": "ToniTestThumbnail.png"
+    "fileName": "ToniTestLevel.cubi",
+    "videoFileName": "ToniTestVideo.mp4",
+    "thumbnail": "ToniTestThumbnail.png",
+    "tags": ["Test", "Level", "Toni"]
   }
 ]
