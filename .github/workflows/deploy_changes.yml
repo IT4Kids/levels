@@ -26,6 +26,7 @@ jobs:
           aws s3 cp ./summary.json s3://cubi.levels.i4k/summary.json
           aws s3 sync --follow-symlinks --delete ./Level s3://cubi.levels.i4k/Level
           aws s3 sync --follow-symlinks --delete ./Thumbnails s3://cubi.levels.i4k/Thumbnails
+          aws s3 sync --follow-symlinks --delete ./Videos s3://cubi.levels.i4k/Videos
 
       - name: Invalidate Cloudfront
         run: |
