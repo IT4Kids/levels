@@ -21,5 +21,27 @@
     "videoFileName": "ToniTestVideo.mp4",
     "thumbnail": "ToniTestThumbnail.png",
     "tags": ["Test", "Level", "Toni"]
+  },
+   {
+    "title": {
+      "de": "Kein Video",
+      "en": "",
+      "nl": "",
+      "fr": "",
+      "es": "",
+      "ua": ""
+    },
+    "difficulty": 1,
+    "description": {
+      "de": "Das Level hat kein video",
+      "en": "",
+      "nl": "",
+      "fr": "",
+      "es": "",
+      "ua": ""
+    },
+    "fileName": "ToniTestLevel.cubi",
+    "thumbnail": "ToniTestThumbnail.png",
+    "tags": ["Test", "Level", "VideoNone"]
   }
 ]
