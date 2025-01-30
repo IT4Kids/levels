@@ -1,6 +1,32 @@
 [
     {
         "title": {
+            "de": "Qual der Wahl",
+            "en": "",
+            "nl": "",
+            "fr": "",
+            "es": "",
+            "ua": ""
+        },
+        "rating": 1,
+        "description": {
+            "de": "Der Code der Demokratie",
+            "en": "",
+            "nl": "",
+            "fr": "",
+            "es": "",
+            "ua": ""
+        },
+        "filename": "Qual_der_Wahl.cubi",
+        "solution_exists": true,
+        "template_exists": false,
+        "tutorial_exists": false,
+        "isModule": false,
+        "isProject": true,
+        "isDeveloper": false
+    },
+    {
+        "title": {
             "de": "Zufallssieger",
             "en": "Zufallssieger",
             "nl": "Zufallssieger",
