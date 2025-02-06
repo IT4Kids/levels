@@ -599,6 +599,32 @@
     },
     {
         "title": {
+            "de": "Wellenreiten mit Natari",
+            "en": "",
+            "nl": "",
+            "fr": "",
+            "es": "",
+            "ua": ""
+        },
+        "rating": 1,
+        "description": {
+            "de": "Lass die Robben Tarina und Natari durchs Wasser gleiten.",
+            "en": "",
+            "nl": "",
+            "fr": "",
+            "es": "",
+            "ua": ""
+        },
+        "filename": "Wellenreiten_mit_Natari.cubi",
+        "solution_exists": false,
+        "template_exists": true,
+        "tutorial_exists": false,
+        "isModule": false,
+        "isProject": false,
+        "isDeveloper": false
+    },
+    {
+        "title": {
             "de": "Maulwurf",
             "en": "Mole",
             "nl": "Maulwurf",
@@ -1932,7 +1958,7 @@
             "es": "Drache rettet Ritter",
             "ua": "Drache rettet Ritter"
         },
-        "rating": 2,
+        "rating": 3,
         "description": {
             "de": "Hilf dem Drachen Naloth, Ritter Karl aus den Fängen von Prinzessin Mathilda von Quasselstrippe zu befreien. Dazu muss Drache Naloth den Schlüssel vom Schloss der Prinzessin vor Ente Ducky erreichen.",
             "en": "Hilf dem Drachen Naloth, Ritter Karl aus den Fängen von Prinzessin Mathilda von Quasselstrippe zu befreien. Dazu muss Drache Naloth den Schlüssel vom Schloss der Prinzessin vor Ente Ducky erreichen.",
@@ -1995,7 +2021,7 @@
         },
         "filename": "KI_Training.cubi",
         "solution_exists": true,
-        "template_exists": true,
+        "template_exists": false,
         "tutorial_exists": false,
         "isModule": false,
         "isProject": true,
@@ -2103,6 +2129,32 @@
         "tutorial_exists": false,
         "isModule": false,
         "isProject": true,
+        "isDeveloper": false
+    },
+    {
+        "title": {
+            "de": "Eigenes Level",
+            "en": "",
+            "nl": "",
+            "fr": "",
+            "es": "",
+            "ua": ""
+        },
+        "rating": 2,
+        "description": {
+            "de": "Erstelle dein eigenes Spiel und zeige, was du schon programmieren kannst.",
+            "en": "",
+            "nl": "",
+            "fr": "",
+            "es": "",
+            "ua": ""
+        },
+        "filename": "Eigenes_Spiel1.cubi",
+        "solution_exists": false,
+        "template_exists": true,
+        "tutorial_exists": false,
+        "isModule": false,
+        "isProject": false,
         "isDeveloper": false
     },
     {
