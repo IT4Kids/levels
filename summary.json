@@ -2523,6 +2523,32 @@
     },
     {
         "title": {
+            "de": "Hänsel und Gretel",
+            "en": "",
+            "nl": "",
+            "fr": "",
+            "es": "",
+            "ua": ""
+        },
+        "rating": 3,
+        "description": {
+            "de": "Hänsel und Gretel",
+            "en": "",
+            "nl": "",
+            "fr": "",
+            "es": "",
+            "ua": ""
+        },
+        "filename": "Haensel_und_Gretel.cubi",
+        "solution_exists": true,
+        "template_exists": false,
+        "tutorial_exists": false,
+        "isModule": false,
+        "isProject": true,
+        "isDeveloper": false
+    },
+    {
+        "title": {
             "de": "KI austricksen",
             "en": "Tricking AI",
             "nl": "",
