@@ -2566,7 +2566,7 @@
             "ua": ""
         },
         "filename": "KI_austricksen.cubi",
-        "solution_exists": false,
+        "solution_exists": true,
         "template_exists": false,
         "tutorial_exists": false,
         "isModule": false,
