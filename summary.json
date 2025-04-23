@@ -2,22 +2,52 @@
     {
         "title": {
             "de": "Qual der Wahl",
-            "en": "",
+            "en": "Making a Choice",
             "nl": "",
             "fr": "",
             "es": "",
-            "ua": ""
+            "ua": "",
+            "bs": "undefined"
         },
         "rating": 1,
         "description": {
             "de": "Der Code der Demokratie",
-            "en": "",
+            "en": "The code of democracy",
             "nl": "",
             "fr": "",
             "es": "",
-            "ua": ""
+            "ua": "",
+            "bs": "undefined"
         },
         "filename": "Qual_der_Wahl.cubi",
+        "solution_exists": true,
+        "template_exists": false,
+        "tutorial_exists": false,
+        "isModule": false,
+        "isProject": true,
+        "isDeveloper": false
+    },
+    {
+        "title": {
+            "de": "Vokabeltrainer",
+            "en": "Vocabulary Trainer",
+            "nl": "",
+            "fr": "",
+            "es": "",
+            "ua": "",
+            "bs": ""
+        },
+        "rating": 1,
+        "description": {
+            "de": "Programmiere einen eigenen Vokabeltrainer.",
+            "en": "Program your own vocabulary trainer.",
+            "nl": "",
+            "fr": "",
+            "es": "",
+            "ua": "",
+            "bs": ""
+        },
+        "filename": "Vokabeltrainer.cubi",
         "solution_exists": true,
         "template_exists": false,
         "tutorial_exists": false,
@@ -32,7 +62,8 @@
             "nl": "Zufallssieger",
             "fr": "Zufallssieger",
             "es": "Zufallssieger",
-            "ua": "Zufallssieger"
+            "ua": "Zufallssieger",
+            "bs": "undefined"
         },
         "rating": 1,
         "description": {
@@ -41,7 +72,8 @@
             "nl": "Zufallssieger",
             "fr": "Zufallssieger",
             "es": "Zufallssieger",
-            "ua": "Zufallssieger"
+            "ua": "Zufallssieger",
+            "bs": "undefined"
         },
         "filename": "Zufallssieger.cubi",
         "solution_exists": true,
@@ -58,7 +90,8 @@
             "nl": "Esuri en de appel",
             "fr": "Esuri et la pomme",
             "es": "Esuri y la manzana",
-            "ua": "Есурі та яблуко"
+            "ua": "Есурі та яблуко",
+            "bs": "undefined"
         },
         "rating": 1,
         "description": {
@@ -67,7 +100,8 @@
             "nl": "Basisniveau van module 1",
             "fr": "Niveau de base du module 1",
             "es": "Tarea básico del módulo 1",
-            "ua": "Модуль 1 базового рівня"
+            "ua": "Модуль 1 базового рівня",
+            "bs": "undefined"
         },
         "filename": "Esuri_und_der_Apfel.cubi",
         "solution_exists": true,
@@ -84,7 +118,8 @@
             "nl": "Bauernhof",
             "fr": "Bauernhof",
             "es": "Bauernhof",
-            "ua": "Bauernhof"
+            "ua": "Bauernhof",
+            "bs": "undefined"
         },
         "rating": 1,
         "description": {
@@ -93,7 +128,8 @@
             "nl": "Zeige der Kuh den Weg zurück in ihren Stall.",
             "fr": "Zeige der Kuh den Weg zurück in ihren Stall.",
             "es": "Zeige der Kuh den Weg zurück in ihren Stall.",
-            "ua": "Zeige der Kuh den Weg zurück in ihren Stall."
+            "ua": "Zeige der Kuh den Weg zurück in ihren Stall.",
+            "bs": "undefined"
         },
         "filename": "Bauernhof.cubi",
         "solution_exists": true,
@@ -110,7 +146,8 @@
             "nl": "Bauernhof automatisch",
             "fr": "Bauernhof automatisch",
             "es": "Bauernhof automatisch",
-            "ua": "Bauernhof automatisch"
+            "ua": "Bauernhof automatisch",
+            "bs": "undefined"
         },
         "rating": 1,
         "description": {
@@ -119,7 +156,8 @@
             "nl": "Eine Version von Bauernhof, die das Level spielt automatisch.",
             "fr": "Eine Version von Bauernhof, die das Level spielt automatisch.",
             "es": "Eine Version von Bauernhof, die das Level spielt automatisch.",
-            "ua": "Eine Version von Bauernhof, die das Level spielt automatisch."
+            "ua": "Eine Version von Bauernhof, die das Level spielt automatisch.",
+            "bs": "undefined"
         },
         "filename": "Bauernhof_Auto.cubi",
         "solution_exists": false,
@@ -136,7 +174,8 @@
             "nl": "Esuri en de peer",
             "fr": "Esuri et la poire",
             "es": "Esuri y la pera",
-            "ua": "Есурі та груша"
+            "ua": "Есурі та груша",
+            "bs": "undefined"
         },
         "rating": 2,
         "description": {
@@ -145,7 +184,8 @@
             "nl": "Gevorderd niveau van module 1",
             "fr": "Niveau d'approfondissement du module 1",
             "es": "Tarea avanzado de módulo 1",
-            "ua": "Просунутий рівень Модуль 1"
+            "ua": "Просунутий рівень Модуль 1",
+            "bs": "undefined"
         },
         "filename": "Esuri_und_die_Birne.cubi",
         "solution_exists": true,
@@ -162,7 +202,8 @@
             "nl": "Maus zum Käse",
             "fr": "Maus zum Käse",
             "es": "Maus zum Käse",
-            "ua": "Maus zum Käse"
+            "ua": "Maus zum Käse",
+            "bs": "undefined"
         },
         "rating": 1,
         "description": {
@@ -171,7 +212,8 @@
             "nl": "Programmiere die Maus so, dass sie über die Brücke zum Käse läuft und dabei nicht ins Wasser fällt.",
             "fr": "Programmiere die Maus so, dass sie über die Brücke zum Käse läuft und dabei nicht ins Wasser fällt.",
             "es": "Programmiere die Maus so, dass sie über die Brücke zum Käse läuft und dabei nicht ins Wasser fällt.",
-            "ua": "Programmiere die Maus so, dass sie über die Brücke zum Käse läuft und dabei nicht ins Wasser fällt."
+            "ua": "Programmiere die Maus so, dass sie über die Brücke zum Käse läuft und dabei nicht ins Wasser fällt.",
+            "bs": "undefined"
         },
         "filename": "Maus_zum_Kaese.cubi",
         "solution_exists": true,
@@ -188,7 +230,8 @@
             "nl": "Labyrinth",
             "fr": "Labyrinth",
             "es": "Labyrinth",
-            "ua": "Labyrinth"
+            "ua": "Labyrinth",
+            "bs": "undefined"
         },
         "rating": 1,
         "description": {
@@ -197,7 +240,8 @@
             "nl": "Führe die Maus durch das Labyrinth: Erst zum Schlüssel, dann zum Tor.",
             "fr": "Führe die Maus durch das Labyrinth: Erst zum Schlüssel, dann zum Tor.",
             "es": "Führe die Maus durch das Labyrinth: Erst zum Schlüssel, dann zum Tor.",
-            "ua": "Führe die Maus durch das Labyrinth: Erst zum Schlüssel, dann zum Tor."
+            "ua": "Führe die Maus durch das Labyrinth: Erst zum Schlüssel, dann zum Tor.",
+            "bs": "undefined"
         },
         "filename": "Labyrinth.cubi",
         "solution_exists": true,
@@ -214,7 +258,8 @@
             "nl": "",
             "fr": "",
             "es": "",
-            "ua": ""
+            "ua": "",
+            "bs": "undefined"
         },
         "rating": 1,
         "description": {
@@ -223,7 +268,8 @@
             "nl": "",
             "fr": "",
             "es": "",
-            "ua": ""
+            "ua": "",
+            "bs": "undefined"
         },
         "filename": "Käselabyrinth.cubi",
         "solution_exists": true,
@@ -240,7 +286,8 @@
             "nl": "Iruse en de aardbei",
             "fr": "Iruse et la fraise",
             "es": "Iruse y la fresa",
-            "ua": "Ірусе та полуниця"
+            "ua": "Ірусе та полуниця",
+            "bs": "undefined"
         },
         "rating": 3,
         "description": {
@@ -249,7 +296,8 @@
             "nl": "Codedetective uit module 1",
             "fr": "Code Détective du module 1",
             "es": "Detective de códigos del Módulo 1",
-            "ua": "Кодовий детектив з модуля 1"
+            "ua": "Кодовий детектив з модуля 1",
+            "bs": "undefined"
         },
         "filename": "Iruse_und_die_Erdbeere.cubi",
         "solution_exists": true,
@@ -266,7 +314,8 @@
             "nl": "Gesynchroniseerde spraak",
             "fr": "Parole synchronisée",
             "es": "Voz sincronizada",
-            "ua": "Синхронізоване мовлення"
+            "ua": "Синхронізоване мовлення",
+            "bs": "undefined"
         },
         "rating": 3,
         "description": {
@@ -275,7 +324,8 @@
             "nl": "Extra les uit module 1",
             "fr": "Leçon supplémentaire du module 1",
             "es": "Lección adicional del módulo 1",
-            "ua": "Додатковий урок з модуля 1"
+            "ua": "Додатковий урок з модуля 1",
+            "bs": "undefined"
         },
         "filename": "Synchronsprechen.cubi",
         "solution_exists": true,
@@ -292,7 +342,8 @@
             "nl": "Surfen met Natari",
             "fr": "Surfer avec Natari",
             "es": "Surfear con Natari",
-            "ua": "Серфінг з Натарі"
+            "ua": "Серфінг з Натарі",
+            "bs": "undefined"
         },
         "rating": 1,
         "description": {
@@ -301,7 +352,8 @@
             "nl": "Basisniveau van module 2",
             "fr": "Niveau de base du module 2",
             "es": "Tarea básico del módulo 2",
-            "ua": "Модуль 2 базового рівня"
+            "ua": "Модуль 2 базового рівня",
+            "bs": "undefined"
         },
         "filename": "Wellenreiten_mit_Natari.cubi",
         "solution_exists": true,
@@ -318,7 +370,8 @@
             "nl": "Natari",
             "fr": "Le tour de force de Natari",
             "es": "El truco de Natari",
-            "ua": "Трюк Натарі"
+            "ua": "Трюк Натарі",
+            "bs": "undefined"
         },
         "rating": 2,
         "description": {
@@ -327,7 +380,8 @@
             "nl": "Gevorderd niveau van module 2",
             "fr": "Niveau d'approfondissement du module 2",
             "es": "Tarea avanzado de módulo 2",
-            "ua": "Просунутий рівень Модуль 2"
+            "ua": "Просунутий рівень Модуль 2",
+            "bs": "undefined"
         },
         "filename": "Nataris_Kunststück.cubi",
         "solution_exists": true,
@@ -344,7 +398,8 @@
             "nl": "Muschelsuche",
             "fr": "Muschelsuche",
             "es": "Muschelsuche",
-            "ua": "Muschelsuche"
+            "ua": "Muschelsuche",
+            "bs": "undefined"
         },
         "rating": 3,
         "description": {
@@ -353,7 +408,8 @@
             "nl": "Codedetective uit module 2",
             "fr": "Code Détective du module 2",
             "es": "Detective de códigos del Módulo 2",
-            "ua": "Кодовий детектив з модуля 2"
+            "ua": "Кодовий детектив з модуля 2",
+            "bs": "undefined"
         },
         "filename": "Muschelsuche.cubi",
         "solution_exists": true,
@@ -370,7 +426,8 @@
             "nl": "Natari weicht aus",
             "fr": "Natari weicht aus",
             "es": "Natari weicht aus",
-            "ua": "Natari weicht aus"
+            "ua": "Natari weicht aus",
+            "bs": "undefined"
         },
         "rating": 3,
         "description": {
@@ -379,7 +436,8 @@
             "nl": "Codedetective uit module 2",
             "fr": "Code Détective du module 2",
             "es": "Detective de códigos del Módulo 2",
-            "ua": "Кодовий детектив з модуля 2"
+            "ua": "Кодовий детектив з модуля 2",
+            "bs": "undefined"
         },
         "filename": "Natari_weicht_aus.cubi",
         "solution_exists": true,
@@ -396,7 +454,8 @@
             "nl": "Begrüßung",
             "fr": "Begrüßung",
             "es": "Begrüßung",
-            "ua": "Begrüßung"
+            "ua": "Begrüßung",
+            "bs": "undefined"
         },
         "rating": 1,
         "description": {
@@ -405,7 +464,8 @@
             "nl": "In diesem Tutorial wirst du Schritt für Schritt durch Cubi geführt.",
             "fr": "In diesem Tutorial wirst du Schritt für Schritt durch Cubi geführt.",
             "es": "In diesem Tutorial wirst du Schritt für Schritt durch Cubi geführt.",
-            "ua": "In diesem Tutorial wirst du Schritt für Schritt durch Cubi geführt."
+            "ua": "In diesem Tutorial wirst du Schritt für Schritt durch Cubi geführt.",
+            "bs": "undefined"
         },
         "filename": "Begrüßung.cubi",
         "solution_exists": false,
@@ -422,7 +482,8 @@
             "nl": "Sternejagd",
             "fr": "Sternejagd",
             "es": "Sternejagd",
-            "ua": "Sternejagd"
+            "ua": "Sternejagd",
+            "bs": "undefined"
         },
         "rating": 1,
         "description": {
@@ -431,7 +492,8 @@
             "nl": "Hilf dem Baumwesen, den Stern einzusammeln",
             "fr": "Hilf dem Baumwesen, den Stern einzusammeln",
             "es": "Hilf dem Baumwesen, den Stern einzusammeln",
-            "ua": "Hilf dem Baumwesen, den Stern einzusammeln"
+            "ua": "Hilf dem Baumwesen, den Stern einzusammeln",
+            "bs": "undefined"
         },
         "filename": "Sternejagd.cubi",
         "solution_exists": false,
@@ -448,7 +510,8 @@
             "nl": "RunAndJump",
             "fr": "RunAndJump",
             "es": "RunAndJump",
-            "ua": "RunAndJump"
+            "ua": "RunAndJump",
+            "bs": "undefined"
         },
         "rating": 2,
         "description": {
@@ -457,7 +520,8 @@
             "nl": "Steuere den Vogel und weiche rechtzeitig den Bällen aus.",
             "fr": "Steuere den Vogel und weiche rechtzeitig den Bällen aus.",
             "es": "Steuere den Vogel und weiche rechtzeitig den Bällen aus.",
-            "ua": "Steuere den Vogel und weiche rechtzeitig den Bällen aus."
+            "ua": "Steuere den Vogel und weiche rechtzeitig den Bällen aus.",
+            "bs": "undefined"
         },
         "filename": "RunAndJump.cubi",
         "solution_exists": false,
@@ -474,7 +538,8 @@
             "nl": "Verhaalboek over beweging",
             "fr": "Livre de contes sur le mouvement",
             "es": "Libro de cuentos sobre el movimiento",
-            "ua": "Книга оповідань про рух"
+            "ua": "Книга оповідань про рух",
+            "bs": "undefined"
         },
         "rating": 1,
         "description": {
@@ -483,7 +548,8 @@
             "nl": "Erstelle dein eigenes Level.",
             "fr": "Erstelle dein eigenes Level.",
             "es": "Erstelle dein eigenes Level.",
-            "ua": "Erstelle dein eigenes Level."
+            "ua": "Erstelle dein eigenes Level.",
+            "bs": "undefined"
         },
         "filename": "Maerchenbuch_Bewegung.cubi",
         "solution_exists": false,
@@ -500,7 +566,8 @@
             "nl": "Code-Detektiv 1",
             "fr": "Code-Detektiv 1",
             "es": "Code-Detektiv 1",
-            "ua": "Code-Detektiv 1"
+            "ua": "Code-Detektiv 1",
+            "bs": "undefined"
         },
         "rating": 1,
         "description": {
@@ -509,7 +576,8 @@
             "nl": "Finde die drei Fehler aus dem Level Labyrinth und lerne dabei etwas über die Fehlersuche.",
             "fr": "Finde die drei Fehler aus dem Level Labyrinth und lerne dabei etwas über die Fehlersuche.",
             "es": "Finde die drei Fehler aus dem Level Labyrinth und lerne dabei etwas über die Fehlersuche.",
-            "ua": "Finde die drei Fehler aus dem Level Labyrinth und lerne dabei etwas über die Fehlersuche."
+            "ua": "Finde die drei Fehler aus dem Level Labyrinth und lerne dabei etwas über die Fehlersuche.",
+            "bs": "undefined"
         },
         "filename": "Codedetektiv_1.cubi",
         "solution_exists": false,
@@ -526,7 +594,8 @@
             "nl": "",
             "fr": "",
             "es": "",
-            "ua": ""
+            "ua": "",
+            "bs": "undefined"
         },
         "rating": 1,
         "description": {
@@ -535,7 +604,8 @@
             "nl": "",
             "fr": "",
             "es": "",
-            "ua": ""
+            "ua": "",
+            "bs": "undefined"
         },
         "filename": "Iruse_und_die_Erdbeere.cubi",
         "solution_exists": false,
@@ -552,7 +622,8 @@
             "nl": "Karneval",
             "fr": "Karneval",
             "es": "Karneval",
-            "ua": "Karneval"
+            "ua": "Karneval",
+            "bs": "undefined"
         },
         "rating": 1,
         "description": {
@@ -561,7 +632,8 @@
             "nl": "Cubi möchte sich verkleiden, aber er ist noch nicht sicher, was er anziehen muss. Probiere alle Kostüme mit ihm durch, indem du ihn drückst.",
             "fr": "Cubi möchte sich verkleiden, aber er ist noch nicht sicher, was er anziehen muss. Probiere alle Kostüme mit ihm durch, indem du ihn drückst.",
             "es": "Cubi möchte sich verkleiden, aber er ist noch nicht sicher, was er anziehen muss. Probiere alle Kostüme mit ihm durch, indem du ihn drückst.",
-            "ua": "Cubi möchte sich verkleiden, aber er ist noch nicht sicher, was er anziehen muss. Probiere alle Kostüme mit ihm durch, indem du ihn drückst."
+            "ua": "Cubi möchte sich verkleiden, aber er ist noch nicht sicher, was er anziehen muss. Probiere alle Kostüme mit ihm durch, indem du ihn drückst.",
+            "bs": "undefined"
         },
         "filename": "Karneval.cubi",
         "solution_exists": true,
@@ -578,7 +650,8 @@
             "nl": "Gesynchroniseerde spraak",
             "fr": "Parole synchronisée",
             "es": "Voz sincronizada",
-            "ua": "Синхронізоване мовлення"
+            "ua": "Синхронізоване мовлення",
+            "bs": "undefined"
         },
         "rating": 1,
         "description": {
@@ -587,7 +660,8 @@
             "nl": "Gestalte den Dialog zwischen Igel Kim und Cubi.",
             "fr": "Gestalte den Dialog zwischen Igel Kim und Cubi.",
             "es": "Gestalte den Dialog zwischen Igel Kim und Cubi.",
-            "ua": "Gestalte den Dialog zwischen Igel Kim und Cubi."
+            "ua": "Gestalte den Dialog zwischen Igel Kim und Cubi.",
+            "bs": "undefined"
         },
         "filename": "Synchronsprechen.cubi",
         "solution_exists": false,
@@ -604,7 +678,8 @@
             "nl": "",
             "fr": "",
             "es": "",
-            "ua": ""
+            "ua": "",
+            "bs": "undefined"
         },
         "rating": 1,
         "description": {
@@ -613,7 +688,8 @@
             "nl": "",
             "fr": "",
             "es": "",
-            "ua": ""
+            "ua": "",
+            "bs": "undefined"
         },
         "filename": "Wellenreiten_mit_Natari.cubi",
         "solution_exists": false,
@@ -630,7 +706,8 @@
             "nl": "Maulwurf",
             "fr": "Maulwurf",
             "es": "Maulwurf",
-            "ua": "Maulwurf"
+            "ua": "Maulwurf",
+            "bs": "undefined"
         },
         "rating": 1,
         "description": {
@@ -639,7 +716,8 @@
             "nl": "Die zwei Maulwürfe sind auf dem Weg durch ihre Tunnel zu den Regenwürmern.",
             "fr": "Die zwei Maulwürfe sind auf dem Weg durch ihre Tunnel zu den Regenwürmern.",
             "es": "Die zwei Maulwürfe sind auf dem Weg durch ihre Tunnel zu den Regenwürmern.",
-            "ua": "Die zwei Maulwürfe sind auf dem Weg durch ihre Tunnel zu den Regenwürmern."
+            "ua": "Die zwei Maulwürfe sind auf dem Weg durch ihre Tunnel zu den Regenwürmern.",
+            "bs": "undefined"
         },
         "filename": "Maulwurf.cubi",
         "solution_exists": true,
@@ -656,7 +734,8 @@
             "nl": "",
             "fr": "",
             "es": "",
-            "ua": ""
+            "ua": "",
+            "bs": "undefined"
         },
         "rating": 1,
         "description": {
@@ -665,7 +744,8 @@
             "nl": "",
             "fr": "",
             "es": "",
-            "ua": ""
+            "ua": "",
+            "bs": "undefined"
         },
         "filename": "Abenteuer_im_All.cubi",
         "solution_exists": true,
@@ -682,7 +762,8 @@
             "nl": "",
             "fr": "",
             "es": "",
-            "ua": ""
+            "ua": "",
+            "bs": "undefined"
         },
         "rating": 1,
         "description": {
@@ -691,7 +772,8 @@
             "nl": "",
             "fr": "",
             "es": "",
-            "ua": ""
+            "ua": "",
+            "bs": "undefined"
         },
         "filename": "Obsttransport.cubi",
         "solution_exists": true,
@@ -708,7 +790,8 @@
             "nl": "Natari",
             "fr": "Le tour de force de Natari",
             "es": "El truco de Natari",
-            "ua": "Трюк Натарі"
+            "ua": "Трюк Натарі",
+            "bs": "undefined"
         },
         "rating": 1,
         "description": {
@@ -717,7 +800,8 @@
             "nl": "",
             "fr": "",
             "es": "",
-            "ua": ""
+            "ua": "",
+            "bs": "undefined"
         },
         "filename": "Nataris_Kunststück.cubi",
         "solution_exists": false,
@@ -734,7 +818,8 @@
             "nl": "",
             "fr": "",
             "es": "",
-            "ua": ""
+            "ua": "",
+            "bs": "undefined"
         },
         "rating": 1,
         "description": {
@@ -743,7 +828,8 @@
             "nl": "",
             "fr": "",
             "es": "",
-            "ua": ""
+            "ua": "",
+            "bs": "undefined"
         },
         "filename": "Cubi_Hood.cubi",
         "solution_exists": true,
@@ -760,7 +846,8 @@
             "nl": "Sternlabyrinth",
             "fr": "Sternlabyrinth",
             "es": "Sternlabyrinth",
-            "ua": "Sternlabyrinth"
+            "ua": "Sternlabyrinth",
+            "bs": "undefined"
         },
         "rating": 1,
         "description": {
@@ -769,7 +856,8 @@
             "nl": "Sammle das Herz, den Stern, die Münze und den Schlüssel in der richtigen Reihenfolge ein.",
             "fr": "Sammle das Herz, den Stern, die Münze und den Schlüssel in der richtigen Reihenfolge ein.",
             "es": "Sammle das Herz, den Stern, die Münze und den Schlüssel in der richtigen Reihenfolge ein.",
-            "ua": "Sammle das Herz, den Stern, die Münze und den Schlüssel in der richtigen Reihenfolge ein."
+            "ua": "Sammle das Herz, den Stern, die Münze und den Schlüssel in der richtigen Reihenfolge ein.",
+            "bs": "undefined"
         },
         "filename": "Sternlabyrinth.cubi",
         "solution_exists": true,
@@ -786,7 +874,8 @@
             "nl": "Sprookjesboek voor strikken",
             "fr": "Livre de contes en boucle",
             "es": "Libro de cuentos para bucles",
-            "ua": "Книжка казок для бантиків"
+            "ua": "Книжка казок для бантиків",
+            "bs": "undefined"
         },
         "rating": 1,
         "description": {
@@ -795,7 +884,8 @@
             "nl": "Erstelle dein eigenes Level.",
             "fr": "Erstelle dein eigenes Level.",
             "es": "Erstelle dein eigenes Level.",
-            "ua": "Erstelle dein eigenes Level."
+            "ua": "Erstelle dein eigenes Level.",
+            "bs": "undefined"
         },
         "filename": "Maerchenbuch_Schleifen.cubi",
         "solution_exists": false,
@@ -812,7 +902,8 @@
             "nl": "",
             "fr": "",
             "es": "",
-            "ua": ""
+            "ua": "",
+            "bs": "undefined"
         },
         "rating": 1,
         "description": {
@@ -821,7 +912,8 @@
             "nl": "",
             "fr": "",
             "es": "",
-            "ua": ""
+            "ua": "",
+            "bs": "undefined"
         },
         "filename": "Training_mit_Pilu.cubi",
         "solution_exists": true,
@@ -838,7 +930,8 @@
             "nl": "",
             "fr": "",
             "es": "",
-            "ua": ""
+            "ua": "",
+            "bs": "undefined"
         },
         "rating": 1,
         "description": {
@@ -847,7 +940,8 @@
             "nl": "",
             "fr": "",
             "es": "",
-            "ua": ""
+            "ua": "",
+            "bs": "undefined"
         },
         "filename": "Parcour_mit_Pilu.cubi",
         "solution_exists": false,
@@ -864,7 +958,8 @@
             "nl": "Reaktionstest",
             "fr": "Reaktionstest",
             "es": "Reaktionstest",
-            "ua": "Reaktionstest"
+            "ua": "Reaktionstest",
+            "bs": "undefined"
         },
         "rating": 1,
         "description": {
@@ -873,7 +968,8 @@
             "nl": "Drücke so schnell es geht die Taste sobald der Hintergrund sich ändert!",
             "fr": "Drücke so schnell es geht die Taste sobald der Hintergrund sich ändert!",
             "es": "Drücke so schnell es geht die Taste sobald der Hintergrund sich ändert!",
-            "ua": "Drücke so schnell es geht die Taste sobald der Hintergrund sich ändert!"
+            "ua": "Drücke so schnell es geht die Taste sobald der Hintergrund sich ändert!",
+            "bs": "undefined"
         },
         "filename": "Reaktionstest.cubi",
         "solution_exists": true,
@@ -890,7 +986,8 @@
             "nl": "Ballon platzen",
             "fr": "Ballon platzen",
             "es": "Ballon platzen",
-            "ua": "Ballon platzen"
+            "ua": "Ballon platzen",
+            "bs": "undefined"
         },
         "rating": 1,
         "description": {
@@ -899,7 +996,8 @@
             "nl": "Wie schnell kannst du den Ballon zum Platzen bringen?",
             "fr": "Wie schnell kannst du den Ballon zum Platzen bringen?",
             "es": "Wie schnell kannst du den Ballon zum Platzen bringen?",
-            "ua": "Wie schnell kannst du den Ballon zum Platzen bringen?"
+            "ua": "Wie schnell kannst du den Ballon zum Platzen bringen?",
+            "bs": "undefined"
         },
         "filename": "Ballon_platzen.cubi",
         "solution_exists": true,
@@ -916,7 +1014,8 @@
             "nl": "Sprookjesboek over voorwaarden",
             "fr": "Livre de contes à conditions",
             "es": "Libro de cuentos en condiciones",
-            "ua": "Книжка казок на умовах"
+            "ua": "Книжка казок на умовах",
+            "bs": "undefined"
         },
         "rating": 1,
         "description": {
@@ -925,7 +1024,8 @@
             "nl": "Erstelle dein eigenes Level.",
             "fr": "Erstelle dein eigenes Level.",
             "es": "Erstelle dein eigenes Level.",
-            "ua": "Erstelle dein eigenes Level."
+            "ua": "Erstelle dein eigenes Level.",
+            "bs": "undefined"
         },
         "filename": "Maerchenbuch_Bedingungen.cubi",
         "solution_exists": false,
@@ -942,7 +1042,8 @@
             "nl": "",
             "fr": "",
             "es": "",
-            "ua": ""
+            "ua": "",
+            "bs": "undefined"
         },
         "rating": 2,
         "description": {
@@ -951,7 +1052,8 @@
             "nl": "",
             "fr": "",
             "es": "",
-            "ua": ""
+            "ua": "",
+            "bs": "undefined"
         },
         "filename": "Parcour_mit_Pilu.cubi",
         "solution_exists": true,
@@ -968,7 +1070,8 @@
             "nl": "",
             "fr": "",
             "es": "",
-            "ua": ""
+            "ua": "",
+            "bs": "undefined"
         },
         "rating": 1,
         "description": {
@@ -977,7 +1080,8 @@
             "nl": "",
             "fr": "",
             "es": "",
-            "ua": ""
+            "ua": "",
+            "bs": "undefined"
         },
         "filename": "Pilu_trifft_Entscheidungen.cubi",
         "solution_exists": true,
@@ -994,7 +1098,8 @@
             "nl": "",
             "fr": "",
             "es": "",
-            "ua": ""
+            "ua": "",
+            "bs": "undefined"
         },
         "rating": 2,
         "description": {
@@ -1003,7 +1108,8 @@
             "nl": "",
             "fr": "",
             "es": "",
-            "ua": ""
+            "ua": "",
+            "bs": "undefined"
         },
         "filename": "Pilus_großer_Wettbewerb.cubi",
         "solution_exists": true,
@@ -1020,7 +1126,8 @@
             "nl": "",
             "fr": "",
             "es": "",
-            "ua": ""
+            "ua": "",
+            "bs": "undefined"
         },
         "rating": 1,
         "description": {
@@ -1029,7 +1136,8 @@
             "nl": "",
             "fr": "",
             "es": "",
-            "ua": ""
+            "ua": "",
+            "bs": "undefined"
         },
         "filename": "Pilus_großer_Wettbewerb.cubi",
         "solution_exists": false,
@@ -1046,7 +1154,8 @@
             "nl": "Farben",
             "fr": "Farben",
             "es": "Colores",
-            "ua": "Farben"
+            "ua": "Farben",
+            "bs": "undefined"
         },
         "rating": 1,
         "description": {
@@ -1055,7 +1164,8 @@
             "nl": "Bewege die Biene auf der bunten Blumenwiese und lass sie dir sagen, welche Farbe sie gerade fühlt.",
             "fr": "Bewege die Biene auf der bunten Blumenwiese und lass sie dir sagen, welche Farbe sie gerade fühlt.",
             "es": "Bewege die Biene auf der bunten Blumenwiese und lass sie dir sagen, welche Farbe sie gerade fühlt.",
-            "ua": "Bewege die Biene auf der bunten Blumenwiese und lass sie dir sagen, welche Farbe sie gerade fühlt."
+            "ua": "Bewege die Biene auf der bunten Blumenwiese und lass sie dir sagen, welche Farbe sie gerade fühlt.",
+            "bs": "undefined"
         },
         "filename": "Farben.cubi",
         "solution_exists": true,
@@ -1072,7 +1182,8 @@
             "nl": "Flugstunde",
             "fr": "Flugstunde",
             "es": "Flugstunde",
-            "ua": "Flugstunde"
+            "ua": "Flugstunde",
+            "bs": "undefined"
         },
         "rating": 1,
         "description": {
@@ -1081,7 +1192,8 @@
             "nl": "Bewege die Biene auf der Blumenwiese hin und her. Bei jeder Farbe wird sie eine anderes Kunststück vollbringen.",
             "fr": "Bewege die Biene auf der Blumenwiese hin und her. Bei jeder Farbe wird sie eine anderes Kunststück vollbringen.",
             "es": "Bewege die Biene auf der Blumenwiese hin und her. Bei jeder Farbe wird sie eine anderes Kunststück vollbringen.",
-            "ua": "Bewege die Biene auf der Blumenwiese hin und her. Bei jeder Farbe wird sie eine anderes Kunststück vollbringen."
+            "ua": "Bewege die Biene auf der Blumenwiese hin und her. Bei jeder Farbe wird sie eine anderes Kunststück vollbringen.",
+            "bs": "undefined"
         },
         "filename": "Flugstunde.cubi",
         "solution_exists": true,
@@ -1098,7 +1210,8 @@
             "nl": "Sprookjesboek voor if-else",
             "fr": "Livre de contes de fées pour if-else",
             "es": "Libro de cuentos para if-else",
-            "ua": "Книжка казок для if-else"
+            "ua": "Книжка казок для if-else",
+            "bs": "undefined"
         },
         "rating": 1,
         "description": {
@@ -1107,7 +1220,8 @@
             "nl": "Erstelle dein eigenes Level.",
             "fr": "Erstelle dein eigenes Level.",
             "es": "Erstelle dein eigenes Level.",
-            "ua": "Erstelle dein eigenes Level."
+            "ua": "Erstelle dein eigenes Level.",
+            "bs": "undefined"
         },
         "filename": "Maerchenbuch_Wenn_Dann.cubi",
         "solution_exists": false,
@@ -1124,7 +1238,8 @@
             "nl": "Ruimte",
             "fr": "L",
             "es": "Espacio",
-            "ua": "Простір"
+            "ua": "Простір",
+            "bs": "undefined"
         },
         "rating": 1,
         "description": {
@@ -1133,7 +1248,8 @@
             "nl": "Steuere den Astronauten mit den Pfeiltasten durch das Weltall. Achte auf die Planeten!",
             "fr": "Steuere den Astronauten mit den Pfeiltasten durch das Weltall. Achte auf die Planeten!",
             "es": "Steuere den Astronauten mit den Pfeiltasten durch das Weltall. Achte auf die Planeten!",
-            "ua": "Steuere den Astronauten mit den Pfeiltasten durch das Weltall. Achte auf die Planeten!"
+            "ua": "Steuere den Astronauten mit den Pfeiltasten durch das Weltall. Achte auf die Planeten!",
+            "bs": "undefined"
         },
         "filename": "Weltraum.cubi",
         "solution_exists": true,
@@ -1150,7 +1266,8 @@
             "nl": "",
             "fr": "",
             "es": "",
-            "ua": ""
+            "ua": "",
+            "bs": "undefined"
         },
         "rating": 1,
         "description": {
@@ -1159,7 +1276,8 @@
             "nl": "",
             "fr": "",
             "es": "",
-            "ua": ""
+            "ua": "",
+            "bs": "undefined"
         },
         "filename": "Maus_oeffnet_Tueren.cubi",
         "solution_exists": true,
@@ -1176,7 +1294,8 @@
             "nl": "Klassendienst",
             "fr": "Klassendienst",
             "es": "Klassendienst",
-            "ua": "Klassendienst"
+            "ua": "Klassendienst",
+            "bs": "undefined"
         },
         "rating": 1,
         "description": {
@@ -1185,7 +1304,8 @@
             "nl": "Du hast Tafeldienst und Pflanzendienst. Wische die Tafel und gieße die Pflanzen im Klassenzimmer, damit du schnell nach Hause gehen kannst.",
             "fr": "Du hast Tafeldienst und Pflanzendienst. Wische die Tafel und gieße die Pflanzen im Klassenzimmer, damit du schnell nach Hause gehen kannst.",
             "es": "Du hast Tafeldienst und Pflanzendienst. Wische die Tafel und gieße die Pflanzen im Klassenzimmer, damit du schnell nach Hause gehen kannst.",
-            "ua": "Du hast Tafeldienst und Pflanzendienst. Wische die Tafel und gieße die Pflanzen im Klassenzimmer, damit du schnell nach Hause gehen kannst."
+            "ua": "Du hast Tafeldienst und Pflanzendienst. Wische die Tafel und gieße die Pflanzen im Klassenzimmer, damit du schnell nach Hause gehen kannst.",
+            "bs": "undefined"
         },
         "filename": "Klassendienst.cubi",
         "solution_exists": true,
@@ -1202,7 +1322,8 @@
             "nl": "Hase und Igel",
             "fr": "Hase und Igel",
             "es": "Hase und Igel",
-            "ua": "Hase und Igel"
+            "ua": "Hase und Igel",
+            "bs": "undefined"
         },
         "rating": 1,
         "description": {
@@ -1211,7 +1332,8 @@
             "nl": "Hase und Igel laufen um die Wette. Aber der Igel hat ein paar Tricks auf Lager...",
             "fr": "Hase und Igel laufen um die Wette. Aber der Igel hat ein paar Tricks auf Lager...",
             "es": "Hase und Igel laufen um die Wette. Aber der Igel hat ein paar Tricks auf Lager...",
-            "ua": "Hase und Igel laufen um die Wette. Aber der Igel hat ein paar Tricks auf Lager..."
+            "ua": "Hase und Igel laufen um die Wette. Aber der Igel hat ein paar Tricks auf Lager...",
+            "bs": "undefined"
         },
         "filename": "Hase_und_Igel.cubi",
         "solution_exists": true,
@@ -1228,7 +1350,8 @@
             "nl": "Verhalenboek over nieuws",
             "fr": "Livre de contes sur les nouvelles",
             "es": "Cuentos sobre noticias",
-            "ua": "Книга оповідань про новини"
+            "ua": "Книга оповідань про новини",
+            "bs": "undefined"
         },
         "rating": 1,
         "description": {
@@ -1237,7 +1360,8 @@
             "nl": "Erstelle dein eigenes Level.",
             "fr": "Erstelle dein eigenes Level.",
             "es": "Erstelle dein eigenes Level.",
-            "ua": "Erstelle dein eigenes Level."
+            "ua": "Erstelle dein eigenes Level.",
+            "bs": "undefined"
         },
         "filename": "Maerchenbuch_Nachrichten.cubi",
         "solution_exists": false,
@@ -1254,7 +1378,8 @@
             "nl": "Jagd auf Cubi",
             "fr": "Jagd auf Cubi",
             "es": "Jagd auf Cubi",
-            "ua": "Jagd auf Cubi"
+            "ua": "Jagd auf Cubi",
+            "bs": "undefined"
         },
         "rating": 1,
         "description": {
@@ -1263,7 +1388,8 @@
             "nl": "Der Detektivhund muss Cubi fangen. Doch dieser verkleidet sich und flieht vor ihm. Wird er ihn einfangen?",
             "fr": "Der Detektivhund muss Cubi fangen. Doch dieser verkleidet sich und flieht vor ihm. Wird er ihn einfangen?",
             "es": "Der Detektivhund muss Cubi fangen. Doch dieser verkleidet sich und flieht vor ihm. Wird er ihn einfangen?",
-            "ua": "Der Detektivhund muss Cubi fangen. Doch dieser verkleidet sich und flieht vor ihm. Wird er ihn einfangen?"
+            "ua": "Der Detektivhund muss Cubi fangen. Doch dieser verkleidet sich und flieht vor ihm. Wird er ihn einfangen?",
+            "bs": "undefined"
         },
         "filename": "Jagd_auf_Cubi.cubi",
         "solution_exists": true,
@@ -1280,7 +1406,8 @@
             "nl": "",
             "fr": "",
             "es": "",
-            "ua": ""
+            "ua": "",
+            "bs": "undefined"
         },
         "rating": 3,
         "description": {
@@ -1289,7 +1416,8 @@
             "nl": "",
             "fr": "",
             "es": "",
-            "ua": ""
+            "ua": "",
+            "bs": "undefined"
         },
         "filename": "Pilu_verlaeuft_sich.cubi",
         "solution_exists": true,
@@ -1306,7 +1434,8 @@
             "nl": "Katze fängt Maus",
             "fr": "Katze fängt Maus",
             "es": "Katze fängt Maus",
-            "ua": "Katze fängt Maus"
+            "ua": "Katze fängt Maus",
+            "bs": "undefined"
         },
         "rating": 1,
         "description": {
@@ -1315,7 +1444,8 @@
             "nl": "Fang die Maus! Errate, wo sie als nächstes hingehen wird und lauere dort auf die Maus.",
             "fr": "Fang die Maus! Errate, wo sie als nächstes hingehen wird und lauere dort auf die Maus.",
             "es": "Fang die Maus! Errate, wo sie als nächstes hingehen wird und lauere dort auf die Maus.",
-            "ua": "Fang die Maus! Errate, wo sie als nächstes hingehen wird und lauere dort auf die Maus."
+            "ua": "Fang die Maus! Errate, wo sie als nächstes hingehen wird und lauere dort auf die Maus.",
+            "bs": "undefined"
         },
         "filename": "Katze_faengt_Maus.cubi",
         "solution_exists": true,
@@ -1332,7 +1462,8 @@
             "nl": "Astronautenflug",
             "fr": "Astronautenflug",
             "es": "Astronautenflug",
-            "ua": "Astronautenflug"
+            "ua": "Astronautenflug",
+            "bs": "undefined"
         },
         "rating": 1,
         "description": {
@@ -1341,7 +1472,8 @@
             "nl": "Astronautenflug",
             "fr": "Astronautenflug",
             "es": "Astronautenflug",
-            "ua": "Astronautenflug"
+            "ua": "Astronautenflug",
+            "bs": "undefined"
         },
         "filename": "Astronautenflug.cubi",
         "solution_exists": false,
@@ -1358,7 +1490,8 @@
             "nl": "Eigenes Spiel",
             "fr": "Eigenes Spiel",
             "es": "Eigenes Spiel",
-            "ua": "Eigenes Spiel"
+            "ua": "Eigenes Spiel",
+            "bs": "undefined"
         },
         "rating": 1,
         "description": {
@@ -1367,7 +1500,8 @@
             "nl": "Eigenes Spiel",
             "fr": "Eigenes Spiel",
             "es": "Eigenes Spiel",
-            "ua": "Eigenes Spiel"
+            "ua": "Eigenes Spiel",
+            "bs": "undefined"
         },
         "filename": "Eigenes_Spiel1.cubi",
         "solution_exists": false,
@@ -1384,7 +1518,8 @@
             "nl": "",
             "fr": "",
             "es": "",
-            "ua": ""
+            "ua": "",
+            "bs": "undefined"
         },
         "rating": 1,
         "description": {
@@ -1393,7 +1528,8 @@
             "nl": "",
             "fr": "",
             "es": "",
-            "ua": ""
+            "ua": "",
+            "bs": "undefined"
         },
         "filename": "Tiefsee.cubi",
         "solution_exists": true,
@@ -1410,7 +1546,8 @@
             "nl": "",
             "fr": "",
             "es": "",
-            "ua": ""
+            "ua": "",
+            "bs": "undefined"
         },
         "rating": 1,
         "description": {
@@ -1419,7 +1556,8 @@
             "nl": "",
             "fr": "",
             "es": "",
-            "ua": ""
+            "ua": "",
+            "bs": "undefined"
         },
         "filename": "Wuerfelspass.cubi",
         "solution_exists": true,
@@ -1436,7 +1574,8 @@
             "nl": "",
             "fr": "",
             "es": "",
-            "ua": ""
+            "ua": "",
+            "bs": "undefined"
         },
         "rating": 2,
         "description": {
@@ -1445,7 +1584,8 @@
             "nl": "",
             "fr": "",
             "es": "",
-            "ua": ""
+            "ua": "",
+            "bs": "undefined"
         },
         "filename": "Feuer_speien.cubi",
         "solution_exists": true,
@@ -1462,7 +1602,8 @@
             "nl": "",
             "fr": "",
             "es": "",
-            "ua": ""
+            "ua": "",
+            "bs": "undefined"
         },
         "rating": 1,
         "description": {
@@ -1471,7 +1612,8 @@
             "nl": "",
             "fr": "",
             "es": "",
-            "ua": ""
+            "ua": "",
+            "bs": "undefined"
         },
         "filename": "Freizeitplanung.cubi",
         "solution_exists": false,
@@ -1488,7 +1630,8 @@
             "nl": "",
             "fr": "",
             "es": "",
-            "ua": ""
+            "ua": "",
+            "bs": "undefined"
         },
         "rating": 2,
         "description": {
@@ -1497,7 +1640,8 @@
             "nl": "",
             "fr": "",
             "es": "",
-            "ua": ""
+            "ua": "",
+            "bs": "undefined"
         },
         "filename": "Wuestenjagd.cubi",
         "solution_exists": true,
@@ -1514,7 +1658,8 @@
             "nl": "",
             "fr": "",
             "es": "",
-            "ua": ""
+            "ua": "",
+            "bs": "undefined"
         },
         "rating": 2,
         "description": {
@@ -1523,7 +1668,8 @@
             "nl": "",
             "fr": "",
             "es": "",
-            "ua": ""
+            "ua": "",
+            "bs": "undefined"
         },
         "filename": "Verbrecherjagd.cubi",
         "solution_exists": true,
@@ -1540,7 +1686,8 @@
             "nl": "",
             "fr": "",
             "es": "",
-            "ua": ""
+            "ua": "",
+            "bs": "undefined"
         },
         "rating": 3,
         "description": {
@@ -1549,7 +1696,8 @@
             "nl": "",
             "fr": "",
             "es": "",
-            "ua": ""
+            "ua": "",
+            "bs": "undefined"
         },
         "filename": "Wettervorhersage_extreme.cubi",
         "solution_exists": true,
@@ -1566,7 +1714,8 @@
             "nl": "",
             "fr": "",
             "es": "",
-            "ua": ""
+            "ua": "",
+            "bs": "undefined"
         },
         "rating": 1,
         "description": {
@@ -1575,7 +1724,8 @@
             "nl": "",
             "fr": "",
             "es": "",
-            "ua": ""
+            "ua": "",
+            "bs": "undefined"
         },
         "filename": "Expedition.cubi",
         "solution_exists": true,
@@ -1592,7 +1742,8 @@
             "nl": "Tanz",
             "fr": "Tanz",
             "es": "Tanz",
-            "ua": "Tanz"
+            "ua": "Tanz",
+            "bs": "undefined"
         },
         "rating": 2,
         "description": {
@@ -1601,7 +1752,8 @@
             "nl": "Tanz",
             "fr": "Tanz",
             "es": "Tanz",
-            "ua": "Tanz"
+            "ua": "Tanz",
+            "bs": "undefined"
         },
         "filename": "Tanz.cubi",
         "solution_exists": true,
@@ -1618,7 +1770,8 @@
             "nl": "",
             "fr": "",
             "es": "",
-            "ua": ""
+            "ua": "",
+            "bs": "undefined"
         },
         "rating": 2,
         "description": {
@@ -1627,7 +1780,8 @@
             "nl": "",
             "fr": "",
             "es": "",
-            "ua": ""
+            "ua": "",
+            "bs": "undefined"
         },
         "filename": "Salto.cubi",
         "solution_exists": true,
@@ -1644,7 +1798,8 @@
             "nl": "",
             "fr": "",
             "es": "",
-            "ua": ""
+            "ua": "",
+            "bs": "undefined"
         },
         "rating": null,
         "description": {
@@ -1653,7 +1808,8 @@
             "nl": "",
             "fr": "",
             "es": "",
-            "ua": ""
+            "ua": "",
+            "bs": "undefined"
         },
         "filename": "Eigenes_Spiel2.cubi",
         "solution_exists": false,
@@ -1670,7 +1826,8 @@
             "nl": "Was soll ich anziehen?",
             "fr": "Was soll ich anziehen?",
             "es": "Was soll ich anziehen?",
-            "ua": "Was soll ich anziehen?"
+            "ua": "Was soll ich anziehen?",
+            "bs": "undefined"
         },
         "rating": 2,
         "description": {
@@ -1679,7 +1836,8 @@
             "nl": "Cubi möchte sich auf eine Party vorbereiten. Kannst du ihm helfen, eine coole Verkleidung zu finden?",
             "fr": "Cubi möchte sich auf eine Party vorbereiten. Kannst du ihm helfen, eine coole Verkleidung zu finden?",
             "es": "Cubi möchte sich auf eine Party vorbereiten. Kannst du ihm helfen, eine coole Verkleidung zu finden?",
-            "ua": "Cubi möchte sich auf eine Party vorbereiten. Kannst du ihm helfen, eine coole Verkleidung zu finden?"
+            "ua": "Cubi möchte sich auf eine Party vorbereiten. Kannst du ihm helfen, eine coole Verkleidung zu finden?",
+            "bs": "undefined"
         },
         "filename": "Was_soll_ich_anziehen.cubi",
         "solution_exists": true,
@@ -1696,7 +1854,8 @@
             "nl": "Buchstaben",
             "fr": "Buchstaben",
             "es": "Buchstaben",
-            "ua": "Buchstaben"
+            "ua": "Buchstaben",
+            "bs": "undefined"
         },
         "rating": 2,
         "description": {
@@ -1705,7 +1864,8 @@
             "nl": "Programmiere jeden Buchstaben des Worts \"IT4Kids\" so, dass eine tolle Animation entsteht.",
             "fr": "Programmiere jeden Buchstaben des Worts \"IT4Kids\" so, dass eine tolle Animation entsteht.",
             "es": "Programmiere jeden Buchstaben des Worts \"IT4Kids\" so, dass eine tolle Animation entsteht.",
-            "ua": "Programmiere jeden Buchstaben des Worts \"IT4Kids\" so, dass eine tolle Animation entsteht."
+            "ua": "Programmiere jeden Buchstaben des Worts \"IT4Kids\" so, dass eine tolle Animation entsteht.",
+            "bs": "undefined"
         },
         "filename": "Buchstaben.cubi",
         "solution_exists": true,
@@ -1722,7 +1882,8 @@
             "nl": "Kaktus",
             "fr": "Kaktus",
             "es": "Kaktus",
-            "ua": "Kaktus"
+            "ua": "Kaktus",
+            "bs": "undefined"
         },
         "rating": 2,
         "description": {
@@ -1731,7 +1892,8 @@
             "nl": "Springe mit dem Drachen über so viele Kakteen wie möglich.",
             "fr": "Springe mit dem Drachen über so viele Kakteen wie möglich.",
             "es": "Springe mit dem Drachen über so viele Kakteen wie möglich.",
-            "ua": "Springe mit dem Drachen über so viele Kakteen wie möglich."
+            "ua": "Springe mit dem Drachen über so viele Kakteen wie möglich.",
+            "bs": "undefined"
         },
         "filename": "Kaktus.cubi",
         "solution_exists": true,
@@ -1748,7 +1910,8 @@
             "nl": "Aquarium",
             "fr": "Aquarium",
             "es": "Aquarium",
-            "ua": "Aquarium"
+            "ua": "Aquarium",
+            "bs": "undefined"
         },
         "rating": 2,
         "description": {
@@ -1757,7 +1920,8 @@
             "nl": "Erstelle ein buntes Aquarium, in dem verschiedene Fische schwimmen. Aber achte darauf, dass du nicht mit den gefährlichen Meeresbewohnern zusammenstößt!",
             "fr": "Erstelle ein buntes Aquarium, in dem verschiedene Fische schwimmen. Aber achte darauf, dass du nicht mit den gefährlichen Meeresbewohnern zusammenstößt!",
             "es": "Erstelle ein buntes Aquarium, in dem verschiedene Fische schwimmen. Aber achte darauf, dass du nicht mit den gefährlichen Meeresbewohnern zusammenstößt!",
-            "ua": "Erstelle ein buntes Aquarium, in dem verschiedene Fische schwimmen. Aber achte darauf, dass du nicht mit den gefährlichen Meeresbewohnern zusammenstößt!"
+            "ua": "Erstelle ein buntes Aquarium, in dem verschiedene Fische schwimmen. Aber achte darauf, dass du nicht mit den gefährlichen Meeresbewohnern zusammenstößt!",
+            "bs": "undefined"
         },
         "filename": "Aquarium.cubi",
         "solution_exists": true,
@@ -1774,7 +1938,8 @@
             "nl": "Code-Detektiv 2",
             "fr": "Code-Detektiv 2",
             "es": "Code-Detektiv 2",
-            "ua": "Code-Detektiv 2"
+            "ua": "Code-Detektiv 2",
+            "bs": "undefined"
         },
         "rating": 2,
         "description": {
@@ -1783,7 +1948,8 @@
             "nl": "Bist du ein echter Code-Detektiv und findest alle Fehler, die sich im Level \"Aquarium\" versteckt haben?",
             "fr": "Bist du ein echter Code-Detektiv und findest alle Fehler, die sich im Level \"Aquarium\" versteckt haben?",
             "es": "Bist du ein echter Code-Detektiv und findest alle Fehler, die sich im Level \"Aquarium\" versteckt haben?",
-            "ua": "Bist du ein echter Code-Detektiv und findest alle Fehler, die sich im Level \"Aquarium\" versteckt haben?"
+            "ua": "Bist du ein echter Code-Detektiv und findest alle Fehler, die sich im Level \"Aquarium\" versteckt haben?",
+            "bs": "undefined"
         },
         "filename": "Codedetektiv_2.cubi",
         "solution_exists": false,
@@ -1800,7 +1966,8 @@
             "nl": "Wettrennen",
             "fr": "Wettrennen",
             "es": "Wettrennen",
-            "ua": "Wettrennen"
+            "ua": "Wettrennen",
+            "bs": "undefined"
         },
         "rating": 2,
         "description": {
@@ -1809,7 +1976,8 @@
             "nl": "Zwei Figuren laufen gesteuert durch schnelle Tastendrücke um die Wette. Sehr gut zum Einstieg in die Spieleentwicklung.",
             "fr": "Zwei Figuren laufen gesteuert durch schnelle Tastendrücke um die Wette. Sehr gut zum Einstieg in die Spieleentwicklung.",
             "es": "Zwei Figuren laufen gesteuert durch schnelle Tastendrücke um die Wette. Sehr gut zum Einstieg in die Spieleentwicklung.",
-            "ua": "Zwei Figuren laufen gesteuert durch schnelle Tastendrücke um die Wette. Sehr gut zum Einstieg in die Spieleentwicklung."
+            "ua": "Zwei Figuren laufen gesteuert durch schnelle Tastendrücke um die Wette. Sehr gut zum Einstieg in die Spieleentwicklung.",
+            "bs": "undefined"
         },
         "filename": "Wettrennen.cubi",
         "solution_exists": true,
@@ -1826,7 +1994,8 @@
             "nl": "Tanzen",
             "fr": "Tanzen",
             "es": "Tanzen",
-            "ua": "Tanzen"
+            "ua": "Tanzen",
+            "bs": "undefined"
         },
         "rating": 2,
         "description": {
@@ -1835,7 +2004,8 @@
             "nl": "Die Ballerina möchte durch die Luft gewirbelt werden! Hilf ihr bei den Tanzschritten.",
             "fr": "Die Ballerina möchte durch die Luft gewirbelt werden! Hilf ihr bei den Tanzschritten.",
             "es": "Die Ballerina möchte durch die Luft gewirbelt werden! Hilf ihr bei den Tanzschritten.",
-            "ua": "Die Ballerina möchte durch die Luft gewirbelt werden! Hilf ihr bei den Tanzschritten."
+            "ua": "Die Ballerina möchte durch die Luft gewirbelt werden! Hilf ihr bei den Tanzschritten.",
+            "bs": "undefined"
         },
         "filename": "Tanzen.cubi",
         "solution_exists": true,
@@ -1852,7 +2022,8 @@
             "nl": "Imposter",
             "fr": "Imposter",
             "es": "Imposter",
-            "ua": "Imposter"
+            "ua": "Imposter",
+            "bs": "undefined"
         },
         "rating": 2,
         "description": {
@@ -1861,7 +2032,8 @@
             "nl": "Unter den Bienen befindet sich ein Imposter! Kannst du ihn finden?",
             "fr": "Unter den Bienen befindet sich ein Imposter! Kannst du ihn finden?",
             "es": "Unter den Bienen befindet sich ein Imposter! Kannst du ihn finden?",
-            "ua": "Unter den Bienen befindet sich ein Imposter! Kannst du ihn finden?"
+            "ua": "Unter den Bienen befindet sich ein Imposter! Kannst du ihn finden?",
+            "bs": "undefined"
         },
         "filename": "Imposter.cubi",
         "solution_exists": true,
@@ -1878,7 +2050,8 @@
             "nl": "Geschenkewerkstatt",
             "fr": "Geschenkewerkstatt",
             "es": "Geschenkewerkstatt",
-            "ua": "Geschenkewerkstatt"
+            "ua": "Geschenkewerkstatt",
+            "bs": "undefined"
         },
         "rating": 2,
         "description": {
@@ -1887,7 +2060,8 @@
             "nl": "Hilf dem Elfen in der Geschenkewerkstatt die richtigen Geschenke auszuwählen.",
             "fr": "Hilf dem Elfen in der Geschenkewerkstatt die richtigen Geschenke auszuwählen.",
             "es": "Hilf dem Elfen in der Geschenkewerkstatt die richtigen Geschenke auszuwählen.",
-            "ua": "Hilf dem Elfen in der Geschenkewerkstatt die richtigen Geschenke auszuwählen."
+            "ua": "Hilf dem Elfen in der Geschenkewerkstatt die richtigen Geschenke auszuwählen.",
+            "bs": "undefined"
         },
         "filename": "Geschenkewerkstatt.cubi",
         "solution_exists": true,
@@ -1904,7 +2078,8 @@
             "nl": "Bananenzauber",
             "fr": "Bananenzauber",
             "es": "Bananenzauber",
-            "ua": "Bananenzauber"
+            "ua": "Bananenzauber",
+            "bs": "undefined"
         },
         "rating": 2,
         "description": {
@@ -1913,7 +2088,8 @@
             "nl": "Der Zauberer zaubert Bananen herbei, die sich zufällig über den Bildschirm verteilen. Lerne, mit Zufallszahlen umzugehen und Nachrichten zu verschicken.",
             "fr": "Der Zauberer zaubert Bananen herbei, die sich zufällig über den Bildschirm verteilen. Lerne, mit Zufallszahlen umzugehen und Nachrichten zu verschicken.",
             "es": "Der Zauberer zaubert Bananen herbei, die sich zufällig über den Bildschirm verteilen. Lerne, mit Zufallszahlen umzugehen und Nachrichten zu verschicken.",
-            "ua": "Der Zauberer zaubert Bananen herbei, die sich zufällig über den Bildschirm verteilen. Lerne, mit Zufallszahlen umzugehen und Nachrichten zu verschicken."
+            "ua": "Der Zauberer zaubert Bananen herbei, die sich zufällig über den Bildschirm verteilen. Lerne, mit Zufallszahlen umzugehen und Nachrichten zu verschicken.",
+            "bs": "undefined"
         },
         "filename": "Bananenzauber.cubi",
         "solution_exists": true,
@@ -1930,7 +2106,8 @@
             "nl": "Helikopter",
             "fr": "Helikopter",
             "es": "Helikopter",
-            "ua": "Helikopter"
+            "ua": "Helikopter",
+            "bs": "undefined"
         },
         "rating": 2,
         "description": {
@@ -1939,7 +2116,8 @@
             "nl": "Weiche mit dem Helikopter einem Ansturm von Flugzeugen aus, während du versuchst den rechten Rand zu erreichen. Der Helikopter kann mit den Pfeiltasten in alle Richtungen auf dem ganzen Spielfeld bewegt werden.",
             "fr": "Weiche mit dem Helikopter einem Ansturm von Flugzeugen aus, während du versuchst den rechten Rand zu erreichen. Der Helikopter kann mit den Pfeiltasten in alle Richtungen auf dem ganzen Spielfeld bewegt werden.",
             "es": "Weiche mit dem Helikopter einem Ansturm von Flugzeugen aus, während du versuchst den rechten Rand zu erreichen. Der Helikopter kann mit den Pfeiltasten in alle Richtungen auf dem ganzen Spielfeld bewegt werden.",
-            "ua": "Weiche mit dem Helikopter einem Ansturm von Flugzeugen aus, während du versuchst den rechten Rand zu erreichen. Der Helikopter kann mit den Pfeiltasten in alle Richtungen auf dem ganzen Spielfeld bewegt werden."
+            "ua": "Weiche mit dem Helikopter einem Ansturm von Flugzeugen aus, während du versuchst den rechten Rand zu erreichen. Der Helikopter kann mit den Pfeiltasten in alle Richtungen auf dem ganzen Spielfeld bewegt werden.",
+            "bs": "undefined"
         },
         "filename": "Helikopter.cubi",
         "solution_exists": true,
@@ -1956,7 +2134,8 @@
             "nl": "Drache rettet Ritter",
             "fr": "Drache rettet Ritter",
             "es": "Drache rettet Ritter",
-            "ua": "Drache rettet Ritter"
+            "ua": "Drache rettet Ritter",
+            "bs": "undefined"
         },
         "rating": 3,
         "description": {
@@ -1965,7 +2144,8 @@
             "nl": "Hilf dem Drachen Naloth, Ritter Karl aus den Fängen von Prinzessin Mathilda von Quasselstrippe zu befreien. Dazu muss Drache Naloth den Schlüssel vom Schloss der Prinzessin vor Ente Ducky erreichen.",
             "fr": "Hilf dem Drachen Naloth, Ritter Karl aus den Fängen von Prinzessin Mathilda von Quasselstrippe zu befreien. Dazu muss Drache Naloth den Schlüssel vom Schloss der Prinzessin vor Ente Ducky erreichen.",
             "es": "Hilf dem Drachen Naloth, Ritter Karl aus den Fängen von Prinzessin Mathilda von Quasselstrippe zu befreien. Dazu muss Drache Naloth den Schlüssel vom Schloss der Prinzessin vor Ente Ducky erreichen.",
-            "ua": "Hilf dem Drachen Naloth, Ritter Karl aus den Fängen von Prinzessin Mathilda von Quasselstrippe zu befreien. Dazu muss Drache Naloth den Schlüssel vom Schloss der Prinzessin vor Ente Ducky erreichen."
+            "ua": "Hilf dem Drachen Naloth, Ritter Karl aus den Fängen von Prinzessin Mathilda von Quasselstrippe zu befreien. Dazu muss Drache Naloth den Schlüssel vom Schloss der Prinzessin vor Ente Ducky erreichen.",
+            "bs": "undefined"
         },
         "filename": "Drache_rettet_Ritter.cubi",
         "solution_exists": true,
@@ -1982,7 +2162,8 @@
             "nl": "Weltraumreise",
             "fr": "Weltraumreise",
             "es": "Weltraumreise",
-            "ua": "Weltraumreise"
+            "ua": "Weltraumreise",
+            "bs": "undefined"
         },
         "rating": 2,
         "description": {
@@ -1991,7 +2172,8 @@
             "nl": "Teleportiere dich zu weit entfernten Planeten.",
             "fr": "Teleportiere dich zu weit entfernten Planeten.",
             "es": "Teleportiere dich zu weit entfernten Planeten.",
-            "ua": "Teleportiere dich zu weit entfernten Planeten."
+            "ua": "Teleportiere dich zu weit entfernten Planeten.",
+            "bs": "undefined"
         },
         "filename": "Weltraumreise.cubi",
         "solution_exists": true,
@@ -2008,7 +2190,8 @@
             "nl": "KI Training",
             "fr": "KI Training",
             "es": "KI Training",
-            "ua": "KI Training"
+            "ua": "KI Training",
+            "bs": "undefined"
         },
         "rating": 2,
         "description": {
@@ -2017,7 +2200,8 @@
             "nl": "Programmiere eine lernende Künstliche Intelligenz.",
             "fr": "Programmiere eine lernende Künstliche Intelligenz.",
             "es": "Programmiere eine lernende Künstliche Intelligenz.",
-            "ua": "Programmiere eine lernende Künstliche Intelligenz."
+            "ua": "Programmiere eine lernende Künstliche Intelligenz.",
+            "bs": "undefined"
         },
         "filename": "KI_Training.cubi",
         "solution_exists": true,
@@ -2034,7 +2218,8 @@
             "nl": "Professor Tanzalarm",
             "fr": "Professor Tanzalarm",
             "es": "Professor Tanzalarm",
-            "ua": "Professor Tanzalarm"
+            "ua": "Professor Tanzalarm",
+            "bs": "undefined"
         },
         "rating": 2,
         "description": {
@@ -2043,7 +2228,8 @@
             "nl": "Die Disco startet und Professor Tanzalarm eröffnet die Tanzfläche. Kannst du ihm helfen, einen neuen Rekord aufzustellen?",
             "fr": "Die Disco startet und Professor Tanzalarm eröffnet die Tanzfläche. Kannst du ihm helfen, einen neuen Rekord aufzustellen?",
             "es": "Die Disco startet und Professor Tanzalarm eröffnet die Tanzfläche. Kannst du ihm helfen, einen neuen Rekord aufzustellen?",
-            "ua": "Die Disco startet und Professor Tanzalarm eröffnet die Tanzfläche. Kannst du ihm helfen, einen neuen Rekord aufzustellen?"
+            "ua": "Die Disco startet und Professor Tanzalarm eröffnet die Tanzfläche. Kannst du ihm helfen, einen neuen Rekord aufzustellen?",
+            "bs": "undefined"
         },
         "filename": "Professor_Tanzalarm.cubi",
         "solution_exists": true,
@@ -2060,7 +2246,8 @@
             "nl": "Rechenolympiade",
             "fr": "Rechenolympiade",
             "es": "Rechenolympiade",
-            "ua": "Rechenolympiade"
+            "ua": "Rechenolympiade",
+            "bs": "undefined"
         },
         "rating": 2,
         "description": {
@@ -2069,7 +2256,8 @@
             "nl": "Baue deinen eigenen Taschenrechner und teste deine Fähigkeiten im Kopfrechnen! Wie viele richtige Antworten schaffst du hintereinander?",
             "fr": "Baue deinen eigenen Taschenrechner und teste deine Fähigkeiten im Kopfrechnen! Wie viele richtige Antworten schaffst du hintereinander?",
             "es": "Baue deinen eigenen Taschenrechner und teste deine Fähigkeiten im Kopfrechnen! Wie viele richtige Antworten schaffst du hintereinander?",
-            "ua": "Baue deinen eigenen Taschenrechner und teste deine Fähigkeiten im Kopfrechnen! Wie viele richtige Antworten schaffst du hintereinander?"
+            "ua": "Baue deinen eigenen Taschenrechner und teste deine Fähigkeiten im Kopfrechnen! Wie viele richtige Antworten schaffst du hintereinander?",
+            "bs": "undefined"
         },
         "filename": "Rechenolympiade.cubi",
         "solution_exists": true,
@@ -2086,7 +2274,8 @@
             "nl": "Obstsalat",
             "fr": "Obstsalat",
             "es": "Obstsalat",
-            "ua": "Obstsalat"
+            "ua": "Obstsalat",
+            "bs": "undefined"
         },
         "rating": 2,
         "description": {
@@ -2095,7 +2284,8 @@
             "nl": "Die Früchte fliegen am Obststand durch die Luft. Fang sie alle wieder ein.",
             "fr": "Die Früchte fliegen am Obststand durch die Luft. Fang sie alle wieder ein.",
             "es": "Die Früchte fliegen am Obststand durch die Luft. Fang sie alle wieder ein.",
-            "ua": "Die Früchte fliegen am Obststand durch die Luft. Fang sie alle wieder ein."
+            "ua": "Die Früchte fliegen am Obststand durch die Luft. Fang sie alle wieder ein.",
+            "bs": "undefined"
         },
         "filename": "Obstsalat.cubi",
         "solution_exists": true,
@@ -2112,7 +2302,8 @@
             "nl": "Jonglieren",
             "fr": "Jonglieren",
             "es": "Jonglieren",
-            "ua": "Jonglieren"
+            "ua": "Jonglieren",
+            "bs": "undefined"
         },
         "rating": 2,
         "description": {
@@ -2121,7 +2312,8 @@
             "nl": "Jongliere die beiden Bälle, bis sie die Decke erreichen.",
             "fr": "Jongliere die beiden Bälle, bis sie die Decke erreichen.",
             "es": "Jongliere die beiden Bälle, bis sie die Decke erreichen.",
-            "ua": "Jongliere die beiden Bälle, bis sie die Decke erreichen."
+            "ua": "Jongliere die beiden Bälle, bis sie die Decke erreichen.",
+            "bs": "undefined"
         },
         "filename": "Jonglieren.cubi",
         "solution_exists": true,
@@ -2138,7 +2330,8 @@
             "nl": "",
             "fr": "",
             "es": "",
-            "ua": ""
+            "ua": "",
+            "bs": "undefined"
         },
         "rating": 2,
         "description": {
@@ -2147,7 +2340,8 @@
             "nl": "",
             "fr": "",
             "es": "",
-            "ua": ""
+            "ua": "",
+            "bs": "undefined"
         },
         "filename": "Eigenes_Spiel1.cubi",
         "solution_exists": false,
@@ -2164,7 +2358,8 @@
             "nl": "Spaceball",
             "fr": "Spaceball",
             "es": "Spaceball",
-            "ua": "Spaceball"
+            "ua": "Spaceball",
+            "bs": "undefined"
         },
         "rating": 3,
         "description": {
@@ -2173,7 +2368,8 @@
             "nl": "Hilfe, ein Planet fliegt frei im Weltall herum! Könnt ihr die beiden Aliens steuern, sodass der Planet zwischen den beiden bleibt und von ihren Körpern abprallt?",
             "fr": "Hilfe, ein Planet fliegt frei im Weltall herum! Könnt ihr die beiden Aliens steuern, sodass der Planet zwischen den beiden bleibt und von ihren Körpern abprallt?",
             "es": "Hilfe, ein Planet fliegt frei im Weltall herum! Könnt ihr die beiden Aliens steuern, sodass der Planet zwischen den beiden bleibt und von ihren Körpern abprallt?",
-            "ua": "Hilfe, ein Planet fliegt frei im Weltall herum! Könnt ihr die beiden Aliens steuern, sodass der Planet zwischen den beiden bleibt und von ihren Körpern abprallt?"
+            "ua": "Hilfe, ein Planet fliegt frei im Weltall herum! Könnt ihr die beiden Aliens steuern, sodass der Planet zwischen den beiden bleibt und von ihren Körpern abprallt?",
+            "bs": "undefined"
         },
         "filename": "Spaceball.cubi",
         "solution_exists": true,
@@ -2190,7 +2386,8 @@
             "nl": "Pacman",
             "fr": "Pacman",
             "es": "Pacman",
-            "ua": "Pacman"
+            "ua": "Pacman",
+            "bs": "undefined"
         },
         "rating": 3,
         "description": {
@@ -2199,7 +2396,8 @@
             "nl": "Pacman ist hungrig. Hilf ihm alle Äpfel einzusammeln, aber pass vor den Wänden auf.",
             "fr": "Pacman ist hungrig. Hilf ihm alle Äpfel einzusammeln, aber pass vor den Wänden auf.",
             "es": "Pacman ist hungrig. Hilf ihm alle Äpfel einzusammeln, aber pass vor den Wänden auf.",
-            "ua": "Pacman ist hungrig. Hilf ihm alle Äpfel einzusammeln, aber pass vor den Wänden auf."
+            "ua": "Pacman ist hungrig. Hilf ihm alle Äpfel einzusammeln, aber pass vor den Wänden auf.",
+            "bs": "undefined"
         },
         "filename": "Pacman.cubi",
         "solution_exists": true,
@@ -2216,7 +2414,8 @@
             "nl": "Katze jagt dich",
             "fr": "Katze jagt dich",
             "es": "Katze jagt dich",
-            "ua": "Katze jagt dich"
+            "ua": "Katze jagt dich",
+            "bs": "undefined"
         },
         "rating": 3,
         "description": {
@@ -2225,7 +2424,8 @@
             "nl": "Hilf der Maus der Katze zu entkommen. Aber pass auf, die Katze hat schon ihren Freunden Bescheid gesagt...",
             "fr": "Hilf der Maus der Katze zu entkommen. Aber pass auf, die Katze hat schon ihren Freunden Bescheid gesagt...",
             "es": "Hilf der Maus der Katze zu entkommen. Aber pass auf, die Katze hat schon ihren Freunden Bescheid gesagt...",
-            "ua": "Hilf der Maus der Katze zu entkommen. Aber pass auf, die Katze hat schon ihren Freunden Bescheid gesagt..."
+            "ua": "Hilf der Maus der Katze zu entkommen. Aber pass auf, die Katze hat schon ihren Freunden Bescheid gesagt...",
+            "bs": "undefined"
         },
         "filename": "Katze_jagt_dich.cubi",
         "solution_exists": true,
@@ -2242,7 +2442,8 @@
             "nl": "Autorennen",
             "fr": "Autorennen",
             "es": "Autorennen",
-            "ua": "Autorennen"
+            "ua": "Autorennen",
+            "bs": "undefined"
         },
         "rating": 3,
         "description": {
@@ -2251,7 +2452,8 @@
             "nl": "Dein Fahrzeug fährt auf einer Rennstrecke um die Wette. Steuere das Auto so schnell es geht ins Ziel, um eine Bestzeit aufzustellen.",
             "fr": "Dein Fahrzeug fährt auf einer Rennstrecke um die Wette. Steuere das Auto so schnell es geht ins Ziel, um eine Bestzeit aufzustellen.",
             "es": "Dein Fahrzeug fährt auf einer Rennstrecke um die Wette. Steuere das Auto so schnell es geht ins Ziel, um eine Bestzeit aufzustellen.",
-            "ua": "Dein Fahrzeug fährt auf einer Rennstrecke um die Wette. Steuere das Auto so schnell es geht ins Ziel, um eine Bestzeit aufzustellen."
+            "ua": "Dein Fahrzeug fährt auf einer Rennstrecke um die Wette. Steuere das Auto so schnell es geht ins Ziel, um eine Bestzeit aufzustellen.",
+            "bs": "undefined"
         },
         "filename": "Autorennen.cubi",
         "solution_exists": true,
@@ -2268,7 +2470,8 @@
             "nl": "Code-Detektiv 3",
             "fr": "Code-Detektiv 3",
             "es": "Code-Detektiv 3",
-            "ua": "Code-Detektiv 3"
+            "ua": "Code-Detektiv 3",
+            "bs": "undefined"
         },
         "rating": 3,
         "description": {
@@ -2277,7 +2480,8 @@
             "nl": "Finde die Fehler aus dem Level Autorennen und werde zum Fehlersuch-Experten.",
             "fr": "Finde die Fehler aus dem Level Autorennen und werde zum Fehlersuch-Experten.",
             "es": "Finde die Fehler aus dem Level Autorennen und werde zum Fehlersuch-Experten.",
-            "ua": "Finde die Fehler aus dem Level Autorennen und werde zum Fehlersuch-Experten."
+            "ua": "Finde die Fehler aus dem Level Autorennen und werde zum Fehlersuch-Experten.",
+            "bs": "undefined"
         },
         "filename": "Codedetektiv_3.cubi",
         "solution_exists": false,
@@ -2294,7 +2498,8 @@
             "nl": "Finde das Tier",
             "fr": "Finde das Tier",
             "es": "Finde das Tier",
-            "ua": "Finde das Tier"
+            "ua": "Finde das Tier",
+            "bs": "undefined"
         },
         "rating": 3,
         "description": {
@@ -2303,7 +2508,8 @@
             "nl": "Die Katze ist auf der Suche nach ihren Tierfreunden. Hilf ihr, ihre Freunde zu finden, indem du das richtige Tier berührst.",
             "fr": "Die Katze ist auf der Suche nach ihren Tierfreunden. Hilf ihr, ihre Freunde zu finden, indem du das richtige Tier berührst.",
             "es": "Die Katze ist auf der Suche nach ihren Tierfreunden. Hilf ihr, ihre Freunde zu finden, indem du das richtige Tier berührst.",
-            "ua": "Die Katze ist auf der Suche nach ihren Tierfreunden. Hilf ihr, ihre Freunde zu finden, indem du das richtige Tier berührst."
+            "ua": "Die Katze ist auf der Suche nach ihren Tierfreunden. Hilf ihr, ihre Freunde zu finden, indem du das richtige Tier berührst.",
+            "bs": "undefined"
         },
         "filename": "Finde_das_Tier.cubi",
         "solution_exists": true,
@@ -2320,7 +2526,8 @@
             "nl": "TamaCubi",
             "fr": "TamaCubi",
             "es": "TamaCubi",
-            "ua": "TamaCubi"
+            "ua": "TamaCubi",
+            "bs": "undefined"
         },
         "rating": 3,
         "description": {
@@ -2329,7 +2536,8 @@
             "nl": "Kümmere dich um Cubi: Füttere ihn, wenn er Hunger hat. Bringe ihn ins Bett, wenn er müde ist. Lies ihm etwas vor, wenn ihm langweilig ist und bade ihn, wenn er zu schmutzig ist.",
             "fr": "Kümmere dich um Cubi: Füttere ihn, wenn er Hunger hat. Bringe ihn ins Bett, wenn er müde ist. Lies ihm etwas vor, wenn ihm langweilig ist und bade ihn, wenn er zu schmutzig ist.",
             "es": "Kümmere dich um Cubi: Füttere ihn, wenn er Hunger hat. Bringe ihn ins Bett, wenn er müde ist. Lies ihm etwas vor, wenn ihm langweilig ist und bade ihn, wenn er zu schmutzig ist.",
-            "ua": "Kümmere dich um Cubi: Füttere ihn, wenn er Hunger hat. Bringe ihn ins Bett, wenn er müde ist. Lies ihm etwas vor, wenn ihm langweilig ist und bade ihn, wenn er zu schmutzig ist."
+            "ua": "Kümmere dich um Cubi: Füttere ihn, wenn er Hunger hat. Bringe ihn ins Bett, wenn er müde ist. Lies ihm etwas vor, wenn ihm langweilig ist und bade ihn, wenn er zu schmutzig ist.",
+            "bs": "undefined"
         },
         "filename": "TamaCubi.cubi",
         "solution_exists": true,
@@ -2346,7 +2554,8 @@
             "nl": "Zitterlabyrinth",
             "fr": "Zitterlabyrinth",
             "es": "Zitterlabyrinth",
-            "ua": "Zitterlabyrinth"
+            "ua": "Zitterlabyrinth",
+            "bs": "undefined"
         },
         "rating": 3,
         "description": {
@@ -2355,7 +2564,8 @@
             "nl": "Führe den Hund Cali so schnell wie möglich zum Ziel bei der roten Flagge. Aber Achtung, Cali darf nicht auf die Wiese laufen!",
             "fr": "Führe den Hund Cali so schnell wie möglich zum Ziel bei der roten Flagge. Aber Achtung, Cali darf nicht auf die Wiese laufen!",
             "es": "Führe den Hund Cali so schnell wie möglich zum Ziel bei der roten Flagge. Aber Achtung, Cali darf nicht auf die Wiese laufen!",
-            "ua": "Führe den Hund Cali so schnell wie möglich zum Ziel bei der roten Flagge. Aber Achtung, Cali darf nicht auf die Wiese laufen!"
+            "ua": "Führe den Hund Cali so schnell wie möglich zum Ziel bei der roten Flagge. Aber Achtung, Cali darf nicht auf die Wiese laufen!",
+            "bs": "undefined"
         },
         "filename": "Zitterlabyrinth.cubi",
         "solution_exists": true,
@@ -2372,7 +2582,8 @@
             "nl": "CubiCart - Nicht spielbar auf Tablet",
             "fr": "CubiCart - Nicht spielbar auf Tablet",
             "es": "CubiCart - Nicht spielbar auf Tablet",
-            "ua": "CubiCart - Nicht spielbar auf Tablet"
+            "ua": "CubiCart - Nicht spielbar auf Tablet",
+            "bs": "undefined"
         },
         "rating": 3,
         "description": {
@@ -2381,7 +2592,8 @@
             "nl": "Beim Spiel CubiCart geht es um alles! Wer von euch fährt die drei Runden am schnellsten und bringt den Sieg nach Hause?",
             "fr": "Beim Spiel CubiCart geht es um alles! Wer von euch fährt die drei Runden am schnellsten und bringt den Sieg nach Hause?",
             "es": "Beim Spiel CubiCart geht es um alles! Wer von euch fährt die drei Runden am schnellsten und bringt den Sieg nach Hause?",
-            "ua": "Beim Spiel CubiCart geht es um alles! Wer von euch fährt die drei Runden am schnellsten und bringt den Sieg nach Hause?"
+            "ua": "Beim Spiel CubiCart geht es um alles! Wer von euch fährt die drei Runden am schnellsten und bringt den Sieg nach Hause?",
+            "bs": "undefined"
         },
         "filename": "CubiCart.cubi",
         "solution_exists": true,
@@ -2398,7 +2610,8 @@
             "nl": "Quizmaster",
             "fr": "Quizmaster",
             "es": "Quizmaster",
-            "ua": "Quizmaster"
+            "ua": "Quizmaster",
+            "bs": "undefined"
         },
         "rating": 3,
         "description": {
@@ -2407,7 +2620,8 @@
             "nl": "Bist du ein Quizmaster? Stelle deine Fähigkeiten bei diesem Spiel unter Beweis und lasse andere die richtige Antwort herausfinden!",
             "fr": "Bist du ein Quizmaster? Stelle deine Fähigkeiten bei diesem Spiel unter Beweis und lasse andere die richtige Antwort herausfinden!",
             "es": "Bist du ein Quizmaster? Stelle deine Fähigkeiten bei diesem Spiel unter Beweis und lasse andere die richtige Antwort herausfinden!",
-            "ua": "Bist du ein Quizmaster? Stelle deine Fähigkeiten bei diesem Spiel unter Beweis und lasse andere die richtige Antwort herausfinden!"
+            "ua": "Bist du ein Quizmaster? Stelle deine Fähigkeiten bei diesem Spiel unter Beweis und lasse andere die richtige Antwort herausfinden!",
+            "bs": "undefined"
         },
         "filename": "Quizmaster.cubi",
         "solution_exists": true,
@@ -2424,7 +2638,8 @@
             "nl": "Rotes Auto",
             "fr": "Rotes Auto",
             "es": "Rotes Auto",
-            "ua": "Rotes Auto"
+            "ua": "Rotes Auto",
+            "bs": "undefined"
         },
         "rating": 3,
         "description": {
@@ -2433,7 +2648,8 @@
             "nl": "Das rote Auto muss schnell aus dem zugeparkten Parkplatz entkommen! Kannst du helfen?",
             "fr": "Das rote Auto muss schnell aus dem zugeparkten Parkplatz entkommen! Kannst du helfen?",
             "es": "Das rote Auto muss schnell aus dem zugeparkten Parkplatz entkommen! Kannst du helfen?",
-            "ua": "Das rote Auto muss schnell aus dem zugeparkten Parkplatz entkommen! Kannst du helfen?"
+            "ua": "Das rote Auto muss schnell aus dem zugeparkten Parkplatz entkommen! Kannst du helfen?",
+            "bs": "undefined"
         },
         "filename": "Rotes_Auto.cubi",
         "solution_exists": true,
@@ -2450,7 +2666,8 @@
             "nl": "Wettervorhersage",
             "fr": "Wettervorhersage",
             "es": "Wettervorhersage",
-            "ua": "Wettervorhersage"
+            "ua": "Wettervorhersage",
+            "bs": "undefined"
         },
         "rating": 3,
         "description": {
@@ -2459,7 +2676,8 @@
             "nl": "Das Wetter spielt verrückt! Hilf Cubi die richtige Kleidung zu finden.",
             "fr": "Das Wetter spielt verrückt! Hilf Cubi die richtige Kleidung zu finden.",
             "es": "Das Wetter spielt verrückt! Hilf Cubi die richtige Kleidung zu finden.",
-            "ua": "Das Wetter spielt verrückt! Hilf Cubi die richtige Kleidung zu finden."
+            "ua": "Das Wetter spielt verrückt! Hilf Cubi die richtige Kleidung zu finden.",
+            "bs": "undefined"
         },
         "filename": "Wettervorhersage.cubi",
         "solution_exists": true,
@@ -2476,7 +2694,8 @@
             "nl": "Standard",
             "fr": "Standard",
             "es": "Standard",
-            "ua": "Standard"
+            "ua": "Standard",
+            "bs": "undefined"
         },
         "rating": 0,
         "description": {
@@ -2485,7 +2704,8 @@
             "nl": "Ein leeres Projekt zum Starten.",
             "fr": "Ein leeres Projekt zum Starten.",
             "es": "Ein leeres Projekt zum Starten.",
-            "ua": "Ein leeres Projekt zum Starten."
+            "ua": "Ein leeres Projekt zum Starten.",
+            "bs": "undefined"
         },
         "filename": "Standard.cubi",
         "solution_exists": false,
@@ -2502,7 +2722,8 @@
             "nl": "",
             "fr": "",
             "es": "",
-            "ua": ""
+            "ua": "",
+            "bs": "undefined"
         },
         "rating": 3,
         "description": {
@@ -2511,7 +2732,8 @@
             "nl": "",
             "fr": "",
             "es": "",
-            "ua": ""
+            "ua": "",
+            "bs": "undefined"
         },
         "filename": "Der_Rabe_und_der_Fuchs.cubi",
         "solution_exists": true,
@@ -2528,7 +2750,8 @@
             "nl": "",
             "fr": "",
             "es": "",
-            "ua": ""
+            "ua": "",
+            "bs": "undefined"
         },
         "rating": 3,
         "description": {
@@ -2537,7 +2760,8 @@
             "nl": "",
             "fr": "",
             "es": "",
-            "ua": ""
+            "ua": "",
+            "bs": "undefined"
         },
         "filename": "Haensel_und_Gretel.cubi",
         "solution_exists": true,
@@ -2554,7 +2778,8 @@
             "nl": "",
             "fr": "",
             "es": "",
-            "ua": ""
+            "ua": "",
+            "bs": "undefined"
         },
         "rating": 3,
         "description": {
@@ -2563,7 +2788,8 @@
             "nl": "",
             "fr": "",
             "es": "",
-            "ua": ""
+            "ua": "",
+            "bs": "undefined"
         },
         "filename": "KI_austricksen.cubi",
         "solution_exists": true,
@@ -2580,7 +2806,8 @@
             "nl": "",
             "fr": "",
             "es": "",
-            "ua": ""
+            "ua": "",
+            "bs": "undefined"
         },
         "rating": 3,
         "description": {
@@ -2589,7 +2816,8 @@
             "nl": "",
             "fr": "",
             "es": "",
-            "ua": ""
+            "ua": "",
+            "bs": "undefined"
         },
         "filename": "Wuerfel.cubi",
         "solution_exists": true,
