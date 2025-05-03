@@ -7,7 +7,7 @@
             "fr": "",
             "es": "",
             "ua": "",
-            "bs": "undefined"
+            "bs": "muka izbora"
         },
         "rating": 1,
         "description": {
@@ -17,7 +17,7 @@
             "fr": "",
             "es": "",
             "ua": "",
-            "bs": "undefined"
+            "bs": "Kod demokratije"
         },
         "filename": "Qual_der_Wahl.cubi",
         "solution_exists": true,
@@ -63,7 +63,7 @@
             "fr": "Zufallssieger",
             "es": "Zufallssieger",
             "ua": "Zufallssieger",
-            "bs": "undefined"
+            "bs": "slučajni pobjednik"
         },
         "rating": 1,
         "description": {
@@ -73,7 +73,7 @@
             "fr": "Zufallssieger",
             "es": "Zufallssieger",
             "ua": "Zufallssieger",
-            "bs": "undefined"
+            "bs": "Ko nastavlja? Zec ili jež?"
         },
         "filename": "Zufallssieger.cubi",
         "solution_exists": true,
@@ -91,7 +91,7 @@
             "fr": "Esuri et la pomme",
             "es": "Esuri y la manzana",
             "ua": "Есурі та яблуко",
-            "bs": "undefined"
+            "bs": "Esuri i jabuka"
         },
         "rating": 1,
         "description": {
@@ -101,7 +101,7 @@
             "fr": "Niveau de base du module 1",
             "es": "Tarea básico del módulo 1",
             "ua": "Модуль 1 базового рівня",
-            "bs": "undefined"
+            "bs": "Pomozi Esuri da dođe do jabuke kako bi zadovoljila svoj apetit."
         },
         "filename": "Esuri_und_der_Apfel.cubi",
         "solution_exists": true,
@@ -119,7 +119,7 @@
             "fr": "Bauernhof",
             "es": "Bauernhof",
             "ua": "Bauernhof",
-            "bs": "undefined"
+            "bs": "Farma"
         },
         "rating": 1,
         "description": {
@@ -129,7 +129,7 @@
             "fr": "Zeige der Kuh den Weg zurück in ihren Stall.",
             "es": "Zeige der Kuh den Weg zurück in ihren Stall.",
             "ua": "Zeige der Kuh den Weg zurück in ihren Stall.",
-            "bs": "undefined"
+            "bs": "Pokaži kravi put do njene štale."
         },
         "filename": "Bauernhof.cubi",
         "solution_exists": true,
@@ -147,7 +147,7 @@
             "fr": "Bauernhof automatisch",
             "es": "Bauernhof automatisch",
             "ua": "Bauernhof automatisch",
-            "bs": "undefined"
+            "bs": "Farma automatski"
         },
         "rating": 1,
         "description": {
@@ -157,7 +157,7 @@
             "fr": "Eine Version von Bauernhof, die das Level spielt automatisch.",
             "es": "Eine Version von Bauernhof, die das Level spielt automatisch.",
             "ua": "Eine Version von Bauernhof, die das Level spielt automatisch.",
-            "bs": "undefined"
+            "bs": "Verzija farme koja automatski igra nivo."
         },
         "filename": "Bauernhof_Auto.cubi",
         "solution_exists": false,
@@ -175,7 +175,7 @@
             "fr": "Esuri et la poire",
             "es": "Esuri y la pera",
             "ua": "Есурі та груша",
-            "bs": "undefined"
+            "bs": "Esuri i kruška"
         },
         "rating": 2,
         "description": {
@@ -185,7 +185,7 @@
             "fr": "Niveau d'approfondissement du module 1",
             "es": "Tarea avanzado de módulo 1",
             "ua": "Просунутий рівень Модуль 1",
-            "bs": "undefined"
+            "bs": "Pomozi Esuri da dođe do kruške. Ali pazi: ne idi u cveće!"
         },
         "filename": "Esuri_und_die_Birne.cubi",
         "solution_exists": true,
@@ -203,7 +203,7 @@
             "fr": "Maus zum Käse",
             "es": "Maus zum Käse",
             "ua": "Maus zum Käse",
-            "bs": "undefined"
+            "bs": "Miš do sira"
         },
         "rating": 1,
         "description": {
@@ -213,7 +213,7 @@
             "fr": "Programmiere die Maus so, dass sie über die Brücke zum Käse läuft und dabei nicht ins Wasser fällt.",
             "es": "Programmiere die Maus so, dass sie über die Brücke zum Käse läuft und dabei nicht ins Wasser fällt.",
             "ua": "Programmiere die Maus so, dass sie über die Brücke zum Käse läuft und dabei nicht ins Wasser fällt.",
-            "bs": "undefined"
+            "bs": "Programiraj miša da pređe most do sira i ne padne u vodu."
         },
         "filename": "Maus_zum_Kaese.cubi",
         "solution_exists": true,
@@ -231,7 +231,7 @@
             "fr": "Labyrinth",
             "es": "Labyrinth",
             "ua": "Labyrinth",
-            "bs": "undefined"
+            "bs": "Labirint"
         },
         "rating": 1,
         "description": {
@@ -241,7 +241,7 @@
             "fr": "Führe die Maus durch das Labyrinth: Erst zum Schlüssel, dann zum Tor.",
             "es": "Führe die Maus durch das Labyrinth: Erst zum Schlüssel, dann zum Tor.",
             "ua": "Führe die Maus durch das Labyrinth: Erst zum Schlüssel, dann zum Tor.",
-            "bs": "undefined"
+            "bs": "Povedi miša kroz lavirint: prvo do ključa, a zatim do vrata."
         },
         "filename": "Labyrinth.cubi",
         "solution_exists": true,
@@ -259,7 +259,7 @@
             "fr": "",
             "es": "",
             "ua": "",
-            "bs": "undefined"
+            "bs": "Bonus nivo - sir-lavirint"
         },
         "rating": 1,
         "description": {
@@ -269,7 +269,7 @@
             "fr": "",
             "es": "",
             "ua": "",
-            "bs": "undefined"
+            "bs": ""
         },
         "filename": "Käselabyrinth.cubi",
         "solution_exists": true,
@@ -287,7 +287,7 @@
             "fr": "Iruse et la fraise",
             "es": "Iruse y la fresa",
             "ua": "Ірусе та полуниця",
-            "bs": "undefined"
+            "bs": "Iruse i jagoda"
         },
         "rating": 3,
         "description": {
@@ -297,7 +297,7 @@
             "fr": "Code Détective du module 1",
             "es": "Detective de códigos del Módulo 1",
             "ua": "Кодовий детектив з модуля 1",
-            "bs": "undefined"
+            "bs": "Zašto Iruse ne može da pronađe put do jagode? (Detektiv koda)"
         },
         "filename": "Iruse_und_die_Erdbeere.cubi",
         "solution_exists": true,
@@ -315,7 +315,7 @@
             "fr": "Parole synchronisée",
             "es": "Voz sincronizada",
             "ua": "Синхронізоване мовлення",
-            "bs": "undefined"
+            "bs": "Sinhronizovano glasovno glumljenje"
         },
         "rating": 3,
         "description": {
@@ -325,7 +325,7 @@
             "fr": "Leçon supplémentaire du module 1",
             "es": "Lección adicional del módulo 1",
             "ua": "Додатковий урок з модуля 1",
-            "bs": "undefined"
+            "bs": "Dizajnirajte dijalog između ježa Kima i Cubija. (Dodatna lekcija)"
         },
         "filename": "Synchronsprechen.cubi",
         "solution_exists": true,
@@ -343,7 +343,7 @@
             "fr": "Surfer avec Natari",
             "es": "Surfear con Natari",
             "ua": "Серфінг з Натарі",
-            "bs": "undefined"
+            "bs": "Surfanje sa Natarijem"
         },
         "rating": 1,
         "description": {
@@ -353,7 +353,7 @@
             "fr": "Niveau de base du module 2",
             "es": "Tarea básico del módulo 2",
             "ua": "Модуль 2 базового рівня",
-            "bs": "undefined"
+            "bs": "Pomozi Natariju da se surfuje po vodi."
         },
         "filename": "Wellenreiten_mit_Natari.cubi",
         "solution_exists": true,
@@ -371,7 +371,7 @@
             "fr": "Le tour de force de Natari",
             "es": "El truco de Natari",
             "ua": "Трюк Натарі",
-            "bs": "undefined"
+            "bs": "Natarijev trik"
         },
         "rating": 2,
         "description": {
@@ -381,7 +381,7 @@
             "fr": "Niveau d'approfondissement du module 2",
             "es": "Tarea avanzado de módulo 2",
             "ua": "Просунутий рівень Модуль 2",
-            "bs": "undefined"
+            "bs": "Natarijev trik. Pomozi mu da izvede svoj trik."
         },
         "filename": "Nataris_Kunststück.cubi",
         "solution_exists": true,
@@ -399,7 +399,7 @@
             "fr": "Muschelsuche",
             "es": "Muschelsuche",
             "ua": "Muschelsuche",
-            "bs": "undefined"
+            "bs": "Potraga za školjkama"
         },
         "rating": 3,
         "description": {
@@ -409,7 +409,7 @@
             "fr": "Code Détective du module 2",
             "es": "Detective de códigos del Módulo 2",
             "ua": "Кодовий детектив з модуля 2",
-            "bs": "undefined"
+            "bs": "Zašto riba ne može da pronađe put do školjke? (Detektiv koda)"
         },
         "filename": "Muschelsuche.cubi",
         "solution_exists": true,
@@ -427,7 +427,7 @@
             "fr": "Natari weicht aus",
             "es": "Natari weicht aus",
             "ua": "Natari weicht aus",
-            "bs": "undefined"
+            "bs": "Natari izbegava"
         },
         "rating": 3,
         "description": {
@@ -437,7 +437,7 @@
             "fr": "Code Détective du module 2",
             "es": "Detective de códigos del Módulo 2",
             "ua": "Кодовий детектив з модуля 2",
-            "bs": "undefined"
+            "bs": "Zašto Natari udari u prepreku na putu do Tarine? (Detektiv koda)"
         },
         "filename": "Natari_weicht_aus.cubi",
         "solution_exists": true,
@@ -455,7 +455,7 @@
             "fr": "Begrüßung",
             "es": "Begrüßung",
             "ua": "Begrüßung",
-            "bs": "undefined"
+            "bs": "Pozdrav"
         },
         "rating": 1,
         "description": {
@@ -465,7 +465,7 @@
             "fr": "In diesem Tutorial wirst du Schritt für Schritt durch Cubi geführt.",
             "es": "In diesem Tutorial wirst du Schritt für Schritt durch Cubi geführt.",
             "ua": "In diesem Tutorial wirst du Schritt für Schritt durch Cubi geführt.",
-            "bs": "undefined"
+            "bs": "U ovom vodiču ćeš biti vođen kroz Cubi korak po korak."
         },
         "filename": "Begrüßung.cubi",
         "solution_exists": false,
@@ -483,7 +483,7 @@
             "fr": "Sternejagd",
             "es": "Sternejagd",
             "ua": "Sternejagd",
-            "bs": "undefined"
+            "bs": "Potraga za zvijezdama"
         },
         "rating": 1,
         "description": {
@@ -493,7 +493,7 @@
             "fr": "Hilf dem Baumwesen, den Stern einzusammeln",
             "es": "Hilf dem Baumwesen, den Stern einzusammeln",
             "ua": "Hilf dem Baumwesen, den Stern einzusammeln",
-            "bs": "undefined"
+            "bs": "Pomozi drvenom biću da skupi zvijezdu."
         },
         "filename": "Sternejagd.cubi",
         "solution_exists": false,
@@ -511,7 +511,7 @@
             "fr": "RunAndJump",
             "es": "RunAndJump",
             "ua": "RunAndJump",
-            "bs": "undefined"
+            "bs": "Trči i skači"
         },
         "rating": 2,
         "description": {
@@ -521,7 +521,7 @@
             "fr": "Steuere den Vogel und weiche rechtzeitig den Bällen aus.",
             "es": "Steuere den Vogel und weiche rechtzeitig den Bällen aus.",
             "ua": "Steuere den Vogel und weiche rechtzeitig den Bällen aus.",
-            "bs": "undefined"
+            "bs": "Upravljaj pticom i izbegavaj lopte na vreme."
         },
         "filename": "RunAndJump.cubi",
         "solution_exists": false,
@@ -539,7 +539,7 @@
             "fr": "Livre de contes sur le mouvement",
             "es": "Libro de cuentos sobre el movimiento",
             "ua": "Книга оповідань про рух",
-            "bs": "undefined"
+            "bs": "Bajkovita knjiga o pokretu"
         },
         "rating": 1,
         "description": {
@@ -549,7 +549,7 @@
             "fr": "Erstelle dein eigenes Level.",
             "es": "Erstelle dein eigenes Level.",
             "ua": "Erstelle dein eigenes Level.",
-            "bs": "undefined"
+            "bs": "Napravite svoj projekat."
         },
         "filename": "Maerchenbuch_Bewegung.cubi",
         "solution_exists": false,
@@ -567,7 +567,7 @@
             "fr": "Code-Detektiv 1",
             "es": "Code-Detektiv 1",
             "ua": "Code-Detektiv 1",
-            "bs": "undefined"
+            "bs": "Detektiv koda 1"
         },
         "rating": 1,
         "description": {
@@ -577,7 +577,7 @@
             "fr": "Finde die drei Fehler aus dem Level Labyrinth und lerne dabei etwas über die Fehlersuche.",
             "es": "Finde die drei Fehler aus dem Level Labyrinth und lerne dabei etwas über die Fehlersuche.",
             "ua": "Finde die drei Fehler aus dem Level Labyrinth und lerne dabei etwas über die Fehlersuche.",
-            "bs": "undefined"
+            "bs": "Pronađi tri greške iz nivoa Labirint i nauči nešto o otklanjanju grešaka."
         },
         "filename": "Codedetektiv_1.cubi",
         "solution_exists": false,
@@ -595,7 +595,7 @@
             "fr": "",
             "es": "",
             "ua": "",
-            "bs": "undefined"
+            "bs": "Iruse i jagoda"
         },
         "rating": 1,
         "description": {
@@ -605,7 +605,7 @@
             "fr": "",
             "es": "",
             "ua": "",
-            "bs": "undefined"
+            "bs": "Zašto Iruse ne može da pronađe put do jagode?"
         },
         "filename": "Iruse_und_die_Erdbeere.cubi",
         "solution_exists": false,
@@ -623,7 +623,7 @@
             "fr": "Karneval",
             "es": "Karneval",
             "ua": "Karneval",
-            "bs": "undefined"
+            "bs": "Karneval"
         },
         "rating": 1,
         "description": {
@@ -633,7 +633,7 @@
             "fr": "Cubi möchte sich verkleiden, aber er ist noch nicht sicher, was er anziehen muss. Probiere alle Kostüme mit ihm durch, indem du ihn drückst.",
             "es": "Cubi möchte sich verkleiden, aber er ist noch nicht sicher, was er anziehen muss. Probiere alle Kostüme mit ihm durch, indem du ihn drückst.",
             "ua": "Cubi möchte sich verkleiden, aber er ist noch nicht sicher, was er anziehen muss. Probiere alle Kostüme mit ihm durch, indem du ihn drückst.",
-            "bs": "undefined"
+            "bs": "Cubi želi da se prerušava, ali nije siguran šta da obuče. Isprobaj sve kostime sa njim tako što ćeš ga pritisnuti."
         },
         "filename": "Karneval.cubi",
         "solution_exists": true,
@@ -651,7 +651,7 @@
             "fr": "Parole synchronisée",
             "es": "Voz sincronizada",
             "ua": "Синхронізоване мовлення",
-            "bs": "undefined"
+            "bs": "Sinhronizovano glasovno glumljenje"
         },
         "rating": 1,
         "description": {
@@ -661,7 +661,7 @@
             "fr": "Gestalte den Dialog zwischen Igel Kim und Cubi.",
             "es": "Gestalte den Dialog zwischen Igel Kim und Cubi.",
             "ua": "Gestalte den Dialog zwischen Igel Kim und Cubi.",
-            "bs": "undefined"
+            "bs": "Dizajnirajte dijalog između ježa Kima i Cubi."
         },
         "filename": "Synchronsprechen.cubi",
         "solution_exists": false,
@@ -679,7 +679,7 @@
             "fr": "",
             "es": "",
             "ua": "",
-            "bs": "undefined"
+            "bs": "Surfanje sa Natarijem"
         },
         "rating": 1,
         "description": {
@@ -689,7 +689,7 @@
             "fr": "",
             "es": "",
             "ua": "",
-            "bs": "undefined"
+            "bs": "Pomozi Natariju da se surfuje po vodi."
         },
         "filename": "Wellenreiten_mit_Natari.cubi",
         "solution_exists": false,
@@ -707,7 +707,7 @@
             "fr": "Maulwurf",
             "es": "Maulwurf",
             "ua": "Maulwurf",
-            "bs": "undefined"
+            "bs": "Krtica"
         },
         "rating": 1,
         "description": {
@@ -717,7 +717,7 @@
             "fr": "Die zwei Maulwürfe sind auf dem Weg durch ihre Tunnel zu den Regenwürmern.",
             "es": "Die zwei Maulwürfe sind auf dem Weg durch ihre Tunnel zu den Regenwürmern.",
             "ua": "Die zwei Maulwürfe sind auf dem Weg durch ihre Tunnel zu den Regenwürmern.",
-            "bs": "undefined"
+            "bs": "Dvije krtice su na putu kroz svoje tunele do crva."
         },
         "filename": "Maulwurf.cubi",
         "solution_exists": true,
@@ -735,7 +735,7 @@
             "fr": "",
             "es": "",
             "ua": "",
-            "bs": "undefined"
+            "bs": "Bonus nivo - Avantura u svemiru"
         },
         "rating": 1,
         "description": {
@@ -745,7 +745,7 @@
             "fr": "",
             "es": "",
             "ua": "",
-            "bs": "undefined"
+            "bs": "Bonus nivo - Avantura u svemiru"
         },
         "filename": "Abenteuer_im_All.cubi",
         "solution_exists": true,
@@ -763,7 +763,7 @@
             "fr": "",
             "es": "",
             "ua": "",
-            "bs": "undefined"
+            "bs": "Bonus nivo - Transport voća"
         },
         "rating": 1,
         "description": {
@@ -773,7 +773,7 @@
             "fr": "",
             "es": "",
             "ua": "",
-            "bs": "undefined"
+            "bs": "Bonus nivo - Transport voća"
         },
         "filename": "Obsttransport.cubi",
         "solution_exists": true,
@@ -791,7 +791,7 @@
             "fr": "Le tour de force de Natari",
             "es": "El truco de Natari",
             "ua": "Трюк Натарі",
-            "bs": "undefined"
+            "bs": "Natarijev trik"
         },
         "rating": 1,
         "description": {
@@ -801,7 +801,7 @@
             "fr": "",
             "es": "",
             "ua": "",
-            "bs": "undefined"
+            "bs": "Natarijev trik. Pomozi mu da izvede svoj trik."
         },
         "filename": "Nataris_Kunststück.cubi",
         "solution_exists": false,
@@ -819,7 +819,7 @@
             "fr": "",
             "es": "",
             "ua": "",
-            "bs": "undefined"
+            "bs": "Bonus nivo - Cubi Hood"
         },
         "rating": 1,
         "description": {
@@ -829,7 +829,7 @@
             "fr": "",
             "es": "",
             "ua": "",
-            "bs": "undefined"
+            "bs": "Bonus nivo - Cubi Hood"
         },
         "filename": "Cubi_Hood.cubi",
         "solution_exists": true,
@@ -847,7 +847,7 @@
             "fr": "Sternlabyrinth",
             "es": "Sternlabyrinth",
             "ua": "Sternlabyrinth",
-            "bs": "undefined"
+            "bs": "Zvijezdasti lavirint"
         },
         "rating": 1,
         "description": {
@@ -857,7 +857,7 @@
             "fr": "Sammle das Herz, den Stern, die Münze und den Schlüssel in der richtigen Reihenfolge ein.",
             "es": "Sammle das Herz, den Stern, die Münze und den Schlüssel in der richtigen Reihenfolge ein.",
             "ua": "Sammle das Herz, den Stern, die Münze und den Schlüssel in der richtigen Reihenfolge ein.",
-            "bs": "undefined"
+            "bs": "Skupi srce, zvijezdu, kovanicu i ključ u pravom redosledu."
         },
         "filename": "Sternlabyrinth.cubi",
         "solution_exists": true,
@@ -875,7 +875,7 @@
             "fr": "Livre de contes en boucle",
             "es": "Libro de cuentos para bucles",
             "ua": "Книжка казок для бантиків",
-            "bs": "undefined"
+            "bs": "Bajkovita knjiga o petljama"
         },
         "rating": 1,
         "description": {
@@ -885,7 +885,7 @@
             "fr": "Erstelle dein eigenes Level.",
             "es": "Erstelle dein eigenes Level.",
             "ua": "Erstelle dein eigenes Level.",
-            "bs": "undefined"
+            "bs": "Napravite svoj projekat."
         },
         "filename": "Maerchenbuch_Schleifen.cubi",
         "solution_exists": false,
@@ -903,7 +903,7 @@
             "fr": "",
             "es": "",
             "ua": "",
-            "bs": "undefined"
+            "bs": "Trening sa Piluom"
         },
         "rating": 1,
         "description": {
@@ -913,7 +913,7 @@
             "fr": "",
             "es": "",
             "ua": "",
-            "bs": "undefined"
+            "bs": "Pilu vežba za veliko takmičenje."
         },
         "filename": "Training_mit_Pilu.cubi",
         "solution_exists": true,
@@ -931,7 +931,7 @@
             "fr": "",
             "es": "",
             "ua": "",
-            "bs": "undefined"
+            "bs": "Staza sa Piluom"
         },
         "rating": 1,
         "description": {
@@ -941,7 +941,7 @@
             "fr": "",
             "es": "",
             "ua": "",
-            "bs": "undefined"
+            "bs": "Pilu mora da savlada niz izazova da bi završio ovu stazu."
         },
         "filename": "Parcour_mit_Pilu.cubi",
         "solution_exists": false,
@@ -959,7 +959,7 @@
             "fr": "Reaktionstest",
             "es": "Reaktionstest",
             "ua": "Reaktionstest",
-            "bs": "undefined"
+            "bs": "Test reakcije"
         },
         "rating": 1,
         "description": {
@@ -969,7 +969,7 @@
             "fr": "Drücke so schnell es geht die Taste sobald der Hintergrund sich ändert!",
             "es": "Drücke so schnell es geht die Taste sobald der Hintergrund sich ändert!",
             "ua": "Drücke so schnell es geht die Taste sobald der Hintergrund sich ändert!",
-            "bs": "undefined"
+            "bs": "Pritisni dugme što je brže moguće kada se pozadina promeni!"
         },
         "filename": "Reaktionstest.cubi",
         "solution_exists": true,
@@ -987,7 +987,7 @@
             "fr": "Ballon platzen",
             "es": "Ballon platzen",
             "ua": "Ballon platzen",
-            "bs": "undefined"
+            "bs": "Prskanje balona"
         },
         "rating": 1,
         "description": {
@@ -997,7 +997,7 @@
             "fr": "Wie schnell kannst du den Ballon zum Platzen bringen?",
             "es": "Wie schnell kannst du den Ballon zum Platzen bringen?",
             "ua": "Wie schnell kannst du den Ballon zum Platzen bringen?",
-            "bs": "undefined"
+            "bs": "Koliko brzo možeš da probušiš balon?"
         },
         "filename": "Ballon_platzen.cubi",
         "solution_exists": true,
@@ -1015,7 +1015,7 @@
             "fr": "Livre de contes à conditions",
             "es": "Libro de cuentos en condiciones",
             "ua": "Книжка казок на умовах",
-            "bs": "undefined"
+            "bs": "Bajkovita knjiga o uslovima"
         },
         "rating": 1,
         "description": {
@@ -1025,7 +1025,7 @@
             "fr": "Erstelle dein eigenes Level.",
             "es": "Erstelle dein eigenes Level.",
             "ua": "Erstelle dein eigenes Level.",
-            "bs": "undefined"
+            "bs": "Napravite svoj projekat."
         },
         "filename": "Maerchenbuch_Bedingungen.cubi",
         "solution_exists": false,
@@ -1043,7 +1043,7 @@
             "fr": "",
             "es": "",
             "ua": "",
-            "bs": "undefined"
+            "bs": "Staza sa Piluom"
         },
         "rating": 2,
         "description": {
@@ -1053,7 +1053,7 @@
             "fr": "",
             "es": "",
             "ua": "",
-            "bs": "undefined"
+            "bs": "Pilu mora da savlada niz izazova da bi završio ovu stazu."
         },
         "filename": "Parcour_mit_Pilu.cubi",
         "solution_exists": true,
@@ -1071,7 +1071,7 @@
             "fr": "",
             "es": "",
             "ua": "",
-            "bs": "undefined"
+            "bs": "Pilu donosi odluke"
         },
         "rating": 1,
         "description": {
@@ -1081,7 +1081,7 @@
             "fr": "",
             "es": "",
             "ua": "",
-            "bs": "undefined"
+            "bs": "Pilu mora doneti pravu odluku i staviti loptu u odgovarajuću korpu."
         },
         "filename": "Pilu_trifft_Entscheidungen.cubi",
         "solution_exists": true,
@@ -1099,7 +1099,7 @@
             "fr": "",
             "es": "",
             "ua": "",
-            "bs": "undefined"
+            "bs": "Pilusovo veliko takmičenje"
         },
         "rating": 2,
         "description": {
@@ -1109,7 +1109,7 @@
             "fr": "",
             "es": "",
             "ua": "",
-            "bs": "undefined"
+            "bs": "Pilusovo veliko takmičenje je pred vratima. Mora da donese loptu u odgovarajuću korpu."
         },
         "filename": "Pilus_großer_Wettbewerb.cubi",
         "solution_exists": true,
@@ -1127,7 +1127,7 @@
             "fr": "",
             "es": "",
             "ua": "",
-            "bs": "undefined"
+            "bs": "Pilusovo veliko takmičenje"
         },
         "rating": 1,
         "description": {
@@ -1137,7 +1137,7 @@
             "fr": "",
             "es": "",
             "ua": "",
-            "bs": "undefined"
+            "bs": "Pilusovo veliko takmičenje je pred vratima. Mora da donese loptu u odgovarajuću korpu."
         },
         "filename": "Pilus_großer_Wettbewerb.cubi",
         "solution_exists": false,
@@ -1155,7 +1155,7 @@
             "fr": "Farben",
             "es": "Colores",
             "ua": "Farben",
-            "bs": "undefined"
+            "bs": "Boje"
         },
         "rating": 1,
         "description": {
@@ -1165,7 +1165,7 @@
             "fr": "Bewege die Biene auf der bunten Blumenwiese und lass sie dir sagen, welche Farbe sie gerade fühlt.",
             "es": "Bewege die Biene auf der bunten Blumenwiese und lass sie dir sagen, welche Farbe sie gerade fühlt.",
             "ua": "Bewege die Biene auf der bunten Blumenwiese und lass sie dir sagen, welche Farbe sie gerade fühlt.",
-            "bs": "undefined"
+            "bs": "Pomeri pčelu po šarenoj cvjetnoj livadi i neka ti kaže koju boju trenutno oseća."
         },
         "filename": "Farben.cubi",
         "solution_exists": true,
@@ -1183,7 +1183,7 @@
             "fr": "Flugstunde",
             "es": "Flugstunde",
             "ua": "Flugstunde",
-            "bs": "undefined"
+            "bs": "čas Letenja"
         },
         "rating": 1,
         "description": {
@@ -1193,7 +1193,7 @@
             "fr": "Bewege die Biene auf der Blumenwiese hin und her. Bei jeder Farbe wird sie eine anderes Kunststück vollbringen.",
             "es": "Bewege die Biene auf der Blumenwiese hin und her. Bei jeder Farbe wird sie eine anderes Kunststück vollbringen.",
             "ua": "Bewege die Biene auf der Blumenwiese hin und her. Bei jeder Farbe wird sie eine anderes Kunststück vollbringen.",
-            "bs": "undefined"
+            "bs": "Pomeri pčelu po cvjetnoj livadi. Ona izvodi različite trikove na svakoj cvetnoj livadi."
         },
         "filename": "Flugstunde.cubi",
         "solution_exists": true,
@@ -1211,7 +1211,7 @@
             "fr": "Livre de contes de fées pour if-else",
             "es": "Libro de cuentos para if-else",
             "ua": "Книжка казок для if-else",
-            "bs": "undefined"
+            "bs": "Bajkovita knjiga o ako – inače"
         },
         "rating": 1,
         "description": {
@@ -1221,7 +1221,7 @@
             "fr": "Erstelle dein eigenes Level.",
             "es": "Erstelle dein eigenes Level.",
             "ua": "Erstelle dein eigenes Level.",
-            "bs": "undefined"
+            "bs": "Napravite svoj projekat."
         },
         "filename": "Maerchenbuch_Wenn_Dann.cubi",
         "solution_exists": false,
@@ -1239,7 +1239,7 @@
             "fr": "L",
             "es": "Espacio",
             "ua": "Простір",
-            "bs": "undefined"
+            "bs": "Svemir"
         },
         "rating": 1,
         "description": {
@@ -1249,7 +1249,7 @@
             "fr": "Steuere den Astronauten mit den Pfeiltasten durch das Weltall. Achte auf die Planeten!",
             "es": "Steuere den Astronauten mit den Pfeiltasten durch das Weltall. Achte auf die Planeten!",
             "ua": "Steuere den Astronauten mit den Pfeiltasten durch das Weltall. Achte auf die Planeten!",
-            "bs": "undefined"
+            "bs": "Upravite astronauta strelicama kroz svemir. Pazi na planete!"
         },
         "filename": "Weltraum.cubi",
         "solution_exists": true,
@@ -1267,7 +1267,7 @@
             "fr": "",
             "es": "",
             "ua": "",
-            "bs": "undefined"
+            "bs": "Miš otvara vrata"
         },
         "rating": 1,
         "description": {
@@ -1277,7 +1277,7 @@
             "fr": "",
             "es": "",
             "ua": "",
-            "bs": "undefined"
+            "bs": "Provedi miša kroz lavirint i pomoću dugmadi otvori vrata."
         },
         "filename": "Maus_oeffnet_Tueren.cubi",
         "solution_exists": true,
@@ -1295,7 +1295,7 @@
             "fr": "Klassendienst",
             "es": "Klassendienst",
             "ua": "Klassendienst",
-            "bs": "undefined"
+            "bs": "Razredno dežurstvo"
         },
         "rating": 1,
         "description": {
@@ -1305,7 +1305,7 @@
             "fr": "Du hast Tafeldienst und Pflanzendienst. Wische die Tafel und gieße die Pflanzen im Klassenzimmer, damit du schnell nach Hause gehen kannst.",
             "es": "Du hast Tafeldienst und Pflanzendienst. Wische die Tafel und gieße die Pflanzen im Klassenzimmer, damit du schnell nach Hause gehen kannst.",
             "ua": "Du hast Tafeldienst und Pflanzendienst. Wische die Tafel und gieße die Pflanzen im Klassenzimmer, damit du schnell nach Hause gehen kannst.",
-            "bs": "undefined"
+            "bs": "Imate dužnost da obrišete tablu i zalijete biljku. Očistite tablu i zalijte biljku u učionici kako biste brzo otišli kući."
         },
         "filename": "Klassendienst.cubi",
         "solution_exists": true,
@@ -1323,7 +1323,7 @@
             "fr": "Hase und Igel",
             "es": "Hase und Igel",
             "ua": "Hase und Igel",
-            "bs": "undefined"
+            "bs": "Zec i jež"
         },
         "rating": 1,
         "description": {
@@ -1333,7 +1333,7 @@
             "fr": "Hase und Igel laufen um die Wette. Aber der Igel hat ein paar Tricks auf Lager...",
             "es": "Hase und Igel laufen um die Wette. Aber der Igel hat ein paar Tricks auf Lager...",
             "ua": "Hase und Igel laufen um die Wette. Aber der Igel hat ein paar Tricks auf Lager...",
-            "bs": "undefined"
+            "bs": "Zec i jež trče jedan protiv drugog. Ali jež ima nekoliko trikova u rukavu..."
         },
         "filename": "Hase_und_Igel.cubi",
         "solution_exists": true,
@@ -1351,7 +1351,7 @@
             "fr": "Livre de contes sur les nouvelles",
             "es": "Cuentos sobre noticias",
             "ua": "Книга оповідань про новини",
-            "bs": "undefined"
+            "bs": "Bajkovita knjiga o porukama"
         },
         "rating": 1,
         "description": {
@@ -1361,7 +1361,7 @@
             "fr": "Erstelle dein eigenes Level.",
             "es": "Erstelle dein eigenes Level.",
             "ua": "Erstelle dein eigenes Level.",
-            "bs": "undefined"
+            "bs": "Napravite svoj projekat."
         },
         "filename": "Maerchenbuch_Nachrichten.cubi",
         "solution_exists": false,
@@ -1379,7 +1379,7 @@
             "fr": "Jagd auf Cubi",
             "es": "Jagd auf Cubi",
             "ua": "Jagd auf Cubi",
-            "bs": "undefined"
+            "bs": "Lov na Cubija"
         },
         "rating": 1,
         "description": {
@@ -1389,7 +1389,7 @@
             "fr": "Der Detektivhund muss Cubi fangen. Doch dieser verkleidet sich und flieht vor ihm. Wird er ihn einfangen?",
             "es": "Der Detektivhund muss Cubi fangen. Doch dieser verkleidet sich und flieht vor ihm. Wird er ihn einfangen?",
             "ua": "Der Detektivhund muss Cubi fangen. Doch dieser verkleidet sich und flieht vor ihm. Wird er ihn einfangen?",
-            "bs": "undefined"
+            "bs": "Detektivski pas mora da uhvati Cubija. Ali Cubi se prerušava i beži od njega. Hoće li ga uhvatiti?"
         },
         "filename": "Jagd_auf_Cubi.cubi",
         "solution_exists": true,
@@ -1407,7 +1407,7 @@
             "fr": "",
             "es": "",
             "ua": "",
-            "bs": "undefined"
+            "bs": "Pilu se izgubio"
         },
         "rating": 3,
         "description": {
@@ -1417,7 +1417,7 @@
             "fr": "",
             "es": "",
             "ua": "",
-            "bs": "undefined"
+            "bs": "Pilu se izgubio i ne može da pronađe put do korpe. Možeš li mu pomoći da donese pravu odluku?"
         },
         "filename": "Pilu_verlaeuft_sich.cubi",
         "solution_exists": true,
@@ -1435,7 +1435,7 @@
             "fr": "Katze fängt Maus",
             "es": "Katze fängt Maus",
             "ua": "Katze fängt Maus",
-            "bs": "undefined"
+            "bs": "Mačka hvata miša"
         },
         "rating": 1,
         "description": {
@@ -1445,7 +1445,7 @@
             "fr": "Fang die Maus! Errate, wo sie als nächstes hingehen wird und lauere dort auf die Maus.",
             "es": "Fang die Maus! Errate, wo sie als nächstes hingehen wird und lauere dort auf die Maus.",
             "ua": "Fang die Maus! Errate, wo sie als nächstes hingehen wird und lauere dort auf die Maus.",
-            "bs": "undefined"
+            "bs": "Uhvati miša! Pogodi gde će ići sledeće i čekaj ga tamo."
         },
         "filename": "Katze_faengt_Maus.cubi",
         "solution_exists": true,
@@ -1463,7 +1463,7 @@
             "fr": "Astronautenflug",
             "es": "Astronautenflug",
             "ua": "Astronautenflug",
-            "bs": "undefined"
+            "bs": "Astonautski let"
         },
         "rating": 1,
         "description": {
@@ -1473,7 +1473,7 @@
             "fr": "Astronautenflug",
             "es": "Astronautenflug",
             "ua": "Astronautenflug",
-            "bs": "undefined"
+            "bs": "Astonautski let"
         },
         "filename": "Astronautenflug.cubi",
         "solution_exists": false,
@@ -1491,7 +1491,7 @@
             "fr": "Eigenes Spiel",
             "es": "Eigenes Spiel",
             "ua": "Eigenes Spiel",
-            "bs": "undefined"
+            "bs": "Svoja igra"
         },
         "rating": 1,
         "description": {
@@ -1501,7 +1501,7 @@
             "fr": "Eigenes Spiel",
             "es": "Eigenes Spiel",
             "ua": "Eigenes Spiel",
-            "bs": "undefined"
+            "bs": "Svoja igra"
         },
         "filename": "Eigenes_Spiel1.cubi",
         "solution_exists": false,
@@ -1519,7 +1519,7 @@
             "fr": "",
             "es": "",
             "ua": "",
-            "bs": "undefined"
+            "bs": "Duboko more"
         },
         "rating": 1,
         "description": {
@@ -1529,7 +1529,7 @@
             "fr": "",
             "es": "",
             "ua": "",
-            "bs": "undefined"
+            "bs": "Upravite meduzu strelicama. Pomoću tastera a i d možete promeniti njenu dužinu koraka."
         },
         "filename": "Tiefsee.cubi",
         "solution_exists": true,
@@ -1547,7 +1547,7 @@
             "fr": "",
             "es": "",
             "ua": "",
-            "bs": "undefined"
+            "bs": "Igra kockica"
         },
         "rating": 1,
         "description": {
@@ -1557,7 +1557,7 @@
             "fr": "",
             "es": "",
             "ua": "",
-            "bs": "undefined"
+            "bs": "Programirajte kocku koristeći promenljive. Bacite kocku tako što ćete kliknuti na Cubi. On će vam reći koju ste broj bacili."
         },
         "filename": "Wuerfelspass.cubi",
         "solution_exists": true,
@@ -1575,7 +1575,7 @@
             "fr": "",
             "es": "",
             "ua": "",
-            "bs": "undefined"
+            "bs": ""
         },
         "rating": 2,
         "description": {
@@ -1585,7 +1585,7 @@
             "fr": "",
             "es": "",
             "ua": "",
-            "bs": "undefined"
+            "bs": "Programirajte odbrojavanje koristeći promenljive. Kada odbrojavanje završi, zmaj će ispljunuti vatru."
         },
         "filename": "Feuer_speien.cubi",
         "solution_exists": true,
@@ -1603,7 +1603,7 @@
             "fr": "",
             "es": "",
             "ua": "",
-            "bs": "undefined"
+            "bs": "Planiranje slobodnog vremena"
         },
         "rating": 1,
         "description": {
@@ -1613,7 +1613,7 @@
             "fr": "",
             "es": "",
             "ua": "",
-            "bs": "undefined"
+            "bs": "Programirajte dijalog između dva kornjače."
         },
         "filename": "Freizeitplanung.cubi",
         "solution_exists": false,
@@ -1631,7 +1631,7 @@
             "fr": "",
             "es": "",
             "ua": "",
-            "bs": "undefined"
+            "bs": "Lov u pustinji"
         },
         "rating": 2,
         "description": {
@@ -1641,7 +1641,7 @@
             "fr": "",
             "es": "",
             "ua": "",
-            "bs": "undefined"
+            "bs": "Puh, Cubi je prilično vruć u pustinji. Na sreću, tu je flaša vode koju može da uzme."
         },
         "filename": "Wuestenjagd.cubi",
         "solution_exists": true,
@@ -1659,7 +1659,7 @@
             "fr": "",
             "es": "",
             "ua": "",
-            "bs": "undefined"
+            "bs": "Lov na zločince"
         },
         "rating": 2,
         "description": {
@@ -1669,7 +1669,7 @@
             "fr": "",
             "es": "",
             "ua": "",
-            "bs": "undefined"
+            "bs": "Detektivski pas je na lovu na zločince. Ne odustaje dok ne uhvati zločinca!"
         },
         "filename": "Verbrecherjagd.cubi",
         "solution_exists": true,
@@ -1687,7 +1687,7 @@
             "fr": "",
             "es": "",
             "ua": "",
-            "bs": "undefined"
+            "bs": "Ekstremna vremenska prognoza"
         },
         "rating": 3,
         "description": {
@@ -1697,7 +1697,7 @@
             "fr": "",
             "es": "",
             "ua": "",
-            "bs": "undefined"
+            "bs": "Vrijeme se ponaša čudno. Pomozi Cubiju da se oblači u skladu sa tim."
         },
         "filename": "Wettervorhersage_extreme.cubi",
         "solution_exists": true,
@@ -1715,7 +1715,7 @@
             "fr": "",
             "es": "",
             "ua": "",
-            "bs": "undefined"
+            "bs": "Ekspedicija"
         },
         "rating": 1,
         "description": {
@@ -1725,7 +1725,7 @@
             "fr": "",
             "es": "",
             "ua": "",
-            "bs": "undefined"
+            "bs": "Cubi je u džungli. Ima mnogo toga da istraži!"
         },
         "filename": "Expedition.cubi",
         "solution_exists": true,
@@ -1743,7 +1743,7 @@
             "fr": "Tanz",
             "es": "Tanz",
             "ua": "Tanz",
-            "bs": "undefined"
+            "bs": "Plesanje"
         },
         "rating": 2,
         "description": {
@@ -1753,7 +1753,7 @@
             "fr": "Tanz",
             "es": "Tanz",
             "ua": "Tanz",
-            "bs": "undefined"
+            "bs": "Plesanje"
         },
         "filename": "Tanz.cubi",
         "solution_exists": true,
@@ -1771,7 +1771,7 @@
             "fr": "",
             "es": "",
             "ua": "",
-            "bs": "undefined"
+            "bs": "Salto"
         },
         "rating": 2,
         "description": {
@@ -1781,7 +1781,7 @@
             "fr": "",
             "es": "",
             "ua": "",
-            "bs": "undefined"
+            "bs": "Avion pravi super salto! Ili je salto ipak malo čudan?"
         },
         "filename": "Salto.cubi",
         "solution_exists": true,
@@ -1799,7 +1799,7 @@
             "fr": "",
             "es": "",
             "ua": "",
-            "bs": "undefined"
+            "bs": "Svoja igra (2. dio)"
         },
         "rating": null,
         "description": {
@@ -1809,7 +1809,7 @@
             "fr": "",
             "es": "",
             "ua": "",
-            "bs": "undefined"
+            "bs": "Napravite svoj projekat."
         },
         "filename": "Eigenes_Spiel2.cubi",
         "solution_exists": false,
@@ -1827,7 +1827,7 @@
             "fr": "Was soll ich anziehen?",
             "es": "Was soll ich anziehen?",
             "ua": "Was soll ich anziehen?",
-            "bs": "undefined"
+            "bs": "Šta da obučem?"
         },
         "rating": 2,
         "description": {
@@ -1837,7 +1837,7 @@
             "fr": "Cubi möchte sich auf eine Party vorbereiten. Kannst du ihm helfen, eine coole Verkleidung zu finden?",
             "es": "Cubi möchte sich auf eine Party vorbereiten. Kannst du ihm helfen, eine coole Verkleidung zu finden?",
             "ua": "Cubi möchte sich auf eine Party vorbereiten. Kannst du ihm helfen, eine coole Verkleidung zu finden?",
-            "bs": "undefined"
+            "bs": "Cubi želi da se pripremi za zabavu. Možeš li mu pomoći da pronađe kul kostim?"
         },
         "filename": "Was_soll_ich_anziehen.cubi",
         "solution_exists": true,
@@ -1855,7 +1855,7 @@
             "fr": "Buchstaben",
             "es": "Buchstaben",
             "ua": "Buchstaben",
-            "bs": "undefined"
+            "bs": "Slova"
         },
         "rating": 2,
         "description": {
@@ -1865,7 +1865,7 @@
             "fr": "Programmiere jeden Buchstaben des Worts \"IT4Kids\" so, dass eine tolle Animation entsteht.",
             "es": "Programmiere jeden Buchstaben des Worts \"IT4Kids\" so, dass eine tolle Animation entsteht.",
             "ua": "Programmiere jeden Buchstaben des Worts \"IT4Kids\" so, dass eine tolle Animation entsteht.",
-            "bs": "undefined"
+            "bs": "Programirajte svako slovo reči \"IT4Kids\" tako da nastane sjajna animacija."
         },
         "filename": "Buchstaben.cubi",
         "solution_exists": true,
@@ -1883,7 +1883,7 @@
             "fr": "Kaktus",
             "es": "Kaktus",
             "ua": "Kaktus",
-            "bs": "undefined"
+            "bs": "Kaktus"
         },
         "rating": 2,
         "description": {
@@ -1893,7 +1893,7 @@
             "fr": "Springe mit dem Drachen über so viele Kakteen wie möglich.",
             "es": "Springe mit dem Drachen über so viele Kakteen wie möglich.",
             "ua": "Springe mit dem Drachen über so viele Kakteen wie möglich.",
-            "bs": "undefined"
+            "bs": "Skoči sa zmajem preko što više kaktusa."
         },
         "filename": "Kaktus.cubi",
         "solution_exists": true,
@@ -1911,7 +1911,7 @@
             "fr": "Aquarium",
             "es": "Aquarium",
             "ua": "Aquarium",
-            "bs": "undefined"
+            "bs": "Akvarijum"
         },
         "rating": 2,
         "description": {
@@ -1921,7 +1921,7 @@
             "fr": "Erstelle ein buntes Aquarium, in dem verschiedene Fische schwimmen. Aber achte darauf, dass du nicht mit den gefährlichen Meeresbewohnern zusammenstößt!",
             "es": "Erstelle ein buntes Aquarium, in dem verschiedene Fische schwimmen. Aber achte darauf, dass du nicht mit den gefährlichen Meeresbewohnern zusammenstößt!",
             "ua": "Erstelle ein buntes Aquarium, in dem verschiedene Fische schwimmen. Aber achte darauf, dass du nicht mit den gefährlichen Meeresbewohnern zusammenstößt!",
-            "bs": "undefined"
+            "bs": "Napravite šareni akvarijum u kojem plivaju različite ribe. Ali pazite da se ne sudarite sa opasnim morskim stvorenjima!"
         },
         "filename": "Aquarium.cubi",
         "solution_exists": true,
@@ -1939,7 +1939,7 @@
             "fr": "Code-Detektiv 2",
             "es": "Code-Detektiv 2",
             "ua": "Code-Detektiv 2",
-            "bs": "undefined"
+            "bs": "Detektiv kodova 2"
         },
         "rating": 2,
         "description": {
@@ -1949,7 +1949,7 @@
             "fr": "Bist du ein echter Code-Detektiv und findest alle Fehler, die sich im Level \"Aquarium\" versteckt haben?",
             "es": "Bist du ein echter Code-Detektiv und findest alle Fehler, die sich im Level \"Aquarium\" versteckt haben?",
             "ua": "Bist du ein echter Code-Detektiv und findest alle Fehler, die sich im Level \"Aquarium\" versteckt haben?",
-            "bs": "undefined"
+            "bs": "Da li si pravi detektiv kodova i možeš li pronaći sve greške koje su se sakrile u nivou \"Akvarijum\"?"
         },
         "filename": "Codedetektiv_2.cubi",
         "solution_exists": false,
@@ -1967,7 +1967,7 @@
             "fr": "Wettrennen",
             "es": "Wettrennen",
             "ua": "Wettrennen",
-            "bs": "undefined"
+            "bs": "Trka"
         },
         "rating": 2,
         "description": {
@@ -1977,7 +1977,7 @@
             "fr": "Zwei Figuren laufen gesteuert durch schnelle Tastendrücke um die Wette. Sehr gut zum Einstieg in die Spieleentwicklung.",
             "es": "Zwei Figuren laufen gesteuert durch schnelle Tastendrücke um die Wette. Sehr gut zum Einstieg in die Spieleentwicklung.",
             "ua": "Zwei Figuren laufen gesteuert durch schnelle Tastendrücke um die Wette. Sehr gut zum Einstieg in die Spieleentwicklung.",
-            "bs": "undefined"
+            "bs": "Dve figure trče upravljane brzim pritiscima tastera. Veoma dobro za početak razvoja igara."
         },
         "filename": "Wettrennen.cubi",
         "solution_exists": true,
@@ -1995,7 +1995,7 @@
             "fr": "Tanzen",
             "es": "Tanzen",
             "ua": "Tanzen",
-            "bs": "undefined"
+            "bs": "Plesanje"
         },
         "rating": 2,
         "description": {
@@ -2005,7 +2005,7 @@
             "fr": "Die Ballerina möchte durch die Luft gewirbelt werden! Hilf ihr bei den Tanzschritten.",
             "es": "Die Ballerina möchte durch die Luft gewirbelt werden! Hilf ihr bei den Tanzschritten.",
             "ua": "Die Ballerina möchte durch die Luft gewirbelt werden! Hilf ihr bei den Tanzschritten.",
-            "bs": "undefined"
+            "bs": "Baletska igračica želi da se vrti kroz vazduh! Pomozi joj u plesnim koracima."
         },
         "filename": "Tanzen.cubi",
         "solution_exists": true,
@@ -2023,7 +2023,8 @@
             "fr": "Imposter",
             "es": "Imposter",
             "ua": "Imposter",
-            "bs": "undefined"
+            "bs": "Uljez"
+
         },
         "rating": 2,
         "description": {
@@ -2033,7 +2034,7 @@
             "fr": "Unter den Bienen befindet sich ein Imposter! Kannst du ihn finden?",
             "es": "Unter den Bienen befindet sich ein Imposter! Kannst du ihn finden?",
             "ua": "Unter den Bienen befindet sich ein Imposter! Kannst du ihn finden?",
-            "bs": "undefined"
+            "bs": "Uljez se nalazi među pčelama! Možeš li ga pronaći?"
         },
         "filename": "Imposter.cubi",
         "solution_exists": true,
@@ -2051,7 +2052,7 @@
             "fr": "Geschenkewerkstatt",
             "es": "Geschenkewerkstatt",
             "ua": "Geschenkewerkstatt",
-            "bs": "undefined"
+            "bs": "Radionica poklona"
         },
         "rating": 2,
         "description": {
@@ -2061,7 +2062,7 @@
             "fr": "Hilf dem Elfen in der Geschenkewerkstatt die richtigen Geschenke auszuwählen.",
             "es": "Hilf dem Elfen in der Geschenkewerkstatt die richtigen Geschenke auszuwählen.",
             "ua": "Hilf dem Elfen in der Geschenkewerkstatt die richtigen Geschenke auszuwählen.",
-            "bs": "undefined"
+            "bs": "Pomozi vilenjak u radionici poklona da izabere prave poklone."
         },
         "filename": "Geschenkewerkstatt.cubi",
         "solution_exists": true,
@@ -2079,7 +2080,7 @@
             "fr": "Bananenzauber",
             "es": "Bananenzauber",
             "ua": "Bananenzauber",
-            "bs": "undefined"
+            "bs": "Čarolija banana"
         },
         "rating": 2,
         "description": {
@@ -2089,7 +2090,7 @@
             "fr": "Der Zauberer zaubert Bananen herbei, die sich zufällig über den Bildschirm verteilen. Lerne, mit Zufallszahlen umzugehen und Nachrichten zu verschicken.",
             "es": "Der Zauberer zaubert Bananen herbei, die sich zufällig über den Bildschirm verteilen. Lerne, mit Zufallszahlen umzugehen und Nachrichten zu verschicken.",
             "ua": "Der Zauberer zaubert Bananen herbei, die sich zufällig über den Bildschirm verteilen. Lerne, mit Zufallszahlen umzugehen und Nachrichten zu verschicken.",
-            "bs": "undefined"
+            "bs": "Čarobnjak čarobira banane koje se nasumično raspoređuju po ekranu. Naučite kako da koristite slučajne brojeve i šaljete poruke."
         },
         "filename": "Bananenzauber.cubi",
         "solution_exists": true,
@@ -2107,7 +2108,7 @@
             "fr": "Helikopter",
             "es": "Helikopter",
             "ua": "Helikopter",
-            "bs": "undefined"
+            "bs": "Helikopter"
         },
         "rating": 2,
         "description": {
@@ -2117,7 +2118,7 @@
             "fr": "Weiche mit dem Helikopter einem Ansturm von Flugzeugen aus, während du versuchst den rechten Rand zu erreichen. Der Helikopter kann mit den Pfeiltasten in alle Richtungen auf dem ganzen Spielfeld bewegt werden.",
             "es": "Weiche mit dem Helikopter einem Ansturm von Flugzeugen aus, während du versuchst den rechten Rand zu erreichen. Der Helikopter kann mit den Pfeiltasten in alle Richtungen auf dem ganzen Spielfeld bewegt werden.",
             "ua": "Weiche mit dem Helikopter einem Ansturm von Flugzeugen aus, während du versuchst den rechten Rand zu erreichen. Der Helikopter kann mit den Pfeiltasten in alle Richtungen auf dem ganzen Spielfeld bewegt werden.",
-            "bs": "undefined"
+            "bs": "Izbegavajte napad aviona dok pokušavate da dođete do desnog ruba. Helikopter se može kretati u svim pravcima po celom ekranu koristeći strelice."
         },
         "filename": "Helikopter.cubi",
         "solution_exists": true,
@@ -2135,7 +2136,7 @@
             "fr": "Drache rettet Ritter",
             "es": "Drache rettet Ritter",
             "ua": "Drache rettet Ritter",
-            "bs": "undefined"
+            "bs": "Zmaj spašava viteza"
         },
         "rating": 3,
         "description": {
@@ -2145,7 +2146,7 @@
             "fr": "Hilf dem Drachen Naloth, Ritter Karl aus den Fängen von Prinzessin Mathilda von Quasselstrippe zu befreien. Dazu muss Drache Naloth den Schlüssel vom Schloss der Prinzessin vor Ente Ducky erreichen.",
             "es": "Hilf dem Drachen Naloth, Ritter Karl aus den Fängen von Prinzessin Mathilda von Quasselstrippe zu befreien. Dazu muss Drache Naloth den Schlüssel vom Schloss der Prinzessin vor Ente Ducky erreichen.",
             "ua": "Hilf dem Drachen Naloth, Ritter Karl aus den Fängen von Prinzessin Mathilda von Quasselstrippe zu befreien. Dazu muss Drache Naloth den Schlüssel vom Schloss der Prinzessin vor Ente Ducky erreichen.",
-            "bs": "undefined"
+            "bs": "Pomozi zmaju Nalothu da spasi viteza Karla iz kandži princeze Matilde iz Quasselstrippe. Da bi to uradio, zmaj Naloth mora da dođe do ključa princeze pre nego što ga patka Daki uhvati."
         },
         "filename": "Drache_rettet_Ritter.cubi",
         "solution_exists": true,
@@ -2163,7 +2164,7 @@
             "fr": "Weltraumreise",
             "es": "Weltraumreise",
             "ua": "Weltraumreise",
-            "bs": "undefined"
+            "bs": "Putovanje kroz svemir"
         },
         "rating": 2,
         "description": {
@@ -2173,7 +2174,7 @@
             "fr": "Teleportiere dich zu weit entfernten Planeten.",
             "es": "Teleportiere dich zu weit entfernten Planeten.",
             "ua": "Teleportiere dich zu weit entfernten Planeten.",
-            "bs": "undefined"
+            "bs": "Teleportujte se na udaljene planete."
         },
         "filename": "Weltraumreise.cubi",
         "solution_exists": true,
@@ -2191,7 +2192,7 @@
             "fr": "KI Training",
             "es": "KI Training",
             "ua": "KI Training",
-            "bs": "undefined"
+            "bs": "Obuka veštačke inteligencije"
         },
         "rating": 2,
         "description": {
@@ -2201,7 +2202,7 @@
             "fr": "Programmiere eine lernende Künstliche Intelligenz.",
             "es": "Programmiere eine lernende Künstliche Intelligenz.",
             "ua": "Programmiere eine lernende Künstliche Intelligenz.",
-            "bs": "undefined"
+            "bs": "Programirajte veštačku inteligenciju koja uči."
         },
         "filename": "KI_Training.cubi",
         "solution_exists": true,
@@ -2219,7 +2220,7 @@
             "fr": "Professor Tanzalarm",
             "es": "Professor Tanzalarm",
             "ua": "Professor Tanzalarm",
-            "bs": "undefined"
+            "bs": "Profesor Plesanja"
         },
         "rating": 2,
         "description": {
@@ -2229,7 +2230,7 @@
             "fr": "Die Disco startet und Professor Tanzalarm eröffnet die Tanzfläche. Kannst du ihm helfen, einen neuen Rekord aufzustellen?",
             "es": "Die Disco startet und Professor Tanzalarm eröffnet die Tanzfläche. Kannst du ihm helfen, einen neuen Rekord aufzustellen?",
             "ua": "Die Disco startet und Professor Tanzalarm eröffnet die Tanzfläche. Kannst du ihm helfen, einen neuen Rekord aufzustellen?",
-            "bs": "undefined"
+            "bs": "Disko počinje i profesor Plesanja otvara plesni podijum. Možeš li mu pomoći da postavi novi rekord?"
         },
         "filename": "Professor_Tanzalarm.cubi",
         "solution_exists": true,
@@ -2247,7 +2248,7 @@
             "fr": "Rechenolympiade",
             "es": "Rechenolympiade",
             "ua": "Rechenolympiade",
-            "bs": "undefined"
+            "bs": "Matematička olimpijada"
         },
         "rating": 2,
         "description": {
@@ -2257,7 +2258,7 @@
             "fr": "Baue deinen eigenen Taschenrechner und teste deine Fähigkeiten im Kopfrechnen! Wie viele richtige Antworten schaffst du hintereinander?",
             "es": "Baue deinen eigenen Taschenrechner und teste deine Fähigkeiten im Kopfrechnen! Wie viele richtige Antworten schaffst du hintereinander?",
             "ua": "Baue deinen eigenen Taschenrechner und teste deine Fähigkeiten im Kopfrechnen! Wie viele richtige Antworten schaffst du hintereinander?",
-            "bs": "undefined"
+            "bs": "Napravite svoj kalkulator i testirajte svoje sposobnosti mentalnog računanja! Koliko tačnih odgovora možete dati zaredom?"
         },
         "filename": "Rechenolympiade.cubi",
         "solution_exists": true,
@@ -2275,7 +2276,7 @@
             "fr": "Obstsalat",
             "es": "Obstsalat",
             "ua": "Obstsalat",
-            "bs": "undefined"
+            "bs": "Voćna salata"
         },
         "rating": 2,
         "description": {
@@ -2285,7 +2286,7 @@
             "fr": "Die Früchte fliegen am Obststand durch die Luft. Fang sie alle wieder ein.",
             "es": "Die Früchte fliegen am Obststand durch die Luft. Fang sie alle wieder ein.",
             "ua": "Die Früchte fliegen am Obststand durch die Luft. Fang sie alle wieder ein.",
-            "bs": "undefined"
+            "bs": "Voće leti kroz vazduh na voćnjaku. Uhvatite ih sve ponovo."
         },
         "filename": "Obstsalat.cubi",
         "solution_exists": true,
@@ -2303,7 +2304,7 @@
             "fr": "Jonglieren",
             "es": "Jonglieren",
             "ua": "Jonglieren",
-            "bs": "undefined"
+            "bs": "Žongliranje"
         },
         "rating": 2,
         "description": {
@@ -2313,7 +2314,7 @@
             "fr": "Jongliere die beiden Bälle, bis sie die Decke erreichen.",
             "es": "Jongliere die beiden Bälle, bis sie die Decke erreichen.",
             "ua": "Jongliere die beiden Bälle, bis sie die Decke erreichen.",
-            "bs": "undefined"
+            "bs": "Žonglirajte sa dve lopte dok ne dotaknu plafon."
         },
         "filename": "Jonglieren.cubi",
         "solution_exists": true,
@@ -2331,7 +2332,7 @@
             "fr": "",
             "es": "",
             "ua": "",
-            "bs": "undefined"
+            "bs": "Svoj nivo"
         },
         "rating": 2,
         "description": {
@@ -2341,7 +2342,7 @@
             "fr": "",
             "es": "",
             "ua": "",
-            "bs": "undefined"
+            "bs": "Napravite svoju igru i pokažite šta već možete da programirate."
         },
         "filename": "Eigenes_Spiel1.cubi",
         "solution_exists": false,
@@ -2359,7 +2360,7 @@
             "fr": "Spaceball",
             "es": "Spaceball",
             "ua": "Spaceball",
-            "bs": "undefined"
+            "bs": "Svemirska lopta"
         },
         "rating": 3,
         "description": {
@@ -2369,7 +2370,7 @@
             "fr": "Hilfe, ein Planet fliegt frei im Weltall herum! Könnt ihr die beiden Aliens steuern, sodass der Planet zwischen den beiden bleibt und von ihren Körpern abprallt?",
             "es": "Hilfe, ein Planet fliegt frei im Weltall herum! Könnt ihr die beiden Aliens steuern, sodass der Planet zwischen den beiden bleibt und von ihren Körpern abprallt?",
             "ua": "Hilfe, ein Planet fliegt frei im Weltall herum! Könnt ihr die beiden Aliens steuern, sodass der Planet zwischen den beiden bleibt und von ihren Körpern abprallt?",
-            "bs": "undefined"
+            "bs": "U pomoć, planeta slobodno leti kroz svemir! Možete li upravljati ova dva vanzemaljca tako da planeta ostane između njih i odbije se od njihovih tela?"
         },
         "filename": "Spaceball.cubi",
         "solution_exists": true,
@@ -2387,7 +2388,7 @@
             "fr": "Pacman",
             "es": "Pacman",
             "ua": "Pacman",
-            "bs": "undefined"
+            "bs": "Pacman"
         },
         "rating": 3,
         "description": {
@@ -2397,7 +2398,7 @@
             "fr": "Pacman ist hungrig. Hilf ihm alle Äpfel einzusammeln, aber pass vor den Wänden auf.",
             "es": "Pacman ist hungrig. Hilf ihm alle Äpfel einzusammeln, aber pass vor den Wänden auf.",
             "ua": "Pacman ist hungrig. Hilf ihm alle Äpfel einzusammeln, aber pass vor den Wänden auf.",
-            "bs": "undefined"
+            "bs": "Pacman je gladan. Pomozi mu da skupi sve jabuke, ali pazi na zidove."
         },
         "filename": "Pacman.cubi",
         "solution_exists": true,
@@ -2415,7 +2416,7 @@
             "fr": "Katze jagt dich",
             "es": "Katze jagt dich",
             "ua": "Katze jagt dich",
-            "bs": "undefined"
+            "bs": "Mačka te juri"
         },
         "rating": 3,
         "description": {
@@ -2425,7 +2426,7 @@
             "fr": "Hilf der Maus der Katze zu entkommen. Aber pass auf, die Katze hat schon ihren Freunden Bescheid gesagt...",
             "es": "Hilf der Maus der Katze zu entkommen. Aber pass auf, die Katze hat schon ihren Freunden Bescheid gesagt...",
             "ua": "Hilf der Maus der Katze zu entkommen. Aber pass auf, die Katze hat schon ihren Freunden Bescheid gesagt...",
-            "bs": "undefined"
+            "bs": "Pomozi mišu da pobegne od mačke. Ali pazi, mačka je već obavestila svoje prijatelje..."
         },
         "filename": "Katze_jagt_dich.cubi",
         "solution_exists": true,
@@ -2443,7 +2444,7 @@
             "fr": "Autorennen",
             "es": "Autorennen",
             "ua": "Autorennen",
-            "bs": "undefined"
+            "bs": "Auto trka"
         },
         "rating": 3,
         "description": {
@@ -2453,7 +2454,7 @@
             "fr": "Dein Fahrzeug fährt auf einer Rennstrecke um die Wette. Steuere das Auto so schnell es geht ins Ziel, um eine Bestzeit aufzustellen.",
             "es": "Dein Fahrzeug fährt auf einer Rennstrecke um die Wette. Steuere das Auto so schnell es geht ins Ziel, um eine Bestzeit aufzustellen.",
             "ua": "Dein Fahrzeug fährt auf einer Rennstrecke um die Wette. Steuere das Auto so schnell es geht ins Ziel, um eine Bestzeit aufzustellen.",
-            "bs": "undefined"
+            "bs": "Vaše vozilo se trka na stazi. Upravite auto što je brže moguće do cilja kako biste postavili najbolji rezultat."
         },
         "filename": "Autorennen.cubi",
         "solution_exists": true,
@@ -2471,7 +2472,7 @@
             "fr": "Code-Detektiv 3",
             "es": "Code-Detektiv 3",
             "ua": "Code-Detektiv 3",
-            "bs": "undefined"
+            "bs": "Detektiv kodova 3"
         },
         "rating": 3,
         "description": {
@@ -2481,7 +2482,7 @@
             "fr": "Finde die Fehler aus dem Level Autorennen und werde zum Fehlersuch-Experten.",
             "es": "Finde die Fehler aus dem Level Autorennen und werde zum Fehlersuch-Experten.",
             "ua": "Finde die Fehler aus dem Level Autorennen und werde zum Fehlersuch-Experten.",
-            "bs": "undefined"
+            "bs": "Pronađite greške iz nivoa Auto trka i postanite stručnjak za pronalaženje grešaka."
         },
         "filename": "Codedetektiv_3.cubi",
         "solution_exists": false,
@@ -2499,7 +2500,7 @@
             "fr": "Finde das Tier",
             "es": "Finde das Tier",
             "ua": "Finde das Tier",
-            "bs": "undefined"
+            "bs": "Pronađi životinju"
         },
         "rating": 3,
         "description": {
@@ -2509,7 +2510,7 @@
             "fr": "Die Katze ist auf der Suche nach ihren Tierfreunden. Hilf ihr, ihre Freunde zu finden, indem du das richtige Tier berührst.",
             "es": "Die Katze ist auf der Suche nach ihren Tierfreunden. Hilf ihr, ihre Freunde zu finden, indem du das richtige Tier berührst.",
             "ua": "Die Katze ist auf der Suche nach ihren Tierfreunden. Hilf ihr, ihre Freunde zu finden, indem du das richtige Tier berührst.",
-            "bs": "undefined"
+            "bs": "Mačka traži svoje životinjske prijatelje. Pomozi joj da pronađe svoje prijatelje tako što ćeš dodirnuti pravu životinju."
         },
         "filename": "Finde_das_Tier.cubi",
         "solution_exists": true,
@@ -2527,7 +2528,7 @@
             "fr": "TamaCubi",
             "es": "TamaCubi",
             "ua": "TamaCubi",
-            "bs": "undefined"
+            "bs": "TamaCubi"
         },
         "rating": 3,
         "description": {
@@ -2537,7 +2538,7 @@
             "fr": "Kümmere dich um Cubi: Füttere ihn, wenn er Hunger hat. Bringe ihn ins Bett, wenn er müde ist. Lies ihm etwas vor, wenn ihm langweilig ist und bade ihn, wenn er zu schmutzig ist.",
             "es": "Kümmere dich um Cubi: Füttere ihn, wenn er Hunger hat. Bringe ihn ins Bett, wenn er müde ist. Lies ihm etwas vor, wenn ihm langweilig ist und bade ihn, wenn er zu schmutzig ist.",
             "ua": "Kümmere dich um Cubi: Füttere ihn, wenn er Hunger hat. Bringe ihn ins Bett, wenn er müde ist. Lies ihm etwas vor, wenn ihm langweilig ist und bade ihn, wenn er zu schmutzig ist.",
-            "bs": "undefined"
+            "bs": "Pobrini se za Cubija: nahrani ga kada ogladni. Stavi ga u krevet kada je umoran. Pročitaj mu nešto kada mu je dosadno i okupaj ga kada je previše prljav."
         },
         "filename": "TamaCubi.cubi",
         "solution_exists": true,
@@ -2555,7 +2556,7 @@
             "fr": "Zitterlabyrinth",
             "es": "Zitterlabyrinth",
             "ua": "Zitterlabyrinth",
-            "bs": "undefined"
+            "bs": "Drhtavi lavirint"
         },
         "rating": 3,
         "description": {
@@ -2565,7 +2566,7 @@
             "fr": "Führe den Hund Cali so schnell wie möglich zum Ziel bei der roten Flagge. Aber Achtung, Cali darf nicht auf die Wiese laufen!",
             "es": "Führe den Hund Cali so schnell wie möglich zum Ziel bei der roten Flagge. Aber Achtung, Cali darf nicht auf die Wiese laufen!",
             "ua": "Führe den Hund Cali so schnell wie möglich zum Ziel bei der roten Flagge. Aber Achtung, Cali darf nicht auf die Wiese laufen!",
-            "bs": "undefined"
+            "bs": "Dovedi psa Kalija do crvene zastave što je brže moguće. Ali pazite, Kali ne sme da trči po travi!"
         },
         "filename": "Zitterlabyrinth.cubi",
         "solution_exists": true,
@@ -2583,7 +2584,7 @@
             "fr": "CubiCart - Nicht spielbar auf Tablet",
             "es": "CubiCart - Nicht spielbar auf Tablet",
             "ua": "CubiCart - Nicht spielbar auf Tablet",
-            "bs": "undefined"
+            "bs": "CubiCart - Nije dostupno za tablet"
         },
         "rating": 3,
         "description": {
@@ -2593,7 +2594,7 @@
             "fr": "Beim Spiel CubiCart geht es um alles! Wer von euch fährt die drei Runden am schnellsten und bringt den Sieg nach Hause?",
             "es": "Beim Spiel CubiCart geht es um alles! Wer von euch fährt die drei Runden am schnellsten und bringt den Sieg nach Hause?",
             "ua": "Beim Spiel CubiCart geht es um alles! Wer von euch fährt die drei Runden am schnellsten und bringt den Sieg nach Hause?",
-            "bs": "undefined"
+            "bs": "U igri CubiCart radi se o svemu! Ko od vas vozi tri kruga najbrže i donosi pobedu kući?"
         },
         "filename": "CubiCart.cubi",
         "solution_exists": true,
@@ -2611,7 +2612,7 @@
             "fr": "Quizmaster",
             "es": "Quizmaster",
             "ua": "Quizmaster",
-            "bs": "undefined"
+            "bs": "Kviz majstor"
         },
         "rating": 3,
         "description": {
@@ -2621,7 +2622,7 @@
             "fr": "Bist du ein Quizmaster? Stelle deine Fähigkeiten bei diesem Spiel unter Beweis und lasse andere die richtige Antwort herausfinden!",
             "es": "Bist du ein Quizmaster? Stelle deine Fähigkeiten bei diesem Spiel unter Beweis und lasse andere die richtige Antwort herausfinden!",
             "ua": "Bist du ein Quizmaster? Stelle deine Fähigkeiten bei diesem Spiel unter Beweis und lasse andere die richtige Antwort herausfinden!",
-            "bs": "undefined"
+            "bs": "Da li si kviz majstor? Dokaži svoje veštine u ovoj igri i pusti druge da otkriju pravi odgovor!"
         },
         "filename": "Quizmaster.cubi",
         "solution_exists": true,
@@ -2639,7 +2640,7 @@
             "fr": "Rotes Auto",
             "es": "Rotes Auto",
             "ua": "Rotes Auto",
-            "bs": "undefined"
+            "bs": "Crveni auto"
         },
         "rating": 3,
         "description": {
@@ -2649,7 +2650,7 @@
             "fr": "Das rote Auto muss schnell aus dem zugeparkten Parkplatz entkommen! Kannst du helfen?",
             "es": "Das rote Auto muss schnell aus dem zugeparkten Parkplatz entkommen! Kannst du helfen?",
             "ua": "Das rote Auto muss schnell aus dem zugeparkten Parkplatz entkommen! Kannst du helfen?",
-            "bs": "undefined"
+            "bs": "Crveni auto mora brzo da pobegne sa parkirališta! Možeš li pomoći?"
         },
         "filename": "Rotes_Auto.cubi",
         "solution_exists": true,
@@ -2667,7 +2668,7 @@
             "fr": "Wettervorhersage",
             "es": "Wettervorhersage",
             "ua": "Wettervorhersage",
-            "bs": "undefined"
+            "bs": "Vremenska prognoza"
         },
         "rating": 3,
         "description": {
@@ -2677,7 +2678,7 @@
             "fr": "Das Wetter spielt verrückt! Hilf Cubi die richtige Kleidung zu finden.",
             "es": "Das Wetter spielt verrückt! Hilf Cubi die richtige Kleidung zu finden.",
             "ua": "Das Wetter spielt verrückt! Hilf Cubi die richtige Kleidung zu finden.",
-            "bs": "undefined"
+            "bs": "Vreme poludi! Pomozi Cubiju da pronađe pravu odeću."
         },
         "filename": "Wettervorhersage.cubi",
         "solution_exists": true,
@@ -2695,7 +2696,7 @@
             "fr": "Standard",
             "es": "Standard",
             "ua": "Standard",
-            "bs": "undefined"
+            "bs": "Standard"
         },
         "rating": 0,
         "description": {
@@ -2705,7 +2706,7 @@
             "fr": "Ein leeres Projekt zum Starten.",
             "es": "Ein leeres Projekt zum Starten.",
             "ua": "Ein leeres Projekt zum Starten.",
-            "bs": "undefined"
+            "bs": "Prazan projekat za početak."
         },
         "filename": "Standard.cubi",
         "solution_exists": false,
@@ -2723,7 +2724,7 @@
             "fr": "",
             "es": "",
             "ua": "",
-            "bs": "undefined"
+            "bs": "Vrana i lisica"
         },
         "rating": 3,
         "description": {
@@ -2733,7 +2734,7 @@
             "fr": "",
             "es": "",
             "ua": "",
-            "bs": "undefined"
+            "bs": "Projekat bajke"
         },
         "filename": "Der_Rabe_und_der_Fuchs.cubi",
         "solution_exists": true,
@@ -2751,7 +2752,7 @@
             "fr": "",
             "es": "",
             "ua": "",
-            "bs": "undefined"
+            "bs": "Hansel i Gretel"
         },
         "rating": 3,
         "description": {
@@ -2761,7 +2762,7 @@
             "fr": "",
             "es": "",
             "ua": "",
-            "bs": "undefined"
+            "bs": "Hansel i Gretel"
         },
         "filename": "Haensel_und_Gretel.cubi",
         "solution_exists": true,
@@ -2779,7 +2780,7 @@
             "fr": "",
             "es": "",
             "ua": "",
-            "bs": "undefined"
+            "bs": "Prevariti vještačku inteligenciju"
         },
         "rating": 3,
         "description": {
@@ -2789,7 +2790,7 @@
             "fr": "",
             "es": "",
             "ua": "",
-            "bs": "undefined"
+            "bs": "Otkrivanje poteškoća u obuci veštačke inteligencije"
         },
         "filename": "KI_austricksen.cubi",
         "solution_exists": true,
@@ -2807,7 +2808,7 @@
             "fr": "",
             "es": "",
             "ua": "",
-            "bs": "undefined"
+            "bs": "Kockica"
         },
         "rating": 3,
         "description": {
@@ -2817,7 +2818,7 @@
             "fr": "",
             "es": "",
             "ua": "",
-            "bs": "undefined"
+            "bs": "Programirajte kocku sa super moćima"
         },
         "filename": "Wuerfel.cubi",
         "solution_exists": true,
