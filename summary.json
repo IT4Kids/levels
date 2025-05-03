@@ -2,7 +2,7 @@
     {
         "title": {
             "de": "Qual der Wahl",
-            "en": "",
+            "en": "Making a Choice",
             "nl": "",
             "fr": "",
             "es": "",
@@ -12,7 +12,7 @@
         "rating": 1,
         "description": {
             "de": "Der Code der Demokratie",
-            "en": "",
+            "en": "The code of democracy",
             "nl": "",
             "fr": "",
             "es": "",
@@ -20,6 +20,34 @@
             "bs": "Kod demokratije"
         },
         "filename": "Qual_der_Wahl.cubi",
+        "solution_exists": true,
+        "template_exists": false,
+        "tutorial_exists": false,
+        "isModule": false,
+        "isProject": true,
+        "isDeveloper": false
+    },
+    {
+        "title": {
+            "de": "Vokabeltrainer",
+            "en": "Vocabulary Trainer",
+            "nl": "",
+            "fr": "",
+            "es": "",
+            "ua": "",
+            "bs": ""
+        },
+        "rating": 1,
+        "description": {
+            "de": "Programmiere einen eigenen Vokabeltrainer.",
+            "en": "Program your own vocabulary trainer.",
+            "nl": "",
+            "fr": "",
+            "es": "",
+            "ua": "",
+            "bs": ""
+        },
+        "filename": "Vokabeltrainer.cubi",
         "solution_exists": true,
         "template_exists": false,
         "tutorial_exists": false,
@@ -231,7 +259,7 @@
             "fr": "",
             "es": "",
             "ua": "",
-            "bs": "Bonus nivo – sir-lavirint"
+            "bs": "Bonus nivo - sir-lavirint"
         },
         "rating": 1,
         "description": {
@@ -240,7 +268,8 @@
             "nl": "",
             "fr": "",
             "es": "",
-            "ua": ""
+            "ua": "",
+            "bs": ""
         },
         "filename": "Käselabyrinth.cubi",
         "solution_exists": true,
@@ -1545,7 +1574,8 @@
             "nl": "",
             "fr": "",
             "es": "",
-            "ua": ""
+            "ua": "",
+            "bs": ""
         },
         "rating": 2,
         "description": {
