@@ -1745,7 +1745,7 @@
             "ua": "Tanz",
             "bs": "Plesanje"
         },
-        "rating": 2,
+        "rating": 3,
         "description": {
             "de": "Die Tänzerin ist unermüdlich und führt die gleichen Tanzschritte an verschiedenen Positionen im Raum aus.",
             "en": "Tanz",
@@ -1757,7 +1757,7 @@
         },
         "filename": "Tanz.cubi",
         "solution_exists": true,
-        "template_exists": false,
+        "template_exists": true,
         "tutorial_exists": false,
         "isModule": false,
         "isProject": false,
@@ -1773,7 +1773,7 @@
             "ua": "",
             "bs": "Salto"
         },
-        "rating": 2,
+        "rating": 3,
         "description": {
             "de": "Das Flugzeugt fliegt einen super Salto! Oder ist der Salto doch nicht so rund?",
             "en": "",
@@ -1785,7 +1785,7 @@
         },
         "filename": "Salto.cubi",
         "solution_exists": true,
-        "template_exists": false,
+        "template_exists": true,
         "tutorial_exists": false,
         "isModule": false,
         "isProject": false,
@@ -2024,7 +2024,6 @@
             "es": "Imposter",
             "ua": "Imposter",
             "bs": "Uljez"
-
         },
         "rating": 2,
         "description": {
@@ -2121,34 +2120,6 @@
             "bs": "Izbegavajte napad aviona dok pokušavate da dođete do desnog ruba. Helikopter se može kretati u svim pravcima po celom ekranu koristeći strelice."
         },
         "filename": "Helikopter.cubi",
-        "solution_exists": true,
-        "template_exists": true,
-        "tutorial_exists": false,
-        "isModule": false,
-        "isProject": false,
-        "isDeveloper": false
-    },
-    {
-        "title": {
-            "de": "Drache rettet Ritter",
-            "en": "Drache rettet Ritter",
-            "nl": "Drache rettet Ritter",
-            "fr": "Drache rettet Ritter",
-            "es": "Drache rettet Ritter",
-            "ua": "Drache rettet Ritter",
-            "bs": "Zmaj spašava viteza"
-        },
-        "rating": 3,
-        "description": {
-            "de": "Hilf dem Drachen Naloth, Ritter Karl aus den Fängen von Prinzessin Mathilda von Quasselstrippe zu befreien. Dazu muss Drache Naloth den Schlüssel vom Schloss der Prinzessin vor Ente Ducky erreichen.",
-            "en": "Hilf dem Drachen Naloth, Ritter Karl aus den Fängen von Prinzessin Mathilda von Quasselstrippe zu befreien. Dazu muss Drache Naloth den Schlüssel vom Schloss der Prinzessin vor Ente Ducky erreichen.",
-            "nl": "Hilf dem Drachen Naloth, Ritter Karl aus den Fängen von Prinzessin Mathilda von Quasselstrippe zu befreien. Dazu muss Drache Naloth den Schlüssel vom Schloss der Prinzessin vor Ente Ducky erreichen.",
-            "fr": "Hilf dem Drachen Naloth, Ritter Karl aus den Fängen von Prinzessin Mathilda von Quasselstrippe zu befreien. Dazu muss Drache Naloth den Schlüssel vom Schloss der Prinzessin vor Ente Ducky erreichen.",
-            "es": "Hilf dem Drachen Naloth, Ritter Karl aus den Fängen von Prinzessin Mathilda von Quasselstrippe zu befreien. Dazu muss Drache Naloth den Schlüssel vom Schloss der Prinzessin vor Ente Ducky erreichen.",
-            "ua": "Hilf dem Drachen Naloth, Ritter Karl aus den Fängen von Prinzessin Mathilda von Quasselstrippe zu befreien. Dazu muss Drache Naloth den Schlüssel vom Schloss der Prinzessin vor Ente Ducky erreichen.",
-            "bs": "Pomozi zmaju Nalothu da spasi viteza Karla iz kandži princeze Matilde iz Quasselstrippe. Da bi to uradio, zmaj Naloth mora da dođe do ključa princeze pre nego što ga patka Daki uhvati."
-        },
-        "filename": "Drache_rettet_Ritter.cubi",
         "solution_exists": true,
         "template_exists": true,
         "tutorial_exists": false,
@@ -2710,6 +2681,34 @@
         },
         "filename": "Standard.cubi",
         "solution_exists": false,
+        "template_exists": true,
+        "tutorial_exists": false,
+        "isModule": false,
+        "isProject": false,
+        "isDeveloper": false
+    },
+    {
+        "title": {
+            "de": "Drache rettet Ritter",
+            "en": "Drache rettet Ritter",
+            "nl": "Drache rettet Ritter",
+            "fr": "Drache rettet Ritter",
+            "es": "Drache rettet Ritter",
+            "ua": "Drache rettet Ritter",
+            "bs": "Zmaj spašava viteza"
+        },
+        "rating": 3,
+        "description": {
+            "de": "Hilf dem Drachen Naloth, Ritter Karl aus den Fängen von Prinzessin Mathilda von Quasselstrippe zu befreien. Dazu muss Drache Naloth den Schlüssel vom Schloss der Prinzessin vor Ente Ducky erreichen.",
+            "en": "Hilf dem Drachen Naloth, Ritter Karl aus den Fängen von Prinzessin Mathilda von Quasselstrippe zu befreien. Dazu muss Drache Naloth den Schlüssel vom Schloss der Prinzessin vor Ente Ducky erreichen.",
+            "nl": "Hilf dem Drachen Naloth, Ritter Karl aus den Fängen von Prinzessin Mathilda von Quasselstrippe zu befreien. Dazu muss Drache Naloth den Schlüssel vom Schloss der Prinzessin vor Ente Ducky erreichen.",
+            "fr": "Hilf dem Drachen Naloth, Ritter Karl aus den Fängen von Prinzessin Mathilda von Quasselstrippe zu befreien. Dazu muss Drache Naloth den Schlüssel vom Schloss der Prinzessin vor Ente Ducky erreichen.",
+            "es": "Hilf dem Drachen Naloth, Ritter Karl aus den Fängen von Prinzessin Mathilda von Quasselstrippe zu befreien. Dazu muss Drache Naloth den Schlüssel vom Schloss der Prinzessin vor Ente Ducky erreichen.",
+            "ua": "Hilf dem Drachen Naloth, Ritter Karl aus den Fängen von Prinzessin Mathilda von Quasselstrippe zu befreien. Dazu muss Drache Naloth den Schlüssel vom Schloss der Prinzessin vor Ente Ducky erreichen.",
+            "bs": "Pomozi zmaju Nalothu da spasi viteza Karla iz kandži princeze Matilde iz Quasselstrippe. Da bi to uradio, zmaj Naloth mora da dođe do ključa princeze pre nego što ga patka Daki uhvati."
+        },
+        "filename": "Drache_rettet_Ritter.cubi",
+        "solution_exists": true,
         "template_exists": true,
         "tutorial_exists": false,
         "isModule": false,
